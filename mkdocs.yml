@@ -1,0 +1,67 @@
+site_name: BRB Mobilidade
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/git-alt
+  palette:
+    - scheme: default 
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: '#191717'
+      accent: '#8ECDDD'
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: '#191717'
+      accent: '#8ECDDD'
+  font:
+    text: Roboto
+  language: pt
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.instant
+    - navigation.sections
+    - navigation.tracking
+    - navigation.tabs.sticky
+
+# Navegação lateral configurada
+nav:
+  - Início: index.md
+  - Planejamento:
+      - Heatmap: heatmap/heatmap.md
+      - Metodologia: planejamento/metodologia.md
+      - Ferramentas: planejamento/ferramentas.md
+      - Processo Design: planejamento/processoDesign.md
+      - Cronograma: planejamento/cronograma.md
+      - Cronograma executado: planejamento/cronograma_exec.md
+      - Lista de Sites Avaliados: planejamento/SitesAvaliados.md
+
+  - Atas das Reuniões:
+      - Reunião 1 - 26/09/2023: atas-das-reunioes/reuniao1.md
+  - Apresentações:
+      - Entregas: apresentacoes/Entregas.md
+  - Aplicativo escolhido:
+    - Site escolhido: site-escolhido/siteEscolhido.md
+    
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
