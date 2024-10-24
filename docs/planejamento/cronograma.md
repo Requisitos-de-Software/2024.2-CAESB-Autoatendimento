@@ -29,9 +29,9 @@ Na Tabela 1, encontra-se o cronograma planejado para todas as atividades da prim
 ## Entrega 2 - Elicitação
 
 ### Planejado
-Na Tabela 3, encontra o cronograma planejado para todas as atividades da segunda entrega.
+Na Tabela 2, encontra o cronograma planejado para todas as atividades da segunda entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Elicitação</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Elicitação</p></font>
 
 | Atividade                                                                                         	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                  	| Revisores 	|
 |---------------------------------------------------------------------------------------------------	|----------------------------	|-----------------------------------	|--------------------------	|-----------	|
@@ -56,9 +56,9 @@ Na Tabela 3, encontra o cronograma planejado para todas as atividades da segunda
 ## Entrega 3 - Modelagem de Requisitos 1
 
 ### Planejado
-Na Tabela 4, encontra-se o cronograma planejado para todas as atividades da terceira entrega.
+Na Tabela 3, encontra-se o cronograma planejado para todas as atividades da terceira entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Modelagem de Requisitos 1</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Modelagem de Requisitos 1</p></font>
 
 | Atividade                                                     	| Período de desenvolvimento 	| Responsáveis     	| Revisão                 	| Revisores        	|
 |---------------------------------------------------------------	|----------------------------	|------------------	|-------------------------	|------------------	|
@@ -76,9 +76,9 @@ Na Tabela 4, encontra-se o cronograma planejado para todas as atividades da terc
 ## Entrega 4 - Modelagem de Requisitos 1.2
 
 ### Planejado
-Na Tabela 5, encontra-se o cronograma planejado para todas as atividades da quarta entrega.
+Na Tabela 4, encontra-se o cronograma planejado para todas as atividades da quarta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Modelagem de Requisitos 1.2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Modelagem de Requisitos 1.2</p></font>
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -95,9 +95,9 @@ Na Tabela 5, encontra-se o cronograma planejado para todas as atividades da quar
 ## Entrega 5 - Análise de Requisitos: Verificação e Validação 
 
 ### Planejado
-Na Tabela 6, encontra-se o cronograma planejado para todas as atividades da entrega 5.
+Na Tabela 5, encontra-se o cronograma planejado para todas as atividades da entrega 5.
 
-<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Análise de Requisitos 1</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Análise de Requisitos 1</p></font>
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -113,9 +113,9 @@ Na Tabela 6, encontra-se o cronograma planejado para todas as atividades da entr
 ## Entrega 6 - Pós-Rastreabilidade
 
 ### Planejado
-Na Tabela 7, encontra-se o cronograma planejado para todas as atividades da sexta entrega.
+Na Tabela 6, encontra-se o cronograma planejado para todas as atividades da sexta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 13</b> - Pós-Rastreabilidade.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Pós-Rastreabilidade.</p></font>
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -132,9 +132,9 @@ Na Tabela 7, encontra-se o cronograma planejado para todas as atividades da sext
 ## Entrega Final 
 
 ### Planejado
-Na Tabela 8, encontra-se o cronograma planejado para todas as atividades da última entrega.
+Na Tabela 7, encontra-se o cronograma planejado para todas as atividades da última entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 13</b> - Entrega Final</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Entrega Final</p></font>
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
