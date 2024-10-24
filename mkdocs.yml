@@ -33,7 +33,7 @@ theme:
 nav:
   - Início: index.md
   - Planejamento:
-      - Heatmap: heatmap/heatmap.md
+      - Aplicativo Escolhido: aplicativo_escolhido/aplicativo_escolhido.md
       - Metodologia: planejamento/metodologia.md
       - Ferramentas: planejamento/ferramentas.md
       - Processo Design: planejamento/processoDesign.md
