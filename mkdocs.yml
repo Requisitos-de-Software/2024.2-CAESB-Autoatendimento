@@ -1,3 +1,6 @@
+repo_url: https://github.com/Requisitos-de-Software/2024.2-BRB-Mobilidade
+repo_name: 2024.2-BRB-Mobilidade
+
 site_name: BRB Mobilidade
 
 theme:
@@ -23,9 +26,7 @@ theme:
   features:
     - content.code.annotate
     - content.tabs.link
-    - header.autohide
     - navigation.instant
-    - navigation.sections
     - navigation.tracking
     - navigation.tabs.sticky
 

@@ -52,7 +52,7 @@ Após algumas observações dos integrantes, o grupo decidiu escolher o aplicati
 
 ## Referências
 
-<center>
+
 
 > <p id="1">1. Aplicativo BRB Mobilidade. Disponível em: 
    [https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR](https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR){:target="_blank"}. 

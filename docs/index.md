@@ -4,8 +4,6 @@
     <figcaption>Figura 1: Apresentação do aplicativo BRB Mobilidade </figcaption> 
 </center>
 
-<br>
-
 <p align="center">
     <img src="https://play-lh.googleusercontent.com/xMXmG-nmu4cUaw6svSU9EbMpGMJ4KObv1PHxQkcJA1t2QVTRVYElvPB7WuOA-tblXSi1" width="500">
 </p>
@@ -13,7 +11,8 @@
 <center> 
     <figcaption>Fonte: BRB Mobilidade, 2024  </figcaption> 
 </center>
-<br>
+
+<hr/>
 
 ## Sobre a disciplina
 
@@ -35,9 +34,6 @@
 |    <a href="https://github.com/Ninja-Haiyai"><img src="https://avatars.githubusercontent.com/u/73038704?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Matheus Barros |        [Ninja-Haiyai](https://github.com/Ninja-Haiyai)        |
 |    <a href="https://github.com/natanalmeida03"><img src="https://avatars.githubusercontent.com/u/61543235?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Natan da Cruz   |        [natanalmeida03](https://github.com/natanalmeida03)        |
 
-
-
-
 <hr/>
 <p align="center"><b>Grupo 3</b></p>
 <p align="center">Requisitos de Software<br /><br />
@@ -45,6 +41,7 @@
 </p>
 
 
+</center>
 
 ## Referências
 
@@ -58,13 +55,14 @@
 
 ---
 
-<center>
-
 ## Histórico de versão
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
-| :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 21/10/2024 | Criação e inclusão dos membros | Leandro | Leticia  |
+<center>
+
+| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
+| :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
+|  1.0   | 21/10/2024 | Criação e inclusão dos membros | Leandro de Almeida | Letícia Resende  |
+|  1.1   | 21/10/2024 | Reorganização do layout  | Leandro de Almeida | Letícia Resende  |
 
 </center>
 

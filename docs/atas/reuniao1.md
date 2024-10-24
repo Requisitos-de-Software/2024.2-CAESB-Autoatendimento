@@ -8,7 +8,7 @@ Local: Online via Teams
 
 - [x] Joao Victor Marques Reis de Miranda
 - [x] Leandro de Almeida Oliveira
-- [x] Leticia Resende da Silva
+- [x] Letícia Resende da Silva
 - [x] Matheus Barros do Nascimento
 - [x] Natan da Cruz Almeida
 
@@ -39,7 +39,7 @@ Local: Online via Teams
 
 | Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| 1.0  | 24/10/2024 | Escrita da ata |Leandro | Matheus                               |
+| 1.0  | 24/10/2024 | Escrita da ata | Leandro de Almeida | Matheus Barros                               |
 
 
 </center>
