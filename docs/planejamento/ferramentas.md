@@ -17,6 +17,8 @@ No desenvolvimento de um projeto, diversas ferramentas são utilizadas para faci
 |![Logo do Microsoft Teams](../assets/teams-logo.png){: style="height:64px;width:64px"}|<a id="e" href="#ee">Teams</a>|Realizações de reuniões e gravações de apresentações.|
 |![Logo do Filmora](../assets/filmora-logo.png){: style="height:64px;width:64px"}|<a id="f" href="#ff">Filmora</a>|Edição de vídeo|
 |![Logo do Mkdocs](../assets/mkdocs-logo.png){: style="height:64px"} | <a id="g" href="#gg">Mkdocs</a> | Criação do gitPage |
+|![Logo do Draw.io](https://github.com/user-attachments/assets/9072f119-620f-4f8b-822f-8397f35319fc){: style="height:64px"} | <a id="g" href="#gg">Draw.io</a> | Utilizado para fazer o Rich Picture |
+
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
@@ -39,6 +41,7 @@ No desenvolvimento de um projeto, diversas ferramentas são utilizadas para faci
 
 ## Histórico de Versão
 
-| Versão | Data de execução |  Descrição    | Autor(es)     |
-| :----: | :---------------: | :-------------: | :-----------: |
-| `1.0` | 22/10/2023 | Adição das ferramentas do projeto | [Natan Almeida](https://github.com/natanalmeida03) | 
+| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
+| :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
+|  1.0   | 22/10/2024 | Adição das ferramentas do projeto |Natan Almeida | Leandro de Almeida  |
+|  1.1   | 26/10/2024 |Adição da ferramenta utilizada no rich picture  | Letícia Resende | Natan Almeida  |
