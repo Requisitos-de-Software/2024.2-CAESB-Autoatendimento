@@ -44,7 +44,7 @@
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 26/10/2024 | Criação do Rich Picture | Letícia Resende | Leandro de Almeida  |
-
+|  1.1   | 26/10/2024 | Adicionando o Rich Picture da Caesb | Leandro de Almeida | Letícia Resende |
 
 
 
