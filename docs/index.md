@@ -62,7 +62,7 @@
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 21/10/2024 | Criação e inclusão dos membros | Leandro de Almeida | Letícia Resende  |
-|  1.1   | 21/10/2024 | Reorganização do layout  | Leandro de Almeida | Letícia Resende  |
+|  1.1   | 24/10/2024 | Reorganização do layout  | Leandro de Almeida | Letícia Resende  |
 
 </center>
 

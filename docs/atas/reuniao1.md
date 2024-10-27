@@ -27,10 +27,10 @@ Local: Online via Teams
 
 ## Link da gravação:
 
-[link da Reunião 20/10/2024](botar link aqui)
+[link da Reunião 20/10/2024](https://youtu.be/sKlWCrd8NJE)
 
 <center>
-<iframe width="560" height="315" src="botar link aqui" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sKlWCrd8NJE?si=1NYoxfKk_63si-6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ## Histórico de versão
@@ -40,6 +40,6 @@ Local: Online via Teams
 | Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | 1.0  | 24/10/2024 | Escrita da ata | Leandro de Almeida | Matheus Barros                               |
-
+| 1.0  | 26/10/2024 | Insere link do vídeo | Leandro de Almeida | Matheus Barros                               |
 
 </center>
