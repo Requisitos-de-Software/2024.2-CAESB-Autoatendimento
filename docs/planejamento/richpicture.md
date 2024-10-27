@@ -31,7 +31,22 @@
     <figcaption>Imagem 4: Legenda do Rich Picture (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
 </center>
 
-## Bibliografia
+## Google Classroom
+<p align="justify">O Google Classroom é uma aplicação de educação remota que permite a comunicação entre educadores e alunos. A plataforma oferece aos professores a capacidade de criar, editar e gerenciar atividades e trabalhos educacionais, promovendo um ambiente de aprendizado colaborativo e organizado.&emsp;&emsp;</p>
+<center>
+    <img src="/imagens/rich_picture_google_classroom.png" width="500">
+    <figcaption>Imagem 3: Rich Picture - Google Classroom (Fonte: BARROS, Matheus. 2024)</figcaption>
+    </br>
+<center>
+
+<center>
+<img src="/imagens/legenda-rich-picture-google-classroom.png" width="500">
+<figcaption>Imagem 2 : Legenda do Rich Picture - Google Classroom (Fonte: BARROS, Matheus. 2024)</figcaption>
+</br>
+<center>
+
+
+## Referências
 
 > <p id="1">1. SALES, André Barros. Introducing Rich Pictures. Disponível em: https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em: 25 de Outubro de 2024;
 </p>
@@ -45,7 +60,7 @@
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 26/10/2024 | Criação do Rich Picture | Letícia Resende | Leandro de Almeida  |
 |  1.1   | 26/10/2024 | Adicionando o Rich Picture da Caesb | Leandro de Almeida | Letícia Resende |
-
+|  1.2   | 26/10/2024 | Criação do Rich Picture | Matheus Barros | Leandro de Almeida  |
 
 
 
