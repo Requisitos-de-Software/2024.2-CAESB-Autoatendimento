@@ -5,7 +5,7 @@
 
 ## BRB Mobilidade
 
-<p align="justify">&emsp;&emsp;O BRB Mobilidade é um aplicativo que permite aos usuários acessar diversas funcionalidades relacionadas ao transporte público, como consultar saldo e itinerários de ônibus.
+<p align="justify">&emsp;&emsp;O BRB Mobilidade é um aplicativo que permite aos usuários acessar diversas funcionalidades relacionadas ao transporte público, como consultar saldo e itinerários de ônibus.</p>
 
 <br>
 <img src=https://github.com/user-attachments/assets/39b7e10d-b795-47f5-891f-37838c963a5a width="500">
