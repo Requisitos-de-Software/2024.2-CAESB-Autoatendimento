@@ -20,7 +20,7 @@
 |![Logo do Draw.io](https://github.com/user-attachments/assets/9072f119-620f-4f8b-822f-8397f35319fc){: style="height:64px"} | <a id="g" href="#gg">Draw.io</a> | Utilizado para fazer o Rich Picture |
 
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: (ALMEIDA, Natan. 2024)</p></font>
 
 <br>
 
