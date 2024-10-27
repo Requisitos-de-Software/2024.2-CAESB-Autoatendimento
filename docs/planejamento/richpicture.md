@@ -34,13 +34,13 @@
 ## Google Classroom
 <p align="justify">O Google Classroom é uma aplicação de educação remota que permite a comunicação entre educadores e alunos. A plataforma oferece aos professores a capacidade de criar, editar e gerenciar atividades e trabalhos educacionais, promovendo um ambiente de aprendizado colaborativo e organizado.&emsp;&emsp;</p>
 <center>
-    <img src="/imagens/rich_picture_google_classroom.png" width="500">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-BRB-Mobilidade/blob/Entrega_1/docs/assets/rich_picture_google_classroom.png?raw=true" width="500">
     <figcaption>Imagem 3: Rich Picture - Google Classroom (Fonte: BARROS, Matheus. 2024)</figcaption>
     </br>
 <center>
 
 <center>
-<img src="/imagens/legenda-rich-picture-google-classroom.png" width="500">
+<img src="https://github.com/Requisitos-de-Software/2024.2-BRB-Mobilidade/blob/Entrega_1/docs/assets/legenda-rich-picture-google-classroom.png?raw=true" width="500">
 <figcaption>Imagem 2 : Legenda do Rich Picture - Google Classroom (Fonte: BARROS, Matheus. 2024)</figcaption>
 </br>
 <center>
