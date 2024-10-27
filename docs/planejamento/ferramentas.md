@@ -10,7 +10,7 @@
 
 | |Ferramenta| Finalidade| 
 | :--: | :--: | :--: |
-|![Logo do GitHub](../assets/github-logo.png){: style="height:64px;width:64px"}|<a id="a" href="#aa">Github</a>| Organizar, versionar o projeto. <a id="anchor_1" href="#FRM1">^1^</a> |
+|![Logo do GitHub](../assets/github-logo.png){: style="height:64px;width:64px"}|<a id="a" href="#aa">Github</a>| Organizar, versionar o projeto. |
 |![Logo do Whatsapp](../assets/whatsapp-logo.png){: style="height:64px;width:64px"} | <a id="b" href="#bb">Whatsapp</a> | Comunicação entre os participantes do grupo |
 |![Logo do Youtube](../assets/youtube-logo.png){: style="height:64px"} | <a id="c" href="#cc">Youtube</a> | Hospedagem dos vídeos produzidos |
 |![Logo do Vscode](../assets/vscode-logo.png){: style="height:64px;width:64px"} | <a id="d" href="#dd">VScode</a> | Edição de arquivos |

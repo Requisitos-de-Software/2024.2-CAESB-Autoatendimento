@@ -32,18 +32,32 @@
 </center>
 
 ## Google Classroom
-<p align="justify">O Google Classroom é uma aplicação de educação remota que permite a comunicação entre educadores e alunos. A plataforma oferece aos professores a capacidade de criar, editar e gerenciar atividades e trabalhos educacionais, promovendo um ambiente de aprendizado colaborativo e organizado.&emsp;&emsp;</p>
+<p align="justify">&emsp;&emsp;O Google Classroom é uma aplicação de educação remota que permite a comunicação entre educadores e alunos. A plataforma oferece aos professores a capacidade de criar, editar e gerenciar atividades e trabalhos educacionais, promovendo um ambiente de aprendizado colaborativo e organizado.&emsp;&emsp;</p>
 <center>
     <img src="https://github.com/Requisitos-de-Software/2024.2-BRB-Mobilidade/blob/Entrega_1/docs/assets/rich_picture_google_classroom.png?raw=true" width="500">
-    <figcaption>Imagem 3: Rich Picture - Google Classroom (Fonte: BARROS, Matheus. 2024)</figcaption>
+    <figcaption>Imagem 5: Rich Picture - Google Classroom (Fonte: BARROS, Matheus. 2024)</figcaption>
     </br>
-<center>
+</center>
 
 <center>
 <img src="https://github.com/Requisitos-de-Software/2024.2-BRB-Mobilidade/blob/Entrega_1/docs/assets/legenda-rich-picture-google-classroom.png?raw=true" width="500">
-<figcaption>Imagem 2 : Legenda do Rich Picture - Google Classroom (Fonte: BARROS, Matheus. 2024)</figcaption>
+<figcaption>Imagem 6 : Legenda do Rich Picture - Google Classroom (Fonte: BARROS, Matheus. 2024)</figcaption>
 </br>
+</center>
+
+## Moovit
+
+<p align="justify">&emsp;&emsp;O Moovit é um aplicativo de mobilidade urbana que ajuda as pessoas a se locomoverem utilizando transporte público, como ônibus e metrô. Ele fornece informações em tempo real sobre rotas, horários, e condições do transporte, facilitando o planejamento e a navegação nas cidades.</p>
+
 <center>
+    ![Rich picture moovit](../assets/rich_picture_moovit.jpg)
+    <figcaption>Imagem 7: Rich Picture (Fonte: ALMEIDA, Natan. 2024)</figcaption>
+</center>
+
+<center>
+    ![Legenda Rich picture moovit](../assets/legenda_rich_picture_moovit.png)
+    <figcaption>Imagem 8: Legenda do Rich Picture (Fonte: ALMEIDA, Natan. 2024)</figcaption>
+</center>
 
 
 ## Referências
@@ -61,6 +75,7 @@
 |  1.0   | 26/10/2024 | Criação do Rich Picture | Letícia Resende | Leandro de Almeida  |
 |  1.1   | 26/10/2024 | Adicionando o Rich Picture da Caesb | Leandro de Almeida | Letícia Resende |
 |  1.2   | 26/10/2024 | Criação do Rich Picture | Matheus Barros | Leandro de Almeida  |
+|  1.3   | 27/10/2024 | Adicionando o Rich Picture do Moovit  | Natan Almeida | Leandro de Almeida  |
 
 
 
