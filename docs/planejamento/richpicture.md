@@ -4,13 +4,13 @@
 <p align="justify">&emsp;&emsp;O BRB Mobilidade é um aplicativo que permite aos usuários acessar diversas funcionalidades relacionadas ao transporte público, como consultar saldo e itinerários de ônibus. O Rich Picture representa as interações dos usuários com o sistema, destacando também elementos externos que influenciam o funcionamento do aplicativo, como o armazenamento de dados. Ele oferece uma visão detalhada.</p>
 
 ## BRB Mobilidade
-<p>
-<img src=https://github.com/user-attachments/assets/9bb4f115-e6cf-44b4-b418-f54bbafe3791 width="500">
+
+<img src=https://github.com/user-attachments/assets/39b7e10d-b795-47f5-891f-37838c963a5a width="500">
 <figcaption>Imagem 1: Rich Picture (Fonte: RESENDE, Letícia. 2024)</figcaption>
 </br>
 
 
-<img src=https://github.com/user-attachments/assets/43f0cee1-89ca-417a-b994-5c9a65b66409>
+<img src=https://github.com/user-attachments/assets/b228a426-b5ac-47aa-8ee0-3515932542c8>
 <figcaption>Imagem 2 : Legenda do Rich Picture (Fonte: RESENDE, Letícia. 2024)</figcaption>
 </br>
 
