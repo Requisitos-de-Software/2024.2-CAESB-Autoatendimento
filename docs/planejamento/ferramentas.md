@@ -2,7 +2,7 @@
 
 ## Introdução
 
-No desenvolvimento de um projeto, diversas ferramentas são utilizadas para facilitar o fluxo de trabalho e garantir a qualidade do produto final. As ferramentas selecionadas para a realização do projeto estão apresentadas na Tabela 1.
+<p align="justify">&emsp;&emsp;No desenvolvimento de um projeto, diversas ferramentas são utilizadas para facilitar o fluxo de trabalho e garantir a qualidade do produto final. As ferramentas selecionadas para a realização do projeto estão apresentadas na Tabela 1.
 
 ## Ferramentas Utilizadas
 
@@ -22,22 +22,39 @@ No desenvolvimento de um projeto, diversas ferramentas são utilizadas para faci
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
-## Bibliografia
+<br>
 
-<a id="aa" href="#a">[1]</a> GITHUB. Disponível em: [GitHub](https://github.com). Acesso em: 22 de Outubro de 2024.
+## Referências
 
-<a id="bb" href="#b">[2]</a> WHATSAPP. Disponível em: [Whatsapp](https://whatsapp.com/). Acesso em: 22 de Outubro de 2024.
+> <p id="1">1. GITHUB. Disponível em: https://github.com
+   Acesso em: 22 out. 2024.
+</p>
 
-<a id="cc" href="#c">[3]</a> YOUTUBE. Disponível em: [YouTube](https://youtube.com). Acesso em: 22 de Outubro de 2024.
+> <p id="1">2. WHATSAPP. Disponível em: https://whatsapp.com/
+   Acesso em: 22 out. 2024.
+</p>
 
-<a id="dd" href="#d">[4]</a> VSCODE. Disponível em: [VScode](https://code.visualstudio.com/). Acesso em: 22 de Outubro de 2024.
+> <p id="1">3. YOUTUBE. Disponível em: https://youtube.com
+   Acesso em: 22 out. 2024.
+</p>
 
-<a id="ee" href="#e">[5]</a> TEAMS. Disponível em: [Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in). Acesso em: 22 de Outubro de 2024.
+> <p id="1">4. VSCODE. Disponível em: https://code.visualstudio.com/
+   Acesso em: 22 out. 2024.
+</p>
 
-<a id="ff" href="#f">[6]</a> Filmora. Disponível em: [Filmora](https://filmora.wondershare.com.br/). Acesso em: 22 de Outubro de 2024.
+> <p id="1">5. TEAMS. Disponível em: https://www.microsoft.com/pt-br/microsoft-teams/log-in
+   Acesso em: 22 out. 2024.
+</p>
 
-<a id="gg" href="#g">[7]</a> Mkdocs. Disponível em: [MkDocs](https://www.mkdocs.org/). Acesso em: 22 de Outubro de 2024.
+> <p id="1">6. Filmora. Disponível em: https://filmora.wondershare.com.br/
+   Acesso em: 22 out. 2024.
+</p>
 
+> <p id="1">7. Mkdocs. Disponível em: https://www.mkdocs.org/
+   Acesso em: 22 out. 2024.
+</p>
+
+<br>
 
 ## Histórico de Versão
 
@@ -45,3 +62,4 @@ No desenvolvimento de um projeto, diversas ferramentas são utilizadas para faci
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 22/10/2024 | Adição das ferramentas do projeto |Natan Almeida | Leandro de Almeida  |
 |  1.1   | 26/10/2024 |Adição da ferramenta utilizada no rich picture  | Letícia Resende | Natan Almeida  |
+|  1.1   | 26/10/2024 |Atualização de layout | Letícia Resende | Matheus Barros |
