@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;No desenvolvimento de um projeto, diversas ferramentas são utilizadas para facilitar o fluxo de trabalho e garantir a qualidade do produto final. As ferramentas selecionadas para a realização do projeto estão apresentadas na Tabela 1.
+<p align="justify">&emsp;&emsp;No desenvolvimento de um projeto, diversas ferramentas são utilizadas para facilitar o fluxo de trabalho e garantir a qualidade do produto final. As ferramentas selecionadas para a realização do projeto estão apresentadas na Tabela 1.</p>
 
 ## Ferramentas Utilizadas
 
@@ -53,8 +53,6 @@
 > <p id="1">7. Mkdocs. Disponível em: https://www.mkdocs.org/
    Acesso em: 22 out. 2024.
 </p>
-
-<br>
 
 ## Histórico de Versão
 

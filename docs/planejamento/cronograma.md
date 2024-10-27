@@ -1,4 +1,5 @@
 # Cronograma
+
 ## Descrição
 <p align="justify">&emsp;&emsp;O cronograma tem como objetivo organizar todas as tarefas a serem realizadas durante a disciplina de Requisitos de Software. As atividades foram distribuídas de acordo com as etapas em que devem ser executadas. Os cronogramas em andamento serão atualizados conforme necessário ao longo do tempo.</p>
 

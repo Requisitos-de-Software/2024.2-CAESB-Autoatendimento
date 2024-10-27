@@ -1,22 +1,18 @@
 # BRB Mobilidade
 
-<center> 
-    <figcaption>Figura 1: Apresentação do aplicativo BRB Mobilidade </figcaption> 
-</center>
-
 <p align="center">
-    <img src="https://play-lh.googleusercontent.com/xMXmG-nmu4cUaw6svSU9EbMpGMJ4KObv1PHxQkcJA1t2QVTRVYElvPB7WuOA-tblXSi1" width="500">
+    <img src="assets/BRBMobilidade.jpeg" width="500">
 </p>
 
 <center> 
-    <figcaption>Fonte: BRB Mobilidade, 2024  </figcaption> 
+    <figcaption>Imagem 1: BRB Mobilidade (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
 </center>
 
 <hr/>
 
 ## Sobre a disciplina
 
-<p align="justify">&emsp;&emsp;  Este repositório reúne a documentação dos artefatos criados para o projeto da disciplina de Requisitos de Software, lecionada pelo professor André Barros de Sales, na Faculdade do Gama da Universidade de Brasília (FGA-UnB). O objetivo deste projeto é realizar uma avaliação detalhada dos requisitos do aplicativo BRB Mobilidade.</p>
+<p align="justify">&emsp;&emsp;  Este repositório reúne a documentação dos artefatos criados para o projeto da disciplina de Requisitos de Software, lecionada pelo professor André Barros de Sales, na Faculdade do Gama da Universidade de Brasília (FGA-UnB). O objetivo deste projeto é realizar uma avaliação detalhada dos requisitos do aplicativo BRB Mobilidade<a href="#1"><sup>1</sup></a>.</p>
 
 ## Sobre o Aplicativo
 
@@ -65,5 +61,3 @@
 |  1.1   | 24/10/2024 | Reorganização do layout  | Leandro de Almeida | Letícia Resende  |
 
 </center>
-
----
