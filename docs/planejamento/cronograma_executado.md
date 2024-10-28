@@ -14,7 +14,9 @@
 |   Documentar Equipe                   	| Início: 20/10 <br>Fim: 21/10    	| Leandro                    	| Início: 23/10 Fim: 23/10  	| Natan          	|
 |   Gravar apresentação                 	| Início: 20/10 <br>Fim: 20/10    	| João Victor, Leandro, Letícia, Matheus, Natan                    	| Início: 27/10 Fim: 27/10 	| João Victor, Leandro, Letícia, Matheus, Natan          	|
 |    Implementar Git Page              	| Início: 21/10 <br>Fim: 21/10   	| Leandro                     	| Início: 23/10 Fim: 23/10 	| Matheus          	|
-|   Correção pós apresentação	| Início: 27/10<br>Fim: 27/10	| João Victor, Leandro, Letícia, Matheus, Natan 	| Início: 27/10<br>Fim: 27/10 	|João Victor, Leandro, Letícia, Matheus, Natan 	|
+|   Metodologia	| Início: 25/10<br>Fim: 27/10	| Mateus	| Início: 27/10<br>Fim: 27/10 	|João Victor 	|
+|   Heatmap	| Início: 25/10<br>Fim: 25/10	| Leandro 	| Início: 27/10<br>Fim: 27/10 	|Matheus 	|
+|   Correção pós apresentação	| Início: 29/10<br>Fim: 29/10	| João Victor, Leandro, Letícia, Matheus, Natan 	| Início: 29/10<br>Fim: 29/10 	|João Victor, Leandro, Letícia, Matheus, Natan 	|
 
 <figcaption>Tabela 1 - Ferramentas (Fonte: RESENDE, Letícia. 2024)</figcaption>
 
