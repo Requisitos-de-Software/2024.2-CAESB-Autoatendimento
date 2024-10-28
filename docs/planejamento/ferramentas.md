@@ -6,58 +6,73 @@
 
 ## Ferramentas Utilizadas
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
+<center>
 
 | |Ferramenta| Finalidade| 
 | :--: | :--: | :--: |
-|![Logo do GitHub](../assets/github-logo.png){: style="height:64px;width:64px"}|<a id="a" href="#aa">Github</a>| Organizar, versionar o projeto. |
-|![Logo do Whatsapp](../assets/whatsapp-logo.png){: style="height:64px;width:64px"} | <a id="b" href="#bb">Whatsapp</a> | Comunicação entre os participantes do grupo |
-|![Logo do Youtube](../assets/youtube-logo.png){: style="height:64px"} | <a id="c" href="#cc">Youtube</a> | Hospedagem dos vídeos produzidos |
-|![Logo do Vscode](../assets/vscode-logo.png){: style="height:64px;width:64px"} | <a id="d" href="#dd">VScode</a> | Edição de arquivos |
-|![Logo do Microsoft Teams](../assets/teams-logo.png){: style="height:64px;width:64px"}|<a id="e" href="#ee">Teams</a>|Realizações de reuniões e gravações de apresentações.|
-|![Logo do Filmora](../assets/filmora-logo.png){: style="height:64px;width:64px"}|<a id="f" href="#ff">Filmora</a>|Edição de vídeo|
-|![Logo do Mkdocs](../assets/mkdocs-logo.png){: style="height:64px"} | <a id="g" href="#gg">Mkdocs</a> | Criação do gitPage |
-|![Logo do Draw.io](https://github.com/user-attachments/assets/9072f119-620f-4f8b-822f-8397f35319fc){: style="height:64px"} | <a id="g" href="#gg">Draw.io</a> | Utilizado para fazer o Rich Picture |
+|![Logo do GitHub](../assets/github-logo.png){: style="height:64px;width:64px"}|<a id="a" href="https://github.com" target="_blank">Github</a>| Organizar, versionar o projeto. |
+|![Logo do Whatsapp](../assets/whatsapp-logo.png){: style="height:64px;width:64px"} | <a id="b" href="https://whatsapp.com/" target="_blank">Whatsapp</a> | Comunicação entre os participantes do grupo |
+|![Logo do Youtube](../assets/youtube-logo.png){: style="height:64px"} | <a id="c" href="https://youtube.com" target="_blank">Youtube</a> | Hospedagem dos vídeos produzidos |
+|![Logo do Vscode](../assets/vscode-logo.png){: style="height:64px;width:64px"} | <a id="d" href="https://code.visualstudio.com/" target="_blank">VScode</a> | Edição de arquivos |
+|![Logo do Microsoft Teams](../assets/teams-logo.png){: style="height:64px;width:64px"}|<a id="e" href="https://www.microsoft.com/pt-br/microsoft-teams/log-in" target="_blank">Teams</a>|Realizações de reuniões e gravações de apresentações.|
+|![Logo do Filmora](../assets/filmora-logo.png){: style="height:64px;width:64px"}|<a id="f" href="https://filmora.wondershare.com.br/" target="_blank">Filmora</a>|Edição de vídeo|
+|![Logo do Mkdocs](../assets/mkdocs-logo.png){: style="height:64px"} | <a id="g" href="https://www.mkdocs.org/" target="_blank">Mkdocs</a> | Criação do gitPage |
+|![Logo do Draw.io](https://github.com/user-attachments/assets/9072f119-620f-4f8b-822f-8397f35319fc){: style="height:64px"} | <a id="g" href="https://www.drawio.com//" target="_blank">Draw.io</a> | Utilizado para fazer o Rich Picture |
 
+<figcaption>Tabela 1 - Ferramentas (Fonte: ALMEIDA, Natan. 2024)</figcaption>
 
-<font size="3"><p style="text-align: center">Fonte: (ALMEIDA, Natan. 2024)</p></font>
-
-<br>
+</center>
 
 ## Referências
 
-> <p id="1">1. GITHUB. Disponível em: https://github.com
+> <p id="1">1. GITHUB. Disponível em: 
+   [https://github.com](https://github.com){:target="_blank"}.
    Acesso em: 22 out. 2024.
 </p>
 
-> <p id="1">2. WHATSAPP. Disponível em: https://whatsapp.com/
+
+
+> <p id="1">2. WHATSAPP. Disponível em: 
+   [https://whatsapp.com/](https://whatsapp.com/){:target="_blank"}.
    Acesso em: 22 out. 2024.
 </p>
 
-> <p id="1">3. YOUTUBE. Disponível em: https://youtube.com
+> <p id="1">3. YOUTUBE. Disponível em:
+   [https://youtube.com](https://youtube.com){:target="_blank"}.
    Acesso em: 22 out. 2024.
 </p>
 
-> <p id="1">4. VSCODE. Disponível em: https://code.visualstudio.com/
+> <p id="1">4. VSCODE. Disponível em: 
+   [https://code.visualstudio.com/](https://code.visualstudio.com/){:target="_blank"}.
    Acesso em: 22 out. 2024.
 </p>
 
-> <p id="1">5. TEAMS. Disponível em: https://www.microsoft.com/pt-br/microsoft-teams/log-in
+> <p id="1">5. TEAMS. Disponível em: 
+   [https://www.microsoft.com/pt-br/microsoft-teams/log-in](https://www.microsoft.com/pt-br/microsoft-teams/log-in){:target="_blank"}.
    Acesso em: 22 out. 2024.
 </p>
 
-> <p id="1">6. Filmora. Disponível em: https://filmora.wondershare.com.br/
+> <p id="1">6. Filmora. Disponível em: 
+   [https://filmora.wondershare.com.br/](https://filmora.wondershare.com.br/){:target="_blank"}.
    Acesso em: 22 out. 2024.
 </p>
 
-> <p id="1">7. Mkdocs. Disponível em: https://www.mkdocs.org/
+> <p id="1">7. Mkdocs. Disponível em: 
+   [https://www.mkdocs.org/](https://www.mkdocs.org/){:target="_blank"}.
    Acesso em: 22 out. 2024.
 </p>
+
+> <p id="1">8. Draw.io. Disponível em: 
+   [https://www.drawio.com/](https://www.drawio.com/){:target="_blank"}.
+   Acesso em: 27 out. 2024.
+</p>
+
 
 ## Histórico de Versão
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 22/10/2024 | Adição das ferramentas do projeto |Natan Almeida | Leandro de Almeida  |
-|  1.1   | 26/10/2024 |Adição da ferramenta utilizada no rich picture  | Letícia Resende | Natan Almeida  |
-|  1.1   | 26/10/2024 |Atualização de layout | Letícia Resende | Matheus Barros |
+|  1.1   | 26/10/2024 | Adição da ferramenta utilizada no rich picture  | Letícia Resende | Natan Almeida  |
+|  1.2   | 26/10/2024 | Atualização de layout | Letícia Resende | Matheus Barros |
+|  1.3   | 27/10/2024 | Arrumando a fonte da tabela e os links | Leandro de Almeida | Natan Almeida |

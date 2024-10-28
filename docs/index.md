@@ -48,7 +48,6 @@
    Acesso em: 21 out. 2024.
 </p>
 
-
 ---
 
 ## Histórico de versão

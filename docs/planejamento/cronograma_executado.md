@@ -1,7 +1,9 @@
 # Cronograma Executado
 
 ## Executado
-Na Tabela 2, encontra-se o cronograma executado para todas as atividades da primeira entrega.
+<p align="justify">&emsp;&emsp;Na Tabela 1, encontra-se o cronograma executado para todas as atividades da primeira entrega.</p>
+
+<center>
 
 | Atividade                                      	| Período de desenvolvimento 	| Responsáveis               	| Revisão                  	| Revisores        	|
 |------------------------------------------------	|----------------------------	|----------------------------	|--------------------------	|------------------	|
@@ -14,19 +16,18 @@ Na Tabela 2, encontra-se o cronograma executado para todas as atividades da prim
 |    Implementar Git Page              	| Início: 21/10 <br>Fim: 21/10   	| Leandro                     	| Início: 23/10 Fim: 23/10 	| Matheus          	|
 |   Correção pós apresentação	| Início: 27/10<br>Fim: 27/10	| João Victor, Leandro, Letícia, Matheus, Natan 	| Início: 27/10<br>Fim: 27/10 	|João Victor, Leandro, Letícia, Matheus, Natan 	|
 
+<figcaption>Tabela 1 - Ferramentas (Fonte: RESENDE, Letícia. 2024)</figcaption>
 
-
-<br>
+</center>
 
 ## Referências
 
 </center>
 
-> <p id="1">1. SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. Aprender 3. Distrito Federal, 2016. Disponível em: https://aprender3.unb.br/pluginfile.php/2972380/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf 
-   Acesso em: 21 out. 2024.
+> <p id="1">1. SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. Aprender 3. Distrito Federal, 2016. Disponível em:  
+[https://aprender3.unb.br/pluginfile.php/2972380/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf](https://aprender3.unb.br/pluginfile.php/2972380/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf){:target="_blank"}. 
+Acesso em: 21 out. 2024.
 </p>
-
-<br>
 
 ## Histórico de versão
 

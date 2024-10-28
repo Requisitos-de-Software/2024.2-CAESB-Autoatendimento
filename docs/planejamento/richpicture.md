@@ -62,10 +62,14 @@
 
 ## Referências
 
-> <p id="1">1. SALES, André Barros. Introducing Rich Pictures. Disponível em: https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em: 25 de Outubro de 2024;
+> <p id="1">1. SALES, André Barros. Introducing Rich Pictures. Disponível em:  
+[https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf){:target="_blank"}. 
+Acesso em: 25 de Outubro de 2024;
 </p>
 
-> <p id="1">2. Software Development Project. Disponível em: https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em: 25 de Outubro de 2024;
+> <p id="1">2. Software Development Project. Disponível em: 
+[https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf){:target="_blank"}. 
+Acesso em: 25 de Outubro de 2024;
 </p>
 
 ## Histórico de versão
