@@ -12,11 +12,11 @@
 
 ## Sobre a disciplina
 
-<p align="justify">&emsp;&emsp;  Este repositório reúne a documentação dos artefatos criados para o projeto da disciplina de Requisitos de Software, lecionada pelo professor André Barros de Sales, na Faculdade do Gama da Universidade de Brasília (FGA-UnB). O objetivo deste projeto é realizar uma avaliação detalhada dos requisitos do aplicativo BRB Mobilidade<a href="#1"><sup>1</sup></a>.</p>
+<p align="justify">&emsp;&emsp;  Este repositório reúne a documentação dos artefatos criados para o projeto da disciplina de Requisitos de Software, lecionada pelo professor André Barros de Sales, na Faculdade do Gama da Universidade de Brasília (FGA-UnB). O objetivo deste projeto é realizar uma avaliação detalhada dos requisitos do aplicativo CAESB Autoatendimento<a href="#1"><sup>1</sup></a>.</p>
 
 ## Sobre o Aplicativo
 
-<p align="justify">&emsp;&emsp;O BRB Mobilidade é o sistema de transporte público do Distrito Federal (DF). Através do aplicativo Android, os usuários podem realizar diversas funções come recarregar o cartão de transporte via Pix ou boleto, além de consultar o saldo e extrato. O sistema facilita o pagamento de passagens e permite a integração entre ônibus e metrô, facilitando a vida das pessoas.</p>
+<p align="justify">&emsp;&emsp;A Companhia de Saneamento Ambiental do Distrito Federal (Caesb) é a companhia de saneamento brasileira do Distrito Federal que atua em todas as regiões administrativas do Distrito Federal e em alguns municípios do Entorno. Ela é responsável por oferecer serviços de abastecimento de água e coleta de esgoto em toda a área em que atua. Para facilitar o acesso aos serviços, a Caesb oferece um aplicativo para Android que permite ao usuário acessar várias funcionalidades diretamente no celular. Entre as funcionalidades, os usuários podem acessar a segunda via de contas, consultar o histórico de consumo, informar sobre vazamentos e solicitar serviços como desobstrução de esgoto. </p>
 
 <center>
 
@@ -44,7 +44,7 @@
 </center>
 
 > <p id="1">1. Aplicativo BRB Mobilidade. Disponível em: 
-   [https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR](https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR){:target="_blank"}. 
+   [https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR){:target="_blank"}. 
    Acesso em: 21 out. 2024.
 </p>
 
