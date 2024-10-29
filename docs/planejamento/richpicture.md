@@ -17,7 +17,7 @@
     <figcaption>Imagem 2 : Legenda do Rich Picture (Fonte: RESENDE, Letícia. 2024)</figcaption>
 </center>
 
-## Caesb
+## Caesb Autoatendimento
 
 <p align="justify">&emsp;&emsp;A Caesb é o site da Companhia de Saneamento Ambiental do Distrito Federal, uma empresa responsável pela gestão e fornecimento de serviços de abastecimento de água e esgotamento sanitário no Distrito Federal. No site da Caesb, os usuários encontram informações sobre tarifas, serviços, contas, qualidade da água, planejamento ambiental e projetos de sustentabilidade, além de poderem acessar serviços online, como consulta e pagamento de contas, solicitação de segunda via e atendimento ao cliente.</p>
 
