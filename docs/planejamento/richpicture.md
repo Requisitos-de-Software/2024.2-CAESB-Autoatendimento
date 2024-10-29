@@ -59,6 +59,19 @@
     <figcaption>Imagem 8: Legenda do Rich Picture (Fonte: ALMEIDA, Natan. 2024)</figcaption>
 </center>
 
+## Carteira de Trabalho Digital
+
+<p align="justify">&emsp;&emsp;A Carteira de Trabalho Digital é um aplicativo desenvolvido pelo governo brasileiro para facilitar o acesso e a gestão das informações trabalhistas dos cidadãos. O app moderniza e simplifica o acesso a informações trabalhistas, promovendo maior transparência e eficiência na gestão dos dados do trabalhador brasileiro.</p>
+
+<center>
+    ![Rich picture Carteira de Trabalho Digital](../assets/rich_picture_carteira.png)
+    <figcaption>Imagem 9: Rich Picture (Fonte: MARQUES Joao. 2024)</figcaption>
+</center>
+
+<center>
+    ![Legenda Rich picture Carteira de Trabalho Digital](../assets/legenda.richpicture(1).png)
+    <figcaption>Imagem 10: Legenda do Rich Picture (Fonte: MARQUES, Joao. 2024)</figcaption>
+</center>
 
 ## Referências
 
@@ -80,7 +93,7 @@ Acesso em: 25 de Outubro de 2024;
 |  1.1   | 26/10/2024 | Adicionando o Rich Picture da Caesb | Leandro de Almeida | Letícia Resende |
 |  1.2   | 26/10/2024 | Criação do Rich Picture | Matheus Barros | Leandro de Almeida  |
 |  1.3   | 27/10/2024 | Adicionando o Rich Picture do Moovit  | Natan Almeida | Leandro de Almeida  |
-
+|  1.4   | 28/10/2024 | Adicionando o Rich Picture da Carteira de Trabalho Digital  | Joao Victor Marques | Leandro de Almeida  |
 
 
 
