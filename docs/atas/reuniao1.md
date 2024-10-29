@@ -4,7 +4,7 @@ Data: 20/10/2024 <br>
 Horário: 21:30 às 21:40h<br>
 Local: Online via Teams
 
-## Participantes presentes:
+## Participantes presentes
 
 - [x] Joao Victor Marques Reis de Miranda
 - [x] Leandro de Almeida Oliveira
@@ -12,12 +12,12 @@ Local: Online via Teams
 - [x] Matheus Barros do Nascimento
 - [x] Natan da Cruz Almeida
 
-## Discussão:
+## Discussão
 
 - Divisão de tarefas para elaboração do cronograma.
 - Divisão dos artefatos da entrega 1.
 
-## Decisões:
+## Decisões
 
 - Leandro ficou responsável por elaborar o documento da equipe, redigir a ata da primeira reunião e implementar o Git Page.
 - Leticia ficou responsável pela elaboração do documento de escolha do aplicativo.
@@ -25,12 +25,11 @@ Local: Online via Teams
 - Matheus e João ficaram responsáveis pela criação do rich picture.
 - Toda a equipe ficou responsável por gravar a reunião e escrever o cronograma.
 
-## Link da gravação:
-
-[link da Reunião 20/10/2024](https://youtu.be/sKlWCrd8NJE)
+## Link da gravação
+A reunião do dia 20/10/2024, pode ser vista no [YouTube](https://youtu.be/sKlWCrd8NJE).</p>
 
 <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/sKlWCrd8NJE?si=1NYoxfKk_63si-6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/sKlWCrd8NJE?si=1NYoxfKk_63si-6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen></iframe>
     <p>Vídeo 1: Gravação da reunião 1 (Fonte: Grupo. 2024).</p>
 </center>
 

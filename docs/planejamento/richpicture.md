@@ -42,7 +42,6 @@
 <center>
 <img src="https://github.com/Requisitos-de-Software/2024.2-BRB-Mobilidade/blob/Entrega_1/docs/assets/legenda-rich-picture-google-classroom.png?raw=true" width="500">
 <figcaption>Imagem 6 : Legenda do Rich Picture - Google Classroom (Fonte: BARROS, Matheus. 2024)</figcaption>
-</br>
 </center>
 
 ## Moovit

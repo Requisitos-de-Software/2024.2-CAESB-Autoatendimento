@@ -43,7 +43,7 @@ nav:
   - Atas das Reuniões:
       - Reunião 1 - 20/10/2024: atas/reuniao1.md
   - Apresentações:
-      - Entregas: apresentacoes/Entregas.md
+      - Entregas: apresentacoes/entregas.md
 
 markdown_extensions:
   - attr_list

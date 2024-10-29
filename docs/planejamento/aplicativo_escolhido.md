@@ -20,7 +20,7 @@
 
 - <p align="justify"> O aplicativo oferece a funcionalidade de recarga de cartões de passagem, facilitando o acesso e a gestão dos créditos de transporte pelos usuários.</p>
 
-- <p align="justify">Essa característica permite uma análise detalhada de aspectos como usabilidade, segurança de dados e integração de serviços financeiros, oferecendo a oportunidade de explorar melhorias e propor soluções que aprimorem a experiência dos usuários.</p>.
+- <p align="justify">Essa característica permite uma análise detalhada de aspectos como usabilidade, segurança de dados e integração de serviços financeiros, oferecendo a oportunidade de explorar melhorias e propor soluções que aprimorem a experiência dos usuários.</p>
 
 ### Termos de Uso 
 
