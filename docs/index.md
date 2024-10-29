@@ -1,11 +1,11 @@
 # BRB Mobilidade
 
 <p align="center">
-    <img src="assets/BRBMobilidade.jpeg" width="500">
+    <img src="assets/caesblogo.png" width="500">
 </p>
 
 <center> 
-    <figcaption>Imagem 1: BRB Mobilidade (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
+    <figcaption>Imagem 1: CAESB Autoatendimento (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
 </center>
 
 <hr/>

@@ -14,7 +14,7 @@
 
 ### Motivação para a Escolha:
 
-<p align="justify">&emsp;&emsp;Após algumas observações dos integrantes, o grupo decidiu escolher o aplicativo do BRB Mobilidade, pelas seguintes motivações:</p>
+<p align="justify">&emsp;&emsp;Após algumas observações dos integrantes, o grupo decidiu escolher o aplicativo CAESB Autoatendimento, pelas seguintes motivações:</p>
 
 - <p align="justify">O BRB Mobilidade se deve à sua relevância no contexto de mobilidade urbana e ao impacto direto na vida dos usuários de transporte público. </p>
 
