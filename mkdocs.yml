@@ -48,7 +48,13 @@ nav:
   - Verificação:
       - Grupo 03:
         - Etapa 1:
-              - Planejamento: index.md
+          - Cronogramas: planejamento/verificacao/Cronogramaa.md
+          - Ferramentas: index.md
+          - Metodologia: index.md
+          - Rich Picture: index.md
+          - heatmap: index.md
+          - Aplicativo escolhido: planejamento/verificacao/Aplicativo_Escolhido.md
+
       - Grupo 04:
         - Etapa 1:
               - Planejamento: index.md

@@ -15,6 +15,8 @@
    Acesso em: 26 out. 2024.
 </p>
 
+## Histórico de Versão
+
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 27/10/2024 | Adição da página de metodologia | Matheus Barros | João Marques|
