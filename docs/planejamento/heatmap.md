@@ -9,7 +9,7 @@
     <figcaption>Imagem 1: Rich Picture (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
 </center>
 
-<p align="justify">&emsp;&emsp;Logo, através do estudo deste mapa, a equipe então definiu que os melhores horários para reunião seriam entre as 20h até as 22h de segunda a sexta e durante os finais de semana 22h até as 23h, optando para sempre que possível realizá-las através do  Microsoft Teams<a href="#1"><sup>1</sup></a>.</p>
+<p align="justify">&emsp;&emsp;Logo, através do estudo deste mapa, a equipe então definiu que os melhores horários para reunião seriam entre as 20h até as 23h de segunda a sexta e durante os finais de semana 16h até as 18h, optando para sempre que possível realizá-las através do  Microsoft Teams<a href="#1"><sup>1</sup></a>.</p>
 
 ## Referências
 
@@ -22,6 +22,7 @@
 | Versão | Data       | Descrição                    | Autor   | Revisor |
 |:------:|:----------:|:----------------------------:|:-------:|:-------:|
 | 1.0    | 26/10/2024 | Colocando o heatmap          | Leandro | Matheus |
-| 1.1    | 26/10/2024 | Ajuste e revisão do Heatmap  | Matheus | Leandro |
+| 1.1    | 26/10/2024 | Ajuste e revisão do heatmap  | Matheus | Leandro |
+| 1.2    | 05/11/2024 | Correção no texto do heatmap  | Matheus | Leandro |
 
 </center>
