@@ -44,7 +44,14 @@ nav:
       - Reunião 1 - 20/10/2024: atas/reuniao1.md
   - Apresentações:
       - Entregas: apresentacoes/entregas.md
-
+  - Verificação:
+      - Grupo 03:
+        - Etapa 1:
+              - Planejamento: index.md
+      - Grupo 04:
+        - Etapa 1:
+              - Planejamento: index.md
+      
 markdown_extensions:
   - attr_list
   - md_in_html
