@@ -14,7 +14,7 @@
 <p align="justify">
 &emsp;&emsp; A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base no plano de ensino da disciplina. Com essa lista, foi feito um checklist para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações.
 
-Neste documento, realizou-se a avaliação do artefato <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Aplicativo Escolhido</a>, que trata das atividades relaizdas no desenvolvimento do aplicativo <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Caesb Autoatendimento</a>.
+Neste documento, realizou-se a avaliação do artefato <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Aplicativo Escolhido</a>, que trata das atividades realizdas no desenvolvimento do aplicativo <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Caesb Autoatendimento</a>.
 </p>
 
 
