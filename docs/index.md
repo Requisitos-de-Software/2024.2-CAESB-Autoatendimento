@@ -30,6 +30,10 @@
 |    <a href="https://github.com/Ninja-Haiyai"><img src="https://avatars.githubusercontent.com/u/73038704?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Matheus Barros |        [Ninja-Haiyai](https://github.com/Ninja-Haiyai)        |
 |    <a href="https://github.com/natanalmeida03"><img src="https://avatars.githubusercontent.com/u/61543235?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Natan da Cruz   |        [natanalmeida03](https://github.com/natanalmeida03)        |
 
+<center>
+<figcaption>Tabela 1: Membros do grupo (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
+</center>
+
 <hr/>
 <p align="center"><b>Grupo 3</b></p>
 <p align="center">Requisitos de Software<br /><br />
