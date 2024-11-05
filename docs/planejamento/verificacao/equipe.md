@@ -13,7 +13,7 @@
 <p align="justify">
 &emsp;&emsp; A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base no plano de ensino da disciplina. Com essa lista, foi feito um checklist para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações.
 
-Neste documento, realizou-se a avaliação do artefato <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Cronograma</a>, que trata das atividades realizadas no desenvolvimento do aplicativo <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Caesb Autoatendimento</a>.
+Neste documento, realizou-se a avaliação do artefato de Equipe, que trata das informações sobre os integrantes do grupo 03 da Caesb Autoatendimento</a>.
 </p>
 
 <center>
@@ -46,4 +46,4 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 05/11/2024 | Verificação artefato de equipe | Leandro de Almeida | Matheus Barros |
+|  1.0   | 05/11/2024 | Verificação artefato de equipe |  Matheus Barros | Leandro de Almeida |
