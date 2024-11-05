@@ -33,7 +33,7 @@ Neste documento, realizou-se a avaliação do artefato de Equipe, que trata das 
 </center>
 
 <center>
-<figcaption>Tabela 1: Checklist de verificação (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
+<figcaption>Tabela 1: Checklist de verificação (Fonte: BARROS, Matheus. 2024)</figcaption>
 </center>
 
 ## Problemas encontrados
