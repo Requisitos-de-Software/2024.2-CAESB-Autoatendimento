@@ -41,7 +41,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 </p>
 
 ## Link da gravação
-Pode ser vista no [YouTube](https://youtu.be/QUgt46e-qe0).</p>
+Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 <center>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/O9MRW3hXTO4?si=Lo22gxE0Qc868uFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
