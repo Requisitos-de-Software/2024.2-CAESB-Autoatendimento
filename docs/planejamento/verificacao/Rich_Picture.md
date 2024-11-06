@@ -1,7 +1,7 @@
 # Verificação do artefato de Rich Picture
 
 ## Introdução 
-<p align="justify">&emsp;&emsp;Este documento inclui os checklists utilizados para inspecionar o artefato do Rich Picture. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.</p>
+<p align="justify">&emsp;&emsp;Este documento inclui a verificação de cada Rich picture feito pela equipe. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.</p>
 
 ## Objetivo
 
@@ -11,24 +11,24 @@
 
 ## Metodologia
 <p align="justify">
-&emsp;&emsp; A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base no plano de ensino da disciplina. Com essa lista, foi feito um checklist para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações.
+&emsp;&emsp;Nossa verificação foi realizada utilizando um checklist conforme o disponibilizado na plataforma da disciplina. A primeira tabela verifica o documento em si, enquanto as outras analisam cada Rich Picture individualmente. Nossos checklists contêm perguntas que podem ser respondidas com as seguintes opções:
 </p>
+
+
+- Sim: Quando o critério avaliado está de acordo com o requisitado
+- Não: Quando o critério avaliado não está de acordo com o requisitado
+- Não se aplica: Caso o documento não precise desse quesito
 
 <center>
 
 | Número | Descrição | Avaliação | Observações | 
 | :----: | :-------: | :-------: | :--------: | 
-| 1 | O artefato possui introdução ?| sim | |
-| 2 | Todos os textos estão na norma padrão | sim | |
-| 3 | O artefato possui bibliografia ou referência bibliográfica? | sim | |
-| 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | Sim | |
-| 5 | Todas as tabelas e imagens possuem legendas e fontes? | Sim | |
-| 6 | Os rich pictures possui atores, operações, armazenamento de dados, setas e o limite do sistema?  | Sim | |
-| 7 | O artefato está conciso? | Sim | |
-| 8 | Os rich pictures conseguem comunicar a sua ideia sem excesso de palavras? | Sim | |  
-| 9 | Os rich pictures possuem legenda? | Sim |  |
-| 10 | Os rich pictures dão uma ideia do que realmente está acontecendo? | Sim |  |
-| 11 | Os rich pictures simulam uma ação real do usuário? | Sim |  |
+| 1      | O artefato possui introdução?                                                                                                    |    Sim       |             |
+| 2      | O artefato define a metodologia que será utilizada?                                                                              |       Sim     |             |
+| 3      | O artefato possui bibliografia ou referência bibliográfica (chamando do texto para as referências onde a referência é utilizada)?|   Sim         |             |
+| 4      | O artefato possui histórico de versões, apresentando a versão, a data, e os responsáveis?                                        |    Sim        |             |
+| 5      | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação?                                                  |     Sim       |             |
+| 6      | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                     |      Sim         |    |
 
 
 </center>
@@ -49,3 +49,4 @@
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 06/11/2024 | Verificação artefato de rich picture |  Natan Almeida | Leandro de Almeida |
+|  1.1   | 06/11/2024 | Alterações na metodologia |  Leandro de Almeida | Matheus Barros |
