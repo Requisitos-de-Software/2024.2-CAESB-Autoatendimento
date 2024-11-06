@@ -32,10 +32,9 @@ Neste documento, realizou-se a avaliação do artefato de Equipe, que trata das 
 
 </center>
 
-<p align="justify">
-<h6 align = "center"> Tabela 01: Lista de Verificação da Equipe
-<br> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-</p>
+<center>
+<figcaption>Tabela 1: Checklist de verificação (Fonte: BARROS, Matheus. 2024)</figcaption>
+</center>
 
 ## Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>

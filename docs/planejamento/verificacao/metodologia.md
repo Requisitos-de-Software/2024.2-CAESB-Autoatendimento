@@ -23,28 +23,40 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 &emsp;&emsp;A tabela 01 apresenta a Lista de Verificação da Metdologia que foi elaborada com base no plano de ensino da disciplina:
 </p>
 
-| Id | Descrição                                                                                    | Avaliação | Observações |
-|----|----------------------------------------------------------------------------------------------|-----------|-------------|
-| 01 |  As legendas estão de acordo com o padrão do projeto?          |    Sim       |  versão 1.0 05/11           |
-| 02 | Possui referências bibliográficas e seus respectivos links?  |   Sim        | versão 1.0   05/11         |
-| 03 | O histórico de versão padronizado?                                        |    Sim       | versão 1.0  05/11          |
-| 04 | O(s) autor(es) e o(s) revisor(es) para cada artefato? |    Sim       | versão 1.0   05/11        |
-| 05 |   O artefato apresenta justificativa para a escolha das metodologias?                                                      |    Sim       | versão 1.0  05/11         |
-| 06 |A edição e layout estão em padronização com o resto do projeto?                                       |  Sim         | versão 1.0     05/11      |
 
+| Número | Descrição                                                                                                                        | Avaliação | Observações |
+| :----: | :------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
+| 1      | O artefato possui introdução?                                                                                                    |    Sim       |             |
+| 2      | O artefato define a metodologia que será utilizada?                                                                              |       Sim     |             |
+| 3      | O artefato possui bibliografia ou referência bibliográfica (chamando do texto para as referências onde a referência é utilizada)?|   Sim         |             |
+| 4      | O artefato possui histórico de versões, apresentando a versão, a data, e os responsáveis?                                        |    Sim        |             |
+| 5      | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação?                                                  |     Sim       |             |
+| 6      | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                     |               |   Não se aplica |
+| 7      | A metodologia escolhida é descrita e contextualizada?                                                                            |    Não  | A metodologia scrum não foi descrita         |
+| 8      | É explicado o porquê da escolha da metodologia?                                                                                  |    Sim       | Está um pouco vago            |
+| 9      | Os recursos necessários para a implementação da metodologia são listados?                                                        |   Não        |             |
 
+<center>
+<figcaption>Tabela 01: Lista de Verificação da Metodologia (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
+</center>
 
-<p align="justify">
-<h6 align = "center"> Tabela 01: Lista de Verificação da Metodologia
-<br> Autor(a): <a href="https://github.com/leomitx10">Leandro de Almeida</a></h6>
-</p>
+## Link da gravação
+Pode ser vista no [YouTube](https://youtu.be/QUgt46e-qe0).</p>
 
-## Conclusão
-<p align="justify">
-&emsp;&emsp; O artefato está bom porém seria interessante a adição de comparações com outras metologias para reforçar a explicação do porque aquela metodologia específica foi escolhida.
-</p>
+<center>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/QUgt46e-qe0?si=taLRR4ycl5KxMWuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>Vídeo 1: Verificação do artefato metodologia (Fonte: ALMEIDA, Leandro. 2024).</p>
+</center>
 
+## Problemas encontrados
+<p align="justify">7. A metodologia escolhida não foi descrita ou contextualizada sendo apenas mencionada a sua utilização no texto. </p>
+
+## Sugestões
+<p align="justify">7. Descrever a metodologia utilizada citando o que é, como funciona e quais são suas características.</p>
+<p align="justify">9. Listar os recursos necessários para a implementação da metodologia</p>
 <br>
+
+
 
 ## Histórico de Versão
 
