@@ -36,6 +36,14 @@ Neste documento, realizou-se a avaliação do artefato de Equipe, que trata das 
 <figcaption>Tabela 1: Checklist de verificação (Fonte: BARROS, Matheus. 2024)</figcaption>
 </center>
 
+## Link da gravação
+Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
+
+<center>
+  <iframe width="760" height="515" src="https://www.youtube.com/embed/oiR9VLdVYHI?si=Lox1U2swEH8zv1ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>Vídeo 1: Verificação do artefato equipe (Fonte: BARROS, Matheus. 2024).</p>
+</center>
+
 ## Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
 
