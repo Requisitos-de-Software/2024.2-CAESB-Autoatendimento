@@ -99,6 +99,34 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
   <iframe width="760" height="515" src="https://www.youtube.com/embed/oiR9VLdVYHI?si=Lox1U2swEH8zv1ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>Vídeo 2: Verificação do Rich Picture - BRB Mobilidade (Fonte: ALMEIDA, Leandro. 2024)</p>
 </center>
+<p>Vídeo 1: Verificação do Rich Picture- Moovit (Fonte: BARROS, Matheus. 2024).</p>
+
+<br>
+
+
+## Revisão do Rich Picture - Caesb Autoatendimento
+
+<p align="justify">&emsp;&emsp;Esta sessão inclui a verificação do Rich picture relativo a Caesb Autoatendimento.</p>
+
+| Número | Descrição | Avaliação | Observações | 
+| :----: | :-------: | :-------: | :--------: | 
+| 7 | Rich Picture possui uma legenda explicando os símbolos utilizados no diagrama?| Sim | |
+| 8 | Contém a explicação dos componentes?| Sim | |
+| 9 | O Rich Picture conta uma história?| Sim | |
+| 10 | Comunica mais ideias do que palavras?| Sim | |
+| 11 | O rich picture dá uma ideia do que realmente está acontecendo?| Sim | |
+<center>
+<figcaption>Tabela 3: Lista de Verificação - Caesb Autoatendimento (Fonte: RESENDE, Letícia. 2024)</figcaption>
+</center>
+
+## Link da gravação - Verificação da Caesb Autoatendomento
+Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
+
+<center>
+  <iframe width="760" height="515" src="https://www.youtube.com/embed/TTPBJEne0wU?si=yBKRpdsqWtJUaXDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>Vídeo 3: Verificação da Caesb Autoatendimento (Fonte: RESENDE, Letícia. 2024).</p>
+</center>
+<br>
 
 ## Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
@@ -110,6 +138,7 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 06/11/2024 | Verificação artefato de rich picture |  Natan Almeida | Leandro de Almeida |
+|  1.0   | 06/11/2024 | Verificação artefato de rich picture |  Natan Almeida | Leandro de Almeida | 
 |  1.1   | 06/11/2024 | Alterações na metodologia |  Leandro de Almeida | Matheus Barros |
-|  1.2   | 06/11/2024 | Adiciona checklist BRB Mobilidade |  Leandro de Almeida | Matheus Barros |
+|  1.1   | 06/11/2024 | Alterações na metodologia |  Leandro de Almeida | Matheus Barros |
+|  1.2   | 06/11/2024 | verificação do rich picture caesb autoatendimento |  Letícia Resende | Natan Almeida |

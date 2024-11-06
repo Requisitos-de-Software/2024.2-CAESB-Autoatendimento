@@ -37,7 +37,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 
 <p align="justify">
 <h6 align = "center"> Tabela 01: Lista de Verificação do Aplicativo Escolhido
-<br> Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a></h6>
+<br> Autor(a): <a href="https://github.com/natanalmeida03">Natan Almeida</a></h6>
 </p>
 
 ## Link da gravação
@@ -61,7 +61,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 04/11/2024 | Criação do Documento e Lista de Verificação | Letícia Resende | Leandro de Almeida|
+|  1.0   | 04/11/2024 | Criação do Documento e Lista de Verificação | Natan Almeida | Letícia Resende|
 |  1.1   | 04/11/2024 | Adição do Vídeo da verificação | Natan Almeida | Letícia Resende |
 
 
