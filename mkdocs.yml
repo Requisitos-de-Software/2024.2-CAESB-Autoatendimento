@@ -50,9 +50,8 @@ nav:
         - Etapa 1:
           - Equipe: planejamento/verificacao/equipe.md
           - Cronogramas: planejamento/verificacao/Cronogramaa.md
-          
           - Metodologia: planejamento/verificacao/metodologia.md
-          - Rich Picture: index.md
+          - Rich Picture: planejamento/verificacao/Rich_Picture.md
           - heatmap: index.md
           - Aplicativo escolhido: planejamento/verificacao/Aplicativo_Escolhido.md
 
