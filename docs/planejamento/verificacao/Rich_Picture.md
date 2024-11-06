@@ -1,4 +1,4 @@
-# Verificação do artefato de equipe
+# Verificação do artefato de Rich Picture
 
 ## Introdução 
 <p align="justify">&emsp;&emsp;Este documento inclui os checklists utilizados para inspecionar o artefato do Rich Picture. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.</p>
@@ -48,4 +48,4 @@
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 06/11/2024 | Verificação artefato de equipe |  Natan Almeida | Leandro de Almeida |
+|  1.0   | 06/11/2024 | Verificação artefato de rich picture |  Natan Almeida | Leandro de Almeida |
