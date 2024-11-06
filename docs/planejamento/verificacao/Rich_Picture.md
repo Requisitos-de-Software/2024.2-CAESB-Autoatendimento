@@ -44,9 +44,40 @@
 ## Sugestões
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
+
+## Revisão do Rich Picture - Moovit 
+
+<p align="justify">&emsp;&emsp;Esta sessão inclui a verificação do Rich picture relativo ao Moovit.</p>
+
+| Número | Descrição | Avaliação | Observações | 
+| :----: | :-------: | :-------: | :--------: | 
+| 7 | O Rich picture contém atores?| Sim | |
+| 8 | Todos os 5 elementos de um Rich picture estão presentes?| Sim | |
+| 9 | O Rich Picture delimitou a fronteira do sistema?| Sim | |
+| 10 | Os atores estão fora da fronteira do sistema?| Sim | |
+| 11 | O Rich Picture delimitou a fronteira do sistema?| Sim | |
+<center>
+<figcaption>Tabela 2: Lista de Verificação - Moovit (Fonte: BARROS, Matheus. 2024)</figcaption>
+</center>
+
+## Link da gravação - Verificação do Moovit
+Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
+
+<center>
+  <iframe width="760" height="515" src="https://www.youtube.com/embed/oiR9VLdVYHI?si=Lox1U2swEH8zv1ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>Vídeo 1: Verificação do Rich Picture- Moovit (Fonte: BARROS, Matheus. 2024).</p>
+
+
+## Problemas encontrados
+<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
+
+## Sugestões
+<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
+
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 06/11/2024 | Verificação artefato de rich picture |  Natan Almeida | Leandro de Almeida |
+|  1.1   | 06/11/2024 | Alterações na metodologia |  Leandro de Almeida | Matheus Barros |
 |  1.1   | 06/11/2024 | Alterações na metodologia |  Leandro de Almeida | Matheus Barros |
