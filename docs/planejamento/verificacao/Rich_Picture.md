@@ -51,20 +51,21 @@
 
 | Número | Descrição | Avaliação | Observações | 
 | :----: | :-------: | :-------: | :--------: | 
-| 7 | O Rich picture contém atores?| Sim | |
-| 8 | Todos os 5 elementos de um Rich picture estão presentes?| Sim | |
-| 9 | O Rich Picture delimitou a fronteira do sistema?| Sim | |
-| 10 | Os atores estão fora da fronteira do sistema?| Sim | |
-| 11 | O Rich Picture delimitou a fronteira do sistema?| Sim | |
+| 7 | O Rich picture contém atores? | Sim | |
+| 8 | Todos os 5 elementos de um Rich picture estão presentes? | Sim | |
+| 9 | O Rich Picture delimitou a fronteira do sistema? | Sim | |
+| 10 | Os atores estão fora da fronteira do sistema? | Sim | |
+
+
 <center>
 <figcaption>Tabela 2: Lista de Verificação - Moovit (Fonte: BARROS, Matheus. 2024)</figcaption>
 </center>
 
 ## Link da gravação - Verificação do Moovit
-Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
+Pode ser vista no [YouTube](https://youtu.be/nZfeuggegBo?si=7lBcD4-ychX_wYID).</p>
 
 <center>
-  <iframe width="760" height="515" src="https://www.youtube.com/embed/oiR9VLdVYHI?si=Lox1U2swEH8zv1ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="760" height="515" src="https://www.youtube.com/embed/nZfeuggegBo?si=7lBcD4-ychX_wYID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>Vídeo 1: Verificação do Rich Picture- Moovit (Fonte: BARROS, Matheus. 2024).</p>
 
 
