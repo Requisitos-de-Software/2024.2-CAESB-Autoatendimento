@@ -63,6 +63,7 @@ Pode ser vista no [YouTube](https://youtu.be/QUgt46e-qe0).</p>
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0  | 05/11/2024 | Criação do Documento e Lista de Verificação da Metodologia | Leandro de Almeida | Matheus Barros|
+|  1.1  | 06/11/2024 | Adiciona o video de verificação | Leandro de Almeida | Matheus Barros|
 
 
 
