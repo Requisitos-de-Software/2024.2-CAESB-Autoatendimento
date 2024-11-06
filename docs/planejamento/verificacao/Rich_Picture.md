@@ -56,7 +56,6 @@
 | 9 | O Rich Picture delimitou a fronteira do sistema? | Sim | |
 | 10 | Os atores estão fora da fronteira do sistema? | Sim | |
 
-
 <center>
 <figcaption>Tabela 2: Lista de Verificação - Moovit (Fonte: BARROS, Matheus. 2024)</figcaption>
 </center>
@@ -67,7 +66,39 @@ Pode ser vista no [YouTube](https://youtu.be/nZfeuggegBo?si=7lBcD4-ychX_wYID).</
 <center>
   <iframe width="760" height="515" src="https://www.youtube.com/embed/nZfeuggegBo?si=7lBcD4-ychX_wYID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>Vídeo 1: Verificação do Rich Picture- Moovit (Fonte: BARROS, Matheus. 2024).</p>
+</center>
 
+## Problemas encontrados
+<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
+
+## Sugestões
+<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
+
+## Revisão do Rich Picture - BRB Mobilidade
+
+<p align="justify">&emsp;&emsp;Esta sessão inclui a verificação do Rich picture relativo ao Moovit.</p>
+
+| Número | Descrição                                                                                                               | Avaliação | Observações |
+| :----: | :---------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
+|   7    | O(s) Ator(es) do RichPicture está do lado de fora da fronteira do sistema?                                              |           |             |
+|   8    | O rich picture conta uma história?                                                                                      |           |             |
+|   9    | No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?                            |           |             |
+|   10   | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture”?                              |           |             |
+|   11   | As operações especificam o que o sistema faz?                                                                           |           |             |
+|   12   | O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas?                             |           |             |
+|   13   | O rich picture apresenta uma escolha de palavras simples (sem jargões) relevantes para o entendimento?                  |           |             |
+
+<center>
+<figcaption>Tabela 3: Lista de Verificação - BRB Mobilidade (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
+</center>
+
+## Link da gravação - Verificação do BRB Mobilidade
+Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
+
+<center>
+  <iframe width="760" height="515" src="https://www.youtube.com/embed/oiR9VLdVYHI?si=Lox1U2swEH8zv1ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>Vídeo 2: Verificação do Rich Picture- Moovit (Fonte: ALMEIDA, Leandro. 2024)</p>
+</center>
 
 ## Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
@@ -81,4 +112,4 @@ Pode ser vista no [YouTube](https://youtu.be/nZfeuggegBo?si=7lBcD4-ychX_wYID).</
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 06/11/2024 | Verificação artefato de rich picture |  Natan Almeida | Leandro de Almeida |
 |  1.1   | 06/11/2024 | Alterações na metodologia |  Leandro de Almeida | Matheus Barros |
-|  1.1   | 06/11/2024 | Alterações na metodologia |  Leandro de Almeida | Matheus Barros |
+|  1.2   | 06/11/2024 | Adiciona checklist BRB Mobilidade |  Leandro de Almeida | Matheus Barros |
