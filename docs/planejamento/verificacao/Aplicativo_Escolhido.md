@@ -2,7 +2,7 @@
 
 ## Introdução
 <p align="justify">
-&emsp;&emsp;Este documento inclui os checklists utilizados para inspecionar o artefato de cronograma. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.
+&emsp;&emsp;Este documento inclui os checklists utilizados para inspecionar o artefato de Aplicativo Escolhido. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.
 </p>
 
 ## Objetivo
@@ -40,6 +40,13 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 <br> Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a></h6>
 </p>
 
+## Link da gravação
+Pode ser vista no [YouTube](https://youtu.be/QUgt46e-qe0).</p>
+
+<center>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/O9MRW3hXTO4?si=Lo22gxE0Qc868uFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>Vídeo 1: Verificação do artefato Aplicativo escolhido (Fonte: ALMEIDA, Natan. 2024).</p>
+</center>
 
 ## Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
@@ -55,6 +62,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 04/11/2024 | Criação do Documento e Lista de Verificação | Letícia Resende | Leandro de Almeida|
+|  1.1   | 04/11/2024 | Adição do Vídeo da verificação | Natan Almeida | Letícia Resende |
 
 
 
