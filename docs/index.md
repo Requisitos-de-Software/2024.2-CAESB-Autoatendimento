@@ -1,27 +1,22 @@
-# BRB Mobilidade
-
-<center> 
-    <figcaption>Figura 1: Apresentação do aplicativo BRB Mobilidade </figcaption> 
-</center>
-
-<br>
+# Caesb Autoatendimento
 
 <p align="center">
-    <img src="https://play-lh.googleusercontent.com/xMXmG-nmu4cUaw6svSU9EbMpGMJ4KObv1PHxQkcJA1t2QVTRVYElvPB7WuOA-tblXSi1" width="500">
+    <img src="assets/caesblogo.png" width="500">
 </p>
 
 <center> 
-    <figcaption>Fonte: BRB Mobilidade, 2024  </figcaption> 
+    <figcaption>Imagem 1: CAESB Autoatendimento (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
 </center>
-<br>
+
+<hr/>
 
 ## Sobre a disciplina
 
-<p align="justify">&emsp;&emsp;  Este repositório reúne a documentação dos artefatos criados para o projeto da disciplina de Requisitos de Software, lecionada pelo professor André Barros de Sales, na Faculdade do Gama da Universidade de Brasília (FGA-UnB). O objetivo deste projeto é realizar uma avaliação detalhada dos requisitos do aplicativo BRB Mobilidade.</p>
+<p align="justify">&emsp;&emsp;  Este repositório reúne a documentação dos artefatos criados para o projeto da disciplina de Requisitos de Software, lecionada pelo professor André Barros de Sales, na Faculdade do Gama da Universidade de Brasília (FGA-UnB). O objetivo deste projeto é realizar uma avaliação detalhada dos requisitos do aplicativo CAESB Autoatendimento<a href="#1"><sup>1</sup></a>.</p>
 
 ## Sobre o Aplicativo
 
-<p align="justify">&emsp;&emsp;O BRB Mobilidade é o sistema de transporte público do Distrito Federal (DF). Através do aplicativo Android, os usuários podem realizar diversas funções come recarregar o cartão de transporte via Pix ou boleto, além de consultar o saldo e extrato. O sistema facilita o pagamento de passagens e permite a integração entre ônibus e metrô, facilitando a vida das pessoas.</p>
+<p align="justify">&emsp;&emsp;A Companhia de Saneamento Ambiental do Distrito Federal (Caesb) é a companhia de saneamento brasileira do Distrito Federal que atua em todas as regiões administrativas do Distrito Federal e em alguns municípios do Entorno. Ela é responsável por oferecer serviços de abastecimento de água e coleta de esgoto em toda a área em que atua. Para facilitar o acesso aos serviços, a Caesb oferece um aplicativo para Android que permite ao usuário acessar várias funcionalidades diretamente no celular. Entre as funcionalidades, os usuários podem acessar a segunda via de contas, consultar o histórico de consumo, informar sobre vazamentos e solicitar serviços como desobstrução de esgoto. </p>
 
 <center>
 
@@ -35,8 +30,9 @@
 |    <a href="https://github.com/Ninja-Haiyai"><img src="https://avatars.githubusercontent.com/u/73038704?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Matheus Barros |        [Ninja-Haiyai](https://github.com/Ninja-Haiyai)        |
 |    <a href="https://github.com/natanalmeida03"><img src="https://avatars.githubusercontent.com/u/61543235?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Natan da Cruz   |        [natanalmeida03](https://github.com/natanalmeida03)        |
 
-
-
+<center>
+<figcaption>Tabela 1: Membros do grupo (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
+</center>
 
 <hr/>
 <p align="center"><b>Grupo 3</b></p>
@@ -45,27 +41,27 @@
 </p>
 
 
+</center>
 
 ## Referências
 
 </center>
 
-> <p id="1">1. Aplicativo BRB Mobilidade. Disponível em: 
-   [https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR](https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR){:target="_blank"}. 
+> <p id="1">1. Aplicativo Caesb Autoatendimento. Disponível em: 
+   [https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR){:target="_blank"}. 
    Acesso em: 21 out. 2024.
 </p>
 
-
 ---
-
-<center>
 
 ## Histórico de versão
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
-| :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 21/10/2024 | Criação e inclusão dos membros | Leandro | Leticia  |
+<center>
+
+| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
+| :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
+|  1.0   | 21/10/2024 | Criação e inclusão dos membros | Leandro de Almeida | Letícia Resende  |
+|  1.1   | 24/10/2024 | Reorganização do layout  | Leandro de Almeida | Letícia Resende  |
+|  1.2   | 29/10/2024 | Mudando o aplicativo  | Leandro de Almeida | Letícia Resende  |
 
 </center>
-
----
