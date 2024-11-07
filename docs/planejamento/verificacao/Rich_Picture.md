@@ -203,3 +203,4 @@ Pode ser vista no [YouTube](https://youtu.be/nZfeuggegBo?si=7lBcD4-ychX_wYID).</
 |  1.2   | 06/11/2024 | verificação do rich picture caesb autoatendimento |  Letícia Resende | Natan Almeida |
 |  1.3   | 06/11/2024 | verificação do rich picture google classroom |  Natan Almeida | João Marques |
 |  1.4   | 06/11/2024 | verificação do rich picture carteira de trabalho digital |  Joao Marques | Natan Almeida |
+|  1.5   | 06/11/2024 | verificação do rich picture Moovit | Matheus Barros | Leandro Almeida |
