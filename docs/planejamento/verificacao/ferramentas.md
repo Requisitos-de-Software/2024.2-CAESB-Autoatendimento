@@ -47,7 +47,7 @@ Neste documento, realizou-se a avaliação do artefato de Ferramentas, que trata
 Pode ser vista no [YouTube](https://youtu.be/v2SkkKJPFao?si=6Bq77p3ABnRhrcy5).</p>
 
 <center>
-  <iframe width="760" height="515" src="https://youtu.be/v2SkkKJPFao?si=6Bq77p3ABnRhrcy5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="760" height="515" src="https://www.youtube.com/embed/v2SkkKJPFao?si=YT05k8KPxr6BgUa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>Vídeo 1: Verificação do artefato de ferramentas (Fonte: MARQUES, Joao. 2024).</p>
 </center>
 
