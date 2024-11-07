@@ -40,10 +40,13 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 <br> Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a></h6>
 </p>
 
-## Conclusão
-<p align="justify">
-&emsp;&emsp; No geral o artefato está muito bom. Entretanto,precisa de uma pequena melhoria como descrito no checklist de verificação ID 8.
-</p>
+
+## Problemas encontrados
+<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
+
+
+## Sugestões
+<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
 <br>
 
