@@ -59,6 +59,7 @@ nav:
         - Etapa 1:
               - Aplicativos Avaliados: planejamento/verificacao_g4/aplicativos_avaliados.md
               - Termos de Uso: planejamento/verificacao_g4/termos_de_uso.md
+              - Rich Picture: planejamento/verificacao_g4/rich_picture.md
 markdown_extensions:
   - attr_list
   - md_in_html
