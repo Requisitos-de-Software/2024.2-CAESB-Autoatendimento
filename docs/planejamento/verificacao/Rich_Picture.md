@@ -28,13 +28,9 @@
 | 5      | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação?                                                  |     Sim       |             |
 | 6      | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                     |      Sim         |    |
 
-
 </center>
 
-<p align="justify">
-<h6 align = "center"> Tabela 01: Lista de Verificação do Rich Picture
-<br> Autor(a): <a href="https://github.com/natanalmeida03">Natan Almeida</a></h6>
-</p>
+<center><figcaption>Tabela 01: Lista de Verificação do Rich Picture (Fonte: Almeida, Natan. 2024)</figcaption></center>
 
 ## Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
@@ -74,32 +70,36 @@ Pode ser vista no [YouTube](https://youtu.be/nZfeuggegBo?si=7lBcD4-ychX_wYID).</
 
 ## Revisão do Rich Picture - BRB Mobilidade
 
-<p align="justify">&emsp;&emsp;Esta sessão inclui a verificação do Rich picture relativo ao Moovit.</p>
+<p align="justify">&emsp;&emsp;Esta sessão inclui a verificação do Rich picture relativo ao BRB Mobilidade.</p>
 
 | Número | Descrição                                                                                                               | Avaliação | Observações |
 | :----: | :---------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
-|   7    | O(s) Ator(es) do RichPicture está do lado de fora da fronteira do sistema?                                              |           |             |
-|   8    | O rich picture conta uma história?                                                                                      |           |             |
-|   9    | No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?                            |           |             |
-|   10   | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture”?                              |           |             |
-|   11   | As operações especificam o que o sistema faz?                                                                           |           |             |
-|   12   | O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas?                             |           |             |
-|   13   | O rich picture apresenta uma escolha de palavras simples (sem jargões) relevantes para o entendimento?                  |           |             |
+|   7    | O(s) Ator(es) do RichPicture está do lado de fora da fronteira do sistema?                                              |  Sim       |             |
+|   8    | O rich picture conta uma história?                                                                                      |  Sim         |             |
+|   9    | No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?                            |  Sim          |             |
+|   10   | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture”?                              |  Sim          |             |
+|   11   | As operações especificam o que o sistema faz?                                                                           |  Sim          |             |
+|   12   | O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas?                             |  Sim          |             |
+|   13   | O rich picture apresenta uma escolha de palavras simples (sem jargões) relevantes para o entendimento?                  |  Sim          |             |
 
 <center>
 <figcaption>Tabela 03: Lista de Verificação - BRB Mobilidade (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
 </center>
 
 ### Link da gravação - Verificação do BRB Mobilidade
-Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
+Pode ser vista no [YouTube](https://www.youtube.com/watch?v=MizcbfGQFEs).</p>
 
 <center>
-  <iframe width="760" height="515" src="https://www.youtube.com/embed/oiR9VLdVYHI?si=Lox1U2swEH8zv1ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="760" height="515" src="https://www.youtube.com/embed/MizcbfGQFEs?si=_03Bzod12JzzcWfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>Vídeo 2: Verificação do Rich Picture - BRB Mobilidade (Fonte: ALMEIDA, Leandro. 2024)</p>
 </center>
 
-<br>
 
+### Problemas encontrados
+<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
+
+### Sugestões
+<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
 ## Revisão do Rich Picture - Caesb Autoatendimento
 
@@ -124,7 +124,7 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
   <iframe width="760" height="515" src="https://www.youtube.com/embed/TTPBJEne0wU?si=yBKRpdsqWtJUaXDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>Vídeo 3: Verificação da Caesb Autoatendimento (Fonte: RESENDE, Letícia. 2024).</p>
 </center>
-<br>
+
 
 ### Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
@@ -149,14 +149,13 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 <figcaption>Tabela 05: Lista de Verificação - Google Classroom (Fonte: Almeida, Natan. 2024)</figcaption>
 </center>
 
-### Link da gravação - Verificação da Caesb Autoatendomento
+### Link da gravação - Verificação do Google Classroom
 Pode ser vista no [YouTube](https://youtu.be/X3HxoT0O33I).</p>
 
 <center>
   <iframe width="760" height="515" src="https://www.youtube.com/embed/X3HxoT0O33I?si=BFcfKeb0RHFGXKHd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>Vídeo 4: Verificação da Google Classroom (Fonte: Almeida, Natan. 2024).</p>
 </center>
-<br>
 
 ### Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
@@ -199,7 +198,7 @@ Pode ser vista no [YouTube](https://youtu.be/nZfeuggegBo?si=7lBcD4-ychX_wYID).</
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 06/11/2024 | Verificação artefato de rich picture |  Natan Almeida | Leandro de Almeida | 
 |  1.1   | 06/11/2024 | Alterações na metodologia |  Leandro de Almeida | Matheus Barros |
-|  1.1   | 06/11/2024 | Alterações na metodologia |  Leandro de Almeida | Matheus Barros |
 |  1.2   | 06/11/2024 | verificação do rich picture caesb autoatendimento |  Letícia Resende | Natan Almeida |
 |  1.3   | 06/11/2024 | verificação do rich picture google classroom |  Natan Almeida | João Marques |
-|  1.4   | 06/11/2024 | verificação do rich picture carteira de trabalho digital |  Joao Marques | Natan Almeida |
+|  1.4   | 06/11/2024 | verificação do rich picture brb mobilidade |  Leandro de Almeida | Matheus Barros |
+|  1.5   | 06/11/2024 | verificação do rich picture carteira de trabalho digital |  Joao Marques | Natan Almeida |
