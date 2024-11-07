@@ -20,9 +20,9 @@ Neste documento, realizou-se a avaliação do artefato de Ferramentas, que trata
 
 | Número | Descrição | Avaliação | Observações | 
 | :----: | :-------: | :-------: | :--------: | 
-| 1 | O artefato possui introdução ?| | Não se aplica |
+| 1 | O artefato possui introdução ?| Sim | |
 | 2 | O artefato define a metodologia que será utilizada? |  | Não se aplica |
-| 3 | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a referência é utilizada)? | | Não se aplica |
+| 3 | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a referência é utilizada)? | Sim | |
 | 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | Sim | |
 | 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação? | Sim | |
 | 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim | |
@@ -36,13 +36,6 @@ Neste documento, realizou-se a avaliação do artefato de Ferramentas, que trata
 <figcaption>Tabela 1: Checklist de verificação (Fonte: MARQUES, Joao. 2024)</figcaption>
 </center>
 
-## Link da gravação
-Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
-
-<center>
-  <iframe width="760" height="515" src="https://www.youtube.com/embed/oiR9VLdVYHI?si=Lox1U2swEH8zv1ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>Vídeo 1: Verificação do artefato de ferramentas (Fonte: MARQUES, Joao. 2024).</p>
-</center>
 
 ## Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
