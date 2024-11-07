@@ -57,12 +57,12 @@ nav:
 
       - Grupo 04:
         - Etapa 1:
-              - Equipe: planejamento/verificacao/Equipe_grupo4.md
-              - Cronograma: planejamento/verificacao/Cronograma_grupo4.md
+              - Equipe: planejamento/verificacaoG4/Equipe_grupo4.md
+              - Cronograma: planejamento/verificacaoG4/Cronograma_grupo4.md
               - Metodologia: index.md
               - Rich Picture: index.md
               - Ferramentas: index.md
-              - Aplicativo Escolhido: index.md
+              - Aplicativo Escolhido: planejamento/verificacaoG4/Aplicativo_Escolhido_grupo4.md
       
 markdown_extensions:
   - attr_list
