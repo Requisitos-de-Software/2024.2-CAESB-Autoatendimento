@@ -25,12 +25,12 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 
 | Número | Descrição | Avaliação | Observações | 
 | :----: | :-------: | :-------: | :--------: | 
-| 1 | O artefato possui introdução ?| sim| versão 1.1 07/11 |
-| 2 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | Sim |versão 1.1 07/11 |
-| 3 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação? | Sim |versão 1.1 07/11 |
-| 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim | versão 1.1 07/11|
-| 5 | A página apresenta todos os integrantes da equipe com base na planilha disponibilizada no aprender? | Sim |versão 1.1 07/11 |
-| 6 | Todos os integrantes possuem foto e nome? | Sim |versão 1.1 07/11 |  
+| 01 | O artefato possui introdução ?| sim| versão 1.1 07/11 |
+| 02 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | Sim |versão 1.1 07/11 |
+| 03 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação? | Sim |versão 1.1 07/11 |
+| 04 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim | versão 1.1 07/11|
+| 05 | A página apresenta todos os integrantes da equipe com base na planilha disponibilizada no aprender? | Sim |versão 1.1 07/11 |
+| 06 | Todos os integrantes possuem foto e nome? | Sim |versão 1.1 07/11 |  
 
 
 </center>
