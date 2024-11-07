@@ -48,7 +48,7 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 <center>
   <iframe width="760" height="515" src="https://www.youtube.com/embed/OEty1kxPXBc?si=InC35Vx6GleI-9QE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>Vídeo 1: Verificação do Cronograma (Fonte: RESENDE, Letícia. 2024).</p>
-
+</center>
 
 ## Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
