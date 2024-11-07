@@ -47,4 +47,4 @@ Neste documento, realizou-se a avaliação do artefato de Ferramentas, que trata
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 05/11/2024 | Verificação artefato de ferramentas |  Joao Marques | Natan Almeida |
+|  1.0   | 06/11/2024 | Verificação artefato de ferramentas |  Joao Marques | Natan Almeida |
