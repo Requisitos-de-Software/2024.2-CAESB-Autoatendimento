@@ -43,6 +43,14 @@ Neste documento, realizou-se a avaliação do artefato de Ferramentas, que trata
 ## Sugestões
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
+## Link da gravação
+Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
+
+<center>
+  <iframe width="760" height="515" src="https://www.youtube.com/embed/oiR9VLdVYHI?si=Lox1U2swEH8zv1ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>Vídeo 1: Verificação do artefato de ferramentas (Fonte: MARQUES, Joao. 2024).</p>
+</center>
+
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |

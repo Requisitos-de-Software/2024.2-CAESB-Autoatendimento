@@ -164,6 +164,35 @@ Pode ser vista no [YouTube](https://youtu.be/X3HxoT0O33I).</p>
 ### Sugestões
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
+## Revisão do Rich Picture - Carteira de Trabalho Digital 
+
+<p align="justify">&emsp;&emsp;Esta sessão inclui a verificação do Rich picture relativo à Carteira de Trabalho Digital.</p>
+
+| Número | Descrição | Avaliação | Observações | 
+| :----: | :-------: | :-------: | :--------: | 
+| 7 | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema?  | Sim | |
+| 8 | O Rich Picture delimitou a fronteira do sistema? | Sim | |
+| 9 | O rich picture possui legenda? | sim |  |
+| 10 | O rich picture dá uma ideia do que realmente está acontecendo? | sim |  |
+
+<center>
+<figcaption>Tabela 06: Lista de Verificação - Carteira de Trabalho Digital (Fonte: MARQUES, Joao. 2024)</figcaption>
+</center>
+
+### Link da gravação - Verificação da Carteira de Trabalho Digital
+Pode ser vista no [YouTube](https://youtu.be/nZfeuggegBo?si=7lBcD4-ychX_wYID).</p>
+
+<center>
+  <iframe width="760" height="515" src="https://www.youtube.com/embed/nZfeuggegBo?si=7lBcD4-ychX_wYID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>Vídeo 5: Verificação do Rich Picture- Carteira de Trabalho Digital (Fonte: MARQUES, Joao. 2024).</p>
+</center>
+
+### Problemas encontrados
+<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
+
+### Sugestões
+<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
+
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
@@ -173,3 +202,4 @@ Pode ser vista no [YouTube](https://youtu.be/X3HxoT0O33I).</p>
 |  1.1   | 06/11/2024 | Alterações na metodologia |  Leandro de Almeida | Matheus Barros |
 |  1.2   | 06/11/2024 | verificação do rich picture caesb autoatendimento |  Letícia Resende | Natan Almeida |
 |  1.3   | 06/11/2024 | verificação do rich picture google classroom |  Natan Almeida | João Marques |
+|  1.4   | 06/11/2024 | verificação do rich picture carteira de trabalho digital |  Joao Marques | Natan Almeida |
