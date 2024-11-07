@@ -32,7 +32,7 @@
 | 9 | O Rich Picture delimitou a fronteira do sistema? | Sim | |
 | 10 | Os atores estão fora da fronteira do sistema? | Sim | |
 
-<figcaption>Tabela 01: Lista de Verificação - Moovit (Fonte: BARROS, Matheus. 2024)</figcaption>
+<figcaption>Tabela 01: Lista de Verificação - Grupo 04 (Fonte: BARROS, Matheus. 2024)</figcaption>
 
 ### Link da gravação - Verificação do Moovit
 Pode ser vista no [YouTube](https://youtu.be/SSQtN4w-k4o).</p>
