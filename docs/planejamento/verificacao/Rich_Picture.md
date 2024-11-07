@@ -179,10 +179,10 @@ Pode ser vista no [YouTube](https://youtu.be/X3HxoT0O33I).</p>
 </center>
 
 ### Link da gravação - Verificação da Carteira de Trabalho Digital
-Pode ser vista no [YouTube](https://youtu.be/nZfeuggegBo?si=7lBcD4-ychX_wYID).</p>
+Pode ser vista no [YouTube](https://youtu.be/DeWEDpVDBLo?si=pe-dLw1AqudmxipQ).</p>
 
 <center>
-  <iframe width="760" height="515" src="https://www.youtube.com/embed/nZfeuggegBo?si=7lBcD4-ychX_wYID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="760" height="515" src="https://youtu.be/DeWEDpVDBLo?si=pe-dLw1AqudmxipQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>Vídeo 5: Verificação do Rich Picture- Carteira de Trabalho Digital (Fonte: MARQUES, Joao. 2024).</p>
 </center>
 
