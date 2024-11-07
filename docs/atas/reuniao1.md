@@ -30,7 +30,7 @@ Local: Online via Teams
 [link da Reunião 20/10/2024](https://youtu.be/sKlWCrd8NJE)
 
 <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/sKlWCrd8NJE?si=1NYoxfKk_63si-6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/sKlWCrd8NJE?si=1NYoxfKk_63si-6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen></iframe>
     <p>Vídeo 1: Gravação da reunião 1 (Fonte: Grupo. 2024).</p>
 </center>
 
