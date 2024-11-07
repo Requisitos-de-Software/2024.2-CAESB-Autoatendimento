@@ -19,9 +19,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 <br>
 
 ## Verificação da Equipe 
-<p align="justify">
-&emsp;&emsp;A tabela 01 apresenta a Lista de Verificação da Equipe do grupo 4 
-</p>
+
 
 <center>
 

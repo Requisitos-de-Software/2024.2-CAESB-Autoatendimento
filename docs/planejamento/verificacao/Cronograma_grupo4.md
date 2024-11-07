@@ -20,9 +20,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 
 
 ## Verificação Cronograma
-<p align="justify">
-&emsp;&emsp;A tabela 01 apresenta a Lista de Verificação do Cronograma do grupo 4 
-</p>
+
 
 | Número | Descrição                                                                                    | Avaliação | Observações |
 |----|----------------------------------------------------------------------------------------------|-----------|-------------|
