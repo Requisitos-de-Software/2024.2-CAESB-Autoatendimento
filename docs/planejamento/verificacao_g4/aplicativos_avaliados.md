@@ -64,8 +64,12 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=lQjq0o2LYCE" target="
 <p align="justify">2. Acrescentar um paragráfo explicando a metodologia utilizada nas avaliações. </p>
 <p align="justify">9. Escrever em cada avaliação os problemas encontrados durante a avaliação dos aplicativos.</p>
 
+### Referência
+> <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63
+   Acesso em: 07 nov. 2024.
+</p>
+
 <br>
-</center>
 
 <center>
 

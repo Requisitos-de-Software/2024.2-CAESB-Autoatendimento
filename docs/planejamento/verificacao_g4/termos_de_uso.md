@@ -59,6 +59,11 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=Th56W9k-VXw" target="
 ## Sugestões
 <p align="justify">10. Incluir no artefato um paragráfo falando se foi encontrada ou não alguma limitação nos termos de uso que impedisse o estudo do aplicativo.</p>
 
+### Referências
+> <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63
+   Acesso em: 07 nov. 2024.
+</p>
+
 <br>
 </center>
 
@@ -70,5 +75,6 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=Th56W9k-VXw" target="
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 07/11/2024 | Criação do Documento e Lista de Verificação | Leandro de Almeida | Letícia Resende |
 |  1.1   | 07/11/2024 | Add Video de Verificação | Leandro de Almeida | Letícia Resende |
+|  1.2   | 07/11/2024 | Ajuste no Layout | Matheus Barros | Letícia Resende|
 
 </center>

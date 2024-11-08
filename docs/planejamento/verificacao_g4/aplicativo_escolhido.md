@@ -56,7 +56,6 @@ Pode ser vista no <a href="https://youtu.be/fy8v4uSvXlM" target="_blank">YouTube
 ## Sugestões
 <p align="justify">&emsp;&emsp;Não há sugestões.</p>
 
-<br>
 
 ## Referências
 
@@ -65,8 +64,15 @@ Pode ser vista no <a href="https://youtu.be/fy8v4uSvXlM" target="_blank">YouTube
 
 </p>
 
+<br>
+
+<center>
+
 ## Histórico de Versão
 
 | Versão |    Data    |                  Descrição                  |     Autor     |     Revisor     |
 | :----: | :--------: | :-----------------------------------------: | :-----------: | :-------------: |
 |  1.0   | 07/11/2024 | Criação do Documento e Lista de Verificação | Natan Almeida | Letícia Resende |
+|  1.1   | 07/11/2024 | Ajuste no Layout | Matheus Barros | Letícia Resende|
+
+<center>

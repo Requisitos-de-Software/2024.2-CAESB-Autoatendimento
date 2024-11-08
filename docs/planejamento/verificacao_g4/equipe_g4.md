@@ -68,6 +68,8 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
    Acesso em: 07 nov. 2024.
 </p>
 
+<br>
+
 <center>
 
 ## Histórico de versão
@@ -75,4 +77,6 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 07/11/2024 | Criação do Documento, Lista de Verificação e vídeo grupo 4 |  Letícia Resende | Matheus Barros |
+|  1.1   | 07/11/2024 | Ajuste no Layout | Matheus Barros | Letícia Resende|
+
 </center>
