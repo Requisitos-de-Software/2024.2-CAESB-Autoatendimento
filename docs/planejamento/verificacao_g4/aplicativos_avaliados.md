@@ -31,7 +31,7 @@
 |   6    | Todas as tabelas e imagens são mencionadas no texto, possuem legendas e fontes?                                                     |    sim       |     versão 1.3 05/11        |
 |   7    | Cada um dos integrantes avaliou um aplicativo?                                                                                      |    sim       |   versão 1.3 05/11          |
 |   8    | Cada aplicativo possui uma descrição?                                                                                               |    sim       |versão 1.3 05/11             |
-|   9    | Os problemas encontrados a partir da avaliação dos sites foram apresentados?                                                        |    não       |  versão 1.3 05/11          |
+|   9    | Os problemas encontrados a partir da avaliação dos aplicativos foram apresentados?                                                        |    não       |  versão 1.3 05/11          |
 |  10    | É mencionada a complexidade de cada aplicativo?                                                                                     |    sim       | versão 1.3 05/11            |
 |  11    | Os aplicativos nunca foram trabalhados anteriormente na disciplina?                                                                 |    sim       |   versão 1.3 05/11          |
 |  12    | Os aplicativos escolhidos são gratuitos?                                                                                            |    sim       |    versão 1.3 05/11         |
@@ -74,6 +74,7 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=lQjq0o2LYCE" target="
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 07/11/2024 | Criação do Documento e Lista de Verificação | Leandro de Almeida | Letícia Resende |
+|  1.1   | 07/11/2024 | Add Video de Verificação | Leandro de Almeida | Letícia Resende |
 
 
 </center>

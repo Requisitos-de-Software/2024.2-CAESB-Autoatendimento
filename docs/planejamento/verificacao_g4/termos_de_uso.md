@@ -57,7 +57,7 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=Th56W9k-VXw" target="
 <p align="justify">10. O artefato não deixa claro se houve alguma limitação ou ressalva quanto ao uso do aplicativo para fins de estudo. </p>
 
 ## Sugestões
-<p align="justify">Incluir no artefato um paragráfo falando se foi encontrada ou não alguma limitação nos termos de uso que impedisse o estudo do aplicativo.</p>
+<p align="justify">10. Incluir no artefato um paragráfo falando se foi encontrada ou não alguma limitação nos termos de uso que impedisse o estudo do aplicativo.</p>
 
 <br>
 </center>
@@ -69,5 +69,6 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=Th56W9k-VXw" target="
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 07/11/2024 | Criação do Documento e Lista de Verificação | Leandro de Almeida | Letícia Resende |
+|  1.1   | 07/11/2024 | Add Video de Verificação | Leandro de Almeida | Letícia Resende |
 
 </center>
