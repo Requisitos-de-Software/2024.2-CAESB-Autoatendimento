@@ -66,9 +66,11 @@ Pode ser vista no <a href="https://youtu.be/fy8v4uSvXlM" target="_blank">YouTube
 
 <br>
 
-<center>
 
 ## Histórico de Versão
+
+
+<center>
 
 | Versão |    Data    |                  Descrição                  |     Autor     |     Revisor     |
 | :----: | :--------: | :-----------------------------------------: | :-----------: | :-------------: |

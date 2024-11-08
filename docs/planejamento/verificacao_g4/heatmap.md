@@ -52,18 +52,21 @@ Pode ser vista no [YouTube](https://youtu.be/P1l5TW5IoU8).</p>
 ### Sugestões
 <p align="justify">&emsp;&emsp; O único ajuste necessário seria arrumar alguns erros de digitação e acentuação encontrados na introdução e no texto que exemplifica a metodologia utilizada.</p>
 
-### Referências
+## Referências
+
 > <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63
    Acesso em: 07 nov. 2024.
 </p>
 
 <br>
 
+### Histórico de Versão
+
 <center>
 
-### Histórico de Versão
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 07/11/2024 | Verificação artefato de Heatmap - Grupo 04 |  Matheus Barros | Leandro de Almeida | 
 |  1.1   | 07/11/2024 | Ajuste no Layout | Matheus Barros | Letícia Resende|
+
 <center>

@@ -53,8 +53,6 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 </p>
 </center>
 
-<br>
-
 ## Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
 
@@ -70,9 +68,11 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 
 <br>
 
-<center>
+
 
 ## Histórico de versão
+
+<center>
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |

@@ -76,9 +76,11 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 <br>
 
 
-<center>
+
 
 ## Histórico de Versão
+
+<center>
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |

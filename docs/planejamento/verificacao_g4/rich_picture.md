@@ -48,23 +48,24 @@ Pode ser vista no [YouTube](https://youtu.be/SSQtN4w-k4o).</p>
 </p>
 </center>
 
-### Problemas encontrados
+## Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
 
-### Sugestões
+## Sugestões
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões cabíveis para ele.</p>
 
 
-### Referências
+## Referências
+
 > <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63
    Acesso em: 07 nov. 2024.
 </p>
 
 <br>
 
-<center>
+## Histórico de versão
 
-### Histórico de versão
+<center>
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :--------: | :---------: |

@@ -64,6 +64,7 @@ nav:
               - Cronograma: planejamento/verificacao_g4/cronograma_g4.md
               - Rich Picture: planejamento/verificacao_g4/rich_picture.md
               - Heatmap: planejamento/verificacao_g4/heatmap.md
+              - Ferramentas:  planejamento/verificacao_g4/ferramentas.md
 markdown_extensions:
   - attr_list
   - md_in_html
