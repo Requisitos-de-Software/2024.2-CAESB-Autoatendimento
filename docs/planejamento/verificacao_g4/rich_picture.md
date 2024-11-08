@@ -54,6 +54,8 @@ Pode ser vista no [YouTube](https://youtu.be/SSQtN4w-k4o).</p>
 ### Sugestões
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões cabíveis para ele.</p>
 
+<br>
+
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 07/11/2024 | Verificação artefato de rich picture - Grupo 04 |  Matheus Barros | Leandro de Almeida | 

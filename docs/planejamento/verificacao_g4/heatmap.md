@@ -51,6 +51,7 @@ Pode ser vista no [YouTube](https://youtu.be/P1l5TW5IoU8).</p>
 
 ### Sugestões
 <p align="justify">&emsp;&emsp; O único ajuste necessário seria arrumar alguns erros de digitação e acentuação encontrados na introdução e no texto que exemplifica a metodologia utilizada.</p>
+<br>
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
