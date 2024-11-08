@@ -22,20 +22,21 @@
 ## Verificação de Aplicativos Avaliados
 
 | Número | Descrição                                                                                                                           | Avaliação | Observações |
-| :----: | :----------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
-|   1    | O artefato possui introdução?                                                                                                        |           |             |
-|   2    | O artefato define a metodologia que será utilizada?                                                                                  |           |             |
-|   3    | O artefato possui bibliografia ou referência bibliográfica (citando no texto as referências utilizadas)?                             |           |             |
-|   4    | O artefato possui histórico de versões, apresentando a versão, a data e os responsáveis?                                             |           |             |
-|   5    | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação?                                                      |           |             |
-|   6    | Todas as tabelas e imagens são mencionadas no texto, possuem legendas e fontes?                                                      |           |             |
-|   7    | Cada um dos integrantes avaliou um aplicativo?                                                                                       |           |             |
-|   8    | Cada aplicativo possui uma descrição?                                                                                                |           |             |
-|   9    | Os problemas encontrados a partir da avaliação dos sites foram apresentados?                                                         |           |             |
-|  10    | É mencionada a complexidade de cada aplicativo?                                                                                      |           |             |
-|  11    | Os aplicativos nunca foram trabalhados anteriormente na disciplina?                                                                  |           |             |
-|  12    | Os aplicativos escolhidos são gratuitos?                                                                                             |           |             |
-|  13    | Há indicação de quem avaliou cada aplicativo?                                                                                        |           |             |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------|
+|   1    | O artefato possui introdução?                                                                                                       |    sim       |    versão 1.3 05/11          |
+|   2    | O artefato define a metodologia que será utilizada?                                                                                 |    não       |       versão 1.3 05/11      |
+|   3    | O artefato possui bibliografia ou referência bibliográfica (citando no texto as referências utilizadas)?                            |    sim       |      versão 1.3 05/11       |
+|   4    | O artefato possui histórico de versões, apresentando a versão, a data e os responsáveis?                                            |    sim       |      versão 1.3 05/11       |
+|   5    | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação?                                                     |    sim       |     versão 1.3 05/11        |
+|   6    | Todas as tabelas e imagens são mencionadas no texto, possuem legendas e fontes?                                                     |    sim       |     versão 1.3 05/11        |
+|   7    | Cada um dos integrantes avaliou um aplicativo?                                                                                      |    sim       |   versão 1.3 05/11          |
+|   8    | Cada aplicativo possui uma descrição?                                                                                               |    sim       |versão 1.3 05/11             |
+|   9    | Os problemas encontrados a partir da avaliação dos sites foram apresentados?                                                        |    não       |  versão 1.3 05/11          |
+|  10    | É mencionada a complexidade de cada aplicativo?                                                                                     |    sim       | versão 1.3 05/11            |
+|  11    | Os aplicativos nunca foram trabalhados anteriormente na disciplina?                                                                 |    sim       |   versão 1.3 05/11          |
+|  12    | Os aplicativos escolhidos são gratuitos?                                                                                            |    sim       |    versão 1.3 05/11         |
+|  13    | Há indicação de quem avaliou cada aplicativo?                                                                                       |    sim       |   versão 1.3 05/11         |
+
 
 <p align="justify">
 <h6 align = "center"> Tabela 01: Lista de Verificação dos Aplicativos Avaliados
@@ -43,10 +44,10 @@
 </p>
 
 ## Link da gravação - Verificação dos Aplicativos Avaliados 
-Pode ser vista no <a href="https://youtu.be/oiR9VLdVYHI" target="_blank">YouTube</a>.
+Pode ser vista no <a href="https://www.youtube.com/watch?v=lQjq0o2LYCE" target="_blank">YouTube</a>.
 
 <center>
-<iframe width="760" height="515" src="https://www.youtube.com/embed/AiN-Rrh8Qvg?si=-S-NoXN9NX4_0k8u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/lQjq0o2LYCE?si=zKcfFmLM-wmUQtFB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p align="justify">
 <h6 align = "center"> Vídeo 01: Lista de Verificação dos Aplicativos Avaliados
@@ -56,19 +57,15 @@ Pode ser vista no <a href="https://youtu.be/oiR9VLdVYHI" target="_blank">YouTube
 </center>
 
 ## Problemas encontrados
-<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
+<p align="justify">2. O artefato não possui a metodologia utilizada. </p>
+<p align="justify">9. Não foram descritos os problemas encontrados a partir da avaliação dos aplicativos.</p>
 
 ## Sugestões
-<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
+<p align="justify">2. Acrescentar um paragráfo explicando a metodologia utilizada nas avaliações. </p>
+<p align="justify">9. Escrever em cada avaliação os problemas encontrados durante a avaliação dos aplicativos.</p>
 
 <br>
 </center>
-
-## Referências
-
-> <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63
-   Acesso em: 07 nov. 2024.
-</p>
 
 <center>
 
