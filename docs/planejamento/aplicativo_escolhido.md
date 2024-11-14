@@ -29,53 +29,69 @@ Os Termos de Uso e a Política de Privacidade do aplicativo CAESB Autoatendiment
 Essas informações podem incluir dados como histórico de consumo, localização e outras informações fornecidas voluntariamente, sempre em conformidade com as leis de proteção de dados e com respeito aos direitos de privacidade dos usuários. A CAESB compromete-se a manter um ambiente seguro para o armazenamento e o tratamento das informações, adotando medidas de segurança para proteger os dados de acessos não autorizados e garantir o cumprimento das legislações vigentes. A caesbe autoatendimento permite que se faça pesquisas e estudos 
 sobre o sistema.</p>
 
+<br>
 
 <center>
+<figcaption>Imagem 1: Termos de Uso Parte 1</figcaption>
 <img src="https://github.com/user-attachments/assets/b25d2968-3426-44d1-b966-24a022aeaf23" width="1000" >
-<figcaption>Imagem 1: Termos de Uso Parte 1 (Fonte: RESENDE, Letícia. 2024)</figcaption>
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/9b419fc6-5165-4cbd-b955-d69fd539cf0e" width="1000" >
-<figcaption>Imagem 2: Termos de Uso Parte 2 (Fonte: RESENDE, Letícia. 2024)</figcaption>
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/5e346f3a-c8a6-4fd2-8c58-63943ad08c36" width="1000" >
-<figcaption>Imagem 3: Termos de Uso Parte 3 (Fonte: RESENDE, Letícia. 2024)</figcaption>
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/9b335ab4-fb4f-441d-ac48-9c9580229870" width="1000" >
-<figcaption>Imagem 4: Termos de Uso Parte 4 (Fonte: RESENDE, Letícia. 2024)</figcaption>
-</center>
-
-<br>
-
 <center>
-<img src="https://github.com/user-attachments/assets/75572de7-61d6-41a7-b585-5c2ca4612f70" width="1000" >
-<figcaption>Imagem 5: Termos de Uso Parte 5 (Fonte: RESENDE, Letícia. 2024)</figcaption>
+
+
+
+<br>
+
+<figcaption>Imagem 2: Termos de Uso Parte 2</figcaption>
+<img src="https://github.com/user-attachments/assets/9b419fc6-5165-4cbd-b955-d69fd539cf0e" width="1000" >
+
+<br>
+
+<figcaption>Imagem 3: Termos de Uso Parte 3</figcaption>
+<img src="https://github.com/user-attachments/assets/5e346f3a-c8a6-4fd2-8c58-63943ad08c36" width="1000" >
+
+
+<br>
+
+<figcaption>Imagem 4: Termos de Uso Parte 4</figcaption>
+<img src="https://github.com/user-attachments/assets/9b335ab4-fb4f-441d-ac48-9c9580229870" width="1000" >
+
+
 </center>
 
+<br>
+
+
+<figcaption>Imagem 5: Termos de Uso Parte 5</figcaption>
+<img src="https://github.com/user-attachments/assets/75572de7-61d6-41a7-b585-5c2ca4612f70" width="1000" >
+
+
+
+</center>
+
+<br>
 
 ## Referências
 
-
-
 > <p id="1">1. Aplicativo da Caesb Autoatendimento. Disponível em: 
-   [https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR](https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR). 
+   [https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR). 
+   Acesso em: 29 out. 2024.
+   
+><p id="2">2. Fonte do termo de uso. Disponível em: 
+   [https://sistemas.caesb.df.gov.br/portal-servicos/app/publico/politicaprivacidade?execution=e1s1#:~:text=Compromisso%20do%20Usu%C3%A1rio,ser%C3%A3o%20comunicados%20%C3%A0s%20autoridades%20competentes](https://sistemas.caesb.df.gov.br/portal-servicos/app/publico/politicaprivacidade?execution=e1s1#:~:text=Compromisso%20do%20Usu%C3%A1rio,ser%C3%A3o%20comunicados%20%C3%A0s%20autoridades%20competentes)
    Acesso em: 29 out. 2024.
 </p>
 
+<br>
 
 
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 22/10/2024 | Adição do aplicativo escolhido | Letícia Resende | Leandro de Almeida  |
-|  1.1   | 27/10/2024 | Arrumando as fontes das imagens | Leandro de Almeida | Letícia Resende |
-|  1.2   | 29/10/2024 | Mudando o aplicativo | Letícia Resende | Leandro de Almeida |
+|  1.0   | 22/10/2024 | Adição do aplicativo escolhido | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.1   | 27/10/2024 | Arrumando as fontes das imagens | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.2   | 29/10/2024 | Mudando o aplicativo | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.3   | 13/11/2024 | Correção pós apresentação |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 
 
 </center>
+

@@ -17,31 +17,15 @@
 - Sim: Quando o critério avaliado está de acordo com o requisitado
 - Não: Quando o critério avaliado não está de acordo com o requisitado
 - Não se aplica: Caso o documento não precise desse quesito
-<center>
 
-| Número | Descrição | Avaliação | Observações | 
-| :----: | :-------: | :-------: | :--------: | 
-| 1      | O artefato possui introdução?                                                                                                    |    Sim       |             |
-| 2      | O artefato define a metodologia que será utilizada?                                                                              |       Sim     |             |
-| 3      | O artefato possui bibliografia ou referência bibliográfica (chamando do texto para as referências onde a referência é utilizada)?|   Sim         |             |
-| 4      | O artefato possui histórico de versões, apresentando a versão, a data, e os responsáveis?                                        |    Sim        |             |
-| 5      | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação?                                                  |     Sim       |             |
-| 6      | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                     |      Sim         |    |
+<br>
 
-</center>
-
-<center><figcaption>Tabela 01: Lista de Verificação do Rich Picture (Fonte: Almeida, Natan. 2024)</figcaption></center>
-
-## Problemas encontrados
-<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
-
-## Sugestões
-<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
 
 ## Revisão do Rich Picture - Moovit 
 
-<p align="justify">&emsp;&emsp;Esta sessão inclui a verificação do Rich picture relativo ao Moovit.</p>
+
+<p align="justify">&emsp;&emsp;Tabela 01: Verificação Rich Picture - Moovit.</p>
 
 | Número | Descrição | Avaliação | Observações | 
 | :----: | :-------: | :-------: | :--------: | 
@@ -50,16 +34,21 @@
 | 9 | O Rich Picture delimitou a fronteira do sistema? | Sim | |
 | 10 | Os atores estão fora da fronteira do sistema? | Sim | |
 
+
 <center>
-<figcaption>Tabela 02: Lista de Verificação - Moovit (Fonte: BARROS, Matheus. 2024)</figcaption>
+Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
 </center>
 
 ### Link da gravação - Verificação do Moovit
 Pode ser vista no [YouTube](https://youtu.be/nZfeuggegBo?si=7lBcD4-ychX_wYID).</p>
 
 <center>
+<p>Vídeo 01: Verificação do Rich Picture - Moovit.</p>
+</center>
+
+<center>
   <iframe width="760" height="515" src="https://www.youtube.com/embed/nZfeuggegBo?si=7lBcD4-ychX_wYID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>Vídeo 1: Verificação do Rich Picture- Moovit (Fonte: BARROS, Matheus. 2024).</p>
+Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
 </center>
 
 ### Problemas encontrados
@@ -68,9 +57,11 @@ Pode ser vista no [YouTube](https://youtu.be/nZfeuggegBo?si=7lBcD4-ychX_wYID).</
 ### Sugestões
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
+<br>
+
 ## Revisão do Rich Picture - BRB Mobilidade
 
-<p align="justify">&emsp;&emsp;Esta sessão inclui a verificação do Rich picture relativo ao BRB Mobilidade.</p>
+<p align="justify">&emsp;&emsp;Tabela 02: Verificação Rich Picture - BRB Mobilidadde.</p>
 
 | Número | Descrição                                                                                                               | Avaliação | Observações |
 | :----: | :---------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
@@ -83,15 +74,19 @@ Pode ser vista no [YouTube](https://youtu.be/nZfeuggegBo?si=7lBcD4-ychX_wYID).</
 |   13   | O rich picture apresenta uma escolha de palavras simples (sem jargões) relevantes para o entendimento?                  |  Sim          |             |
 
 <center>
-<figcaption>Tabela 03: Lista de Verificação - BRB Mobilidade (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
+Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Alemida</a></h6>
 </center>
 
 ### Link da gravação - Verificação do BRB Mobilidade
 Pode ser vista no [YouTube](https://www.youtube.com/watch?v=MizcbfGQFEs).</p>
 
 <center>
+<p>Vídeo 02: Verificação do Rich Picture - BRB Mobilidade.</p>
+</center>
+
+<center>
   <iframe width="760" height="515" src="https://www.youtube.com/embed/MizcbfGQFEs?si=_03Bzod12JzzcWfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>Vídeo 2: Verificação do Rich Picture - BRB Mobilidade (Fonte: ALMEIDA, Leandro. 2024)</p>
+Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
 
@@ -101,9 +96,11 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=MizcbfGQFEs).</p>
 ### Sugestões
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
+<br>
+
 ## Revisão do Rich Picture - Caesb Autoatendimento
 
-<p align="justify">&emsp;&emsp;Esta sessão inclui a verificação do Rich picture relativo a Caesb Autoatendimento.</p>
+<p align="justify">&emsp;&emsp;Tabela 03: Verificação Rich Picture - Caesb Autoatendimento.</p>
 
 | Número | Descrição | Avaliação | Observações | 
 | :----: | :-------: | :-------: | :--------: | 
@@ -114,17 +111,19 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=MizcbfGQFEs).</p>
 | 11 | O rich picture dá uma ideia do que realmente está acontecendo?| Sim | |
 
 <center>
-<figcaption>Tabela 04: Lista de Verificação - Caesb Autoatendimento (Fonte: RESENDE, Letícia. 2024)</figcaption>
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
 ### Link da gravação - Verificação da Caesb Autoatendomento
 Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 
 <center>
-  <iframe width="760" height="515" src="https://www.youtube.com/embed/TTPBJEne0wU?si=yBKRpdsqWtJUaXDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>Vídeo 3: Verificação da Caesb Autoatendimento (Fonte: RESENDE, Letícia. 2024).</p>
-</center>
+<p>Vídeo 03: Verificação do Rich Picture - Caesb Autoatendimento.</p>
 
+  <iframe width="760" height="515" src="https://www.youtube.com/embed/TTPBJEne0wU?si=yBKRpdsqWtJUaXDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</center>
 
 ### Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
@@ -132,9 +131,11 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 ### Sugestões
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
+<br>
+
 ## Revisão do Rich Picture - Google Classroom
 
-<p align="justify">&emsp;&emsp;Esta sessão inclui a verificação do Rich picture relativo a Google Classroom.</p>
+<p align="justify">&emsp;&emsp;Tabela 04: Verificação Rich Picture - Google Classroom.</p>
 
 | Número | Descrição | Avaliação | Observações | 
 | :----: | :-------: | :-------: | :--------: | 
@@ -146,15 +147,19 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 | 12 | O rich picture simula uma ação real do usuário? | sim |  |
 
 <center>
-<figcaption>Tabela 05: Lista de Verificação - Google Classroom (Fonte: Almeida, Natan. 2024)</figcaption>
+Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
 </center>
+
 
 ### Link da gravação - Verificação do Google Classroom
 Pode ser vista no [YouTube](https://youtu.be/X3HxoT0O33I).</p>
+<center>
+<p>Vídeo 04: Verificação do Rich Picture - Google Classroom.</p>
+</center>
 
 <center>
   <iframe width="760" height="515" src="https://www.youtube.com/embed/X3HxoT0O33I?si=BFcfKeb0RHFGXKHd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>Vídeo 4: Verificação da Google Classroom (Fonte: Almeida, Natan. 2024).</p>
+Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
 </center>
 
 ### Problemas encontrados
@@ -163,9 +168,11 @@ Pode ser vista no [YouTube](https://youtu.be/X3HxoT0O33I).</p>
 ### Sugestões
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
+<br>
+
 ## Revisão do Rich Picture - Carteira de Trabalho Digital 
 
-<p align="justify">&emsp;&emsp;Esta sessão inclui a verificação do Rich picture relativo à Carteira de Trabalho Digital.</p>
+<p align="justify">&emsp;&emsp;Tabela 05: Verificação Rich Picture - Carteira de Trabalho Digital.</p>
 
 | Número | Descrição | Avaliação | Observações | 
 | :----: | :-------: | :-------: | :--------: | 
@@ -175,15 +182,19 @@ Pode ser vista no [YouTube](https://youtu.be/X3HxoT0O33I).</p>
 | 10 | O rich picture dá uma ideia do que realmente está acontecendo? | sim |  |
 
 <center>
-<figcaption>Tabela 06: Lista de Verificação - Carteira de Trabalho Digital (Fonte: MARQUES, Joao. 2024)</figcaption>
+Autor(a): <a href="https://github.com/jmarquees" target = "_blank">João Victor Marques</a></h6>
 </center>
 
 ### Link da gravação - Verificação da Carteira de Trabalho Digital
 Pode ser vista no [YouTube](https://youtu.be/DeWEDpVDBLo?si=pe-dLw1AqudmxipQ).</p>
 
 <center>
+<p>Vídeo 05: Verificação do Rich Picture - Carteira de Trabalho Digital.</p>
+</center>
+
+<center>
   <iframe width="760" height="515" src="https://www.youtube.com/embed/DeWEDpVDBLo?si=gAoAtmnBF_ndQBwp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>Vídeo 5: Verificação do Rich Picture- Carteira de Trabalho Digital (Fonte: MARQUES, Joao. 2024).</p>
+Autor(a): <a href="https://github.com/jmarquees" target = "_blank">João Victor Marques</a></h6>
 </center>
 
 ### Problemas encontrados
@@ -196,9 +207,10 @@ Pode ser vista no [YouTube](https://youtu.be/DeWEDpVDBLo?si=pe-dLw1AqudmxipQ).</
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 06/11/2024 | Verificação artefato de rich picture |  Natan Almeida | Leandro de Almeida | 
-|  1.1   | 06/11/2024 | Alterações na metodologia |  Leandro de Almeida | Matheus Barros |
-|  1.2   | 06/11/2024 | verificação do rich picture caesb autoatendimento |  Letícia Resende | Natan Almeida |
-|  1.3   | 06/11/2024 | verificação do rich picture google classroom |  Natan Almeida | João Marques |
-|  1.4   | 06/11/2024 | verificação do rich picture brb mobilidade |  Leandro de Almeida | Matheus Barros |
-|  1.5   | 06/11/2024 | verificação do rich picture carteira de trabalho digital |  Joao Marques | Natan Almeida |
+|  1.0   | 06/11/2024 | Verificação artefato de rich picture |  [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10) | 
+|  1.1   | 06/11/2024 | Alterações na metodologia |  [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.2   | 06/11/2024 | verificação do rich picture caesb autoatendimento |  [Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.3   | 06/11/2024 | verificação do rich picture google classroom |  [Natan Almeida](https://github.com/natanalmeida03) | [Joao Victor Marques](https://github.com/jmarquees) |
+|  1.4   | 06/11/2024 | verificação do rich picture brb mobilidade |  [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.5   | 06/11/2024 | verificação do rich picture carteira de trabalho digital |  [Joao Victor Marques](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.6   | 13/11/2024 | Correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03) |

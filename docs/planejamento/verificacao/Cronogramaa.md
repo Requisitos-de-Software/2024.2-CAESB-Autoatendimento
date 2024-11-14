@@ -20,9 +20,8 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 
 
 ## Verificação Cronograma
-<p align="justify">
-&emsp;&emsp;A tabela 01 apresenta a Lista de Verificação do Cronograma que foi elaborada com base no plano de ensino da disciplina
-</p>
+
+<p align="justify">&emsp;&emsp;Tabela 01: Verificação Cronograma.</p>
 
 | Id | Descrição                                                                                    | Avaliação | Observações |
 |----|----------------------------------------------------------------------------------------------|-----------|-------------|
@@ -36,18 +35,22 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 | 08 | Possui um revisor diferente do que elaborou o cronograma?                                    |    Sim       | versão 1.0  05/11        |
 | 09 | As tabelas estão padronizadas?                                                               |    Sim       | versão 1.0  05/11          |
 
-<p align="justify">
-<h6 align = "center"> Tabela 01: Lista de Verificação do Cronograma
-<br> Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a></h6>
-</p>
+<center>
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</center>
 
+<br>
 
 ## Link da gravação - Verificação do Cronograma
 Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 
 <center>
+<p>Vídeo 01: Verificação do Cronograma.</p>
+
   <iframe width="760" height="515" src="https://www.youtube.com/embed/OEty1kxPXBc?si=InC35Vx6GleI-9QE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>Vídeo 1: Verificação do Cronograma (Fonte: RESENDE, Letícia. 2024).</p>
+
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+
 </center>
 
 ## Problemas encontrados
@@ -68,15 +71,16 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 </p>
 
 
-<center>
+<br>
 
 ## Histórico de Versão
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 04/11/2024 | Criação do Documento e Lista de Verificação | Letícia Resende | Leandro de Almeida|
-|  1.1   | 06/11/2024 | Adicionando vídeo da verificação | Letícia Resende | Leandro de Almeida|
+|  1.0   | 04/11/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
+|  1.1   | 06/11/2024 | Adicionando vídeo da verificação | [Letícia Resende](https://github.com/LeticiaResende23)|[Leandro de Almeida](https://github.com/leomitx10)|
+|  1.2   | 13/11/2024 | Correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23)|[Leandro de Almeida](https://github.com/leomitx10)|
 
-</center>
+
 
 

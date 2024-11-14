@@ -23,6 +23,7 @@
 
 ## Verificação Cronograma
 
+<p align="justify">&emsp;&emsp;Tabela 01: Verificação do Cronograma do grupo 04</p>
 
 | Número | Descrição                                                                                    | Avaliação | Observações |
 |----|----------------------------------------------------------------------------------------------|-----------|-------------|
@@ -36,22 +37,22 @@
 | 8 | Possui um revisor diferente do que elaborou o cronograma?                                    |    Sim       | versão 1.3  07/11        |
 | 9 | As tabelas estão padronizadas?                                                               |    Sim       | versão 1.3  0711          |
 
-<p align="justify">
-<h6 align = "center"> Tabela 01: Lista de Verificação do Cronograma 
-<br> Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a></h6>
-</p>
+<center>
+Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
+</center>
 
 
 ## Link da gravação - Verificação do Cronograma
 Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
+<center>
+<p>Vídeo 01: Verificação do Cronograma do grupo 04.</p>
+</center>
 
 <center>
 <iframe width="760" height="515" src="https://www.youtube.com/embed/AiN-Rrh8Qvg?si=-S-NoXN9NX4_0k8u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p align="justify">
-<h6 align = "center"> Vídeo 01: Lista de Verificação do Cronograma 
-<br> Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a></h6>
-</p>
+
+Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 
 </center>
 
@@ -76,16 +77,15 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 <br>
 
 
-
-
 ## Histórico de Versão
 
 <center>
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 07/11/2024 | Criação do Documento, Lista de Verificação e vídeo| Letícia Resende | Leandro de Almeida|
-|  1.1   | 07/11/2024 | Ajuste no Layout | Matheus Barros | Letícia Resende|
+|  1.0   | 07/11/2024 | Criação do Documento, Lista de Verificação e vídeo| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
+|  1.1   | 07/11/2024 | Ajuste no Layout | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23)|
+|  1.2   | 13/11/2024 | Correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
 
 
 </center>

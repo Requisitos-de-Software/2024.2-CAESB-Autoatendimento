@@ -21,7 +21,7 @@
 
 ## Verificação da Equipe 
 
-
+<p align="justify">&emsp;&emsp;Tabela 01: Verificação da equipe do grupo 04</p>
 <center>
 
 | Número | Descrição | Avaliação | Observações | 
@@ -33,24 +33,20 @@
 | 5 | A página apresenta todos os integrantes da equipe com base na planilha disponibilizada no aprender? | Sim |versão 1.1 07/11 |
 | 6 | Todos os integrantes possuem foto e nome? | Sim |versão 1.1 07/11 |  
 
-
+Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 </center>
 
-<p align="justify">
-<h6 align = "center"> Tabela 01: Lista de Verificação da Equipe 
-<br> Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a></h6>
-</p>
 
 ## Link da gravação
 Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
+<center>
+<p>Vídeo 01: Verificação da equipe do grupo 04.</p>
+</center>
 
 <center>
 <iframe width="760" height="515" src="https://www.youtube.com/embed/UGawLqEVE2Y?si=0640c5v7n_e-FkhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p align="justify">
-<h6 align = "center"> Vídeo 01: Lista de Verificação da Equipe
-<br> Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a></h6>
-</p>
+Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 </center>
 
 ## Problemas encontrados
@@ -76,7 +72,8 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 07/11/2024 | Criação do Documento, Lista de Verificação e vídeo grupo 4 |  Letícia Resende | Matheus Barros |
-|  1.1   | 07/11/2024 | Ajuste no Layout | Matheus Barros | Letícia Resende|
+|  1.0   | 07/11/2024 | Criação do Documento, Lista de Verificação e vídeo grupo 4 |  [Letícia Resende](https://github.com/LeticiaResende23) |  [Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.1   | 07/11/2024 | Ajuste no Layout |  [Matheus Barros](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23)|
+|  1.2   | 13/11/2024 | Correção pós apresentação |  [Matheus Barros](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23)|
 
 </center>

@@ -8,14 +8,25 @@
 <p align="justify">&emsp;&emsp;O BRB Mobilidade é um aplicativo que permite aos usuários acessar diversas funcionalidades relacionadas ao transporte público, como consultar saldo e itinerários de ônibus.</p>
 
 <center>
-    <img src=https://github.com/user-attachments/assets/7e0c1fa9-0c65-40c0-9858-64431d0c98fb width="100%">
-    <figcaption>Imagem 1: Rich Picture (Fonte: RESENDE, Letícia. 2024)</figcaption>
+<figcaption>Imagem 1: Rich Picture - BRB Mobilidade</figcaption>
+
+<img src=https://github.com/user-attachments/assets/7e0c1fa9-0c65-40c0-9858-64431d0c98fb width="100%">
+
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+
 </center>
 
+<br>
+
 <center>
-    <img src=https://github.com/user-attachments/assets/b228a426-b5ac-47aa-8ee0-3515932542c8>
-    <figcaption>Imagem 2 : Legenda do Rich Picture (Fonte: RESENDE, Letícia. 2024)</figcaption>
+<figcaption>Imagem 2 : Legenda do Rich Picture - BRB Mobilidade</figcaption>
+<img src=https://github.com/user-attachments/assets/b228a426-b5ac-47aa-8ee0-3515932542c8>
+ 
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+    
 </center>
+
+<br>
 
 ## Caesb Autoatendimento
 
@@ -88,11 +99,12 @@ Acesso em: 25 de Outubro de 2024;
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
-|  1.0   | 26/10/2024 | Criação do Rich Picture | Letícia Resende | Leandro de Almeida  |
-|  1.1   | 26/10/2024 | Adicionando o Rich Picture da Caesb | Leandro de Almeida | Letícia Resende |
-|  1.2   | 26/10/2024 | Criação do Rich Picture | Matheus Barros | Leandro de Almeida  |
-|  1.3   | 27/10/2024 | Adicionando o Rich Picture do Moovit  | Natan Almeida | Leandro de Almeida  |
-|  1.4   | 28/10/2024 | Adicionando o Rich Picture da Carteira de Trabalho Digital  | Joao Victor Marques | Leandro de Almeida  |
+|  1.0   | 26/10/2024 | Criação do Rich Picture | [Letícia Resende](https://github.com/LeticiaResende23)  | [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.1   | 26/10/2024 | Adicionando o Rich Picture da Caesb | [Leandro de Almeida](https://github.com/leomitx10) |[Letícia Resende](https://github.com/LeticiaResende23)  |
+|  1.2   | 26/10/2024 | Criação do Rich Picture |[Matheus Barros](https://github.com/Ninja-Haiyai) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.3   | 27/10/2024 | Adicionando o Rich Picture do Moovit  | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.4   | 28/10/2024 | Adicionando o Rich Picture da Carteira de Trabalho Digital  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.5   | 13/11/2024 | Correção pós apresentação  | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
 
 
 
