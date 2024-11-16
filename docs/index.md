@@ -60,8 +60,9 @@
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
-|  1.0   | 21/10/2024 | Criação e inclusão dos membros | Leandro de Almeida | Letícia Resende  |
-|  1.1   | 24/10/2024 | Reorganização do layout  | Leandro de Almeida | Letícia Resende  |
-|  1.2   | 29/10/2024 | Mudando o aplicativo  | Leandro de Almeida | Letícia Resende  |
+|  1.0   | 21/10/2024 | Criação e inclusão dos membros | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.1   | 24/10/2024 | Reorganização do layout | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.2   | 29/10/2024 | Mudando o aplicativo | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)  |
+|  1.3   | 16/11/2024 | Correção pós apresentação | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)  |
 
 </center>

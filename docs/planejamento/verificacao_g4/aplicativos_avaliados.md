@@ -21,6 +21,8 @@
 
 ## Verificação de Aplicativos Avaliados
 
+<center>Tabela 01: Verificação Aplicativos Avaliados</center>
+
 | Número | Descrição                                                                                                                           | Avaliação | Observações |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------|
 |   1    | O artefato possui introdução?                                                                                                       |    sim       |    versão 1.3 05/11          |
@@ -36,23 +38,18 @@
 |  11    | Os aplicativos nunca foram trabalhados anteriormente na disciplina?                                                                 |    sim       |   versão 1.3 05/11          |
 |  12    | Os aplicativos escolhidos são gratuitos?                                                                                            |    sim       |    versão 1.3 05/11         |
 |  13    | Há indicação de quem avaliou cada aplicativo?                                                                                       |    sim       |   versão 1.3 05/11         |
-
-
-<p align="justify">
-<h6 align = "center"> Tabela 01: Lista de Verificação dos Aplicativos Avaliados
-<br> Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro Almeida</a></h6>
-</p>
+<center>
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
+</center>
 
 ## Link da gravação - Verificação dos Aplicativos Avaliados 
 Pode ser vista no <a href="https://www.youtube.com/watch?v=lQjq0o2LYCE" target="_blank">YouTube</a>.
 
 <center>
+<p>Vídeo 01: Verificação dos Aplicativos Avaliados</p>
 <iframe width="760" height="515" src="https://www.youtube.com/embed/lQjq0o2LYCE?si=zKcfFmLM-wmUQtFB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p align="justify">
-<h6 align = "center"> Vídeo 01: Lista de Verificação dos Aplicativos Avaliados
-<br> Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro Almeida</a></h6>
-</p>
+Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 
 </center>
 
@@ -72,16 +69,13 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=lQjq0o2LYCE" target="
 
 <br>
 
-
-
 ## Histórico de Versão
 
 <center>
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
-| :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 07/11/2024 | Criação do Documento e Lista de Verificação | Leandro de Almeida | Letícia Resende |
-|  1.1   | 07/11/2024 | Add Video de Verificação | Leandro de Almeida | Letícia Resende |
-
+| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
+| :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
+|  1.0   | 07/11/2024 | Criação do Documento e Lista de Verificação  | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.1   | 07/11/2024 | Add Video de Verificação | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
 
 </center>

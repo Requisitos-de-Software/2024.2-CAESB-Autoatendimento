@@ -1,4 +1,4 @@
-# Verificação do Aplicativo Escolhido
+# Verificação da Metodologia
 
 ## Introdução
 <p align="justify">
@@ -17,12 +17,9 @@
 Neste documento, realizou-se a avaliação do artefato <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Metodologia </a>, que trata dos metódos e técnicas utilizadas no projeto  <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Caesb Autoatendimento</a>.
 </p>
 
+## Verificação da Metodologia
 
-## Verificação do Aplicativo Escolhido
-<p align="justify">
-&emsp;&emsp;A tabela 01 apresenta a Lista de Verificação da Metdologia que foi elaborada com base no plano de ensino da disciplina:
-</p>
-
+<center>Tabela 01: Verificação Metodologia</center>
 
 | Número | Descrição                                                                                                                        | Avaliação | Observações |
 | :----: | :------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
@@ -37,15 +34,16 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 | 9      | Os recursos necessários para a implementação da metodologia são listados?                                                        |   Não        |             |
 
 <center>
-<figcaption>Tabela 01: Lista de Verificação da Metodologia (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
 ## Link da gravação
 Pode ser vista no [YouTube](https://youtu.be/QUgt46e-qe0).</p>
 
 <center>
+    <p>Vídeo 01: Verificação da Metodologia</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/QUgt46e-qe0?si=taLRR4ycl5KxMWuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p>Vídeo 1: Verificação do artefato metodologia (Fonte: ALMEIDA, Leandro. 2024).</p>
+    Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
 ## Problemas encontrados
@@ -54,22 +52,23 @@ Pode ser vista no [YouTube](https://youtu.be/QUgt46e-qe0).</p>
 ## Sugestões
 <p align="justify">7. Descrever a metodologia utilizada citando o que é, como funciona e quais são suas características.</p>
 <p align="justify">9. Listar os recursos necessários para a implementação da metodologia</p>
-<br>
-
-
-
-## Histórico de Versão
-
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
-| :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0  | 05/11/2024 | Criação do Documento e Lista de Verificação da Metodologia | Leandro de Almeida | Matheus Barros|
-|  1.1  | 06/11/2024 | Adiciona o video de verificação | Leandro de Almeida | Matheus Barros|
-
-
-
 
 ## Referências
 
 > <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63
    Acesso em: 05 nov. 2024.
 </p>
+
+<br>
+
+## Histórico de Versão
+
+<center>
+
+| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
+| :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
+|  1.0   | 05/11/2024 | Criação do Documento e Lista de Verificação da Metodologia | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+|  1.1   | 06/11/2024 | Adiciona o video de verificação | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+|  1.2   | 16/11/2024 | Correção pós apresentação | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+
+</center>

@@ -17,12 +17,14 @@
 
 
 ## Histórico de versão
+
 <center>
 
-| Versão | Data       | Descrição                    | Autor   | Revisor |
-|:------:|:----------:|:----------------------------:|:-------:|:-------:|
-| 1.0    | 26/10/2024 | Colocando o heatmap          | Leandro | Matheus |
-| 1.1    | 26/10/2024 | Ajuste e revisão do heatmap  | Matheus | Leandro |
-| 1.2    | 05/11/2024 | Correção no texto do heatmap  | Matheus | Leandro |
+| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
+| :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
+|  1.0   | 26/10/2024 | Colocando o heatmap  | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.1   | 26/10/2024 | Ajuste e revisão do heatmap | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.2   | 05/11/2024 | Correção no texto do heatmap | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.3   | 16/11/2024 | Correção pós apresentação | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros](https://github.com/Ninja-Haiyai)  |
 
 </center>

@@ -25,8 +25,9 @@ Local: Online via Teams
 A reunião do dia 28/10/2024, pode ser vista no [YouTube](https://youtu.be/cV1sJmKthWA).</p>
 
 <center>
+    <p>Vídeo 01: Gravação da reunião 2</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/cV1sJmKthWA?si=PfasSesGkwP5jQVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p>Vídeo 1: Gravação da reunião 2 (Fonte: Grupo. 2024).</p>
+    Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
 ## Histórico de versão
@@ -35,7 +36,7 @@ A reunião do dia 28/10/2024, pode ser vista no [YouTube](https://youtu.be/cV1sJ
 
 | Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| 1.0  | 29/10/2024 | Escrita da ata | Leandro de Almeida | Matheus Barros                               |
+|  1.0   | 29/10/2024 | Escrita da ata | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai)  |
 
 
 </center>

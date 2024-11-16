@@ -7,8 +7,9 @@
 A apresentação da entrega 1, pode ser vista no [YouTube](https://youtu.be/xQJBbEvdkSg).
 
 <center>
+<p>Vídeo 01: Gravação da apresentação 1</p>
 <iframe width="760" height="515" src="https://www.youtube.com/embed/xQJBbEvdkSg?si=ebsCxnX9SWl1QILY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>Vídeo 1: Gravação da entrega 1 (Fonte: Grupo. 2024).</p>
+Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
 ## Histórico de versão
@@ -17,7 +18,7 @@ A apresentação da entrega 1, pode ser vista no [YouTube](https://youtu.be/xQJB
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 28/10/2024 | Criação do artefato | Leandro de Almeida | Mateus Barros |
-|  1.1   | 05/11/2024 | Mudança do link do vídeo 1 | Leandro de Almeida | Mateus Barros |
+|  1.0   | 28/10/2024 | Criação do artefato | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+|  1.1   | 05/11/2024 | Mudança do link do vídeo 1 | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
 
 </center>

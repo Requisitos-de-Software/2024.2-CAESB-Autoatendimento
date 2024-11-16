@@ -30,19 +30,19 @@ Local: Online via Teams
 [link da Reunião 20/10/2024](https://youtu.be/sKlWCrd8NJE)
 
 <center>
+    <p>Vídeo 01: Gravação da reunião 1</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/sKlWCrd8NJE?si=1NYoxfKk_63si-6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen></iframe>
-    <p>Vídeo 1: Gravação da reunião 1 (Fonte: Grupo. 2024).</p>
+    Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
 ## Histórico de versão
 
 <center>
 
-| Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
-| ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| 1.0  | 24/10/2024 | Escrita da ata | Leandro de Almeida | Matheus Barros                               |
-| 1.1  | 26/10/2024 | Insere link do vídeo | Leandro de Almeida | Matheus Barros                               |
-| 1.2  | 27/10/2024 | Insere a fonte do vídeo | Leandro de Almeida | Matheus Barros                               |
-
+| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
+| :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
+|  1.0   | 24/10/2024 | Escrita da ata | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+|  1.1   | 26/10/2024 | Insere link do vídeo | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+|  1.2   | 27/10/2024 | Insere a fonte do vídeo | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai)  |
 
 </center>

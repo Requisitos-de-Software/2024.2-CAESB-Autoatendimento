@@ -33,14 +33,20 @@
 <p align="justify">&emsp;&emsp;A Caesb é o site da Companhia de Saneamento Ambiental do Distrito Federal, uma empresa responsável pela gestão e fornecimento de serviços de abastecimento de água e esgotamento sanitário no Distrito Federal. No site da Caesb, os usuários encontram informações sobre tarifas, serviços, contas, qualidade da água, planejamento ambiental e projetos de sustentabilidade, além de poderem acessar serviços online, como consulta e pagamento de contas, solicitação de segunda via e atendimento ao cliente.</p>
 
 <center>
+    <figcaption>Imagem 3: Rich Picture - Caesb Autoatendimento</figcaption>
     <img src=https://github.com/Requisitos-de-Software/2024.2-BRB-Mobilidade/blob/Entrega_1/docs/assets/rich_pictures_caesb.png?raw=true width="100%">
-    <figcaption>Imagem 3: Rich Picture (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
+     Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
+<br>
+
 <center>
-    <img src=https://github.com/Requisitos-de-Software/2024.2-BRB-Mobilidade/blob/Entrega_1/docs/assets/legenda_rich_picture_caesb.png?raw=true>
-    <figcaption>Imagem 4: Legenda do Rich Picture (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
+    <figcaption>Imagem 4: Legenda do Rich Picture - Caesb Autoatendimento</figcaption>
+    <img src=https://github.com/Requisitos-de-Software/2024.2-BRB-Mobilidade/blob/Entrega_1/docs/assets/legenda_rich_picture_caesb.png?raw=true></img>
 </center>
+
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+
 
 ## Google Classroom
 <p align="justify">&emsp;&emsp;O Google Classroom é uma aplicação de educação remota que permite a comunicação entre educadores e alunos. A plataforma oferece aos professores a capacidade de criar, editar e gerenciar atividades e trabalhos educacionais, promovendo um ambiente de aprendizado colaborativo e organizado.&emsp;&emsp;</p>
