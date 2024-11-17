@@ -8,6 +8,7 @@
 
 <center>
 
+<figcaption>Tabela 1 - Ferramentas </figcaption>
 | |Ferramenta| Finalidade| 
 | :--: | :--: | :--: |
 |![Logo do GitHub](../assets/github-logo.png){: style="height:64px;width:64px"}|<a id="a" href="https://github.com" target="_blank">Github</a>| Organizar, versionar o projeto. |
@@ -19,7 +20,8 @@
 |![Logo do Mkdocs](../assets/mkdocs-logo.png){: style="height:64px"} | <a id="g" href="https://www.mkdocs.org/" target="_blank">Mkdocs</a> | Criação do gitPage |
 |![Logo do Draw.io](https://github.com/user-attachments/assets/9072f119-620f-4f8b-822f-8397f35319fc){: style="height:64px"} | <a id="g" href="https://www.drawio.com//" target="_blank">Draw.io</a> | Utilizado para fazer o Rich Picture |
 
-<figcaption>Tabela 1 - Ferramentas (Fonte: ALMEIDA, Natan. 2024)</figcaption>
+
+Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
 
 </center>
 
@@ -72,7 +74,8 @@
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
-|  1.0   | 22/10/2024 | Adição das ferramentas do projeto |Natan Almeida | Leandro de Almeida  |
-|  1.1   | 26/10/2024 | Adição da ferramenta utilizada no rich picture  | Letícia Resende | Natan Almeida  |
-|  1.2   | 26/10/2024 | Atualização de layout | Letícia Resende | Matheus Barros |
-|  1.3   | 27/10/2024 | Arrumando a fonte da tabela e os links | Leandro de Almeida | Natan Almeida |
+|  1.0   | 22/10/2024 | Adição das ferramentas do projeto |[Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.1   | 26/10/2024 | Adição da ferramenta utilizada no rich picture  | [Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
+|  1.2   | 26/10/2024 | Atualização de layout | [Letícia Resende](https://github.com/LeticiaResende23) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+|  1.3   | 27/10/2024 | Arrumando a fonte da tabela e os links | [Leandro de Almeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.4   | 17/11/2024 | Corrigindo formatações pós apresentações | [Natan Almeida](https://github.com/natanalmeida03)| [Leandro de Almeida](https://github.com/leomitx10)  |

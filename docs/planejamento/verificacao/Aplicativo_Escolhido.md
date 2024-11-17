@@ -23,6 +23,8 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 &emsp;&emsp;A tabela 01 apresenta a Lista de Verificação do Aplicativo escolhido que foi elaborada com base no plano de ensino da disciplina
 </p>
 
+<center>Tabela 01: Verificação Aplicativo Escolhido</center>
+
 | Id | Descrição                                                                                    | Avaliação | Observações |
 |----|----------------------------------------------------------------------------------------------|-----------|-------------|
 | 01 |  A motivação e os critérios para a escolha do App?            |    Sim       |  versão 1.2 05/11           |
@@ -35,17 +37,17 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 
 
 
-<p align="justify">
-<h6 align = "center"> Tabela 01: Lista de Verificação do Aplicativo Escolhido
-<br> Autor(a): <a href="https://github.com/natanalmeida03">Natan Almeida</a></h6>
-</p>
+<center>
+ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+</center>
 
 ## Link da gravação
 Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 <center>
+    <p>Vídeo 01: Verificação do Aplicativo Escolhido</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/O9MRW3hXTO4?si=Lo22gxE0Qc868uFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p>Vídeo 1: Verificação do artefato Aplicativo escolhido (Fonte: ALMEIDA, Natan. 2024).</p>
+    Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
 </center>
 
 ## Problemas encontrados
@@ -57,17 +59,19 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 <br>
 
-## Histórico de Versão
-
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
-| :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 04/11/2024 | Criação do Documento e Lista de Verificação | Natan Almeida | Letícia Resende|
-|  1.1   | 04/11/2024 | Adição do Vídeo da verificação | Natan Almeida | Letícia Resende |
-
-
-
 ## Referências
 
 > <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63
    Acesso em: 04 nov. 2024.
 </p>
+
+## Histórico de Versão
+
+| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| :----: | :--------: | :------------------: | :-----: | :-----: |
+|  1.0   | 04/11/2024 | Criação do Documento e Lista de Verificação | [Natan Almeida](https://github.com/natanalmeida03) | [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.1   | 04/11/2024 | Adição do Vídeo da verificação | [Natan Almeida](https://github.com/natanalmeida03) | [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.2   | 17/11/2024 | Corrigindo formatações pós apresentações | [Natan Almeida](https://github.com/natanalmeida03)| [Leandro de Almeida](https://github.com/leomitx10)  |
+
+
+

@@ -66,13 +66,15 @@
 <p align="justify">&emsp;&emsp;O Moovit é um aplicativo de mobilidade urbana que ajuda as pessoas a se locomoverem utilizando transporte público, como ônibus e metrô. Ele fornece informações em tempo real sobre rotas, horários, e condições do transporte, facilitando o planejamento e a navegação nas cidades.</p>
 
 <center>
+    <figcaption>Imagem 7: Rich Picture - Moovit</figcaption>
     ![Rich picture moovit](../assets/rich_picture_moovit.jpg)
-    <figcaption>Imagem 7: Rich Picture (Fonte: ALMEIDA, Natan. 2024)</figcaption>
+    Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
 
 <center>
+    <figcaption>Imagem 8: Legenda do Rich Picture - Moovit</figcaption>
     ![Legenda Rich picture moovit](../assets/legenda_rich_picture_moovit.png)
-    <figcaption>Imagem 8: Legenda do Rich Picture (Fonte: ALMEIDA, Natan. 2024)</figcaption>
+    Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
 
 ## Carteira de Trabalho Digital
@@ -111,6 +113,7 @@ Acesso em: 25 de Outubro de 2024;
 |  1.3   | 27/10/2024 | Adicionando o Rich Picture do Moovit  | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
 |  1.4   | 28/10/2024 | Adicionando o Rich Picture da Carteira de Trabalho Digital  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.5   | 13/11/2024 | Correção pós apresentação  | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.6   | 17/11/2024 | Correção pós apresentação  | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
 
 
 

@@ -23,6 +23,8 @@
 &emsp;&emsp; Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/planejamento/app-selecionado/" target = "_blank">Aplicativo Selecionado</a>, que trata das atividades realizadas durante a avaliação do aplicativo <a href="https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=pt_BR" target = "_blank">Meu SUS Digital</a>.
 </p>
 
+<center>Tabela 01: Verificação Aplicativo Selecionado</center>
+
 | Id  | Descrição                                                                                                          | Avaliação  | Observações                                                         |
 | --- | ------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------- |
 | 01  | A motivação e os critérios para a escolha do App?| Sim | versão 1.0 07/11 |
@@ -33,10 +35,10 @@
 | 06  | A gravação da reunião do grupo. | Não | versão 1.0 07/11 |
 | 07  | Vídeo de apresentação na categoria “não listado” no youtube? | Não | versão 1.0 07/11 |
 
-<p align="justify">
-<h6 align = "center"> Tabela 01: Lista de Verificação do Aplicativo Selecionado
-<br> Autor(a): <a href="https://github.com/natanalmeida03">Natan Almeida</a></h6>
-</p>
+
+<center>
+ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+</center>
 
 ## Link da gravação
 Pode ser vista no <a href="https://youtu.be/fy8v4uSvXlM" target="_blank">YouTube</a>.
@@ -74,7 +76,8 @@ Pode ser vista no <a href="https://youtu.be/fy8v4uSvXlM" target="_blank">YouTube
 
 | Versão |    Data    |                  Descrição                  |     Autor     |     Revisor     |
 | :----: | :--------: | :-----------------------------------------: | :-----------: | :-------------: |
-|  1.0   | 07/11/2024 | Criação do Documento e Lista de Verificação | Natan Almeida | Letícia Resende |
-|  1.1   | 07/11/2024 | Ajuste no Layout | Matheus Barros | Letícia Resende|
+|  1.0   | 07/11/2024 | Criação do Documento e Lista de Verificação | [Natan Almeida](https://github.com/natanalmeida03) | [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.1   | 07/11/2024 | Ajuste no Layout | [Matheus Barros ](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23)|
+|  1.2   | 17/11/2024 | Corrigindo formatações pós apresentações | [Natan Almeida](https://github.com/natanalmeida03) | [Letícia Resende](https://github.com/LeticiaResende23)|
 
 <center>
