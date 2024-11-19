@@ -45,6 +45,9 @@ nav:
       - Reunião 2 - 28/10/2024: atas/reuniao2.md
   - Apresentações:
       - Entregas: apresentacoes/entregas.md
+  - Elicitação:
+      - Técnicas:
+        - Introspecção: elicitacao/tecnicas/introspeccao.md
   - Verificação:
       - Grupo 03 (Nosso Grupo):
         - Etapa 1:
