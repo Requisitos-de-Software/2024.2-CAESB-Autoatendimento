@@ -19,6 +19,9 @@
 - Não se aplica: Caso o documento não precise desse quesito
 <center>
 
+<h6 align = "center"> Tabela 01: Lista de Verificação Rich picture do grupo 4
+<br>
+
 | Número | Descrição | Avaliação | Observações | 
 | :----: | :-------: | :-------: | :--------: | 
 | 1      | O artefato possui introdução?                                                                                                    |     Sim    | versão 1.0 07/11 |
@@ -33,7 +36,7 @@
 | 10 | Os atores estão fora da fronteira do sistema? | Sim | versão 1.0 07/11|
 
 <p align="justify">
-<h6 align = "center"> Tabela 01: Lista de Verificação Rich picture do grupo 4
+
 <br> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
 </p>
 

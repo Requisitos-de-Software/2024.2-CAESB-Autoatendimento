@@ -21,8 +21,9 @@
 
 ## Verificação da Equipe 
 
-<p align="justify">&emsp;&emsp;Tabela 01: Verificação da equipe do grupo 04</p>
 <center>
+<p align="justify">&emsp;&emsp;Tabela 01: Verificação da equipe do grupo 04</p>
+</center>
 
 | Número | Descrição | Avaliação | Observações | 
 | :----: | :-------: | :-------: | :--------: | 
