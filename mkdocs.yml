@@ -48,7 +48,8 @@ nav:
   - Elicitação:
       - Técnicas:
         - Introspecção: elicitacao/tecnicas/introspeccao.md
-        - Priorização:  elicitacao/tecnicas/priorizacao.md
+        - Priorização:  elicitacao/priorizacao.md
+      - Personas: elicitacao/personas.md
   - Verificação:
       - Grupo 03 (Nosso Grupo):
         - Etapa 1:
