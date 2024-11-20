@@ -46,14 +46,123 @@
 | 17. Quão fácil é para você corrigir um erro que você mesmo cometeu ao usar o aplicativo Caesb Autoatendimento? |
 | 18. O quão fácil é para você encontrar as informações no aplicativo CAESB Autoatendimento? |
 
-<h6 align = "center"> 
-<br> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-</p>
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
 
+## Respostas
 
+<center>Imagem 01: Gráfico da pergunta "Qual seu sexo"</center>
 
+![Persona 1](../assets/respostas/qual_seu_sexo.png) 
 
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
 
+<center>Imagem 02: Gráfico da pergunta "Qual sua idade"</center>
+
+![Persona 1](../assets/respostas/qual_sua_idade.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 03: Gráfico da pergunta "Nível de escolaridade"</center>
+
+![Persona 1](../assets/respostas/nivel_escolaridade.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 04: Gráfico da pergunta "Nível de escolaridade"</center>
+
+![Persona 1](../assets/respostas/nivel_escolaridade.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 05: Gráfico da pergunta "Região em qual moram"</center>
+
+![Persona 1](../assets/respostas/regiao_onde_moram.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 06: Gráfico da pergunta "Nível de escolaridade"</center>
+
+![Persona 1](../assets/respostas/nivel_escolaridade.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 07: Gráfico da pergunta "Qual sua profissão"</center>
+
+![Persona 1](../assets/respostas/qual_sua_profissao.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 08: Gráfico da pergunta "Qual plataforma  você utiliza para acessar o aplicativo"</center>
+
+![Persona 1](../assets/respostas/qual_plataforma.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 09: Gráfico da pergunta "Erros cometidos frequentemente na plataforma"</center>
+
+![Persona 1](../assets/respostas/erro.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 10: Gráfico da pergunta "Função que necessita maior apoio na execução"</center>
+
+![Persona 1](../assets/respostas/funcoes_necessarias.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 11: Gráfico da pergunta "Experiência com aplicativos mobile"</center>
+
+![Persona 1](../assets/respostas/qual_seu_xp.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 12: Gráfico da pergunta "Consulta da segunda via"</center>
+
+![Persona 1](../assets/respostas/consulta.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 13: Gráfico da pergunta "Consulta de histórico de consumo"</center>
+
+![Persona 1](../assets/respostas/consulta_hist.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 14: Gráfico da pergunta "Informações sobre falta de água"</center>
+
+![Persona 1](../assets/respostas/info_falta_agua.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 15: Gráfico da pergunta "Serviços de saneamento"</center>
+
+![Persona 1](../assets/respostas/saneamento.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 16: Gráfico da pergunta "Simulação de tarifa"</center>
+
+![Persona 1](../assets/respostas/simula.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 17: Gráfico da pergunta "Desobstrução de esgoto"</center>
+
+![Persona 1](../assets/respostas/desobstrucao.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 18: Gráfico da pergunta "Auto correção de erros"</center>
+
+![Persona 1](../assets/respostas/erro.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+
+<center>Imagem 19: Gráfico da pergunta "Facilidade de encontrar informações"</center>
+
+![Persona 1](../assets/respostas/facilidade.png) 
+
+<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
 
 
 
@@ -75,7 +184,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 20/11/2024 | Adicionando introdução e metodologia | [Leandro de Almeida](https://github.com/leomitx10)|[Letícia Resende](https://github.com/LeticiaResende23)  |
-|  1.1   | 20/11/2024 | Adicionando vantagens, desvantagens e as perguntas  | [Matheus Barros](https://github.com/Ninja-Haiyai)|[Leandro de Almeida](https://github.com/leomitx10) |
+|  1.1   | 20/11/2024 | Adicionando vantagens, desvantagens, perguntas e respostas  | [Matheus Barros](https://github.com/Ninja-Haiyai)|[Leandro de Almeida](https://github.com/leomitx10) |
 
 </center>
 
