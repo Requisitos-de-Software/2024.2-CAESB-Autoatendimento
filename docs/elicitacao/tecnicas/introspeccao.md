@@ -9,7 +9,7 @@ O objetivo da técnica é se imaginar no lugar do usuário e elicitar o máximo 
 ## Requisitos
 Os requisitos estão divididos em 2 categorias, requisitos funcionais e requisitos não funcionais, representados por RF e RNF, respectivamente.
 <center>
-<figcaption>Tabela 1 - Requisitos </figcaption>
+<figcaption>Tabela 01 - Requisitos </figcaption>
 </center>
 
 | ID  | DESCRIÇÃO                                                             | CATEGORIA |
