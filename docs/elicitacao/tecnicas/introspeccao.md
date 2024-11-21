@@ -1,16 +1,21 @@
 # Introspecção
 
 ## Introdução
-A introspecção envolve analisar as características que o sistema precisa ter para alcançar o sucesso. Exige que o Engenheiro de Requisitos se coloque no lugar do usuário, imaginando como ele realizaria uma tarefa utilizando os equipamentos e recursos disponíveis.
+<p align="justify">&emsp;&emsp;A introspecção envolve analisar as características que o sistema precisa ter para alcançar o sucesso. Exige que o Engenheiro de Requisitos se coloque no lugar do usuário, imaginando como ele realizaria uma tarefa utilizando os equipamentos e recursos disponíveis.</p>
 
 ## Metodologia
-O objetivo da técnica é se imaginar no lugar do usuário e elicitar o máximo de requisitos funcionais e não funcionais referentes à aplicação. assim, a técnica foi feita pelo integrante Natan Almeida, que como resultado foi gerado os requisitos presentes na tabela 1.  
+<p align="justify">&emsp;&emsp;O objetivo da técnica é se imaginar no lugar do usuário e elicitar o máximo de requisitos funcionais e não funcionais referentes à aplicação. assim, a técnica foi feita pelo integrante Natan Almeida, que como resultado foi gerado os requisitos presentes na tabela 1.</p>  
 
 ## Requisitos
-Os requisitos estão divididos em 2 categorias, requisitos funcionais e requisitos não funcionais, representados por RF e RNF, respectivamente.
+Os requisitos levantados durante a análise de documentos, identificados com numero do requisito, e com a seguinte legenda de categoria:
+
+- RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
+
+- RNF: Requisitos Não-Funcionais - Descrevem os atributos que o software deve ter, como desempenho, segurança e usabilidade, mas não descrevem o comportamento do software em si.
+
 <center>
 <figcaption>Tabela 01 - Requisitos </figcaption>
-</center>
+
 
 | ID  | DESCRIÇÃO                                                             | CATEGORIA |
 | :-: | :-------------------------------------------------------------------: | :-------: |
@@ -25,7 +30,7 @@ Os requisitos estão divididos em 2 categorias, requisitos funcionais e requisit
 | ID09| O sistema deve ser capaz de suportar muitos usuários simultâneos.     | RNF |
 | ID10| O aplicativo deve ser otimizado para diferentes tamanhos de tela e dispositivos (responsivo). | RNF |
 
-<center>
+
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
 

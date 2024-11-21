@@ -48,10 +48,15 @@ nav:
       - Entregas: apresentacoes/entregas.md
   - Elicitação:
       - Técnicas:
+        - Análise de Documentos: elicitacao/tecnicas/analise_documento.md
         - Introspecção: elicitacao/tecnicas/introspeccao.md
-        - Priorização:  elicitacao/priorizacao.md
       - Personas: elicitacao/personas.md
       - Perfil de Usuário: elicitacao/perfil_de_usuario.md
+  - Priorização: 
+      - Introdução: priorizacao/introducao.md
+      - In or Out: priorizacao/tec_In.md
+      - First things first: priorizacao/tec_First.md
+      - Moscow: priorizacao/moscow.md
   - Verificação:
       - Grupo 03 (Nosso Grupo):
         - Etapa 1:
