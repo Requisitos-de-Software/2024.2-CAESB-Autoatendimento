@@ -16,6 +16,10 @@
 Neste documento, realizou-se a avaliação do artefato de Ferramentas, que trata das ferramentas utilizadas pelos integrantes do grupo 03 da Caesb Autoatendimento</a>.
 </p>
 
+## Verificação Ferramentas
+
+<p align="justify">&emsp;&emsp;Tabela 01: Verificação Ferramentas.</p>
+
 <center>
 
 | Número | Descrição | Avaliação | Observações | 
@@ -33,7 +37,7 @@ Neste documento, realizou-se a avaliação do artefato de Ferramentas, que trata
 </center>
 
 <center>
-<figcaption>Tabela 1: Checklist de verificação (Fonte: MARQUES, Joao. 2024)</figcaption>
+ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
 </center>
 
 
@@ -47,12 +51,14 @@ Neste documento, realizou-se a avaliação do artefato de Ferramentas, que trata
 Pode ser vista no [YouTube](https://youtu.be/v2SkkKJPFao?si=6Bq77p3ABnRhrcy5).</p>
 
 <center>
+  <p>Vídeo 1: Verificação do artefato de ferramentas</p>
   <iframe width="760" height="515" src="https://www.youtube.com/embed/v2SkkKJPFao?si=YT05k8KPxr6BgUa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>Vídeo 1: Verificação do artefato de ferramentas (Fonte: MARQUES, Joao. 2024).</p>
+  Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
 </center>
 
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 06/11/2024 | Verificação artefato de ferramentas |  Joao Marques | Natan Almeida |
+|  1.0   | 22/11/2024 | Corrigindo formatações pós apresentações | [Joao Victor Marques](https://github.com/jmarquees)| [Natan Almeida](https://github.com/natanalmeida03)  |
+|  1.1   | 22/11/2024 | Corrigindo formatações pós apresentações | [Joao Victor Marques](https://github.com/jmarquees)| [Leandro de Almeida](https://github.com/leomitx10)  |

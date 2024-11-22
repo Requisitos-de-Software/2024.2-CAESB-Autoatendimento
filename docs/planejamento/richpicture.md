@@ -90,8 +90,9 @@
 <center>
     <figcaption>Imagem 10: Legenda do Rich Picture (Fonte: MARQUES, Joao. 2024)</figcaption>
     ![Legenda Rich picture Carteira de Trabalho Digital](../assets/legenda.richpicture(1).png)
-    Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
 </center>
+
+<center>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6></center>
 
 ## Referências
 
