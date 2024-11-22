@@ -18,7 +18,7 @@ Neste documento, realizou-se a avaliação do artefato de Ferramentas, que trata
 
 ## Verificação Ferramentas
 
-<p align="justify">&emsp;&emsp;Tabela 01: Verificação Ferramentas.</p>
+<p align="justify">&emsp;&emsp;Tabela 01: Verificação Ferramentas</p>
 
 <center>
 
