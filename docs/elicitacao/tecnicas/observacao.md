@@ -10,23 +10,23 @@
 <p>Tabela 01: Requisitos Funcionais</p>
 </center>
 
-| Nº  | Requisito                                                                                      | Implementado |
+| ID  | DESCRIÇÃO                                                                                      | Implementado |
 |-----|-----------------------------------------------------------------------------------------------|--------------|
-| 1   | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                           | sim         |
-| 2   | O aplicativo deve permitir que o usuário selecione o ano ou mês da segunda via da conta.             | sim         |
-| 3   | O aplicativo deve permitir que o usuário escolha vizualizar a segunda via de contas pendentes. | sim       |
-| 4   | O aplicativo deve reconhecer automaticamente os imóveis associados ao cliente da Caesb.       | sim         |
-| 5   | O aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo.  | sim         |
-| 6   | O aplicativo deve permitir que o usuário visualize as regiões em que haverá falta de água.    | sim         |
-| 7   | O aplicativo deve permitir que o usuário informe o vazamento em uma rua.                      | sim         |
-| 8   | O aplicativo não deve permitir que o usuário escolha rua, bairro e cidade para informar o vazamento em uma rua. | não      |
-| 9   | O aplicativo deve permitir filtrar os atendimentos em andamento ou finalizados.           | não          |
-| 10  | O aplicativo deve permitir filtrar os atendimentos por ano ou mês.                        | não          |
-| 11  | O aplicativo deve permitir que o usuário busque um atendimento pelo protocolo.                | sim         |
-| 12  | O aplicativo deve permitir que o usuário simule o faturamento pelo aplicativo.            | não          |
-| 13  | O aplicativo deve permitir que o usuário altere o vencimento da conta.                        | sim         |
-| 14  | O aplicativo deve permitir que o usuário altere a titularidade da conta.                      | sim         |
-| 15  | O aplicativo deve possuir 2 abas separadas, uma para serviços e outra para consultas.         | não          |
+| OBS1   | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                           | sim         |
+| OBS2   | O aplicativo deve permitir que o usuário selecione o ano ou mês da segunda via da conta.             | sim         |
+| OBS3   | O aplicativo deve permitir que o usuário escolha vizualizar a segunda via de contas pendentes. | sim       |
+| OBS4   | O aplicativo deve reconhecer automaticamente os imóveis associados ao cliente da Caesb.       | sim         |
+| OBS5   | O aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo.  | sim         |
+| OBS6   | O aplicativo deve permitir que o usuário visualize as regiões em que haverá falta de água.    | sim         |
+| OBS7   | O aplicativo deve permitir que o usuário informe o vazamento em uma rua.                      | sim         |
+| OBS8   | O aplicativo não deve permitir que o usuário escolha rua, bairro e cidade para informar o vazamento em uma rua. | não      |
+| OBS9   | O aplicativo deve permitir filtrar os atendimentos em andamento ou finalizados.           | não          |
+| OBS10  | O aplicativo deve permitir filtrar os atendimentos por ano ou mês.                        | não          |
+| OBS11  | O aplicativo deve permitir que o usuário busque um atendimento pelo protocolo.                | sim         |
+| OBS12  | O aplicativo deve permitir que o usuário simule o faturamento pelo aplicativo.            | não          |
+| OBS13  | O aplicativo deve permitir que o usuário altere o vencimento da conta.                        | sim         |
+| OBS14  | O aplicativo deve permitir que o usuário altere a titularidade da conta.                      | sim         |
+| OBS15  | O aplicativo deve possuir 2 abas separadas, uma para serviços e outra para consultas.         | não          |
 
 <center>
  Autores: <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> e <a href = "https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
