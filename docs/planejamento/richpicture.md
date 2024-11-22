@@ -82,13 +82,15 @@
 <p align="justify">&emsp;&emsp;A Carteira de Trabalho Digital é um aplicativo desenvolvido pelo governo brasileiro para facilitar o acesso e a gestão das informações trabalhistas dos cidadãos. O app moderniza e simplifica o acesso a informações trabalhistas, promovendo maior transparência e eficiência na gestão dos dados do trabalhador brasileiro.</p>
 
 <center>
-    ![Rich picture Carteira de Trabalho Digital](../assets/rich_picture_carteira.png)
     <figcaption>Imagem 9: Rich Picture (Fonte: MARQUES Joao. 2024)</figcaption>
+    ![Rich picture Carteira de Trabalho Digital](../assets/rich_picture_carteira.png)
+    Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
 
 <center>
-    ![Legenda Rich picture Carteira de Trabalho Digital](../assets/legenda.richpicture(1).png)
     <figcaption>Imagem 10: Legenda do Rich Picture (Fonte: MARQUES, Joao. 2024)</figcaption>
+    ![Legenda Rich picture Carteira de Trabalho Digital](../assets/legenda.richpicture(1).png)
+    Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
 
 ## Referências
@@ -114,7 +116,7 @@ Acesso em: 25 de Outubro de 2024;
 |  1.4   | 28/10/2024 | Adicionando o Rich Picture da Carteira de Trabalho Digital  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.5   | 13/11/2024 | Correção pós apresentação  | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
 |  1.6   | 17/11/2024 | Correção pós apresentação  | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
-
+|  1.7   | 22/11/2024 | Correção pós apresentação  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10)  |
 
 
 

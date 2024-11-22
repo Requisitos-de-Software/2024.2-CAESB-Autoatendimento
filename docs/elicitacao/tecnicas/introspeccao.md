@@ -4,7 +4,7 @@
 <p align="justify">&emsp;&emsp;A introspecção envolve analisar as características que o sistema precisa ter para alcançar o sucesso. Exige que o Engenheiro de Requisitos se coloque no lugar do usuário, imaginando como ele realizaria uma tarefa utilizando os equipamentos e recursos disponíveis.</p>
 
 ## Metodologia
-<p align="justify">&emsp;&emsp;O objetivo da técnica é se imaginar no lugar do usuário e elicitar o máximo de requisitos funcionais e não funcionais referentes à aplicação. assim, a técnica foi feita pelo integrante Natan Almeida, que como resultado foi gerado os requisitos presentes na tabela 1.</p>  
+<p align="justify">&emsp;&emsp;O objetivo da técnica é se imaginar no lugar do usuário e elicitar o máximo de requisitos funcionais e não funcionais referentes à aplicação. Assim, a técnica foi feita pelo integrante Natan Almeida, que como resultado foi gerado os requisitos presentes na tabela 1.</p>  
 
 ## Requisitos
 Os requisitos levantados durante a análise de documentos, identificados com numero do requisito, e com a seguinte legenda de categoria:
