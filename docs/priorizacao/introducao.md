@@ -22,24 +22,11 @@
 
 <p align="justify">&emsp;&emsp;A técnica de priorização MoSCoW organiza os requisitos de um projeto em quatro categorias: Must have (Obrigatórios), Should have (Importantes), Could have (Desejáveis) e Won't have (Excluídos). Os requisitos classificados como Must have são imprescindíveis para o sucesso do projeto e devem ser implementados sem exceção. Os Should have são relevantes, mas não essenciais, sendo incluídos apenas se houver recursos suficientes. Os Poderiam ter são considerações benefícios adicionais que podem ser adiados para fases futuras. Por fim, os não terão requisitos descartados ou que poderão ser avaliados em projetos futuros.</p>
 
-<br>
-
-## Tabela de Priorização
-
-<center>
-<figcaption>Tabela 01 - Priorização </figcaption>
 
 
-| Data | Hora | Local | Tecnica | Usuários |
-| - | - | - | - | - |
-|  |  | Teams | First things first |  |
-| |  | Teams | In or Out | |
-|  |  | Teams | Moscow | 
-
-
-Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
-</center>
-
+## Bibliografica
+> <p>1. MILENE, Profa.; MAURÍCIO, Prof. Elicitação de requisitos: técnicas - priorização. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>
+Acesso em: 23 nov. 2024.</P>
 <br>
 
 ## Histórico de Versão

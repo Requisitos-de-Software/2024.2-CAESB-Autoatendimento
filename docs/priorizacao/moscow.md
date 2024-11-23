@@ -113,7 +113,11 @@ A Tabela 1 a seguir contém a priorização dos Requisitos elicitados. Nem todos
 | OBS15  | O aplicativo deve possuir 2 abas separadas, uma para serviços e outra para consultas.         |      |
 
 </center>
+
 <br>
+
+> <p>1. MILENE, Profa.; MAURÍCIO, Prof. Elicitação de requisitos: técnicas - priorização. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>
+Acesso em: 23 nov. 2024.</P>
 
 ## Histórico de Versão
 

@@ -59,6 +59,15 @@ Os requisitos levantados durante a análise de documentos, identificados com 'AD
 Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letícia Resende</a>
 </center>
 
+<br>
+
+## Bibliografia
+
+> <p>1. VAZQUEZ, Carlos Eduardo; SIQUEIRA, Guilherme. Engenharia de requisitos. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972448/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf>. Acesso em: 23 nov. 2024.</p>
+> <p>2.WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972451/mod_resource/content/1/Elicitacao%20de%20Req.pdf>. Acesso em: 23 nov. 2024.
+
+<br>
+
 ## Histórico de Versão
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
