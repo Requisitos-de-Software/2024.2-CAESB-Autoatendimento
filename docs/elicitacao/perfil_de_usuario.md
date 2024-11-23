@@ -6,169 +6,60 @@
 
 ## Metodologia
 
-<p align="justify">&emsp;&emsp;Para se chegar ao perfil de usuário foi utilizado o método de questionário. Foi elaborado um formulário on-line que foi divulgado em grupos e sites para que os usuários do aplicativo CAESB Autoatendimento pudessem responder. A escolha desse método se deu principalmente por permitir que um grande número de pessoas respondesse e que ele fosse respondido do conforto do lar ou local de trabalho. O questionário teve foco em questões fechadas para privilegiar o preenchimento rápido dos participantes e, posteriormente, uma análise mais rápida das respostas.</p>
+<p align="justify">&emsp;&emsp;Para se chegar ao perfil de usuário foi utilizado o método de Brainstorming. Foram elaboradas perguntas e reunidos possíveis usuários do aplicativo CAESB Autoatendimento para que pudessem participar de um Brainstorming. A técnica de Brainstorming foi utilizada por conta de sua geração rápida de ideias, colaboração, flexibilidade e a descoberta de requisitos não óbvios .</p>
 
 ## Vantagens
-- Padronização: Permite coletar informações de forma uniforme entre os participantes.
-- Cobertura ampla: Atinge um grande número de pessoas em pouco tempo.
-- Facilidade de analisar os dados
-- Escalabilidade: Adequado tanto para pequenos grupos quanto para grandes audiências.
-- Quando o público alvo se encontra disperso geograficamente
-- Quando se tem amostras o suficiente, existe como ter uma ideia de como é a opinião de uma população
+- Geração de Ideias: Permite obter várias ideias em pouco tempo, facilitando a identificação de requisitos iniciais.
+
+- Colaboração: Envolve diversos stakeholders, garantindo que diferentes perspectivas sejam consideradas.
+
+- Criatividade: Estimula soluções inovadoras e ajuda a descobrir requisitos não óbvios.
+
+- Flexibilidade: Adapta-se a diferentes tamanhos de grupo e formatos de reunião, com regras simples.
+
+- Baixo Custo: Requer poucos recursos e preparação, sendo acessível para equipes de qualquer tamanho.
+
+- Engajamento: Promove a participação ativa de todos, criando um ambiente inclusivo e sem julgamentos.
+
+- Identificação de Padrões: Facilita a consolidação de ideias semelhantes e a organização de requisitos.
+
+- Refinamento Posterior: As ideias geradas podem ser analisadas e priorizadas em etapas subsequentes.
+
 
 ## Desvantagens
-- Baixa taxa de respostas implica em um resultado menos preciso
-- Maior gasto de tempo caso as respostas possam ser respondidas de múltiplas maneiras
-- Uma falha no questionário pode levar a uma falha na pesquisa
 
-## Perguntas do Questionário
+- Ideias Superficiais: Algumas contribuições podem ser pouco elaboradas, dificultando sua utilização prática.
 
-<center>Tabela 01: Perguntas realizadas no questionário</center>
+- Influência de Grupos: Participantes mais dominantes podem inibir a contribuição de outros, reduzindo a diversidade de ideias.
 
-| **Pergunta**                                                                 |
-|------------------------------------------------------------------------------|
-| 1. Qual o seu nome?                                                          |
-| 2. Qual o seu sexo?                                                          |
-| 3. Qual a sua idade?                                                         |
-| 4. Qual o seu nível de escolaridade?                                         |
-| 5. Qual a região onde você mora?                                             |
-| 6. Qual a sua profissão?                                                     |
-| 7. Qual plataforma você usa pra acessar o aplicativo?                        |
-| 8. Existe algum erro que você comete frequentemente ao usar esse aplicativo? Se sim, qual? |
-| 9. Existe alguma função que você acha necessário maior apoio em sua execução? Se sim, qual? |
-| 10. Qual sua experiência com aplicativos Mobile?                             |
-| 11. Você costuma consultar a segunda via da conta em seu nome utilizando esse aplicativo? |
-| 12. Você costuma consultar seu histórico de consumo utilizando esse aplicativo? |
-| 13. Você costuma buscar informações sobre a falta de água utilizando esse aplicativo? |
-| 14. Você costuma solicitar serviços relacionados à água e saneamento utilizando esse aplicativo? |
-| 15. Você costuma realizar a simulação de tarifa utilizando esse aplicativo?  |
-| 16. Você costuma solicitar desobstrução do esgoto utilizando esse aplicativo? |
-| 17. Quão fácil é para você corrigir um erro que você mesmo cometeu ao usar o aplicativo Caesb Autoatendimento? |
-| 18. O quão fácil é para você encontrar as informações no aplicativo CAESB Autoatendimento? |
+- Dificuldade em Priorizar: Gera muitas ideias, mas não oferece um método claro para classificá-las ou priorizá-las.
 
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
 
-## Respostas
+## Definição do usuário
 
-<center>Imagem 01: Gráfico da pergunta "Qual seu sexo"</center>
 
-![Persona 1](../assets/respostas/qual_seu_sexo.png) 
+<p>Após analisar o Brainstorm e seus resultados obtidos podemos inferir,o perfil do usuário do CAESB Auto atendimento, segue na tabela abaixo:</p>
 
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+<br>
 
-<center>Imagem 02: Gráfico da pergunta "Qual sua idade"</center>
+<center>
+<figcaption>Tabela 01 - Perfil do Usuário </figcaption>
 
-![Persona 1](../assets/respostas/qual_sua_idade.png) 
+| **Especificação**     | **Perfil**                                     |
+|------------------------|-----------------------------------------------|
+| **Idade**             | Entre 26 a 50 anos                            |
+| **Gênero**            | Homens e Mulheres                             |
+| **Experiência**       | Intermediário                                  |
+| **Atitudes**          | Pragmático                               |
+| **Tarefa primária**    | Realizar indicação de recebimento             |
+| **Dispositivo**       | Mobile                                 |
+| **Necessidade**       | Gestão de contas, consumo e agendamento de serviços de forma prática   |
+| **Barreiras**         | Dificuldade com interfaces sobrecarregadas    |
+| **Motivação**         | Agilidade e autonomia nos serviços            |
 
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
+Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
 
-<center>Imagem 03: Gráfico da pergunta "Nível de escolaridade"</center>
-
-![Persona 1](../assets/respostas/nivel_escolaridade.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 04: Gráfico da pergunta "Nível de escolaridade"</center>
-
-![Persona 1](../assets/respostas/nivel_escolaridade.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 05: Gráfico da pergunta "Região em qual moram"</center>
-
-![Persona 1](../assets/respostas/regiao_onde_moram.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 06: Gráfico da pergunta "Nível de escolaridade"</center>
-
-![Persona 1](../assets/respostas/nivel_escolaridade.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 07: Gráfico da pergunta "Qual sua profissão"</center>
-
-![Persona 1](../assets/respostas/qual_sua_profissao.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 08: Gráfico da pergunta "Qual plataforma  você utiliza para acessar o aplicativo"</center>
-
-![Persona 1](../assets/respostas/qual_plataforma.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 09: Gráfico da pergunta "Erros cometidos frequentemente na plataforma"</center>
-
-![Persona 1](../assets/respostas/erro.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 10: Gráfico da pergunta "Função que necessita maior apoio na execução"</center>
-
-![Persona 1](../assets/respostas/funcoes_necessarias.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 11: Gráfico da pergunta "Experiência com aplicativos mobile"</center>
-
-![Persona 1](../assets/respostas/qual_seu_xp.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 12: Gráfico da pergunta "Consulta da segunda via"</center>
-
-![Persona 1](../assets/respostas/consulta.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 13: Gráfico da pergunta "Consulta de histórico de consumo"</center>
-
-![Persona 1](../assets/respostas/consulta_hist.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 14: Gráfico da pergunta "Informações sobre falta de água"</center>
-
-![Persona 1](../assets/respostas/info_falta_agua.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 15: Gráfico da pergunta "Serviços de saneamento"</center>
-
-![Persona 1](../assets/respostas/saneamento.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 16: Gráfico da pergunta "Simulação de tarifa"</center>
-
-![Persona 1](../assets/respostas/simula.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 17: Gráfico da pergunta "Desobstrução de esgoto"</center>
-
-![Persona 1](../assets/respostas/desobstrucao.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 18: Gráfico da pergunta "Auto correção de erros"</center>
-
-![Persona 1](../assets/respostas/erro.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-<center>Imagem 19: Gráfico da pergunta "Facilidade de encontrar informações"</center>
-
-![Persona 1](../assets/respostas/facilidade.png) 
-
-<h6 align = "center"> Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></h6>
-
-
-
-
-
-
+<br>
 
 ## Referências
 
@@ -184,7 +75,8 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 20/11/2024 | Adicionando introdução e metodologia | [Leandro de Almeida](https://github.com/leomitx10)|[Letícia Resende](https://github.com/LeticiaResende23)  |
-|  1.1   | 20/11/2024 | Adicionando vantagens, desvantagens, perguntas e respostas  | [Matheus Barros](https://github.com/Ninja-Haiyai)|[Leandro de Almeida](https://github.com/leomitx10) |
+|  1.1   | 20/11/2024 | Adicionando vantagens e desvantagens da metodologia  | [Matheus Barros](https://github.com/Ninja-Haiyai)|[Leandro de Almeida](https://github.com/leomitx10) |
+|  1.2   | 20/11/2024 | Adicionando o perfil do usuário  | [Matheus Barros](https://github.com/Ninja-Haiyai)|[Leandro de Almeida](https://github.com/leomitx10) |
 
 </center>
 
