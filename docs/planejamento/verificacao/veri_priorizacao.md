@@ -57,14 +57,31 @@ Pode ser vista no [YouTube](https://youtu.be/6z7i3oNtn6E).</p>
 
 ## Referências
 
-> <p id="1">1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I Darin, T.; Barbosa, G. D. J. (2021)Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. p. 166
+> <p id="1">1.WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013 p.315
    Acesso em: 23 nov. 2024.
 </p>
 <br>
 
 <center><figcaption>Imagem 1: Foto da Referência 1</figcaption> </center>
 
-![alt text](../../assets/prioriza.png)
+<center>
+
+![alt text](../../assets/priority.png)
+
+</center>
+
+> <p id="2">2. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 24 de Nov. de 2024.
+
+<center> <figcaption>Imagem 1: Foto da Referência 2</figcaption></center>
+
+<center>
+
+![alt text](../../assets/lista_verif.png)
+
+</center>
+
+ </p><center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6></center>
+<br>
 
 ## Histórico de Versão
 
