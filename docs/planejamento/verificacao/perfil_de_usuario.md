@@ -48,8 +48,8 @@ Pode ser vista no [YouTube](https://youtu.be/khaVWQRzG0Y).</p>
 </center>
 
 ## Problemas encontrados
-<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
 
+<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
 
 ## Sugestões
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
@@ -58,7 +58,9 @@ Pode ser vista no [YouTube](https://youtu.be/khaVWQRzG0Y).</p>
 
 ## Referências
 
-> <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63. Acesso em: 23 nov. 2024.
+> <p id="1">1. S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do Usuário, p. 166. Autopublicação, 2021. ISBN: 978-65-00-19677-1.
+
+
 </p>
 
 <br>
