@@ -53,7 +53,7 @@ As tabelas de 1 a 4 apresentam o elenco de personas:
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Status**: Antipersona |
 | **Nome**: Roberto Alves Martins |
-| **Descrição**: 24 anos, reside em Brasília, recém-formado em Design Gráfico, trabalha como freelancer. Homem. Namorando. |
+| **Descrição**: 26 anos, reside em Brasília, recém-formado em Design Gráfico, trabalha como freelancer. Homem. Namorando. |
 | **Relacionamento**: Roberto tem um círculo social pequeno, mas é bem próximo dos amigos com quem compartilha interesses profissionais e hobbies. Sua namorada, também freelancer, é sua principal companheira. |
 | **Habilidades**: Ele tem muita experiência em design, edição de imagem e trabalho com várias plataformas digitais, mas não se interessa por questões relacionadas ao gerenciamento de contas ou serviços públicos. |
 | **Tarefas**: Passa a maior parte do tempo criando conteúdo digital para seus clientes, respondendo e-mails e realizando projetos criativos. Nos fins de semana, prefere sair com a namorada ou socializar com amigos. |

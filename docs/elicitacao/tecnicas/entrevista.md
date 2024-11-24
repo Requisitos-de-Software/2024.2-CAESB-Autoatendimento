@@ -55,9 +55,9 @@ Assista a gravação no youtube clicando [aqui](https://youtu.be/sKlWCrd8NJE).
 <p>Tabela 01: Dados da Entrevista</p>
 
 
-| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |
-|-------------------|------------------|-------------|-----------------------------|
-| Leandro de Almeida | Danilo Félix    |   5 min     |    Casa do entrevistado     |
+| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |Horário| **Data** |
+|-------------------|------------------|-------------|-----------------------------|---|-----------|
+| Leandro de Almeida | Danilo Félix    |   5 min     |    Casa do entrevistado     | 16:00 | 22/11/2024|
 
 
  Autor: <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
