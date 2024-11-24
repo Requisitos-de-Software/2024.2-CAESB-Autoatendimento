@@ -36,44 +36,44 @@ A Tabela 1 a seguir contém a priorização dos Requisitos elicitados. Nem todos
 
 |  ID   | DESCRIÇÃO                                                                                            | CATEGORIA |
 | :---: | :--------------------------------------------------------------------------------------------------: | :-------: |
-| INT04 | O usuário deve poder atualizar seus dados cadastrais pelo app.                                       | Must   |
+| INT04 | O usuário deve poder atualizar seus dados cadastrais pelo app.                                       | must  |
 | INT05 | O aplicativo deve enviar notificações de vencimento de faturas.                                      | should |
-| INT07 | O aplicativo deve ser compatível com as versões mais recentes do Android e iOS.                      | must   |
-| INT10 | O aplicativo deve ser otimizado para diferentes tamanhos de tela e dispositivos (responsivo).        | could  |
-| INT12 | O usuário deve poder consultar e pagar débitos anteriores.                                           | could  |
-| INT13 | O aplicativo deve disponibilizar a opção de cadastro em débito automático.                           | would  |
-| INT14 | O usuário deve poder consultar o mapa de interrupções de fornecimento.                               | would  |
-| INT15 | O aplicativo deve permitir agendar atendimento presencial na unidade mais próxima.                   | should |
-| INT16 | O aplicativo deve exibir dicas de consumo consciente e economia de água.                             | would  |
-| INT17 | O usuário deve poder registrar e acompanhar ordens de serviço.                                       | must   |
-| INT18 | O aplicativo deve disponibilizar alertas sobre manutenção programada.                                | could  |
-| INT19 | O usuário deve poder solicitar alteração na titularidade da conta.                                   | could  |
-| INT24 | O sistema deve possuir integração com serviços de pagamento populares como Pix e cartões de crédito. | must   |
-| INT27 | O sistema deve enviar e-mails e SMS transacionais para confirmar ações como pagamentos.              | could  |
-| ADD01 | Permitir a revisão de contas diretamente pelo aplicativo.                                            | would  |
-| ADD05 | O aplicativo deve permitir que o usuário solicite desobstrução de esgoto e acompanhe os atendimentos.| should |
-| ADD11 | O aplicativo deve garantir uma interface do usuário acessível e fácil de navegar.                    | must   |
-| ADD12 | O aplicativo deve oferecer suporte a múltiplos idiomas para atender usuários diversificados.         | would  |
-| ADD14 | O aplicativo deve minimizar riscos de vulnerabilidades e proteger contra ataques conhecidos.         | must   |
-| ADD24 | O aplicativo deve implementar autenticação multifator para aumentar a segurança do acesso.           | would  |
+| INT07 | O aplicativo deve ser compatível com as versões mais recentes do Android e iOS.                      | must |
+| INT10 | O aplicativo deve ser otimizado para diferentes tamanhos de tela e dispositivos (responsivo).        | could |
+| INT12 | O usuário deve poder consultar e pagar débitos anteriores.                                           | must |
+| INT13 | O aplicativo deve disponibilizar a opção de cadastro em débito automático.                           | could |
+| INT14 | O usuário deve poder consultar o mapa de interrupções de fornecimento.                               | must |
+| INT15 | O aplicativo deve permitir agendar atendimento presencial na unidade mais próxima.                   | would  |
+| INT16 | O aplicativo deve exibir dicas de consumo consciente e economia de água.                             | should  |
+| INT17 | O usuário deve poder registrar e acompanhar ordens de serviço.                                       | should   |
+| INT18 | O aplicativo deve disponibilizar alertas sobre manutenção programada.                                | must |
+| INT19 | O usuário deve poder solicitar alteração na titularidade da conta.                                   | must |
+| INT24 | O sistema deve possuir integração com serviços de pagamento populares como Pix e cartões de crédito. | should   |
+| INT27 | O sistema deve enviar e-mails e SMS transacionais para confirmar ações como pagamentos.              | should  |
+| ADD01 | Permitir a revisão de contas diretamente pelo aplicativo.                                            | should  |
+| ADD05 | O aplicativo deve permitir que o usuário solicite desobstrução de esgoto e acompanhe os atendimentos.| must|
+| ADD11 | O aplicativo deve garantir uma interface do usuário acessível e fácil de navegar.                    | should   |
+| ADD12 | O aplicativo deve oferecer suporte a múltiplos idiomas para atender usuários diversificados.         | must |
+| ADD14 | O aplicativo deve minimizar riscos de vulnerabilidades e proteger contra ataques conhecidos.         | should   |
+| ADD24 | O aplicativo deve implementar autenticação multifator para aumentar a segurança do acesso.           | could |
 | ADD25 | O usuário deve poder localizar postos de atendimento da CAESB no mapa.                               | should |
-| ADD30 | O aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas. | could  |
-| OBS02 | O aplicativo deve permitir que o usuário selecione o ano ou mês da segunda via da conta.             | must   |
-| OBS06 | O aplicativo deve permitir que o usuário visualize as regiões em que haverá falta de água.           | could  |
+| ADD30 | O aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas. | must  |
+| OBS02 | O aplicativo deve permitir que o usuário selecione o ano ou mês da segunda via da conta.             | must  |
+| OBS06 | O aplicativo deve permitir que o usuário visualize as regiões em que haverá falta de água.           | should  |
 | OBS09 | O aplicativo deve permitir filtrar os atendimentos em andamento ou finalizados.                      | should |
-| OBS11 | O aplicativo deve permitir que o usuário busque um atendimento pelo protocolo.                       | must   |
-| OBS12 | O aplicativo deve permitir que o usuário simule o faturamento pelo aplicativo.                       | would  |
+| OBS11 | O aplicativo deve permitir que o usuário busque um atendimento pelo protocolo.                       | could  |
+| OBS12 | O aplicativo deve permitir que o usuário simule o faturamento pelo aplicativo.                       | could |
 
 </center>
 
 ## Entrevista
-<!-- Assista a gravação no youtube clicando [aqui](https://youtu.be/sKlWCrd8NJE). -->
-<!-- 
+Assista a gravação no youtube clicando [aqui](https://youtu.be/Liy4I_H0ycE).
+
 <center>
     <p>Vídeo 01: Gravação da entrevista</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/sKlWCrd8NJE?si=1NYoxfKk_63si-6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/Liy4I_H0ycE?si=jBVwShYCtuKuiOI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen></iframe>
     Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
-</center> -->
+</center>
 
 
 <center>
@@ -82,7 +82,7 @@ A Tabela 1 a seguir contém a priorização dos Requisitos elicitados. Nem todos
 
 | **Entrevistador**     | **Entrevistado**        | **Duração** |
 | :-------------------: |:----------------------: |-------------|
-| Natan da Cruz Almeida | Matheus Luiz Nascimento |     -       |
+| Natan Almeida | Tatiane                |    04m17s       |
 
 
  Autor: <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
@@ -100,3 +100,4 @@ Acesso em: 23 nov. 2024.</P>
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 21/11/2024 | Criação do artefato |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
+|  1.1   | 24/11/2024 | Adição vídeo e respostas |[Natan Almeida](https://github.com/natanalmeida03) | [Letícia Resende](https://github.com/LeticiaResende23)  |
