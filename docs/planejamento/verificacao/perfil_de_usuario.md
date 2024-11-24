@@ -58,8 +58,9 @@ Pode ser vista no [YouTube](https://youtu.be/khaVWQRzG0Y).</p>
 
 ## Referências
 
-> <p id="1">1. S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do Usuário, p. 166. Autopublicação, 2021. ISBN: 978-65-00-19677-1.
-
+> <p id="1">1. S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do Usuário, p. 166. Autopublicação, 2021. ISBN: 978-65-00-19677-1.<center><figcaption>Imagem 1: Foto da Referência</figcaption></center>
+<img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/referencia_veri_perfil_usuario.png?raw=true"></img>
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
 
 </p>
 
@@ -69,4 +70,4 @@ Pode ser vista no [YouTube](https://youtu.be/khaVWQRzG0Y).</p>
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 24/11/2024 | Criação do Documento e Lista de Verificação | [Leandro de ALmeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)|
+|  1.0   | 24/11/2024 | Criação do Documento e Lista de Verificação | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)|
