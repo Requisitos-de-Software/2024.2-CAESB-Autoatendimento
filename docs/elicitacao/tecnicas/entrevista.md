@@ -8,7 +8,36 @@
 
 <p align="justify">&emsp;&emsp;Um usuário do aplicativo Caesb Autoatendimento será entrevistado com o objetivo de elicitar os requisitos funcionais e não funcionais do aplicativo. O roteiro da entrevista será composto por um questionário previamente elaborado pelo grupo, contendo tanto questões abertas quanto fechadas. A entrevista será realizada de forma presencial, com gravação autorizada, e, no início, será apresentado e lido um termo de consentimento ao entrevistado.</p>
 
+## Requisitos
 
+Os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
+
+- RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
+
+- RNF: Requisitos Não-Funcionais - Descrevem os atributos que o software deve ter, como desempenho, segurança e usabilidade, mas não descrevem o comportamento do software em si.
+
+<br>
+
+<center>
+<p>Tabela 01: Requisitos Funcionais</p>
+</center>
+
+| ID   | Descrição                                                                                         | Categoria |
+|------|---------------------------------------------------------------------------------------------------|-----------|
+| RQ01 | A funcionalidade "Informar vazamento na rua" deve mostrar apenas o mapa das regiões em que a Caesb atua. | RN        |
+| RQ02 | Todas as funções devem ser fáceis de usar.                                                         | RNF       |
+| RQ03 | O usuário deve poder consultar a segunda via da conta.                                             | RN        |
+| RQ04 | O usuário deve poder consultar o histórico de consumo.                                             | RN        |
+| RQ05 | O usuário deve poder buscar informações sobre a falta de água.                                     | RN        |
+| RQ06 | O sistema deve permitir ao usuário corrigir erros retornando à tela anterior e atualizando os dados. | RN        |
+| RQ07 | A funcionalidade "Atendimentos" deve permitir filtros por ano, mês, status (finalizado ou em andamento). | RN        |
+| RQ08 | As funcionalidades mais frequentes utilizadas pelo usuário são "Segunda via da conta" e "Meu histórico de consumo". | RN        |
+| RQ09 | A funcionalidade "Simulação de tarifa" deve ser nativa do aplicativo e não redirecionar ao site da Caesb. | RN        |
+| RQ10 | A interface visual deve ser reorganizada, separando serviços e consultas.                          | RNF       |
+
+<center>
+ Autores: <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
+</center>
 
 ## Entrevista
 
@@ -39,7 +68,7 @@ Assista a gravação no youtube clicando [aqui](https://youtu.be/sKlWCrd8NJE).
 **Questão 1: Qual o seu nome?**  
 Resposta: 
 
-**Questão 2: Qual o seu sexo?**  
+**Questão 2: Existe algo relacionado à sua identidade ou experiência que impacta como você utiliza o aplicativo?**  
 Resposta:  
 
 **Questão 3: Qual a sua idade?**  
@@ -51,44 +80,45 @@ Resposta:
 **Questão 5: Qual a região onde você mora?**  
 Resposta:  
 
-**Questão 6: Qual a sua profissão?**  
+**Questão 7: Você utiliza o aplicativo no Android ou iPhone? Qual dispositivo você mais usa?**  
 Resposta:  
 
-**Questão 7: Qual plataforma você usa pra acessar o aplicativo?**  
-Resposta:  
-
-**Questão 8: Existe algum erro que você comete frequentemente ao usar esse aplicativo? Se sim, qual?**  
+**Questão 8: Quais dificuldades ou erros você geralmente enfrenta ao usar o aplicativo? Poderia descrever como isso acontece?**  
 Resposta:  
 
 **Questão 9: Existe alguma função que você acha necessário maior apoio em sua execução? Se sim, qual?**  
 Resposta:  
 
-**Questão 10: Qual sua experiência com aplicativos Mobile?**  
+**Questão 10: Você costuma consultar a segunda via da conta em seu nome utilizando esse aplicativo?**  
 Resposta:  
 
-**Questão 11: Você costuma consultar a segunda via da conta em seu nome utilizando esse aplicativo?**  
+**Questão 11: Você costuma consultar seu histórico de consumo utilizando esse aplicativo?**  
 Resposta:  
 
-**Questão 12: Você costuma consultar seu histórico de consumo utilizando esse aplicativo?**  
+**Questão 12: Você costuma buscar informações sobre a falta de água utilizando esse aplicativo?**  
+Resposta:    
+
+**Questão 13: Quando você comete um erro no aplicativo, como você resolve? Há algo que você acha que poderia facilitar essa correção?**  
 Resposta:  
 
-**Questão 13: Você costuma buscar informações sobre a falta de água utilizando esse aplicativo?**  
-Resposta:  
+**Questão 14: Você sente dificuldade em localizar informações no aplicativo? Quais seções são mais complicadas de encontrar?**  
+Resposta: 
 
-**Questão 14: Você costuma solicitar serviços relacionados à água e saneamento utilizando esse aplicativo?**  
-Resposta:  
+**Questão 15: Quais funcionalidades você utiliza com mais frequência no aplicativo?**  
+Resposta: 
 
-**Questão 15: Você costuma realizar a simulação de tarifa utilizando esse aplicativo?**  
-Resposta:  
+**Questão 16: Existe alguma funcionalidade que você acha desnecessária ou pouco útil no aplicativo?**  
+Resposta: 
 
-**Questão 16: Você costuma solicitar desobstrução do esgoto utilizando esse aplicativo?**  
-Resposta:  
+**Questão 17: Você já deixou de realizar alguma tarefa no aplicativo por dificuldade ou frustração? Se sim, qual?**  
+Resposta: 
 
-**Questão 17: Quão fácil é para você corrigir um erro que você mesmo cometeu ao usar o aplicativo Caesb Autoatendimento?**  
-Resposta:  
+**Questão 18: Como você avalia a interface visual do aplicativo? Existe algo que você mudaria?** 
+Resposta:
 
-**Questão 18: O quão fácil é para você encontrar as informações no aplicativo CAESB Autoatendimento?**  
-Resposta:  
+**Questão 19: Você já precisou de suporte técnico ao usar o aplicativo? Como foi essa experiência?** 
+Resposta:
+
 
 ## Bibliografia
 
