@@ -43,8 +43,8 @@
 | OBS3 | O aplicativo deve permitir que o usuário escolha visualizar a segunda via de contas pendentes. | In |
 | OBS5|	 O aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo. | In |
 | OBS7|  O aplicativo deve permitir que o usuário informe o vazamento em uma rua. | In |
-| OBS1 (Tabela 02)|O aplicativo deve ser compatível com as plataformas Android e iPhone. |In|
-| OBS4 (Tabela 02) | O aplicativo deve permitir que o usuário realize tarefas principais em no máximo 3 cliques.|In|
+| ADD16 |O aplicativo deve ser compatível com as plataformas Android e iPhone. |In|
+| ADD19 | O aplicativo deve permitir que o usuário realize tarefas principais em no máximo 3 cliques.|In|
 | ADD02 |Possibilitar a alteração de titularidade e vencimento de contas. | Out|
 | ADD07 |O usuário deve poder enviar documentos diretamente pelo aplicativo. | Out|
 | ADD08| O aplicativo deve oferecer notificações para lembrar vencimento de contas e ações pendentes.| Out |
@@ -60,6 +60,29 @@ Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letí
 
 <br>
 
+## Link da gravação
+Pode ser vista no <a href="https://www.youtube.com/watch?v=9oeguWDZlk4" target="_blank">YouTube</a>.
+
+<center>
+<p>Vídeo 01: Priorização</p>
+<iframe width="560" height="415" src="https://www.youtube.com/embed/RJ1eivBII04?si=GC18kMx3CVTFntKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h6>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</center>
+
+<br>
+
+<center>
+
+<figcaption>Tabela 02 - Dados da Entrevista</figcaption>
+
+| **Entrevistador**     | **Entrevistado**        | **Duração** |
+| :-------------------: |:----------------------: |-------------|
+| Letícia Resende | Sue Ellen Suzana |     08min 31segundos      |
+
+Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letícia Resende</a>
+</center>
+
+## Referências
 > <p>1. MILENE, Profa.; MAURÍCIO, Prof. Elicitação de requisitos: técnicas - priorização. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>
 Acesso em: 23 nov. 2024.</P>
 > <p> 2. https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/in_or_out
@@ -73,6 +96,7 @@ Acesso em: 23 nov. 2024.</p>
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 21/11/2024 | Criação do artefato |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
 |  1.1   | 23/11/2024 | Adicionando Priorização |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
+|  1.2  | 23/11/2024 | Adicionando vídeo |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
 
 
 

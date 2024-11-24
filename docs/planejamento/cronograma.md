@@ -39,12 +39,12 @@ Na Tabela 2, encontra o cronograma planejado para todas as atividades da segunda
 |---------------------------------------------------------------------------------------------------	|----------------------------	|-----------------------------------	|--------------------------	|-----------	|
 |   criação de personas e pesquisa perfis de usuários                                      	| Início: 31/10 <br>Fim: 05/11   	| Leandro                 	| Início: 23/11 Fim: 23/11 	| Letícia e Matheus  	|
 |   Entedimento das técnicas de elicitação de requisitos e quais serão usadas no projeto   	| Início: 31/10 <br>Fim: 06/11   	| Matheus                 	| Início: 23/11 Fim: 23/11 	| João Victor  	|
-|   Brainstorm para elicitação de requisitos                                               	| Início: 31/10 <br>Fim: 19/11   	| João Victor, Leandro, Letícia, Matheus, Natan 	| Início: 23/11 Fim: 23/11 	| João Victor, Leandro, Letícia, Matheus, Natan   	|
+|   Brainstorm                                                	| Início: 31/10 <br>Fim: 19/11   	| Matheus 	| Início: 23/11 Fim: 23/11 	| João Victor, Leandro, Letícia, Matheus, Natan   	|
 |   Introspecção para elicitação de requisitos                                             	| Início: 01/11 <br>Fim: 17/11   	| Natan                   	| Início: 23/11 Fim: 24/11 	| Letícia    	|
 |   Entrevista para elicitação de requisitos                                               	| Início: 18/11 <br>Fim: 18/11   	| Leandro e Letícia 	| Início: 24/11 Fim: 324/11 	| Matheus   	|
 |   Entendimento das técnicas de priorização de requisitos e quais serão usadas no projeto 	| Início: 08/11 <br>Fim: 15/11   	| Letícia                   	| Início: 24/11 Fim: 24/11 	| Natan    	|
-|   Priorização dos requisitos levantados usando as técnicas MoSCoW e 100 Dólares          	| Início: 15/11 <br>Fim: 19/11   	| João Victor                	| Início: 25/11 Fim: 25/11	| Letícia   	|
-|   Observação para elicitação de requisitos                                               	| Início: 19/11 <br>Fim: 21/11   	| Natan                   	| Início: 25/11 Fim: 25/11 	| Leandro 	|
+|   Priorização dos requisitos levantados usando as técnicas, In or Out, First Things First e Moscow          	| Início: 15/11 <br>Fim: 19/11   	| Letícia  e Natan               	| Início: 25/11 Fim: 25/11	| Letícia   	|
+|   Observação para elicitação de requisitos                                               	| Início: 19/11 <br>Fim: 21/11   	| Leandro e João Victor                   	| Início: 25/11 Fim: 25/11 	| Matheus 	|
 |   vericação	| Início: 24/11<br>Fim: 24/11	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 25/11<br>Fim: 25/11 	|  João Victor, Leandro, Letícia, Matheus, Natan	|
 |   vericação grupo n+1	| Início: 25/11<br>Fim: 25/11	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 26/11<br>Fim: 26/11 |  João Victor, Leandro, Letícia, Matheus, Natan	|
 |   Inspeção	| Início: 25/11<br>Fim: 25/11	| Letícia	| Início: 25/11<br>Fim: 25/11 	|Leandro 	|

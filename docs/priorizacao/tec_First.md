@@ -61,7 +61,32 @@ Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letí
 
 <br>
 
-## Bibliografia
+## Link da gravação
+Pode ser vista no <a href="https://www.youtube.com/watch?v=9oeguWDZlk4" target="_blank">YouTube</a>.
+<center>
+<p>Vídeo 01: Priorização</p>
+<iframe width="560" height="415" src="https://www.youtube.com/embed/V7UapC74zJw?si=lsAxrWglnbdzl-r5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h6>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</center>
+
+<br>
+
+
+<center>
+
+<figcaption>Tabela 02 - Dados da Entrevista</figcaption>
+
+| **Entrevistador**     | **Entrevistado**        | **Duração** |
+| :-------------------: |:----------------------: |-------------|
+| Letícia Resende | Sue Ellen Suzana |     05min 35segundos       |
+
+
+Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
+## Referências
 
 > <p>1. MILENE, Profa.; MAURÍCIO, Prof. Elicitação de requisitos: técnicas - priorização. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>
 Acesso em: 23 nov. 2024.</P>
@@ -76,3 +101,4 @@ Acesso em: 23 nov. 2024.</p>
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 21/11/2024 | Criação do artefato |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
 |  1.1   | 23/11/2024 | Adicionando priorização |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
+|  1.2  | 23/11/2024 | Adicionando vídeo |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |

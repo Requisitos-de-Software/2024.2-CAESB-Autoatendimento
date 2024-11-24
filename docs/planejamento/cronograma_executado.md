@@ -28,6 +28,30 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 <br>
 
+
+<p align="justify">&emsp;&emsp;Na Tabela 2, encontra-se o cronograma executado para todas as atividades da segunda entrega.</p>
+
+| Atividade                                                                                         	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                  	| Revisores 	|
+|---------------------------------------------------------------------------------------------------	|----------------------------	|-----------------------------------	|--------------------------	|-----------	|
+|   criação de personas e pesquisa perfis de usuários                                      	| Início: 18/11 <br>Fim: 05/11   	| Leandro e Matheus               	| Início: 20/11 Fim: 23/11 	| Letícia 	|
+|   Entedimento das técnicas de elicitação de requisitos e quais serão usadas no projeto   	| Início: 18/11 <br>Fim: 24/11   	| Leandro                	| Início: 24/11 Fim: 24/11 	| João Victor  	|
+|   Brainstorm                                                	| Início: 22/11 <br>Fim: 22/11   	| Matheus 	| Início: 23/11 Fim: 23/11 	| João Victor, Leandro, Letícia, Matheus, Natan   	|
+|   Introspecção para elicitação de requisitos                                             	| Início: 18/11 <br>Fim: 20/11   	| Natan                   	| Início: 24/11 Fim: 24/11 	| Letícia    	|
+|   Entrevista para elicitação de requisitos                                               	| Início: 18/11 <br>Fim: 23/11   	| Leandro e Letícia 	| Início: 24/11 Fim: 24/11 	| Matheus   	|
+|   Entendimento das técnicas de priorização de requisitos e quais serão usadas no projeto 	| Início: 18/11 <br>Fim: 23/11   	| Letícia                   	| Início: 24/11 Fim: 24/11 	| Natan    	|
+|   Priorização dos requisitos levantados usando as técnicas, In or Out, First Things First e Moscow          	| Início: 18/11 <br>Fim: 23/11   	| Letícia  e Natan               	| Início: 24/11 Fim: 25/11	| Letícia   	|
+|   Observação para elicitação de requisitos                                               	| Início: 18/11 <br>Fim: 22/11   	| Leandro e João Victor                   	| Início: 22/11 Fim: 23/11 	| Matheus 	|
+|   vericação	| Início: 23/11<br>Fim: 24/11	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 25/11<br>Fim: 24/11 	|  João Victor, Leandro, Letícia, Matheus, Natan	|
+|   vericação grupo n+1	| Início: 25/11<br>Fim: 25/11	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 26/11<br>Fim: 26/11 |  João Victor, Leandro, Letícia, Matheus, Natan	|
+|   Inspeção	| Início: 24/11<br>Fim: 24/11	| Letícia	| Início: 23/11<br>Fim: 24/11 	|Leandro 	|
+|   Gravação da Apresentação e Entrega                                                     	| Início: 24/11 <br>Fim: 24/11   	|João Victor, Leandro, Letícia, Matheus, Natan                              	| Início: 24/11 Fim: 24/11 	| João Victor, Leandro, Letícia, Matheus, Natan    	|
+|   Correção pós apresentação	| Início: 27/11<br>Fim: 27/11 	|João Victor, Leandro, Letícia, Matheus, Natan	| Início: 27/11<br>Fim: 27/11 	| João Victor, Leandro, Letícia, Matheus, Natan  	|
+
+<center>
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</center>
+
+
 ## Referências
 
 > <p id="1">1. SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. Aprender 3. Distrito Federal, 2016. Disponível em:  
