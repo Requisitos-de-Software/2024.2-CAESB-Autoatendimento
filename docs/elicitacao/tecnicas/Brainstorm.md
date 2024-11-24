@@ -1,4 +1,4 @@
-# Análise de Documento
+# Brainstorming
 
 ## Introdução
 
@@ -24,6 +24,7 @@ Os requisitos levantados durante a análise de documentos, identificados com 'B'
 
 <center>
 <figcaption>Tabela 01 - Requisitos </figcaption>
+</center>
 
 | **ID** | **Descrição**                                                                                       | **Categoria** |
 |--------------------|---------------------------------------------------------------------------------------------------|----------|
@@ -50,10 +51,11 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=9oeguWDZlk4" target="
 
 <center>
 <p>Vídeo 01: Verificação dos Aplicativos Avaliados</p>
+</center>
 <iframe width="560" height="415" src="https://www.youtube.com/embed/9oeguWDZlk4?si=UoPFkDoecFJyqKbj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
 
-</center>
+
 
 ## Bibliografia
 

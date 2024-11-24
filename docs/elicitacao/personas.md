@@ -5,7 +5,7 @@
 
 ## Metodologia
 
-<p align="justify">&emsp;&emsp;Para a criação das personas, foram utilizados principalmente os dados obtidos por meio do perfil de usuário. As informações coletadas nas respostas ao questionário permitiram a elaboração de perfis que representam os usuários "típicos" do aplicativo CAESB Autoatendimento.</p>
+<p align="justify">&emsp;&emsp;Para a criação das personas, foram utilizados principalmente os dados obtidos por meio do perfil de usuário. As informações coletadas nas respostas referentes ao Brainstorm permitiram a elaboração de perfis que representam os usuários "típicos" do aplicativo CAESB Autoatendimento.</p>
 
 <p align="justify">&emsp;&emsp;Serão utilizadas quatro personas, escolha orientada pelo intervalo recomendado por Courage e Baxter (2005), de 3 a 12 personas<a href="#1"><sup>2</sup></a>. Dentre elas, serão definidas duas personas primárias, uma persona secundária e, por fim, uma antipersona. As personas primárias e a secundária representam usuários que têm contato direto com o sistema e abrangem os dados coletados e estimados para refletir o papel de usuários do site. Por outro lado, a antipersona descreve um perfil de usuário que não se encaixa nos dados levantados.</p>
 
