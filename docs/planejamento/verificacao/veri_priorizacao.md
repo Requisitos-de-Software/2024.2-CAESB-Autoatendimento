@@ -25,12 +25,14 @@ Neste documento, realizou-se a avaliação do artefato <a href="http://127.0.0.1
 
 <center>Tabela 01: Verificação das Técnicas de Priorização</center>
 
-| **Id** | **Descrição**                                                                                       | **Avaliação** | **Observações**                                |
-|--------|-----------------------------------------------------------------------------------------------------|---------------|-----------------------------------------------|
-| 01      | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o cliente e/ou persona do projeto. | Sim     | Definir data, horário e local.                |
-| 02      | No mínimo duas técnicas de priorização (quanto mais melhor).                                        | Sim     | Escolher técnicas; considerar referências.    |
-| 03     | A participação do cliente e/ou persona no processo de priorização.                                  | Sim     | Verificar disponibilidade e engajamento.      |
-| 04     | A gravação e o(s) registro(s) da atividade de priorização dos requisitos.                           | Sim    | Planejar recursos e meios para registros.     |
+| **ID** | **Descrição**                                                                                       | **Avaliação** | **Autor**      | **Observações**                                |
+|--------|-----------------------------------------------------------------------------------------------------|---------------|----------------|-----------------------------------------------|
+| 01     | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o cliente e/ou persona do projeto. | Sim           | André Barros   | Versão 1.0 - 24/11.                           |
+| 02     | No mínimo duas técnicas de priorização (quanto mais melhor).                                        | Sim           | André Barros   | Versão 1.0 - 24/11.                           |
+| 03     | A participação do cliente e/ou persona no processo de priorização.                                  | Sim           | André Barros   | Versão 1.0 - 24/11.                           |
+| 04     | A gravação e o(s) registro(s) da atividade de priorização dos requisitos.                           | Sim           | André Barros   | Versão 1.0 - 24/11.                           |
+| 05     | Na First things first os benefícios de cada recurso do cliente/negócio são estimados em uma escala de 1 a 9?                           | Sim           |Matheus Barros   | Versão 1.0 - 24/11.    
+
 
 
 <center>
