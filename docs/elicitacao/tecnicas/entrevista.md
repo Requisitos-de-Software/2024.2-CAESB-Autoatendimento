@@ -120,12 +120,7 @@ Resposta: Não.
 
 ## Referências
 
-> <p>1. VASQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. São Paulo: Pearson, 2016. 328 p. ISBN 9788574527901. Disponível em: https://aprender3.unb.br/pluginfile.php/2972448/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf. Acesso em: 22 de Nov. 2024</p><center><figcaption>Imagem 1: Foto da Referência 1</figcaption>
-<img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/ref_entre1.png?raw=true"></img>
-<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
-<center><figcaption>Imagem 1: Foto da Referência 2</figcaption></center>
-<img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/ref_entre2.png?raw=true"></img>
-<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+> <p>1. VASQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. São Paulo: Pearson, 2016. 328 p. ISBN 9788574527901. Disponível em: https://aprender3.unb.br/pluginfile.php/2972448/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf. Acesso em: 22 de Nov. 2024</p>
 
 <br>
 
