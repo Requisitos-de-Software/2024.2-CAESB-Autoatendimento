@@ -61,6 +61,8 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 > <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63
    Acesso em: 23 nov. 2024.
 </p>
+ > <p id="2">2. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 24 de Nov. de 2024.<center><figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
+ </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/tec_eli_ref.png?raw=true"></img><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
 <br>
 
 ## Histórico de Versão
@@ -68,7 +70,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 24/11/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03) |
-
+|  1.1   | 24/11/2024 | Adiciona imagem na referência | [Leandro de ALmeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) |
 
 
 

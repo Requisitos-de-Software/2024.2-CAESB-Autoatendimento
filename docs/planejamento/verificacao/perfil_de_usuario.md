@@ -58,11 +58,13 @@ Pode ser vista no [YouTube](https://youtu.be/khaVWQRzG0Y).</p>
 
 ## Referências
 
-> <p id="1">1. S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do Usuário, p. 166. Autopublicação, 2021. ISBN: 978-65-00-19677-1.<center><figcaption>Imagem 1: Foto da Referência</figcaption></center>
+> <p id="1">1. S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do Usuário, p. 166. Autopublicação, 2021. ISBN: 978-65-00-19677-1.<center><figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
 <img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/referencia_veri_perfil_usuario.png?raw=true"></img>
 <center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+ > <p id="2">2. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 24 de Nov. de 2024.<center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
+</p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/perfil_ref.png?raw=true"></img><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
 
-</p>
+
 
 <br>
 
@@ -71,3 +73,4 @@ Pode ser vista no [YouTube](https://youtu.be/khaVWQRzG0Y).</p>
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 24/11/2024 | Criação do Documento e Lista de Verificação | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)|
+|  1.1   | 24/11/2024 | Adiciona imagens na referência | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)|
