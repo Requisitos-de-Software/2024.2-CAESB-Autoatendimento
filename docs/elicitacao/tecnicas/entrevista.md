@@ -57,7 +57,7 @@ Assista a gravação no youtube clicando [aqui](https://youtu.be/sKlWCrd8NJE).
 
 | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |
 |-------------------|------------------|-------------|-----------------------------|
-|         -         |         -        |     -       |              -              |
+| Leandro de Almeida | Danilo Félix    |   5 min     |    Casa do entrevistado     |
 
 
  Autor: <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
@@ -66,59 +66,58 @@ Assista a gravação no youtube clicando [aqui](https://youtu.be/sKlWCrd8NJE).
 ## Questões e Respostas  
 
 **Questão 1: Qual o seu nome?**  
-Resposta: 
+Resposta: Danilo
 
 **Questão 2: Existe algo relacionado à sua identidade ou experiência que impacta como você utiliza o aplicativo?**  
-Resposta:  
+Resposta:  Não
 
 **Questão 3: Qual a sua idade?**  
-Resposta:  
+Resposta:  22
 
 **Questão 4: Qual o seu nível de escolaridade?**  
-Resposta:  
+Resposta: Ensino superior incompleto 
 
 **Questão 5: Qual a região onde você mora?**  
-Resposta:  
+Resposta:  Gama - DF
 
 **Questão 7: Você utiliza o aplicativo no Android ou iPhone? Qual dispositivo você mais usa?**  
-Resposta:  
+Resposta:  Android
 
 **Questão 8: Quais dificuldades ou erros você geralmente enfrenta ao usar o aplicativo? Poderia descrever como isso acontece?**  
-Resposta:  
+Resposta:  A funcionalidade informar vazamento na rua mostra o mapa do google maps inteiro ao invés de mostrar apenas o mapa das regiões em que a Caesb atua.
 
 **Questão 9: Existe alguma função que você acha necessário maior apoio em sua execução? Se sim, qual?**  
-Resposta:  
+Resposta:  Não. Todas as funções são fáceis de usar.
 
 **Questão 10: Você costuma consultar a segunda via da conta em seu nome utilizando esse aplicativo?**  
-Resposta:  
+Resposta:  Sim.
 
 **Questão 11: Você costuma consultar seu histórico de consumo utilizando esse aplicativo?**  
-Resposta:  
+Resposta:  Sim.
 
 **Questão 12: Você costuma buscar informações sobre a falta de água utilizando esse aplicativo?**  
-Resposta:    
+Resposta: Sim.   
 
 **Questão 13: Quando você comete um erro no aplicativo, como você resolve? Há algo que você acha que poderia facilitar essa correção?**  
-Resposta:  
+Resposta: Voltando a tela pela setinha na parte superior e corrigindo a informação. 
 
 **Questão 14: Você sente dificuldade em localizar informações no aplicativo? Quais seções são mais complicadas de encontrar?**  
-Resposta: 
+Resposta: Na parte de atendimentos não é possível filtrar por ano, mês ou se está finalizado ou em andamento.
 
 **Questão 15: Quais funcionalidades você utiliza com mais frequência no aplicativo?**  
-Resposta: 
+Resposta: Segunda via da conta e meu histórico de consumo.
 
 **Questão 16: Existe alguma funcionalidade que você acha desnecessária ou pouco útil no aplicativo?**  
-Resposta: 
+Resposta: Simulação de tarifa pois ela acaba levando ao site da Caesb ao invés de ser uma função nativa do aplicativo.
 
 **Questão 17: Você já deixou de realizar alguma tarefa no aplicativo por dificuldade ou frustração? Se sim, qual?**  
-Resposta: 
+Resposta: Não.
 
 **Questão 18: Como você avalia a interface visual do aplicativo? Existe algo que você mudaria?** 
-Resposta:
+Resposta: Poluída. Separaria serviços e consultas cada um em uma tela.
 
-**Questão 19: Você já precisou de suporte técnico ao usar o aplicativo? Como foi essa experiência?** 
-Resposta:
-
+**Questão 19: Você já precisou de suporte técnico ao usar o aplicativo? Como foi essa experiência?**  
+Resposta: Não.
 
 ## Bibliografia
 
