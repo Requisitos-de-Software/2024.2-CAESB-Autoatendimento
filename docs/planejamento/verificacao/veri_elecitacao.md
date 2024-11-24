@@ -25,12 +25,13 @@ Neste documento, realizou-se a avaliação do artefato <a href="http://127.0.0.1
 
 <center>Tabela 01: Verificação das Técnicas de Elicitação</center>
 
-| Id | Descrição                                                                                    | Avaliação | Observações |
-|----|----------------------------------------------------------------------------------------------|-----------|-------------|
-| 01 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?   |   Sim        | versão 1.0   24/11         |
-| 02 | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)?                                       |    Sim       | versão 1.0 24/11          |
-| 03 | A participação do cliente e/ou persona na elicitação de requisitos?                                      |    Sim       | versão 1.0 24/11          |
-| 04 |A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)?                                  |    Sim       | versão 1.0 24/11          |
+| **ID** | **Descrição**                                                                                       | **Avaliação** | **Observações**                                |
+|--------|-----------------------------------------------------------------------------------------------------|---------------|-----------------------------------------------|
+| 01     | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o cliente e/ou persona do projeto. | Sim           | Versão 1.0  24/11.                           |
+| 02     | No mínimo duas técnicas de priorização (quanto mais melhor).                                        | Sim           | Versão 1.0  24/11.                           |
+| 03     | A participação do cliente e/ou persona no processo de priorização.                                  | Sim           | Versão 1.0  24/11.                           |
+| 04     | A gravação e o(s) registro(s) da atividade de priorização dos requisitos.                           | Sim           | Versão 1.0  24/11.                           |
+
 
 
 <center>

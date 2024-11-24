@@ -8,9 +8,20 @@
 
 <p align="justify">&emsp;&emsp; A técnica utilizada nesse documento foi o brainstorming, essa técnica é um método de geração de ideias coletiva, no qual os participantes oferecem ideias de maneira livre e natural. A meta é incentivar a criatividade, evitando críticas ou julgamentos durante a sessão, com o intuito de produzir o maior número possível de ideias. Em seguida, as propostas são examinadas, aprimoradas e escolhidas.</p>
 
-<p align="justify">&emsp;&emsp; Mediador: Matheus Barros</p>
-<p align="justify">&emsp;&emsp; Participantes: Rodrigo de Andrade, Rodrigo , Mike, Esther e Luís</p>
+<center>
+<p>Tabela 01: Dados da Entrevista</p>
 
+| **Função**   | **Nome**            | **Duração** | **Local**                     | **Horário** | **Data**   |
+|--------------|---------------------|-------------|-------------------------------|-------------|------------|
+| Mediador     | Matheus Barros      | 15 min      | Sala multiuso - UAC/FCTE      | 16:00       | 22/11      |
+| Participante | Rodrigo de Andrade  | 15 min      | Sala multiuso - UAC/FCTE      | 16:00       | 22/11      |
+| Participante | Rodrigo             | 15 min      | Sala multiuso - UAC/FCTE      | 16:00       | 22/11      |
+| Participante | Mike                | 15 min      | Sala multiuso - UAC/FCTE      | 16:00       | 22/11      |
+| Participante | Esther              | 15 min      | Sala multiuso - UAC/FCTE      | 16:00       | 22/11      |
+| Participante | Luís                | 15 min      | Sala multiuso - UAC/FCTE      | 16:00       | 22/11      |
+
+Autor: <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
+</center>
 
 ## Requisitos
 
@@ -23,7 +34,7 @@ Os requisitos levantados durante a análise de documentos, identificados com 'B'
 <br>
 
 <center>
-<figcaption>Tabela 01 - Requisitos </figcaption>
+<figcaption>Tabela 02 - Requisitos </figcaption>
 </center>
 
 | **ID** | **Descrição**                                                                                       | **Categoria** |
@@ -44,31 +55,39 @@ Os requisitos levantados durante a análise de documentos, identificados com 'B'
 | B14               | O sistema deve minimizar o número de cliques necessários para interações                          | RNF      |
 | B15               | O sistema deve organizar serviços de forma lógica e acessível                                     | RNF      |
 
+<center>
 Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
+</center>
+
+<br>
 
 ## Link da gravação - Brainstorming
 Pode ser vista no <a href="https://www.youtube.com/watch?v=9oeguWDZlk4" target="_blank">YouTube</a>.
 
 <center>
 <p>Vídeo 01: Verificação dos Aplicativos Avaliados</p>
-</center>
+
 <iframe width="560" height="415" src="https://www.youtube.com/embed/9oeguWDZlk4?si=UoPFkDoecFJyqKbj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h6>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
+</center>
 
 
 
-## Bibliografia
+## Referência
 
 > <p>1. VASQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. São Paulo: Pearson, 2016. 328 p. ISBN 9788574527901. Disponível em: https://aprender3.unb.br/pluginfile.php/2972448/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf. Acesso em: 22 de Nov. 2024</p>
 
 <br>
 
+
+
 ## Histórico de versão
-
-
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 22/11/2024 | Adicionando introdução, metodologia e questões | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.1   | 22/11/2024 | Padronização | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Leandro de Almeida](https://github.com/leomitx10) |
+
 
 
 
