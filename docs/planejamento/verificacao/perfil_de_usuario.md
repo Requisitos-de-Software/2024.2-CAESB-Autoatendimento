@@ -18,21 +18,20 @@
 &emsp;&emsp;Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/perfil_de_usuario/"> Perfil de Usuário </a>, que busca compreender melhor as necessidades e identificar os usuários do <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Caesb Autoatendimento</a>.
 </p>
 
-# Verificação do Perfil de Usuário
+## Verificação do Perfil de Usuário
 
 <p align="justify">
 &emsp;&emsp;A tabela 01 apresenta a Lista de Verificação do Perfil de Usuário que foi elaborada com base no plano de ensino da disciplina.</p>
 
-Segue a tabela dividida em quatro partes distintas, com cada aspecto descrito separadamente:
-
 <center>Tabela 01: Verificação das Técnicas de Elicitação</center>
 
-| **Id** | **Descrição**                                                                                 | **Avaliação** | **Observações**                                                                   |
-|--------|---------------------------------------------------------------------------------------------|---------------|----------------------------------------------------------------------------------|
-| 01     | O Perfil do Usuário possui informação de idade (criança, jovem, adulto, terceira idade etc.) |      Sim     | versão 1.2 20/11  |
-| 02     | O Perfil do Usuário possui informação de experiência (leigo/novato, especialista).             |      Sim      |  versão 1.2 20/11 |
-| 03     | O Perfil do Usuário possui informação de atitudes (tecnófilos, tecnófobos).                     |     Sim       | versão 1.2 20/11  |
-| 04     | O Perfil do Usuário possui informação de tarefas primárias (compra, venda).                     |      Sim      |  versão 1.2 20/11 |
+| **Id** | **Descrição**  | **Avaliação** |**Autor**|**Observações**                                                                   |
+|--------|---------------------------------------------------------------------------------------------|---------------| ----------------------------------------------------------------------------------|-----------------|
+| 01     | O Perfil do Usuário possui informação de idade (criança, jovem, adulto, terceira idade etc.) |  Sim | André Barros | versão 1.2 20/11  |
+| 02     | O Perfil do Usuário possui informação de experiência (leigo/novato, especialista).  | Sim | André Barros |versão 1.2 20/11 |
+| 03     | O Perfil do Usuário possui informação de atitudes (tecnófilos, tecnófobos).  | Sim | André Barros |versão 1.2 20/11  |
+| 04     | O Perfil do Usuário possui informação de tarefas primárias (compra, venda). |  Sim  | André Barros |versão 1.2 20/11 |
+| 05     | O Perfil do Usuário é baseado em dados reais coletados.  | Não | Leandro de Almeida | versão 1.2 20/11  |  
 
 <center>
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
@@ -49,10 +48,10 @@ Pode ser vista no [YouTube](https://youtu.be/khaVWQRzG0Y).</p>
 
 ## Problemas encontrados
 
-<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
+<p align="justify">5. O perfil de usuário não foi baseado em dados coletados. </p>
 
 ## Sugestões
-<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
+<p align="justify">5. Utilizar alguma téncica como observação ou entrevistas para coletar dados reais do perfil de usuário.</p>
 
 <br>
 
@@ -61,7 +60,10 @@ Pode ser vista no [YouTube](https://youtu.be/khaVWQRzG0Y).</p>
 > <p id="1">1. S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do Usuário, p. 166. Autopublicação, 2021. ISBN: 978-65-00-19677-1.<center><figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
 <img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/referencia_veri_perfil_usuario.png?raw=true"></img>
 <center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
- > <p id="2">2. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 24 de Nov. de 2024.<center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
+<center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
+<img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/persona_ref.png?raw=true"></img>
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+ > <p id="2">2. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 24 de Nov. de 2024.<center><figcaption>Imagem 3: Foto da Referência 3</figcaption></center>
 </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/perfil_ref.png?raw=true"></img><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
 
 
@@ -74,3 +76,4 @@ Pode ser vista no [YouTube](https://youtu.be/khaVWQRzG0Y).</p>
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 24/11/2024 | Criação do Documento e Lista de Verificação | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)|
 |  1.1   | 24/11/2024 | Adiciona imagens na referência | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)|
+|  1.2   | 24/11/2024 | Adiciona questão autoral | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)|

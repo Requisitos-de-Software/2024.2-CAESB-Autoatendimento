@@ -18,19 +18,20 @@ Neste documento, realizou-se a avaliação do artefato <a href="http://127.0.0.1
 </p>
 
 
-## Verificação da Introspecção
+## Verificação da Elicitação
 <p align="justify">
 &emsp;&emsp;A tabela 01 apresenta a Lista de Verificação das Técnicas de Elicitação que foi elaborada com base no plano de ensino da disciplina
 </p>
 
 <center>Tabela 01: Verificação das Técnicas de Elicitação</center>
 
-| **ID** | **Descrição**                                                                                       | **Avaliação** | **Observações**                                |
-|--------|-----------------------------------------------------------------------------------------------------|---------------|-----------------------------------------------|
-| 01     | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o cliente e/ou persona do projeto. | Sim           | Versão 1.0  24/11.                           |
-| 02     | No mínimo duas técnicas de priorização (quanto mais melhor).                                        | Sim           | Versão 1.0  24/11.                           |
-| 03     | A participação do cliente e/ou persona no processo de priorização.                                  | Sim           | Versão 1.0  24/11.                           |
-| 04     | A gravação e o(s) registro(s) da atividade de priorização dos requisitos.                           | Sim           | Versão 1.0  24/11.                           |
+| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
+|--------|----------------|---------------|--|------------------|
+| 01     | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o cliente e/ou persona do projeto. | Sim | André Barros    | Versão 1.0  24/11.       |
+| 02     | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor).    | Sim  |   André Barros      | Versão 1.0  24/11.          |
+| 03     | A participação do cliente e/ou persona no processo de priorização.  | Sim  | André Barros        | Versão 1.0  24/11.   |
+| 04     | A gravação e o(s) registro(s) da elicitação dos requisitos  (pré-rastreabilidade).  | Sim |     André Barros     | Versão 1.0  24/11.   |
+| 05     | Na técnica de elicitação por observação, é especificado se o observador será passivo ou ativo. | Sim  | Letícia Resende |      Versão 1.0  24/11.      |  
 
 
 
@@ -63,6 +64,10 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 </p>
  > <p id="2">2. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 24 de Nov. de 2024.<center><figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
  </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/tec_eli_ref.png?raw=true"></img><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+> <p>3. VASQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. São Paulo: Pearson, 2016. 328 p. ISBN 9788574527901. Disponível em: https://aprender3.unb.br/pluginfile.php/2972448/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf. Acesso em: 24 de Nov. 2024</p>
+<center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
+ </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/tec_elic_ref.png?raw=true"></img><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+
 <br>
 
 ## Histórico de Versão
