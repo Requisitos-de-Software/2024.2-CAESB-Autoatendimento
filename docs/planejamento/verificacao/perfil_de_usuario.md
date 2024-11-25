@@ -31,27 +31,27 @@
 | 02     | O Perfil do Usuário possui informação de experiência (leigo/novato, especialista).  | Sim | André Barros |versão 1.2 20/11 |
 | 03     | O Perfil do Usuário possui informação de atitudes (tecnófilos, tecnófobos).  | Sim | André Barros |versão 1.2 20/11  |
 | 04     | O Perfil do Usuário possui informação de tarefas primárias (compra, venda). |  Sim  | André Barros |versão 1.2 20/11 |
-| 05     | O Perfil do Usuário é baseado em dados reais coletados.  | Não | Leandro de Almeida | versão 1.2 20/11  |  
+| 05     | O Perfil do Usuário é baseado em dados reais coletados.  | Sim | Leandro de Almeida | versão 1.2 20/11  |  
 
 <center>
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
 ## Link da gravação
-Pode ser vista no [YouTube](https://youtu.be/khaVWQRzG0Y).</p>
+Pode ser vista no [YouTube](https://youtu.be/rHikyoiLvrU).</p>
 
 <center>
     <p>Vídeo 01: Verificação do Perfil de Usuário</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/khaVWQRzG0Y?si=frN_rucj9VbfeQjP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/rHikyoiLvrU?si=aEEg20wmvIHMy8G6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
 ## Problemas encontrados
 
-<p align="justify">5. O perfil de usuário não foi baseado em dados coletados. </p>
+<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
 
 ## Sugestões
-<p align="justify">5. Utilizar alguma téncica como observação ou entrevistas para coletar dados reais do perfil de usuário.</p>
+<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
 <br>
 

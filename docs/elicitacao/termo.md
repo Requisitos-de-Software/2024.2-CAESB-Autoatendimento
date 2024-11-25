@@ -24,6 +24,12 @@ Data:
 
 <br>
 
+## Referências
+
+> <p id="1"> 1. Aspectos Éticos Bilheteria digital. Disponível em: https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/aspectos-eticos.md. Acesso em: 13/10/2023</p>
+
+<br>
+
 ## Histórico de versão
 
 <center>
