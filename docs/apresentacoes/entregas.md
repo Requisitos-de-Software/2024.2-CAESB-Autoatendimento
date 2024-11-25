@@ -12,6 +12,15 @@ A apresentação da entrega 1, pode ser vista no [YouTube](https://youtu.be/xQJB
 Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
+## Entrega 2
+A apresentação da entrega 2, pode ser vista no [YouTube](https://youtu.be/XRYAcI0sHk0).
+
+<center>
+<p>Vídeo 02: Gravação da apresentação 2</p>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/XRYAcI0sHk0?si=WC6b01oiOwn_66Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
+</center>
+
 ## Histórico de versão
 
 <center>
@@ -20,5 +29,6 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 28/10/2024 | Criação do artefato | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
 |  1.1   | 05/11/2024 | Mudança do link do vídeo 1 | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+|  1.2   | 24/11/2024 | Adiciona a entrega 2 | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
 
 </center>
