@@ -44,7 +44,7 @@
 Pode ser vista no [YouTube](https://youtu.be/wgZ2OCly4CU?si=t85IUPGAGaajwCja).</p>
 
 <center>
-    <p>Vídeo 01: Verificação das Técnicas de Priorização</p>
+    <p>Vídeo 01: Verificação dos Itens de desenvolvimento do projeto</p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/wgZ2OCly4CU?si=t85IUPGAGaajwCja" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
