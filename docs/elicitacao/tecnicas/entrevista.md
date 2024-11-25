@@ -6,7 +6,7 @@
 
 ## Metodologia
 
-<p align="justify">&emsp;&emsp;Um usuário do aplicativo Caesb Autoatendimento será entrevistado com o objetivo de elicitar os requisitos funcionais e não funcionais do aplicativo. O roteiro da entrevista será composto por um questionário previamente elaborado pelo grupo, contendo tanto questões abertas quanto fechadas. A entrevista será realizada de forma presencial, com gravação autorizada, e, no início, será apresentado e lido um termo de consentimento ao entrevistado.</p>
+<p align="justify">&emsp;&emsp;Um usuário do aplicativo Caesb Autoatendimento será entrevistado com o objetivo de elicitar os requisitos funcionais e não funcionais do aplicativo. O roteiro da entrevista será composto por um questionário previamente elaborado pelo grupo, contendo tanto questões abertas quanto fechadas. A entrevista será realizada de forma presencial, com gravação autorizada, e, no início, será apresentado e lido um <a target = "blank" href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/termo/">termo de consentimento</a> ao entrevistado.</p>
 
 ## Requisitos
 
