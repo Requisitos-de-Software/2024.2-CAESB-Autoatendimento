@@ -22,21 +22,21 @@ Os requisitos levantados durante a análise de documentos, identificados com 'AD
 
 | ID   | DESCRIÇÃO                                                                                      | CATEGORIA |
 | :-:  | :------------------------------------------------------------------------------------------: | :-------: |
-| OBS1 | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                           |    RF     |
-| OBS2 | O aplicativo deve permitir que o usuário selecione o ano ou mês da segunda via da conta.      |    RF     |
-| OBS3 | O aplicativo deve permitir que o usuário escolha visualizar a segunda via de contas pendentes.|    RF     |
-| OBS4 | O aplicativo deve reconhecer automaticamente os imóveis associados ao cliente da Caesb.       |    RF     |
-| OBS5 | O aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo.  |    RF     |
-| OBS6 | O aplicativo deve permitir que o usuário visualize as regiões em que haverá falta de água.    |    RF     |
-| OBS7 | O aplicativo deve permitir que o usuário informe o vazamento em uma rua.                      |    RF     |
-| OBS8 | O aplicativo não deve permitir que o usuário escolha rua, bairro e cidade para informar o vazamento em uma rua. |   RF     |
-| OBS9 | O aplicativo deve permitir filtrar os atendimentos em andamento ou finalizados.               |    RF    |
-| OBS10| O aplicativo deve permitir filtrar os atendimentos por ano ou mês.                            |    RF    |
-| OBS11| O aplicativo deve permitir que o usuário busque um atendimento pelo protocolo.                |    RF    |
-| OBS12| O aplicativo deve permitir que o usuário simule o faturamento pelo aplicativo.                |    RF    |
-| OBS13| O aplicativo deve permitir que o usuário altere o vencimento da conta.                        |    RF    |
-| OBS14| O aplicativo deve permitir que o usuário altere a titularidade da conta.                      |    RF    |
-| OBS15| O aplicativo deve possuir 2 abas separadas, uma para serviços e outra para consultas.         |    RF    |
+| ADD1 | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                           |    RF     |
+| ADD2 | O aplicativo deve permitir que o usuário selecione o ano ou mês da segunda via da conta.      |    RF     |
+| ADD3 | O aplicativo deve permitir que o usuário escolha visualizar a segunda via de contas pendentes.|    RF     |
+| ADD4 | O aplicativo deve reconhecer automaticamente os imóveis associados ao cliente da Caesb.       |    RF     |
+| ADD5 | O aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo.  |    RF     |
+| ADD6 | O aplicativo deve permitir que o usuário visualize as regiões em que haverá falta de água.    |    RF     |
+| ADD7 | O aplicativo deve permitir que o usuário informe o vazamento em uma rua.                      |    RF     |
+| ADD8 | O aplicativo não deve permitir que o usuário escolha rua, bairro e cidade para informar o vazamento em uma rua. |   RF     |
+| ADD9 | O aplicativo deve permitir filtrar os atendimentos em andamento ou finalizados.               |    RF    |
+| ADD10| O aplicativo deve permitir filtrar os atendimentos por ano ou mês.                            |    RF    |
+| ADD11| O aplicativo deve permitir que o usuário busque um atendimento pelo protocolo.                |    RF    |
+| ADD12| O aplicativo deve permitir que o usuário simule o faturamento pelo aplicativo.                |    RF    |
+| ADD13| O aplicativo deve permitir que o usuário altere o vencimento da conta.                        |    RF    |
+| ADD14| O aplicativo deve permitir que o usuário altere a titularidade da conta.                      |    RF    |
+| ADD15| O aplicativo deve possuir 2 abas separadas, uma para serviços e outra para consultas.         |    RF    |
 | ADD16 | O aplicativo deve ser compatível com as plataformas Android e iPhone.                        |    RNF   |
 | ADD17 | O aplicativo deve se adaptar a diferentes tamanhos de tela.                                  |    RNF   |
 | ADD18 | O aplicativo deve ser acessível para pessoas com deficiência visual.                         |    RNF   |

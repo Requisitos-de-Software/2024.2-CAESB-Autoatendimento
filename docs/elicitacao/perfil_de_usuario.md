@@ -59,6 +59,8 @@
 
 Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
 
+</center>
+
 <br>
 
 ## Referências

@@ -24,16 +24,16 @@ Os requisitos levantados durante a análise de documentos, identificados com 'AD
 
 | ID   | Descrição                                                                                         | Categoria |
 |------|---------------------------------------------------------------------------------------------------|-----------|
-| RQ01 | A funcionalidade "Informar vazamento na rua" deve mostrar apenas o mapa das regiões em que a Caesb atua. | RF        |
-| RQ02 | Todas as funções devem ser fáceis de usar.                                                         | RNF       |
-| RQ03 | O usuário deve poder consultar a segunda via da conta.                                             | RF        |
-| RQ04 | O usuário deve poder consultar o histórico de consumo.                                             | RF        |
-| RQ05 | O usuário deve poder buscar informações sobre a falta de água.                                     | RF        |
-| RQ06 | O sistema deve permitir ao usuário corrigir erros retornando à tela anterior e atualizando os dados. | RF        |
-| RQ07 | A funcionalidade "Atendimentos" deve permitir filtros por ano, mês, status (finalizado ou em andamento). | RF        |
-| RQ08 | As funcionalidades mais frequentes utilizadas pelo usuário são "Segunda via da conta" e "Meu histórico de consumo". | RF        |
-| RQ09 | A funcionalidade "Simulação de tarifa" deve ser nativa do aplicativo e não redirecionar ao site da Caesb. | RF        |
-| RQ10 | A interface visual deve ser reorganizada, separando serviços e consultas.                          | RNF       |
+| ADD01 | A funcionalidade "Informar vazamento na rua" deve mostrar apenas o mapa das regiões em que a Caesb atua. | RF        |
+| ADD02 | Todas as funções devem ser fáceis de usar.                                                         | RNF       |
+| ADD03 | O usuário deve poder consultar a segunda via da conta.                                             | RF        |
+| ADD04 | O usuário deve poder consultar o histórico de consumo.                                             | RF        |
+| ADD05 | O usuário deve poder buscar informações sobre a falta de água.                                     | RF        |
+| ADD06 | O sistema deve permitir ao usuário corrigir erros retornando à tela anterior e atualizando os dados. | RF        |
+| ADD07 | A funcionalidade "Atendimentos" deve permitir filtros por ano, mês, status (finalizado ou em andamento). | RF        |
+| ADD08 | As funcionalidades mais frequentes utilizadas pelo usuário são "Segunda via da conta" e "Meu histórico de consumo". | RF        |
+| ADD09 | A funcionalidade "Simulação de tarifa" deve ser nativa do aplicativo e não redirecionar ao site da Caesb. | RF        |
+| ADD10 | A interface visual deve ser reorganizada, separando serviços e consultas.                          | RNF       |
 
 <center>
  Autores: <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
