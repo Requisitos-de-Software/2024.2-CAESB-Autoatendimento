@@ -41,14 +41,14 @@ Neste documento, realizou-se a avaliação dos artefatos das Técnicas de Priori
  Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
 
-<!-- ## Link da gravação
-Pode ser vista no [YouTube](https://youtu.be/6z7i3oNtn6E).</p>
+## Link da gravação
+Pode ser vista no [YouTube](https://youtu.be/l9ZI1PRKmHk).</p>
 
 <center>
     <p>Vídeo 01: Verificação das Técnicas de Priorização</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/6z7i3oNtn6E?si=rEQAZt6_zhwkaspI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
-</center> -->
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/l9ZI1PRKmHk?si=ks6Cnkvj3fusk_0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+</center>
 
 ## Problemas encontrados
 
@@ -89,7 +89,7 @@ Pode ser vista no [YouTube](https://youtu.be/6z7i3oNtn6E).</p>
 > <p id="3">3. Priorização de Requisitos - Meu SUS Digital. Disponível em: https://docs.google.com/spreadsheets/d/1OzpDdd8JBB9U6MkqIrp2Gd6FQbVLPAVr9WXbYPL7Pvo/edit?gid=1384717108#gid=1384717108. Acesso em: 25 de Nov. de 2024. </p>
 
   <center> <figcaption>Imagem 3: Soma na Técnica do $100</figcaption></center>
-  
+
   <center>
   <img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/100g4.png?raw=true"></img>
   </center>

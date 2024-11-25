@@ -35,20 +35,20 @@ Neste documento, realizou-se a avaliação dos artefatos das Técnicas de Elicit
 | 02     | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor).                                                  | Sim           | André Barros  | Versão 1.0 24/11. |
 | 03     | A participação do cliente e/ou persona na elicitação de requisitos?                                                           | Sim           | André Barros  | Versão 1.0 24/11. |
 | 04     | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade).                                             | Sim           | André Barros  | Versão 1.0 24/11. |
-| 05     | Foram elaboradas questões a serem respondidas préviamente?                                                                    | Sim           | Natan Almeida | Versão 1.4 24/11. |
+| 05     | Foram elaboradas questões a serem respondidas préviamente na análise de documentos?                                           | Sim           | Natan Almeida | Versão 1.4 24/11. |
 
 <center>
  Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
 </center>
 
-<!-- ## Link da gravação
-Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
+## Link da gravação
+Pode ser vista no [YouTube](https://youtu.be/D3CTdKkAlNc).</p>
 
 <center>
     <p>Vídeo 01: Verificação das Técnicas de Elicitação</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/qVd9Do9QgOs?si=c9dCDSAk8S-h6gn-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
-</center> -->
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/D3CTdKkAlNc?si=WbBjfG3TtKrM6Rng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+</center>
 
 ## Problemas encontrados
 
