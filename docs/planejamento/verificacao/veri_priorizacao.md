@@ -20,7 +20,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="http://127.0.0.1
 
 ## Verificação da Priorização
 <p align="justify">
-&emsp;&emsp;A tabela 01 apresenta a Lista de Verificação das Técnicas de Elicitação que foi elaborada com base no plano de ensino da disciplina
+&emsp;&emsp;A tabela 01 apresenta a Lista de Verificação das Técnicas de Priorização que foi elaborada com base no plano de ensino da disciplina
 </p>
 
 <center>Tabela 01: Verificação das Técnicas de Priorização</center>

@@ -10,7 +10,7 @@
 
 ## Requisitos
 
-Os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
+Os requisitos levantados durante a análise de documentos, identificados com 'ENT' + número do requisito, e com a seguinte legenda de categoria:
 
 - RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
 
@@ -19,24 +19,24 @@ Os requisitos levantados durante a análise de documentos, identificados com 'AD
 <br>
 
 <center>
-<p>Tabela 01: Requisitos Funcionais</p>
+<p>Tabela 01: Requisitos</p>
 </center>
 
 | ID   | Descrição                                                                                         | Categoria |
 |------|---------------------------------------------------------------------------------------------------|-----------|
-| ADD01 | A funcionalidade "Informar vazamento na rua" deve mostrar apenas o mapa das regiões em que a Caesb atua. | RF        |
-| ADD02 | Todas as funções devem ser fáceis de usar.                                                         | RNF       |
-| ADD03 | O usuário deve poder consultar a segunda via da conta.                                             | RF        |
-| ADD04 | O usuário deve poder consultar o histórico de consumo.                                             | RF        |
-| ADD05 | O usuário deve poder buscar informações sobre a falta de água.                                     | RF        |
-| ADD06 | O sistema deve permitir ao usuário corrigir erros retornando à tela anterior e atualizando os dados. | RF        |
-| ADD07 | A funcionalidade "Atendimentos" deve permitir filtros por ano, mês, status (finalizado ou em andamento). | RF        |
-| ADD08 | As funcionalidades mais frequentes utilizadas pelo usuário são "Segunda via da conta" e "Meu histórico de consumo". | RF        |
-| ADD09 | A funcionalidade "Simulação de tarifa" deve ser nativa do aplicativo e não redirecionar ao site da Caesb. | RF        |
-| ADD10 | A interface visual deve ser reorganizada, separando serviços e consultas.                          | RNF       |
+| ENT01 | A funcionalidade "Informar vazamento na rua" deve mostrar apenas o mapa das regiões em que a Caesb atua. | RF        |
+| ENT02 | Todas as funções devem ser fáceis de usar.                                                         | RNF       |
+| ENT03 | O usuário deve poder consultar a segunda via da conta.                                             | RF        |
+| ENT04 | O usuário deve poder consultar o histórico de consumo.                                             | RF        |
+| ENT05 | O usuário deve poder buscar informações sobre a falta de água.                                     | RF        |
+| ENT06 | O sistema deve permitir ao usuário corrigir erros retornando à tela anterior e atualizando os dados. | RF        |
+| ENT07 | A funcionalidade "Atendimentos" deve permitir filtros por ano, mês, status (finalizado ou em andamento). | RF        |
+| ENT08 | As funcionalidades mais frequentes utilizadas pelo usuário são "Segunda via da conta" e "Meu histórico de consumo". | RF        |
+| ENT09 | A funcionalidade "Simulação de tarifa" deve ser nativa do aplicativo e não redirecionar ao site da Caesb. | RF        |
+| ENT10 | A interface visual deve ser reorganizada, separando serviços e consultas.                          | RNF       |
 
 <center>
- Autores: <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
 ## Entrevista

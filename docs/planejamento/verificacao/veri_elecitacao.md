@@ -27,9 +27,9 @@ Neste documento, realizou-se a avaliação do artefato <a href="http://127.0.0.1
 
 | **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
 |--------|----------------|---------------|--|------------------|
-| 01     | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o cliente e/ou persona do projeto. | Sim | André Barros    | Versão 1.0  24/11.       |
+| 01     |Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?  | Sim | André Barros    | Versão 1.0  24/11.       |
 | 02     | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor).    | Sim  |   André Barros      | Versão 1.0  24/11.          |
-| 03     | A participação do cliente e/ou persona no processo de priorização.  | Sim  | André Barros        | Versão 1.0  24/11.   |
+| 03     | A participação do cliente e/ou persona na elicitação de requisitos?  | Sim  | André Barros        | Versão 1.0  24/11.   |
 | 04     | A gravação e o(s) registro(s) da elicitação dos requisitos  (pré-rastreabilidade).  | Sim |     André Barros     | Versão 1.0  24/11.   |
 | 05     | Na técnica de elicitação por observação, é especificado se o observador será passivo ou ativo. | Sim  | Letícia Resende |      Versão 1.0  24/11.      |  
 
@@ -44,7 +44,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 <center>
     <p>Vídeo 01: Verificação das Técnicas de Elicitação</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/DmlgaAM9_w0?si=Vnj5mmwBDT6_Rb-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/qVd9Do9QgOs?si=c9dCDSAk8S-h6gn-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 

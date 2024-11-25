@@ -25,7 +25,7 @@ Autor: <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barro
 
 ## Requisitos
 
-Os requisitos levantados durante a análise de documentos, identificados com 'B' + numero do requisito, e com a seguinte legenda de categoria:
+Os requisitos levantados durante a análise de documentos, identificados com 'B' + número do requisito, e com a seguinte legenda de categoria:
 
 - RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
 
@@ -35,7 +35,7 @@ Os requisitos levantados durante a análise de documentos, identificados com 'B'
 
 <center>
 <figcaption>Tabela 02 - Requisitos </figcaption>
-</center>
+
 
 | **ID** | **Descrição**                                                                                       | **Categoria** |
 |--------------------|---------------------------------------------------------------------------------------------------|----------|
@@ -55,7 +55,7 @@ Os requisitos levantados durante a análise de documentos, identificados com 'B'
 | B14               | O sistema deve minimizar o número de cliques necessários para interações                          | RNF      |
 | B15               | O sistema deve organizar serviços de forma lógica e acessível                                     | RNF      |
 
-<center>
+
 Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
 </center>
 

@@ -8,7 +8,7 @@
 
 ## Requisitos
 
-Os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
+Os requisitos levantados durante a análise de documentos, identificados com 'OBS' + número do requisito, e com a seguinte legenda de categoria:
 
 - RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
 
@@ -17,33 +17,33 @@ Os requisitos levantados durante a análise de documentos, identificados com 'AD
 <br>
 
 <center>
-<p>Tabela 01: Requisitos Funcionais</p>
+<p>Tabela 01: Requisitos</p>
 </center>
 
 | ID   | DESCRIÇÃO                                                                                      | CATEGORIA |
 | :-:  | :------------------------------------------------------------------------------------------: | :-------: |
-| ADD1 | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                           |    RF     |
-| ADD2 | O aplicativo deve permitir que o usuário selecione o ano ou mês da segunda via da conta.      |    RF     |
-| ADD3 | O aplicativo deve permitir que o usuário escolha visualizar a segunda via de contas pendentes.|    RF     |
-| ADD4 | O aplicativo deve reconhecer automaticamente os imóveis associados ao cliente da Caesb.       |    RF     |
-| ADD5 | O aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo.  |    RF     |
-| ADD6 | O aplicativo deve permitir que o usuário visualize as regiões em que haverá falta de água.    |    RF     |
-| ADD7 | O aplicativo deve permitir que o usuário informe o vazamento em uma rua.                      |    RF     |
-| ADD8 | O aplicativo não deve permitir que o usuário escolha rua, bairro e cidade para informar o vazamento em uma rua. |   RF     |
-| ADD9 | O aplicativo deve permitir filtrar os atendimentos em andamento ou finalizados.               |    RF    |
-| ADD10| O aplicativo deve permitir filtrar os atendimentos por ano ou mês.                            |    RF    |
-| ADD11| O aplicativo deve permitir que o usuário busque um atendimento pelo protocolo.                |    RF    |
-| ADD12| O aplicativo deve permitir que o usuário simule o faturamento pelo aplicativo.                |    RF    |
-| ADD13| O aplicativo deve permitir que o usuário altere o vencimento da conta.                        |    RF    |
-| ADD14| O aplicativo deve permitir que o usuário altere a titularidade da conta.                      |    RF    |
-| ADD15| O aplicativo deve possuir 2 abas separadas, uma para serviços e outra para consultas.         |    RF    |
-| ADD16 | O aplicativo deve ser compatível com as plataformas Android e iPhone.                        |    RNF   |
-| ADD17 | O aplicativo deve se adaptar a diferentes tamanhos de tela.                                  |    RNF   |
-| ADD18 | O aplicativo deve ser acessível para pessoas com deficiência visual.                         |    RNF   |
-| ADD19 | O aplicativo deve permitir que o usuário realize tarefas principais em no máximo 3 cliques.  |    RNF   |
+| OBS01 | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                           |    RF     |
+| OBS02 | O aplicativo deve permitir que o usuário selecione o ano ou mês da segunda via da conta.      |    RF     |
+| OBS03 | O aplicativo deve permitir que o usuário escolha visualizar a segunda via de contas pendentes.|    RF     |
+| OBS04 | O aplicativo deve reconhecer automaticamente os imóveis associados ao cliente da Caesb.       |    RF     |
+| OBS05 | O aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo.  |    RF     |
+| OBS06 | O aplicativo deve permitir que o usuário visualize as regiões em que haverá falta de água.    |    RF     |
+| OBS07 | O aplicativo deve permitir que o usuário informe o vazamento em uma rua.                      |    RF     |
+| OBS08 | O aplicativo não deve permitir que o usuário escolha rua, bairro e cidade para informar o vazamento em uma rua. |   RF     |
+| OBS09 | O aplicativo deve permitir filtrar os atendimentos em andamento ou finalizados.               |    RF    |
+| OBS10| O aplicativo deve permitir filtrar os atendimentos por ano ou mês.                            |    RF    |
+| OBS11| O aplicativo deve permitir que o usuário busque um atendimento pelo protocolo.                |    RF    |
+| OBS12| O aplicativo deve permitir que o usuário simule o faturamento pelo aplicativo.                |    RF    |
+| OBS13| O aplicativo deve permitir que o usuário altere o vencimento da conta.                        |    RF    |
+| OBS14| O aplicativo deve permitir que o usuário altere a titularidade da conta.                      |    RF    |
+| OBS15| O aplicativo deve possuir 2 abas separadas, uma para serviços e outra para consultas.         |    RF    |
+| OBS16 | O aplicativo deve ser compatível com as plataformas Android e iPhone.                        |    RNF   |
+| OBS17 | O aplicativo deve se adaptar a diferentes tamanhos de tela.                                  |    RNF   |
+| OBS18 | O aplicativo deve ser acessível para pessoas com deficiência visual.                         |    RNF   |
+| OBS19 | O aplicativo deve permitir que o usuário realize tarefas principais em no máximo 3 cliques.  |    RNF   |
 
 <center>
- Autores: <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> e <a href = "https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> e <a href = "https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
 </center>
 
 ## Bibliografia

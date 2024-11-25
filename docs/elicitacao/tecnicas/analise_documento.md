@@ -10,7 +10,7 @@
 
 ## Requisitos
 
-Os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
+Os requisitos levantados durante a análise de documentos, identificados com 'ADD' + número do requisito, e com a seguinte legenda de categoria:
 
 - RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
 

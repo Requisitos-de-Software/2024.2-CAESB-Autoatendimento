@@ -23,7 +23,7 @@
 <p align="justify">
 &emsp;&emsp;A tabela 01 apresenta a Lista de Verificação do Perfil de Usuário que foi elaborada com base no plano de ensino da disciplina.</p>
 
-<center>Tabela 01: Verificação das Técnicas de Elicitação</center>
+<center>Tabela 01: Verificação do Perfil de Usuário</center>
 
 | **Id** | **Descrição**  | **Avaliação** |**Autor**|**Observações**                                                                   |
 |--------|---------------------------------------------------------------------------------------------|---------------| ----------------------------------------------------------------------------------|-----------------|

@@ -64,8 +64,8 @@ Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letí
 ## Link da gravação
 Pode ser vista no <a href="https://www.youtube.com/watch?v=9oeguWDZlk4" target="_blank">YouTube</a>.
 <center>
-<p>Vídeo 01: Priorização</p>
-<iframe width="560" height="415" src="https://www.youtube.com/embed/V7UapC74zJw?si=lsAxrWglnbdzl-r5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>Vídeo 01: Gravação da entrevista de priorização</p>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/V7UapC74zJw?si=lsAxrWglnbdzl-r5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 

@@ -32,7 +32,7 @@ A Tabela 1 a seguir contém a priorização dos Requisitos elicitados. Nem todos
  - OBS: Requisitos da Observação
 
 <center>
-<figcaption>Tabela 01 - Requisitos </figcaption>
+<figcaption>Tabela 01 - Priorização dos requisitos utilizando método Moscow</figcaption>
 
 |  ID   | DESCRIÇÃO                                                                                            | CATEGORIA |
 | :---: | :--------------------------------------------------------------------------------------------------: | :-------: |
@@ -70,7 +70,7 @@ A Tabela 1 a seguir contém a priorização dos Requisitos elicitados. Nem todos
 Assista a gravação no youtube clicando [aqui](https://youtu.be/Liy4I_H0ycE).
 
 <center>
-    <p>Vídeo 01: Gravação da entrevista</p>
+    <p>Vídeo 01: Gravação da entrevista de priorização</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/Liy4I_H0ycE?si=jBVwShYCtuKuiOI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen></iframe>
     Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
 </center>

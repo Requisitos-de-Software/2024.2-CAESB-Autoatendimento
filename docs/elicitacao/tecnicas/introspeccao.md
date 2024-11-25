@@ -7,7 +7,7 @@
 <p align="justify">&emsp;&emsp;O objetivo da técnica é se imaginar no lugar do usuário e elicitar o máximo de requisitos funcionais e não funcionais referentes à aplicação. Assim, a técnica foi feita pelo integrante Natan Almeida, que como resultado foi gerado os requisitos presentes na tabela 1.</p>  
 
 ## Requisitos
-Os requisitos levantados durante a análise de documentos, identificados com numero do requisito, e com a seguinte legenda de categoria:
+Os requisitos levantados durante a análise de documentos, identificados com 'INT' + número do requisito, e com a seguinte legenda de categoria:
 
 - RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
 
