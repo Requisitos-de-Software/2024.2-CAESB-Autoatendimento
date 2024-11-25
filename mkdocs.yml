@@ -74,19 +74,25 @@ nav:
         - Etapa 2:
           - Técnicas de Elicitação: planejamento/verificacao/veri_elecitacao.md
           - Perfil de Usuário: planejamento/verificacao/perfil_de_usuario.md
-          - Técnicas de Priorização: planejamento/verificacao/veri_priorizacao
-          - Itens de desenvolvimento do projeto: planejamento/verificacao/itens_dev_proj
+          - Técnicas de Priorização: planejamento/verificacao/veri_priorizacao.md
+          - Itens de desenvolvimento do projeto: planejamento/verificacao/itens_dev_proj.md
 
       - Grupo 04:
         - Etapa 1:
-              - Aplicativo Selecionado: planejamento/verificacao_g4/aplicativo_escolhido.md
-              - Aplicativos Avaliados: planejamento/verificacao_g4/aplicativos_avaliados.md
-              - Termos de Uso: planejamento/verificacao_g4/termos_de_uso.md
-              - Equipe: planejamento/verificacao_g4/equipe_g4.md
-              - Cronograma: planejamento/verificacao_g4/cronograma_g4.md
-              - Rich Picture: planejamento/verificacao_g4/rich_picture.md
-              - Heatmap: planejamento/verificacao_g4/heatmap.md
-              - Ferramentas:  planejamento/verificacao_g4/ferramentas.md
+            - Aplicativo Selecionado: planejamento/verificacao_g4/aplicativo_escolhido.md
+            - Aplicativos Avaliados: planejamento/verificacao_g4/aplicativos_avaliados.md
+            - Termos de Uso: planejamento/verificacao_g4/termos_de_uso.md
+            - Equipe: planejamento/verificacao_g4/equipe_g4.md
+            - Cronograma: planejamento/verificacao_g4/cronograma_g4.md
+            - Rich Picture: planejamento/verificacao_g4/rich_picture.md
+            - Heatmap: planejamento/verificacao_g4/heatmap.md
+            - Ferramentas:  planejamento/verificacao_g4/ferramentas.md
+        - Etapa 2:
+          - Técnicas de Elicitação: planejamento/verificacao_g4/veri_elecitacao.md
+          - Perfil de Usuário: planejamento/verificacao_g4/perfil_de_usuario.md
+          - Técnicas de Priorização: planejamento/verificacao_g4/veri_priorizacao.md
+          - Itens de desenvolvimento do projeto: planejamento/verificacao_g4/itens_dev_proj.md
+
 markdown_extensions:
   - attr_list
   - md_in_html
