@@ -31,7 +31,8 @@
 | 02     | O Perfil do Usuário possui informação de experiência (leigo/novato, especialista).  | Sim | André Barros |versão 1.2 20/11 |
 | 03     | O Perfil do Usuário possui informação de atitudes (tecnófilos, tecnófobos).  | Sim | André Barros |versão 1.2 20/11  |
 | 04     | O Perfil do Usuário possui informação de tarefas primárias (compra, venda). |  Sim  | André Barros |versão 1.2 20/11 |
-| 05     | foi definido o objetivo do usuário no aplicativo?  | Sim | Natan Almeida | versão 1.0 23/11  |  
+| 05     | O Perfil do Usuário é baseado em dados reais coletados. | Sim | Leandro de Almeida | versão 1.0 23/11  |  
+| 06     | foi definido o objetivo do usuário no aplicativo?  | Sim | Natan Almeida | versão 1.0 23/11  |  
 
 <center>
  Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
@@ -65,7 +66,7 @@ Pode ser vista no [YouTube](https://youtu.be/2J-vR3Zu9Sw).</p>
 <center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
 
 <center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
-<img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/pfusg4?raw=true"></img>
+<img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/persona_ref.png?raw=true"></img>
 <center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
  > <p id="2">2. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 24 de Nov. de 2024.
 
@@ -83,3 +84,4 @@ Pode ser vista no [YouTube](https://youtu.be/2J-vR3Zu9Sw).</p>
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 25/11/2024 | Criação do Documento e Lista de Verificação | [Natan Almeida](https://github.com/natanalmeida03) | [Letícia Resende](https://github.com/LeticiaResende23)|
 |  1.1   | 25/11/2024 | Adição do vídeo | [Natan Almeida](https://github.com/natanalmeida03) | [Letícia Resende](https://github.com/LeticiaResende23)|
+|  1.2   | 25/11/2024 | Correção da imagem de referencia |  [Leandro de Almeida](https://github.com/leomitx10)|[Natan Almeida](https://github.com/natanalmeida03)| 
