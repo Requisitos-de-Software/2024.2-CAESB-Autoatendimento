@@ -35,7 +35,9 @@ Neste documento, realizou-se a avaliação dos artefatos das Técnicas de Elicit
 | 02     | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor).                                                  | Sim           | André Barros  | Versão 1.0 24/11. |
 | 03     | A participação do cliente e/ou persona na elicitação de requisitos?                                                           | Sim           | André Barros  | Versão 1.0 24/11. |
 | 04     | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade).                                             | Sim           | André Barros  | Versão 1.0 24/11. |
-| 05     | Foram elaboradas questões a serem respondidas préviamente na análise de documentos?                                           | Sim           | Natan Almeida | Versão 1.4 24/11. |
+| 05     | Na técnica de elicitação por observação, é especificado se o observador será passivo ou ativo. | Sim           | Letícia Resende | Versão 1.1 24/11. |
+| 06     | Foram elaboradas questões a serem respondidas préviamente na análise de documentos?                                           | Sim           | Natan Almeida | Versão 1.4 24/11. |
+
 
 <center>
  Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
@@ -82,7 +84,8 @@ Pode ser vista no [YouTube](https://youtu.be/D3CTdKkAlNc).</p>
  </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/lis_eli_g4.png?raw=true"></img>
  <center>
  Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
- </center>
+<center><figcaption>Imagem 3: Foto da Referência 4</figcaption></center>
+ </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/tec_elic_ref.png?raw=true"></img> <center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 <br>
 
 ## Histórico de Versão
