@@ -22,7 +22,7 @@
 <figcaption>Tabela 01 - Priorização dos requisitos utilizando método Ir or Out
  </figcaption>
 
-| ID  | DESCRIÇÃO                                                             | Prioridade |
+| Rastreabilidade   | Descrição                                                         | Prioridade |
 | :-: | :-------------------------------------------------------------------: | :-------: |
 | ADD01| Permitir a revisão de contas diretamente pelo aplicativo. | In |
 | ADD03 |O aplicativo deve permitir que o usuário realize a auto leitura do hidrômetro. | In  |
@@ -73,11 +73,11 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=9oeguWDZlk4" target="
 
 <center>
 
-<figcaption>Tabela 02 - Dados da Entrevista</figcaption>
+<p>Tabela 02: Dados da Entrevista</p>
 
-| **Entrevistador**     | **Entrevistado**        | **Duração** |
-| :-------------------: |:----------------------: |-------------|
-| Letícia Resende | Sue Ellen Suzana |     08min 31segundos      |
+| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |Horário| **Data** |
+|-------------------|------------------|-------------|-----------------------------|---|-----------|
+| Letícia Resende | Sue Ellen   |   8min    |    Casa do entrevistado     | 17:50 | 23/11/2024|
 
 Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letícia Resende</a>
 </center>
@@ -97,6 +97,7 @@ Acesso em: 23 nov. 2024.</p>
 |  1.0   | 21/11/2024 | Criação do artefato |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
 |  1.1   | 23/11/2024 | Adicionando Priorização |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
 |  1.2  | 23/11/2024 | Adicionando vídeo |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.3  | 26/11/2024 | Adicionando cronograma |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
 
 
 

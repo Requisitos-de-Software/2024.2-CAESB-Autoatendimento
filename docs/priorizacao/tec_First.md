@@ -76,9 +76,10 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=9oeguWDZlk4" target="
 
 <figcaption>Tabela 02 - Dados da Entrevista</figcaption>
 
-| **Entrevistador**     | **Entrevistado**        | **Duração** |
-| :-------------------: |:----------------------: |-------------|
-| Letícia Resende | Sue Ellen Suzana |     05min 35segundos       |
+
+| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |Horário| **Data** |
+|-------------------|------------------|-------------|-----------------------------|---|-----------|
+| Letícia Resende | Sue Ellen   |   5min    |    Casa do entrevistado     | 18:20 | 23/11/2024|
 
 
 Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letícia Resende</a>
@@ -102,3 +103,4 @@ Acesso em: 23 nov. 2024.</p>
 |  1.0   | 21/11/2024 | Criação do artefato |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
 |  1.1   | 23/11/2024 | Adicionando priorização |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
 |  1.2  | 23/11/2024 | Adicionando vídeo |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.3   | 26/11/2024 | Adicionando cronograma |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |

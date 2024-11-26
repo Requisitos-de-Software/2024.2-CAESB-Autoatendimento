@@ -22,7 +22,7 @@ Os requisitos levantados durante a análise de documentos, identificados com 'EN
 <p>Tabela 01: Requisitos</p>
 </center>
 
-| ID   | Descrição                                                                                         | Categoria |
+| Rastreabilidade    | Descrição                                                                                         | Categoria |
 |------|---------------------------------------------------------------------------------------------------|-----------|
 | ENT01 | A funcionalidade "Informar vazamento na rua" deve mostrar apenas o mapa das regiões em que a Caesb atua. | RF        |
 | ENT02 | Todas as funções devem ser fáceis de usar.                                                         | RNF       |

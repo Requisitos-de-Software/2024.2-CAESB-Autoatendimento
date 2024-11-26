@@ -20,7 +20,7 @@ Os requisitos levantados durante a análise de documentos, identificados com 'OB
 <p>Tabela 01: Requisitos</p>
 </center>
 
-| ID   | DESCRIÇÃO                                                                                      | CATEGORIA |
+| Rastreabilidade    | Descrição                                                                                      | Categoria |
 | :-:  | :------------------------------------------------------------------------------------------: | :-------: |
 | OBS01 | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                           |    RF     |
 | OBS02 | O aplicativo deve permitir que o usuário selecione o ano ou mês da segunda via da conta.      |    RF     |

@@ -37,7 +37,7 @@ Os requisitos levantados durante a análise de documentos, identificados com 'B'
 <figcaption>Tabela 02 - Requisitos </figcaption>
 
 
-| **ID** | **Descrição**                                                                                       | **Categoria** |
+| Rastreabilidade  | Descrição                                                                                       | Categoria|
 |--------------------|---------------------------------------------------------------------------------------------------|----------|
 | B01               | O usuário deve poder ter uma barra de busca                                                       | RF       |
 | B02               | O sistema deve ter as funções mais utilizadas/mais buscadas em uma barra                          | RF       |

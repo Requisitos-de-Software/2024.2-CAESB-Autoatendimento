@@ -17,7 +17,7 @@ Os requisitos levantados durante a análise de documentos, identificados com 'IN
 <figcaption>Tabela 01 - Requisitos </figcaption>
 
 
-| ID  | DESCRIÇÃO                                                             | CATEGORIA |
+| Rastreabilidade   | Descrição                                                           | Categoria |
 | :-: | :-------------------------------------------------------------------: | :-------: |
 | INT01| O aplicativo deve permitir ao usuário informar vazamentos na rua ou no hidrômetro | RF |
 | INT02| O usuário deve poder emitir boleto para pagar a conta de água.        | RF        |

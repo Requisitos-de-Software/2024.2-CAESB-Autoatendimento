@@ -34,7 +34,7 @@ A Tabela 1 a seguir contém a priorização dos Requisitos elicitados. Nem todos
 <center>
 <figcaption>Tabela 01 - Priorização dos requisitos utilizando método Moscow</figcaption>
 
-|  ID   | DESCRIÇÃO                                                                                            | CATEGORIA |
+|  Rastreabilidade   | Descrição                                                                                         | Categoria|
 | :---: | :--------------------------------------------------------------------------------------------------: | :-------: |
 | INT04 | O usuário deve poder atualizar seus dados cadastrais pelo app.                                       | must  |
 | INT05 | O aplicativo deve enviar notificações de vencimento de faturas.                                      | should |
@@ -80,10 +80,10 @@ Assista a gravação no youtube clicando [aqui](https://youtu.be/Liy4I_H0ycE).
 
 <figcaption>Tabela 02 - Dados da Entrevista</figcaption>
 
-| **Entrevistador**     | **Entrevistado**        | **Duração** |
-| :-------------------: |:----------------------: |-------------|
-| Natan Almeida | Tatiane                |    04m17s       |
 
+| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |Horário| **Data** |
+|-------------------|------------------|-------------|-----------------------------|---|-----------|
+| - | - |  -   |   -    | - | -|
 
  Autor: <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
 </center>

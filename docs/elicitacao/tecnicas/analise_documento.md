@@ -22,44 +22,57 @@ Os requisitos levantados durante a análise de documentos, identificados com 'AD
 <figcaption>Tabela 01 - Requisitos </figcaption>
 
 
-| ID  | DESCRIÇÃO                                                             | CATEGORIA |
-| :-: | :-------------------------------------------------------------------: | :-------: |
-| ADD01| Permitir a revisão de contas diretamente pelo aplicativo. | RF |
-| ADD02| Possibilitar a alteração de titularidade e vencimento de contas.      | RF        |
-| ADD03| O aplicativo deve permitir que o usuário realize a auto leitura do hidrômetro. | RF        |
-| ADD04| O aplicativo deve permitir que o usuário relate vazamentos de água    | RF        |
-| ADD05| O aplicativo deve permitir que o usuário solicite desobstrução de esgoto e acompanhe os atendimentos.    | RF        |
-| ADD06| O aplicativo deve permitir o acesso ao histórico detalhado de consumo e faturas anteriores.   | RF        |
-| ADD07| O usuário deve poder enviar documentos diretamente pelo aplicativo. | RF |
-| ADD08| O aplicativo deve oferecer notificações para lembrar vencimento de contas e ações pendentes.    | RF |
-| ADD09| O aplicativo deve incluir suporte a chat ou atendimento virtual para resolver dúvidas dos usuários.   | RF |
-| ADD10| O aplicativo deve ser compatível com sistemas operacionais Android e iOS.| RNF |
-| ADD11| O aplicativo deve garantir uma interface do usuário acessível e fácil de navegar.| RNF |
-| ADD12| O aplicativo deve oferecer suporte a múltiplos idiomas para atender usuários diversificados.| RNF |
-| ADD13| O aplicativo deve ser eficiente em dispositivos com recursos limitados.| RNF |
-| ADD14| O aplicativo deve minimizar riscos de vulnerabilidades e proteger contra ataques conhecidos.| RNF |
-| ADD15| O aplicativo deve evitar riscos relacionados à violação de privacidade e coleta invasiva de dados dos usuários.| RNF |
-| ADD16| O aplicativo deve permitir a realização de testes para validar a funcionalidade de revisão de contas e alterações.| RNF |
-| ADD17| O aplicativo deve ser testado para garantir uma navegação intuitiva e acessível a todos os usuários.| RNF |
-| ADD18| O aplicativo deve passar por testes de desempenho para assegurar eficiência em dispositivos diversos.| RNF |
-| ADD19| O aplicativo deve ser testado para evitar vulnerabilidades e proteger os dados dos usuários.| RNF |
-| ADD20| O aplicativo deve garantir que os dados dos usuários sejam tratados com respeito à privacidade.| RNF |
-| ADD21| O aplicativo deve incluir um tutorial inicial para ajudar novos usuários a se familiarizarem.| RNF |
-| ADD22| O usuário deve poder personalizar notificações de acordo com suas preferências.| RNF |
-| ADD23| O aplicativo deve permitir que o usuário emita segundas vias de contas e comprovantes.| RF |
-| ADD24| O aplicativo deve implementar autenticação multifator para aumentar a segurança do acesso.| RNF |
-| ADD25| O usuário deve poder localizar postos de atendimento da CAESB no mapa.| RF |
-| ADD26| O aplicativo deve permitir que o usuário realize pagamentos de contas diretamente pelo aplicativo.| RF |
-| ADD27| O aplicativo deve exibir informações em tempo real sobre interrupções no fornecimento de água.| RF |
-| ADD28| O aplicativo deve estar em conformidade com padrões de acessibilidade, como WCAG.| RNF |
-| ADD29| O aplicativo deve oferecer estatísticas de consumo mensal para ajudar o usuário a monitorar o uso de água.| RF |
-| ADD30| O aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas.| RNF |
+| Rastreabilidade   | Descrição                                                          | Categoria |
+| :-: | :-------------------------------------------------------------------: | :-------: 
+| ADD01| O usuário deve poder enviar documentos diretamente pelo aplicativo. | RF |
+| ADD02| O aplicativo deve oferecer notificações para lembrar vencimento de contas e ações pendentes.    | RF |
+| ADD03| O aplicativo deve incluir suporte a chat ou atendimento virtual para resolver dúvidas dos usuários.   | RF |
+| ADD04| O aplicativo deve oferecer suporte a múltiplos idiomas para atender usuários diversificados.| RNF |
+| ADD05| O aplicativo deve ser eficiente em dispositivos com recursos limitados.| RNF |
+| ADD06| O aplicativo deve minimizar riscos de vulnerabilidades e proteger contra ataques conhecidos.| RNF |
+| ADD07| O aplicativo deve evitar riscos relacionados à violação de privacidade e coleta invasiva de dados dos usuários.| RNF |
+| ADD08| O aplicativo deve passar por testes de desempenho para assegurar eficiência em dispositivos diversos.| RNF |
+| ADD09| O aplicativo deve ser testado para evitar vulnerabilidades e proteger os dados dos usuários.| RNF |
+| ADD10| O aplicativo deve incluir um tutorial inicial para ajudar novos usuários a se familiarizarem.| RNF |
+| ADD11| O usuário deve poder personalizar notificações de acordo com suas preferências.| RNF |
+| ADD12| O aplicativo deve permitir que o usuário realize pagamentos de contas diretamente pelo aplicativo.| RF |
+| ADD13| O aplicativo deve estar em conformidade com padrões de acessibilidade, como WCAG.| RNF |
+| ADD14| O aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas.| RNF |
 
 
 Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letícia Resende</a>
 </center>
 
 <br>
+
+
+<center>
+<figcaption>Tabela 01 - Requisitos Implementados </figcaption>
+
+
+| Rastreabilidade  | Descrição                                                            | Categoria |  Implementado
+| :-: | :-------------------------------------------------------------------: | :-------: |  :-----------:
+| ADD15| Permitir a revisão de contas diretamente pelo aplicativo. | RF | Sim | 
+| ADD16| Possibilitar a alteração de titularidade e vencimento de contas.      | RF | Sim |
+| ADD17| O aplicativo deve permitir que o usuário realize a auto leitura do hidrômetro. | RF | Sim |
+| ADD18| O aplicativo deve permitir que o usuário relate vazamentos de água.    | RF | Sim |
+| ADD19| O aplicativo deve permitir que o usuário solicite desobstrução de esgoto e acompanhe os atendimentos.  | RF  | Sim |
+| ADD20| O aplicativo deve permitir o acesso ao histórico detalhado de consumo e faturas anteriores.   | RF | Sim |
+| ADD21| O aplicativo deve ser compatível com sistemas operacionais Android e iOS.| RNF | Sim |
+| ADD22| O aplicativo deve garantir uma interface do usuário acessível e fácil de navegar.| RNF | Sim |
+| ADD23| O aplicativo deve permitir a realização de testes para validar a funcionalidade de revisão de contas e alterações.| RNF | Sim |
+| ADD24| O aplicativo deve ser testado para garantir uma navegação intuitiva e acessível a todos os usuários.| RNF | Sim |
+| ADD25| O aplicativo deve garantir que os dados dos usuários sejam tratados com respeito à privacidade.| RNF | Sim |
+| ADD26| O aplicativo deve permitir que o usuário emita segundas vias de contas e comprovantes.| RF | Sim |
+| ADD27| O aplicativo deve implementar autenticação multifator para aumentar a segurança do acesso.| RNF | Sim |
+| ADD28| O usuário deve poder localizar postos de atendimento da CAESB no mapa.| RF | Sim |
+| ADD29| O aplicativo deve exibir informações em tempo real sobre interrupções no fornecimento de água.| RF | Sim |
+| ADD30| O aplicativo deve oferecer estatísticas de consumo mensal para ajudar o usuário a monitorar o uso de água.| RF | Sim |
+
+
+
+Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letícia Resende</a>
+</center>
 
 ## Referências
 
@@ -73,6 +86,8 @@ Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letí
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 21/11/2024 | Criação do artefato |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.1   | 26/11/2024 | Adicionando Tabela de Implementados |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
+
 
 
 
