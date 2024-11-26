@@ -65,7 +65,7 @@ Pode ser vista no [YouTube](https://youtu.be/2J-vR3Zu9Sw).</p>
 
 <center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
 
-<center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
+<center><figcaption>Imagem 2: Foto da Referência 1</figcaption></center>
 <img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/persona_ref.png?raw=true"></img>
 <center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
  > <p id="2">2. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 24 de Nov. de 2024.

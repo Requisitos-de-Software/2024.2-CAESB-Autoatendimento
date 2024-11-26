@@ -84,7 +84,7 @@ Pode ser vista no [YouTube](https://youtu.be/D3CTdKkAlNc).</p>
  </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/lis_eli_g4.png?raw=true"></img>
  <center>
  Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-<center><figcaption>Imagem 3: Foto da Referência 4</figcaption></center>
+<center><figcaption>Imagem 3: Foto da Referência 3</figcaption></center>
  </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/tec_elic_ref.png?raw=true"></img> <center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 <br>
 
@@ -93,3 +93,4 @@ Pode ser vista no [YouTube](https://youtu.be/D3CTdKkAlNc).</p>
 | Versão |    Data    |                  Descrição                  |                       Autor                        |                        Revisor                         |
 | :----: | :--------: | :-----------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
 |  1.0   | 25/11/2024 | Criação do Documento e Lista de Verificação | [Natan Almeida](https://github.com/natanalmeida03) | [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.1   | 25/11/2024 | Arruma tabela | [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03)   |
