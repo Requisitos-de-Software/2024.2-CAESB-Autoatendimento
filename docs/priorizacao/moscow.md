@@ -83,7 +83,7 @@ Assista a gravação no youtube clicando [aqui](https://youtu.be/Liy4I_H0ycE).
 
 | **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |Horário| **Data** |
 |-------------------|------------------|-------------|-----------------------------|---|-----------|
-| - | - |  -   |   -    | - | -|
+| Natan | Tatiane |  4m17s   | Casa do entrevistado    | 14:00 | 24/11/2024 |
 
  Autor: <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
 </center>
