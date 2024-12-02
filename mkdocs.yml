@@ -62,6 +62,8 @@ nav:
       - In or Out: priorizacao/tec_In.md
       - First things first: priorizacao/tec_First.md
       - Moscow: priorizacao/moscow.md
+  - Modelagem:
+      - Especificação Suplementar: modelagem/especSup.md
   - Verificação:
       - Grupo 03 (Nosso Grupo):
         - Etapa 1:
