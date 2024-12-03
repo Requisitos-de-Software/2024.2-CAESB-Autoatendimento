@@ -39,7 +39,7 @@ Este método possui os seguintes critérios:
 ### Suportabilidade
 <p align="justify">&emsp;&emsp;Refere-se ao suporte e manutenção do aplicativo.</p>
 
-## Bibliografia
+## Referências
 
 ## Histórico de versão
 
