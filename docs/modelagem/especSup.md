@@ -29,20 +29,51 @@ Este método possui os seguintes critérios:
 
 ### Usabilidade
 <p align="justify">&emsp;&emsp;Refere-se ao quão fácil é para o usuário realizar uma tarefa no aplicativo.</p>
+<br>
+
+#### 1. Orientações claras:
+Orientações claras em cada funcionalidade com mensagens de ajuda contextuais.
+
+#### 2. Fluxos Simplificados:
+Redução no número de etapas para concluir tarefas comuns, como consultar faturas ou solicitar serviços.
+
+#### 3. Consistência de Navegação:
+Layout padronizado em todas as telas para evitar confusões
 
 ### Confiabiliade
 <p align="justify">&emsp;&emsp;Refere-se a garantias de segurança no sistema.</p>
+<br>
+
+#### 1. Garantia de disponibilidade:
+O sistema deve funcionar 24hrs por dia e sete dias na semana.
+
+#### 2. Proteção de dados:
+O sistema deve proteger os dados do usuário à ataques.
 
 ### Desempenho
 <p align="justify">&emsp;&emsp;Refere-se a performace do aplicativo</p>
+<br>
 
 ### Suportabilidade
 <p align="justify">&emsp;&emsp;Refere-se ao suporte e manutenção do aplicativo.</p>
+<br>
+
+#### 1. Compatibilidade multi-plataforma:
+Garantia de suporte para as versões mais recentes dos sistemas operacionais (Android e iOS).
+
+#### 2. Escalabilidade:
+Planejamento para suportar aumento no número de usuários sem comprometer a performance.
+
+### +
+<p align="justify">&emsp;&emsp;Refere-se a outros tipos de requisitos como design, implementação, interface e físicos</p>
+<br>
 
 ## Referências
+> <p style="word-wrap: break-word; overflow-wrap: break-word;">Especificacao Suplementar. Disponível em: https://aprender3.unb.br/pluginfile.php/2972491/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf .Acesso em: 03 dec. 2024.</p> 
 
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 02/12/2024 | Criação do artefato | [Natan Almeida](https://github.com/natanalmeida03) | [Joao Victor Marques](https://github.com/jmarquees) |
+|  1.1   | 03/12/2024 | Adição de requisitos | [Natan Almeida](https://github.com/natanalmeida03) | [Joao Victor Marques](https://github.com/jmarquees) |
