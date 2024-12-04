@@ -66,7 +66,7 @@
 ## L03: Emitir segunda via
 <p align="justify">&emsp;&emsp; Léxico referente a consulta de contas que já foram pagas , requisito que foi elicitado atráves da Brainstorm (B03), Entrevista (Q15) e da análise de documento (ADD20)  </p>
 
-<center><p> Tabela 3: Léxico 03: Verificar Recibo (L02)</p></center>
+<center><p> Tabela 3: Léxico 03: Verificar Recibo (L03)</p></center>
 
 | **ID**            | **Descrição**                                                                           |
 |--------------------|-----------------------------------------------------------------------------------------|
@@ -80,7 +80,7 @@
 ## L04: Usuário
 <p align="justify">&emsp;&emsp;O Léxico a seguir diz respeito à interação do aplicativo com o usuário, fundamentada nos requisitos definidos na Análise de Documento (ADD02) e na Introspecção (INT02). Esses critérios envolvem a exigência de que o aplicativo forneça notificações para alertar os usuários sobre o término das contas. Contudo, vale destacar que essas funcionalidades ainda não foram incorporadas à aplicação. Adicionalmente, as necessidades de filtragem de dados, identificadas durante a entrevista (ENT07) e na observação (OBS09 e OBS10), também não foram implementadas. </p>
 
-<center><p> Tabela 4: Léxico 04: Usuário (L02)</p></center>
+<center><p> Tabela 4: Léxico 04: Usuário (L04)</p></center>
 
 <center>
 
