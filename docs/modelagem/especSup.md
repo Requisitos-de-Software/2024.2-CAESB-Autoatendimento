@@ -54,6 +54,15 @@ O sistema deve proteger os dados do usuário à ataques.
 <p align="justify">&emsp;&emsp;Refere-se a performace do aplicativo</p>
 <br>
 
+#### 1. Tempo de resposta:
+Especifica o tempo máximo permitido para o sistema responder a uma requisição.
+
+#### 2. Escalabilidade:
+A capacidade do sistema de manter ou melhorar o desempenho à medida que o número de usuários e o volume de dados aumenta.
+
+#### 3. Crescimento de dados:
+Define como o sistema deve se comportar quando o volume de dados cresce significativamente.
+
 ### Suportabilidade
 <p align="justify">&emsp;&emsp;Refere-se ao suporte e manutenção do aplicativo.</p>
 <br>
@@ -77,3 +86,4 @@ Planejamento para suportar aumento no número de usuários sem comprometer a per
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 02/12/2024 | Criação do artefato | [Natan Almeida](https://github.com/natanalmeida03) | [Joao Victor Marques](https://github.com/jmarquees) |
 |  1.1   | 03/12/2024 | Adição de requisitos | [Natan Almeida](https://github.com/natanalmeida03) | [Joao Victor Marques](https://github.com/jmarquees) |
+|  1.2   | 04/12/2024 | Adição de requisitos | [Joao Victor Marques](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) |
