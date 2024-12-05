@@ -55,13 +55,12 @@ O sistema deve proteger os dados do usuário à ataques.
 <br>
 
 #### 1. Tempo de resposta:
-Especifica o tempo máximo permitido para o sistema responder a uma requisição.
-
+O tempo de resposta para qualquer consulta ao banco de dados deve ser inferior a 2 segundos.
 #### 2. Capacidade de conexões simultâneas:
-Define o número máximo de conexões simultâneas que o sistema deve suportar.
+O sistema deve ser capaz de suportar até 5000 conexões simultâneas sem degradação do desempenho..
 
 #### 3. Crescimento de dados:
-Define como o sistema deve se comportar quando o volume de dados cresce significativamente.
+O sistema deve ser capaz de gerenciar um crescimento de dados de 10% por mês sem impacto no desempenho.
 
 ### Suportabilidade
 <p align="justify">&emsp;&emsp;Refere-se ao suporte e manutenção do aplicativo.</p>
@@ -77,15 +76,11 @@ Planejamento para suportar aumento no número de usuários sem comprometer a per
 <p align="justify">&emsp;&emsp;Refere-se a outros tipos de requisitos como design, implementação, interface e físicos</p>
 <br>
 
-### Integração
-<p align="justify">&emsp;&emsp;Refere-se a compatibiliade do aplicativo com outros sistemas.</p>
-<br>
+#### 1. Interface:
+A identidade visual do app deve ser consistente em todas as telas, com o uso padronizado de cores, fontes, botões e ícones, para garantir uma navegação fluida e familiar para o usuário.
 
-#### 1. Compatibilidade com sistemas internos:
-Compatível com sistemas internos da CAESB, como o sistema de gestão de clientes e bancos de dados de contas.
-
-#### 2. Integração de APIs:
-Capacidade de integrar APIs externas para pagamentos de contas via plataformas financeiras.
+#### 2. Design limpo e moderno:
+O design do aplicativo deve ser simples, com uma interface limpa e moderna. As telas devem ser organizadas de maneira a facilitar a navegação, evitando sobrecarga de informações e utilizando tipografia clara e espaçamento adequado entre os elementos.
 
 
 ## Referências
@@ -99,3 +94,4 @@ Capacidade de integrar APIs externas para pagamentos de contas via plataformas f
 |  1.1   | 03/12/2024 | Adição de requisitos | [Natan Almeida](https://github.com/natanalmeida03) | [Joao Victor Marques](https://github.com/jmarquees) |
 |  1.2   | 04/12/2024 | Adição de requisito Desempenho | [Joao Victor Marques](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.3   | 04/12/2024 | Adição de requisito Integração | [Joao Victor Marques](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.4   | 04/12/2024 | Adição e remoção de requisitos | [Joao Victor Marques](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) |
