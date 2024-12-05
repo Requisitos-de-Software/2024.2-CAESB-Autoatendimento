@@ -57,8 +57,8 @@ O sistema deve proteger os dados do usuário à ataques.
 #### 1. Tempo de resposta:
 Especifica o tempo máximo permitido para o sistema responder a uma requisição.
 
-#### 2. Escalabilidade:
-A capacidade do sistema de manter ou melhorar o desempenho à medida que o número de usuários e o volume de dados aumenta.
+#### 2. Capacidade de conexões simultâneas:
+Define o número máximo de conexões simultâneas que o sistema deve suportar.
 
 #### 3. Crescimento de dados:
 Define como o sistema deve se comportar quando o volume de dados cresce significativamente.
@@ -77,6 +77,17 @@ Planejamento para suportar aumento no número de usuários sem comprometer a per
 <p align="justify">&emsp;&emsp;Refere-se a outros tipos de requisitos como design, implementação, interface e físicos</p>
 <br>
 
+### Integração
+<p align="justify">&emsp;&emsp;Refere-se a compatibiliade do aplicativo com outros sistemas.</p>
+<br>
+
+#### 1. Compatibilidade com sistemas internos:
+Compatível com sistemas internos da CAESB, como o sistema de gestão de clientes e bancos de dados de contas.
+
+#### 2. Integração de APIs:
+Capacidade de integrar APIs externas para pagamentos de contas via plataformas financeiras.
+
+
 ## Referências
 > <p style="word-wrap: break-word; overflow-wrap: break-word;">Especificacao Suplementar. Disponível em: https://aprender3.unb.br/pluginfile.php/2972491/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf .Acesso em: 03 dec. 2024.</p> 
 
@@ -86,4 +97,5 @@ Planejamento para suportar aumento no número de usuários sem comprometer a per
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 02/12/2024 | Criação do artefato | [Natan Almeida](https://github.com/natanalmeida03) | [Joao Victor Marques](https://github.com/jmarquees) |
 |  1.1   | 03/12/2024 | Adição de requisitos | [Natan Almeida](https://github.com/natanalmeida03) | [Joao Victor Marques](https://github.com/jmarquees) |
-|  1.2   | 04/12/2024 | Adição de requisitos | [Joao Victor Marques](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.2   | 04/12/2024 | Adição de requisito Desempenho | [Joao Victor Marques](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.3   | 04/12/2024 | Adição de requisito Integração | [Joao Victor Marques](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) |
