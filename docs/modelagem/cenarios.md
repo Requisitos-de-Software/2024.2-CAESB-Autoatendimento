@@ -1,7 +1,7 @@
 # Cenários
 
 ## Introdução
-<p align="justify">&emsp;&emsp;Cenários são narrativas detalhadas que descrevem como os usuários interagem com uma aplicação ou sistema. Eles ajudam a capturar requisitos e entender o comportamento dos usuários. Cada cenário apresenta um ator principal com um objetivo, cujas ações e eventos são descritos de forma sequencial. Os cenários produzidos estão listados nas tabelas de 1 a 7.</p>
+<p align="justify">&emsp;&emsp;Cenários são narrativas detalhadas que descrevem como os usuários interagem com uma aplicação ou sistema, ajudando a capturar requisitos e compreender o comportamento dos usuários. Cada cenário apresenta um ator principal com um objetivo, cujas ações e eventos são descritos de forma sequencial. Os cenários desenvolvidos estão organizados nas tabelas de 1 a 7.</p>
 
 ## Metodologia
 <p align="justify">&emsp;&emsp;</p>
@@ -123,6 +123,11 @@
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
+## Bibliografia
+
+> <p id="1"> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.</p>
 
 <br>
 
