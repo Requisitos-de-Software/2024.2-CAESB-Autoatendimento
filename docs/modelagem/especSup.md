@@ -25,7 +25,7 @@ Este método possui os seguintes critérios:
 
 ## Especificação Suplementar
 ### Funcionalidade
-<p align="justify">&emsp;&emsp;Os requisitos funcionais estão contidos no [caso de uso](link_caso_uso).</p>
+<p align="justify">&emsp;&emsp;Os requisitos funcionais estão contidos no <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/">Caso de Uso </a>.</p>
 
 ### Usabilidade
 <p align="justify">&emsp;&emsp;Refere-se ao quão fácil é para o usuário realizar uma tarefa no aplicativo.</p>
