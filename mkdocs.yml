@@ -65,6 +65,7 @@ nav:
   - Modelagem:
       - Especificação Suplementar: modelagem/especSup.md
       - Casos de Uso: modelagem/caso_uso.md
+      - Cenários: modelagem/cenarios.md
   - Verificação:
       - Grupo 03 (Nosso Grupo):
         - Etapa 1:
