@@ -31,24 +31,24 @@ Este método possui os seguintes critérios:
 <p align="justify">&emsp;&emsp;Refere-se ao quão fácil é para o usuário realizar uma tarefa no aplicativo.</p>
 <br>
 
-#### 1. Orientações claras:
-Orientações claras em cada funcionalidade com mensagens de ajuda contextuais.
+#### 1. Acessibilidade:
+O design do aplicativo deve seguir as diretrizes de acessibilidade.
 
 #### 2. Fluxos Simplificados:
-Redução no número de etapas para concluir tarefas comuns, como consultar faturas ou solicitar serviços.
+O aplicativo deve permitir que o usuário realize tarefas principais em no máximo 3 cliques.
 
-#### 3. Consistência de Navegação:
-Layout padronizado em todas as telas para evitar confusões
+#### 3. Navegação Simples:
+O aplicativo deve garantir uma interface do usuário acessível e fácil de navegar.
 
 ### Confiabiliade
 <p align="justify">&emsp;&emsp;Refere-se a garantias de segurança no sistema.</p>
 <br>
 
-#### 1. Garantia de disponibilidade:
-O sistema deve funcionar 24hrs por dia e sete dias na semana.
+#### 1. Suporte Offline:
+O aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas.
 
 #### 2. Proteção de dados:
-O sistema deve proteger os dados do usuário à ataques.
+O aplicativo deve minimizar riscos de vulnerabilidades e proteger contra ataques conhecidos.
 
 ### Desempenho
 <p align="justify">&emsp;&emsp;Refere-se a performace do aplicativo</p>
@@ -56,18 +56,17 @@ O sistema deve proteger os dados do usuário à ataques.
 
 #### 1. Tempo de resposta:
 O tempo de resposta para qualquer consulta ao banco de dados deve ser inferior a 2 segundos.
-#### 2. Capacidade de conexões simultâneas:
-O sistema deve ser capaz de suportar até 5000 conexões simultâneas sem degradação do desempenho..
 
-#### 3. Crescimento de dados:
-O sistema deve ser capaz de gerenciar um crescimento de dados de 10% por mês sem impacto no desempenho.
+#### 2. Responsividade
+O aplicativo deve ser otimizado para diferentes tamanhos de tela e dispositivos (responsivo)
+
 
 ### Suportabilidade
 <p align="justify">&emsp;&emsp;Refere-se ao suporte e manutenção do aplicativo.</p>
 <br>
 
 #### 1. Compatibilidade multi-plataforma:
-Garantia de suporte para as versões mais recentes dos sistemas operacionais (Android e iOS).
+O aplicativo deve ser compatível com sistemas operacionais Android e iOS.
 
 #### 2. Escalabilidade:
 Planejamento para suportar aumento no número de usuários sem comprometer a performance.
@@ -76,8 +75,8 @@ Planejamento para suportar aumento no número de usuários sem comprometer a per
 <p align="justify">&emsp;&emsp;Refere-se a outros tipos de requisitos como design, implementação, interface e físicos</p>
 <br>
 
-#### 1. Interface:
-A identidade visual do app deve ser consistente em todas as telas, com o uso padronizado de cores, fontes, botões e ícones, para garantir uma navegação fluida e familiar para o usuário.
+#### 1. Sustentabilidade:
+O aplicativo deve exibir dicas de consumo consciente e economia de água
 
 #### 2. Design limpo e moderno:
 O design do aplicativo deve ser simples, com uma interface limpa e moderna. As telas devem ser organizadas de maneira a facilitar a navegação, evitando sobrecarga de informações e utilizando tipografia clara e espaçamento adequado entre os elementos.
