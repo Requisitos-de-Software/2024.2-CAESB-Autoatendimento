@@ -40,7 +40,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 <center>
     <p>Vídeo 01: Verificação da Especificação Suplementar</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/u45UkD9gNtE?si=ywFmnMs8ReKuD_07" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/-AssNQnJ1Ow?si=vP72zKTZ09B-Pps4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
@@ -88,7 +88,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 06/12/2024 | Criação do Documento e Lista de Verificação | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
-
+|  1.1   | 06/12/2024 | Adiciona vídeo de verificação| [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
 
 
 
