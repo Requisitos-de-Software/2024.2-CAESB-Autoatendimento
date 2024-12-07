@@ -21,6 +21,15 @@ A apresentação da entrega 2, pode ser vista no [YouTube](https://youtu.be/XRYA
 Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
+## Entrega 3
+A apresentação da entrega 3, pode ser vista no [YouTube](https://www.youtube.com/watch?v=F-oML33CwiI).
+
+<center>
+<p>Vídeo 03: Gravação da apresentação 3</p>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/F-oML33CwiI?si=GCeiDLD-cUfe6L69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
+</center>
+
 ## Histórico de versão
 
 <center>
@@ -30,5 +39,6 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 |  1.0   | 28/10/2024 | Criação do artefato | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
 |  1.1   | 05/11/2024 | Mudança do link do vídeo 1 | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
 |  1.2   | 24/11/2024 | Adiciona a entrega 2 | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+|  1.3   | 07/12/2024 | Adiciona a entrega 3 |[Matheus Barros ](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)|
 
 </center>

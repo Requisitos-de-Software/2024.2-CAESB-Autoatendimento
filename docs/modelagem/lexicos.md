@@ -4,7 +4,7 @@
 <p align="justify">&emsp;&emsp;Na modelagem de requisitos, o léxico é uma notação empregada para detalhar termos específicos de um campo, com a finalidade de reconhecer e registrar os símbolos pertinentes de uma língua em um contexto social ou técnico. Cada termo no léxico é examinado sob duas perspectivas fundamentais: conceito e efeito. A noção diz respeito ao sentido objetivo do termo, isto é, o que ele simboliza no âmbito. Por outro lado, o impacto descreve o efeito ou resultado prático que o termo causa ao ser aplicado ou realizado no ambiente em análise. Esta estratégia promove a compreensão conjunta entre os envolvidos e contribui para a construção de um alicerce robusto para a formulação e avaliação de requisitos.</p>
 
 ## Metodologia
-<p align="justify">&emsp;&emsp;Os léxicos que foram elaborados nesse documento foram identificados com a utilização do aplicativo e dos requisitos que já foram elicitados em documentos anteriores</p>
+<p align="justify">&emsp;&emsp;Os léxicos que foram elaborados nesse documento foram identificados com a utilização do aplicativo e dos requisitos que já foram elicitados em documentos anteriores.</p>
 
 <center><p> Tabela 1: Modelo do Léxico</p></center>
 
@@ -36,66 +36,124 @@
 
 
 
-## L01: Pagar a conta
-<p align="justify">&emsp;&emsp; Léxico referente ao fato de pagar uma conta, requisito que foi elicitado atráves do Brainstorming (B10) e da Instrospecção(INT02)  </p>
+### L01: Emitir a Segunda Via de Conta  
+<center><p>Tabela 3: Léxico 01: Emitir a Segunda Via de Conta (L01)</p></center>  
 
-<center><p> Tabela 3: Léxico 01: Pagar conta (L01)</p></center>
+| **ID**            | **Descrição**                                                                                  |
+|--------------------|----------------------------------------------------------------------------------------------|
+| **Classificação**  | Verbo                                                                                       |
+| **Impacto**        | A segunda via da conta foi emitida. O usuário obtém acesso a um documento com os dados da conta selecionada. |
+| **Noção**          | Ação realizada pelo usuário no aplicativo da Caesb. Ocorre quando ele seleciona um imóvel, filtra as contas e escolhe uma para emitir a segunda via. |
+| **Dicionário**     | Emitir, gerar segunda via de conta, obter documento atualizado da conta.                     |  
 
-| **ID**            | **Descrição**                          |
-|--------------------|----------------------------------------|
-| **Classificação**  | Verbo                                 |
-| **Impacto**        | A conta foi paga. O cliente não tem mais pendências. |
-| **Noção**          | Tarefa realizada pelo usuário. Acontece quando o cliente quer pagar uma conta. Ele verifica as opções de pagamento, coloca seus dados e efetua a operação. |
-| **Dicionário**     | Pagamento, quitar conta               |
-<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a> </center>
-
-## L02: Atendentes da Caesb
-<p align="justify">&emsp;&emsp; Léxico referente aos funcionários que prestam serviços para a Caesb, requisito que foi elicitado atráves da introspecção (INT15) e da análise de documento (ADD28)  </p>
-
-<center><p> Tabela 3: Léxico 02: Atendente da Caesb (L02)</p></center>
-
-| **ID**            | **Descrição**                                                                            |
-|--------------------|------------------------------------------------------------------------------------------|
-| **Classificação**  | Objeto                                                                                  |
-| **Impacto**        | Realiza as tarefas: verifica pendências, passa informações e recebe os pagamentos.      |
-| **Noção**          | Pessoa que trabalha no estabelecimento onde é computado o pagamento da Caesb e auxilia em atendimentos que não puderam ser feitos remotamente.          |
-|                    | Responsável pela comunicação entre cliente, caixa e empresa.                                    |
-| **Dicionário**     | Atendentes, funcionários da Caesb                                                      |
-<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a> </center>
-
-## L03: Emitir segunda via
-<p align="justify">&emsp;&emsp; Léxico referente a consulta de contas que já foram pagas , requisito que foi elicitado atráves da Brainstorm (B03), Entrevista (Q15) e da análise de documento (ADD20)  </p>
-
-<center><p> Tabela 3: Léxico 03: Verificar Recibo (L03)</p></center>
-
-| **ID**            | **Descrição**                                                                           |
-|--------------------|-----------------------------------------------------------------------------------------|
-| **Classificação**  | Estado                                                                                 |
-| **Impacto**        | Enquanto está com a conta paga, durante aquele período não deve mais nada e pode emitir a segunda via           |
-| **Noção**          | Aquele cliente está com as pendências livres. . |
-| **Dicionário**     | Quitado, conta resolvida, conta paga                                                               |
-
-<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a> </center>
-
-## L04: Usuário
-<p align="justify">&emsp;&emsp;O Léxico a seguir diz respeito à interação do aplicativo com o usuário, fundamentada nos requisitos definidos na Análise de Documento (ADD02) e na Introspecção (INT02). Esses critérios envolvem a exigência de que o aplicativo forneça notificações para alertar os usuários sobre o término das contas. Contudo, vale destacar que essas funcionalidades ainda não foram incorporadas à aplicação. Adicionalmente, as necessidades de filtragem de dados, identificadas durante a entrevista (ENT07) e na observação (OBS09 e OBS10), também não foram implementadas. </p>
-
-<center><p> Tabela 4: Léxico 04: Usuário (L04)</p></center>
-
-<center>
-
-| **ID**            | **Descrição**                                                                           |
-|--------------------|-----------------------------------------------------------------------------------------|
-| **Classificação**  | Objeto                                                                                |
-| **Impacto**        |  O usuário pode decidir receber ou não as notificações (ADD02 e INT02)              
-|                    |  O usuário pode filtrar a busca por data, horário e categoria (L01). |
-|                    |  O usuário pode acessar o histórico de contas                                        |
-| **Noção**          | Aquele cliente está com as pendências livres e está ciente das próximas cobranças                                         |
-| **Dicionário**     | Quitado, conta resolvida, conta paga                                                   |
-</center>
+<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center>  
 
 
-<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a> </center>
+### L02: Informar Falta d'Água    
+
+<center><p>Tabela 4: Léxico 02: Informar Falta d'Água (L02)</p></center>  
+
+| **ID**            | **Descrição**                                                                                  |
+|--------------------|----------------------------------------------------------------------------------------------|
+| **Classificação**  | Verbo                                                                                       |
+| **Impacto**        | A falta d'água foi informada à Caesb. O sistema registra a reclamação do usuário, possibilitando o acompanhamento do caso. |
+| **Noção**          | Ação realizada pelo usuário no aplicativo da Caesb. Acontece quando ele seleciona um imóvel, descreve o problema e envia a notificação. |
+| **Dicionário**     | Reportar, notificar falta d'água, registrar ocorrência no sistema.                           |  
+
+<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center>  
+
+
+### L03: Auto Leitura do Hidrômetro  
+
+<center><p>Tabela 5: Léxico 03: Auto Leitura do Hidrômetro (L03)</p></center>  
+
+| **ID**            | **Descrição**                                                                                  |
+|--------------------|----------------------------------------------------------------------------------------------|
+| **Classificação**  | Verbo                                                                                       |
+| **Impacto**        | A leitura do consumo foi enviada à Caesb. O sistema registra os dados informados pelo usuário, permitindo que a fatura seja calculada com base nas informações fornecidas. |
+| **Noção**          | Ação realizada pelo usuário no aplicativo da Caesb. Acontece quando ele seleciona um imóvel, aceita o termo de adesão e informa os dados do hidrômetro solicitados pelo sistema. |
+| **Dicionário**     | Informar leitura do hidrômetro, enviar dados de consumo, registrar autoleitura.             |  
+
+<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center>  
+
+
+### L04: Informar Vazamento na Rua  
+
+<center><p>Tabela 6: Léxico 04: Informar Vazamento na Rua (L04)</p></center>  
+
+| **ID**            | **Descrição**                                                                                  |
+|--------------------|----------------------------------------------------------------------------------------------|
+| **Classificação**  | Verbo                                                                                       |
+| **Impacto**        | O vazamento foi reportado à Caesb. O sistema registra as informações enviadas, permitindo a abertura de um protocolo para verificação do problema. |
+| **Noção**          | Ação realizada pelo usuário no aplicativo da Caesb. Acontece quando ele fornece detalhes como setor, rua, bairro e descrição do problema, confirmando as informações e enviando a notificação. |
+| **Dicionário**     | Reportar vazamento, notificar problema na rua, registrar ocorrência no sistema.              |  
+
+<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center>  
+
+### L05: Consultar Histórico de Consumo  
+
+<center><p>Tabela 7: Léxico 05: Consultar Histórico de Consumo (L05)</p></center>  
+
+| **ID**            | **Descrição**                                                                                  |
+|--------------------|----------------------------------------------------------------------------------------------|
+| **Classificação**  | Verbo                                                                                       |
+| **Impacto**        | O histórico de consumo é exibido para o usuário. O sistema apresenta os dados organizados por períodos selecionados (mensal ou anual). |
+| **Noção**          | Ação realizada pelo usuário no aplicativo da Caesb. Acontece quando ele seleciona um imóvel e visualiza os dados históricos de consumo apresentados pelo sistema. |
+| **Dicionário**     | Verificar consumo, consultar histórico, acessar dados de uso de água.                        |  
+
+<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center>  
+
+### L06: Alterar Titularidade e Vencimento  
+
+<center><p>Tabela 8: Léxico 06: Alterar Titularidade e Vencimento (L06)</p></center>  
+
+| **ID**            | **Descrição**                                                                                  |
+|--------------------|----------------------------------------------------------------------------------------------|
+| **Classificação**  | Verbo                                                                                       |
+| **Impacto**        | A titularidade ou a data de vencimento do imóvel foi alterada com sucesso. O sistema atualiza as informações registradas, garantindo que os dados estejam corretos. |
+| **Noção**          | Ação realizada pelo usuário no aplicativo da Caesb. Acontece quando ele informa o número de inscrição ou hidrômetro, atualiza as informações de contato, anexa os documentos solicitados e conclui a solicitação de alteração. |
+| **Dicionário**     | Modificar titularidade, atualizar vencimento, alterar cadastro do imóvel.                   |  
+
+<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center>  
+
+### L07: Agendar Atendimento Presencial  
+
+<center><p>Tabela 9: Léxico 07: Agendar Atendimento Presencial (L07)</p></center>  
+
+| **ID**            | **Descrição**                                                                                  |
+|--------------------|----------------------------------------------------------------------------------------------|
+| **Classificação**  | Verbo                                                                                       |
+| **Impacto**        | O atendimento presencial foi agendado com sucesso. O sistema registra a data, hora e local escolhidos pelo usuário. |
+| **Noção**          | Ação realizada pelo usuário no aplicativo da Caesb. Acontece quando ele visualiza os horários disponíveis, escolhe uma opção e confirma o agendamento. |
+| **Dicionário**     | Marcar atendimento, reservar horário, agendar visita presencial.                            |  
+
+<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center>  
+
+### L08: Suporte de Chat ou Atendimento   
+
+<center><p>Tabela 10: Léxico 08: Suporte de Chat ou Atendimento (L08)</p></center>  
+
+| **ID**            | **Descrição**                                                                                  |
+|--------------------|----------------------------------------------------------------------------------------------|
+| **Classificação**  | Verbo                                                                                       |
+| **Impacto**        | O suporte foi iniciado com sucesso. O usuário recebe assistência para resolver sua dúvida ou problema. |
+| **Noção**          | Ação realizada pelo usuário no aplicativo da Caesb. Acontece quando ele seleciona a opção de suporte, escolhe entre chat ou telefone, e aguarda o atendimento. |
+| **Dicionário**     | Solicitar ajuda, entrar em contato, suporte ao cliente, assistência técnica.                |  
+
+<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center>  
+
+### L09: Notificações de Vencimento  
+
+<center><p>Tabela 11: Léxico 09: Notificações de Vencimento (L09)</p></center>  
+
+| **ID**            | **Descrição**                                                                                   |
+|--------------------|------------------------------------------------------------------------------------------------|
+| **Classificação**  | Verbo                                                                                          |
+| **Impacto**        | O usuário é informado sobre o vencimento próximo, permitindo que ele tome as devidas providências. |
+| **Noção**          | Ação realizada automaticamente pelo sistema que monitora os vencimentos e envia notificações ao usuário com base nas preferências dele. |
+| **Dicionário**     | Alerta, aviso, notificação de vencimento, lembrete.                                            |  
+
+<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center>  
 
 
 ## Referências
