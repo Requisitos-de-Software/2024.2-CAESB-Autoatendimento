@@ -14,7 +14,7 @@
 <p align="justify">
 &emsp;&emsp; A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base no plano de ensino da disciplina. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações.
 
-Neste documento, realizou-se a avaliação do artefato <a href="http://127.0.0.1:8000/modelagem/cenarios/">dos Cenários</a>, que trata das atividades realizdas no desenvolvimento do aplicativo <a href="https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR">Caesb Autoatendimento</a>.
+Neste documento, realizou-se a avaliação do artefato <a href="http://127.0.0.1:8000/modelagem/cenarios/">dos Cenários</a>, que trata das atividades realizadas no desenvolvimento do aplicativo <a href="https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR">Caesb Autoatendimento</a>.
 </p>
 
 
@@ -42,7 +42,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 <center>
     <p>Vídeo 01: Verificação dos Cenários</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/qVd9Do9QgOs?si=c9dCDSAk8S-h6gn-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/u45UkD9gNtE?si=ywFmnMs8ReKuD_07" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
@@ -67,7 +67,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 <center>
 
-![alt text](https://github.com/user-attachments/assets/1256481d-b179-4f12-9f59-a06f5f254991)
+![alt text](https://github.com/user-attachments/assets/2e888398-802a-4e68-a964-271da603b228)
 
 </center>
 
@@ -91,6 +91,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 06/12/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.1   | 07/12/2024 | Adicionando Vídeo| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 
 
 
