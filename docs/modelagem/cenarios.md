@@ -17,7 +17,7 @@
 | **Recursos**       | Smartphone e internet                                                                           |
 | **Episódios**      | 1. O usuário seleciona a opção **Segunda Via de Conta** na tela inicial.<br>2. O usuário seleciona um imóvel cadastrado na Caesb.<br>3. O aplicativo exibe uma lista com todas as contas.<br>4. O usuário filtra as contas de acordo com o ano selecionado e com o tipo de conta escolhido.<br> 5. O usuário clica em uma conta e obtém a segunda via. |
 | **Restrições**     | O usuário deve ter o imóvel referente à conta cadastrado na Caesb. Caso contrário, ele deve informar o número de inscrição da conta.   |
-| **Exceção**        | - Smartphone descarregado<br>- Perda de conexão com a internet<br>- Falha na entrega da notificação                                  |
+| **Exceção**        | - Smartphone descarregado<br>- Perda de conexão com a internet<br>                               |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
