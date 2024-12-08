@@ -45,11 +45,11 @@
 ## Comunicação (ou ação)
 Consiste em uma ação que o usuário realizará sobre o caso de uso, conforme ilustrado na imagem 4. A ação pode ser de dois tipos:
 
-Inclusão : Quando a funcionalidade de um caso de uso precisa ser realizada por meio de outro caso de uso. Em outras palavras, um caso de uso A inclui o caso de uso B, de forma que, ao executar o caso de uso A, o caso de uso B será automaticamente executado junto.
+Inclusão: Quando a funcionalidade de um caso de uso precisa ser realizada por meio de outro caso de uso. Em outras palavras, um caso de uso A inclui o caso de uso B, de forma que, ao executar o caso de uso A, o caso de uso B será automaticamente executado junto.
 
  - Notação no diagrama : <>
 
-Extensão : O caso de uso atual será executado normalmente, mas alguns casos de uso podem adicionar etapas extras no caso de uso estendido. Ou seja, se o caso de uso A estende o caso de uso B, ao executar o caso de uso A, o caso de uso B poderá ou não ser executado também.
+Extensão: O caso de uso atual será executado normalmente, mas alguns casos de uso podem adicionar etapas extras no caso de uso estendido. Ou seja, se o caso de uso A estende o caso de uso B, ao executar o caso de uso A, o caso de uso B poderá ou não ser executado também.
 
  - Notação no diagrama : <<>>
 

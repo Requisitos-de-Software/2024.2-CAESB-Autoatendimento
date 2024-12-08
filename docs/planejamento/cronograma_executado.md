@@ -51,6 +51,27 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
+<br>
+
+
+<p align="justify">&emsp;&emsp;Na Tabela 3, encontra-se o cronograma executado para todas as atividades da terceira entrega.</p>
+
+| Atividade                                                     	| Período de desenvolvimento 	| Responsáveis     	| Revisão                 	| Revisores        	|
+|---------------------------------------------------------------	|----------------------------	|------------------	|-------------------------	|------------------	|
+|   Modelagem de Requisitos: Cenários                  	| Início:29/11<br>Fim: 03/12    	| Leandro	| Início: 07/11 Fim: 07/11 	| Matheus           	|
+|   Modelagem de Requisitos: Léxico                    	| Início:29/11<br>Fim: 03/12    	| Matheus   	| Início: 07/11 Fim: 07/11 	| Letícia 	|
+|   Modelagem de Requisitos: Use Case                  	| Início: 19/11<br>Fim: 03/12    	| Letícia 	| Início: 08/11 Fim: 08/11 	| Leandro  	|
+|   Modelagem de Requisitos: Especificação Suplementar 	| Início: 19/11<br>Fim: 03/12    	| João Victor e Natan 	| Início: 08/12 Fim: 08/12 	| Leandro         	|
+|   vericação	| Início: 07/12<br>Fim: 07/12	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 08/12<br>Fim: 08/12 	|  João Victor, Leandro, Letícia, Matheus, Natan	|
+|   vericação grupo n+1	| Início: 09/12<br>Fim: 09/12	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 09/12<br>Fim: 09/12 |  João Victor, Leandro, Letícia, Matheus, Natan	|
+|   Inspeção	| Início: 08/12<br>Fim: 08/12	| Letícia	| Início: 08/12<br>Fim: 08/12 	|Leandro 	|
+|   Gravação da Apresentação e Entrega                 	| Início: 09/12<br>Fim: 09/12    	| João Victor, Leandro, Letícia, Matheus, Natan            	| Início: 09/12 Fim: 09/12 	| João Victor, Leandro, Letícia, Matheus, Natan            	|
+|   Correção pós apresentação	| Início: 11/12<br>Fim: 11/12 	| João Victor, Leandro, Letícia, Matheus, Natan   	| Início: 11/12<br>Fim: 11/12 	| João Victor, Leandro, Letícia, Matheus, Natan    	|
+
+<center>
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</center>
+
 
 ## Referências
 
@@ -69,6 +90,7 @@ Acesso em: 21 out. 2024.
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 28/10/2024 | Cronograma Executado | [Letícia Resende](https://github.com/LeticiaResende23) | [Natan da Cruz](https://github.com/natanalmeida03)  |
 |  1.1   | 13/11/2024 | Correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.3   | 08/12/2024 | Adicionando cronograma da terceira entrega| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 
 
 </center>

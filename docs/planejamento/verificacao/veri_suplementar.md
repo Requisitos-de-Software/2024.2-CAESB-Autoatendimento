@@ -14,10 +14,10 @@
 <p align="justify">
 &emsp;&emsp; A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base no plano de ensino da disciplina. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações.
 
-Neste documento, realizou-se a avaliação do artefato de <a href="#">Especificação Suplementar</a>, que trata das atividades realizadas no desenvolvimento do aplicativo <a href="https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR">Caesb Autoatendimento</a>.</p>
+Neste documento, realizou-se a avaliação do artefato de <a href="http://127.0.0.1:8000/modelagem/especSup/">Especificação Suplementar</a>, que trata das atividades realizadas no desenvolvimento do aplicativo <a href="https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR">Caesb Autoatendimento</a>.</p>
 
 
-## Verificação dos Cenários
+## Verificação da Especificação Suplementar
 <p align="justify">
 &emsp;&emsp;A tabela 01 apresenta a Lista de Verificação da Especificação Suplementar que foi elaborada com base no plano de ensino da disciplina</p>
 
