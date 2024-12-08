@@ -88,7 +88,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 | Fluxo de exceção | O sistema é indisponível, e o usuário tenta novamente mais tarde |
 | Pós-condições | A segunda via da conta é gerada e enviada ao usuário |
 | Data de Criação | 05/12/2024 |
-| Rastreabilidade | [OBS3](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/) |
+| Rastreabilidade |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/" target="_blank">OBS3</a> |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -109,7 +109,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 | Fluxo de exceção | O sistema é indisponível, e o usuário tenta novamente mais tarde|
 | Pós-condições | A falta d'água é registrada para análise e resposta |
 | Data de Criação | 05/12/2024 |
-| Rastreabilidade | [INT06](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/) |
+| Rastreabilidade |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/" target="_blank">INT06</a>  |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -130,7 +130,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 | Fluxo de exceção | O hidrômetro está inacessível, e o usuário registra o problema no sistema|
 | Pós-condições | A leitura do hidrômetro é atualizada no sistema |
 | Data de Criação | 05/12/2024 |
-| Rastreabilidade | [ADD03](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/) |
+| Rastreabilidade |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/" target="_blank">ADD03</a>  |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -151,7 +151,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 | Fluxo de exceção | O sistema é indisponível, e o usuário tenta novamente mais tarde|
 | Pós-condições | O vazamento é registrado no sistema para ação da equipe técnica |
 | Data de Criação | 05/12/2024 |
-| Rastreabilidade | [INT01](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/) |
+| Rastreabilidade |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/" target="_blank">INT01</a>  |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -172,7 +172,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 | Fluxo de exceção | O sistema é indisponível, e o usuário tenta novamente mais tarde|
 | Pós-condições | O histórico de consumo é mostrado com sucesso |
 | Data de Criação | 05/12/2024 |
-| Rastreabilidade | [INT03](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/) |
+| Rastreabilidade |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/" target="_blank">INT03</a> |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -193,7 +193,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 | Fluxo de exceção | O sistema é indisponível, e o usuário tenta novamente mais tarde|
 | Pós-condições | Os dados são atualizados no sistema |
 | Data de Criação | 05/12/2024 |
-| Rastreabilidade | [ADD02](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/) |
+| Rastreabilidade | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/" target="_blank">ADD02</a> |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -214,7 +214,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 | Fluxo de exceção | O sistema é indisponível, e o usuário tenta novamente mais tarde|
 | Pós-condições | O atendimento é agendado com sucesso |
 | Data de Criação | 05/12/2024 |
-| Rastreabilidade | [INT15](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/) |
+| Rastreabilidade |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/" target="_blank">INT15</a> |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -235,7 +235,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 | Fluxo de exceção |O suporte é indisponível, e o sistema informa o horário de funcionamento|
 | Pós-condições | Uma dúvida ou problema do usuário é resolvido por meio do suporte |
 | Data de Criação | 05/12/2024 |
-| Rastreabilidade | [ADD09](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/) |
+| Rastreabilidade | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/" target="_blank">ADD09</a> |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -257,7 +257,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 | Fluxo de exceção |O envio da notificação falhou, e o sistema tenta novamente em outro momento|
 | Pós-condições | O usuário recebe uma notificação e é informado sobre os dados de vencimento da conta |
 | Data de Criação | 05/12/2024 |
-| Rastreabilidade | [ADD08](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/) |
+| Rastreabilidade |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/" target="_blank">ADD08</a> |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
