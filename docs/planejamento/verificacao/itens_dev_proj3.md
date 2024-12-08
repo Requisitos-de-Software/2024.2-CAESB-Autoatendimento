@@ -33,7 +33,7 @@
 | 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).                                        | Sim           | André Barros   | Versão 1.0 - 08/12.                           |
 | 08     | A gravação da reunião do grupo.                                 | Sim           | André Barros   | Versão 1.0 - 08/12.                           |
 | 09     | Vídeo de apresentação na categoria "não listado" no youtube?                           | Sim           | André Barros   | Versão 1.0 - 08/12.  
-| 10     | Os artefatos foram revisados antes da entrega?                           | Sim           | Joao Victor Marques   | Versão 1.0 - 08/12.  
+| 10     | Todos os artefatos estão formatados de acordo com o padrão definido?                          | Sim           | Joao Victor Marques   | Versão 1.0 - 08/12.  
 
 
 <center>
