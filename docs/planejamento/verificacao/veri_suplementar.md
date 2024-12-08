@@ -25,11 +25,11 @@ Neste documento, realizou-se a avaliação do artefato de <a href="http://127.0.
 
 | **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
 |--------|----------------|---------------|--|------------------|
-| 01 |<p align="justify">O artefato segue o modelo FURPS+?</p>  |  | André Barros | | |
-| 02 |<p align="justify">O documento especifica o tempo de resposta, no Desempenho?</p> |  | André Barros |  |
-| 03 |<p align="justify">O documento especifica qual plataforma o aplicativo pode ser executado?</p> |  | André Barros |  |  
-| 04 |<p align="justify">Todos os requisitos podem ser testados (RF e RNF)?</p> |  | André Barros |  |  
-| 05 |<p align="justify">O documento especifica requisitos relacionados ao ambiente de uso ou sustentabilidade ambiental?</p> |  | Leandro de Almeida |  |  
+| 01 |<p align="justify">O artefato segue o modelo FURPS+?</p>  | Sim | André Barros | Versão 1.0  06/12.  |  |
+| 02 |<p align="justify">O documento especifica o tempo de resposta, no Desempenho?</p> | Sim | André Barros | Versão 1.0  06/12.  |
+| 03 |<p align="justify">O documento especifica qual plataforma o aplicativo pode ser executado?</p> | Sim | André Barros | Versão 1.0  06/12.  |  
+| 04 |<p align="justify">Todos os requisitos podem ser testados (RF e RNF)?</p> | Sim | André Barros | Versão 1.0  06/12.  |  
+| 05 |<p align="justify">O documento especifica requisitos relacionados ao ambiente de uso ou sustentabilidade ambiental?</p> | Sim | Leandro de Almeida | Versão 1.0  06/12.  |  
 
 <center>
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
