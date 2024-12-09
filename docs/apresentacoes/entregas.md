@@ -22,11 +22,11 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 </center>
 
 ## Entrega 3
-A apresentação da entrega 3, pode ser vista no [YouTube](https://www.youtube.com/watch?v=F-oML33CwiI).
+A apresentação da entrega 3, pode ser vista no [YouTube](https://www.youtube.com/watch?v=wUAYOgZsYvA).
 
 <center>
 <p>Vídeo 03: Gravação da apresentação 3</p>
-<iframe width="760" height="515" src="https://www.youtube.com/embed/F-oML33CwiI?si=GCeiDLD-cUfe6L69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/wUAYOgZsYvA?si=owy0iLug9mRvOacC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
 </center>
 
