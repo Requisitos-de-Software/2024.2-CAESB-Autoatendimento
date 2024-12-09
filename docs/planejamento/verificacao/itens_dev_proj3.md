@@ -1,4 +1,4 @@
-# Itens de desenvolvimento do projeto
+# Verificação dos Itens de desenvolvimento do projeto
 
 ## Introdução
 <p align="justify">
