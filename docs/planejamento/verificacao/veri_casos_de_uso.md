@@ -35,6 +35,8 @@ Neste documento, realizou-se a avaliação do artefato <a href="http://127.0.0.1
 | 05     | <p align="justify">A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição, Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando a estrutura da especificação.</p> | Sim           | André Barros   | Versão 1.0  06/12.          |
 | 06     | <p align="justify">No diagrama de Caso de Uso há ao menos um caso de uso com pontos de extensão? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando o ponto de extensão.</p> | Sim           | André Barros   | Versão 1.0  06/12.          |
 | 07     | <p align="justify">A participação do cliente e/ou persona na validação do Diagrama de Caso de Uso?</p>                                             | Sim           | André Barros   | Versão 1.0  06/12.          |
+| 07     | <p align="justify">Os relacionamentos entre os casos de uso (inclusão, extensão e generalização) estão claramente indicados e seguem a notação padrão UML?</p>                                             | Sim           | Matheus Barros   | Versão 1.0  06/12.          |
+
 
 
 <center>
