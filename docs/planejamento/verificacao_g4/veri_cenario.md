@@ -38,14 +38,14 @@ Neste documento, realizou-se a avaliação do artefato dos <a href="https://requ
  Autor(a): <a href="https://github.com/Natanalmeida03" target = "_blank">Natan Almeida</a></h6>
 </center>
 
-<!-- ## Link da gravação
-Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
+## Link da gravação
+Pode ser vista no [YouTube](https://youtu.be/UuDfx-dTYNE).</p>
 
 <center>
     <p>Vídeo 01: Verificação dos Cenários</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/u45UkD9gNtE?si=ywFmnMs8ReKuD_07" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
-</center> -->
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/UuDfx-dTYNE?si=zIt8NwQ4mTTLGUbn"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+</center>
 
 ## Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
