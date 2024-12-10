@@ -44,11 +44,11 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=TMeSxoswpQE).</p>
 </center>
 
 ## Problemas encontrados
-<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
+<p align="justify">5. O documento não  especifica requisitos relacionados ao ambiente de uso ou sustentabilidade ambiental. </p>
 
 
 ## Sugestões
-<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
+<p align="justify">5. Adicionar ao documento a especificação dos requisitos relacionados ao ambiente de uso ou sustentabilidade ambiental. </p>
 
 <br>
 
