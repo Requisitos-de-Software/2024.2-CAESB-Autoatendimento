@@ -2,9 +2,8 @@
 
 ## Introdução
 <p align="justify">
-&emsp;&emsp;Este documento inclui as verificações utilizada para inspecionar o artefato Especificação Suplementar. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.
+&emsp;&emsp;Este documento inclui as verificações utilizadas para inspecionar os Itens de desenvolvimento do projeto do <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/">Grupo 4(Meu SUS Digital)</a>. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.
 </p>
-
 ## Objetivo
 <p align="justify">
 &emsp;&emsp; O objetivo da verificação é garantir que todos os critérios de avaliação foram plenamente atendidos. Para isso, é feita uma análise do conteúdo e da estrutura do artefato, com o intuito de melhorar sua qualidade.
@@ -88,6 +87,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=TMeSxoswpQE).</p>
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 09/12/2024 | Criação do Documento e Lista de Verificação | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.1   | 09/12/2024 | Ajuste de introdução | [Joao Victor Marques](https://github.com/jmarquees ) | [Leandro de Almeida](https://github.com/leomitx10) |
 
 
 

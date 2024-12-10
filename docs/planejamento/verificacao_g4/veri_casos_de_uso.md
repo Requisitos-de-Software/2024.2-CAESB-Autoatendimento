@@ -2,7 +2,7 @@
 
 ## Introdução
 <p align="justify">
-&emsp;&emsp;Este documento inclui as verificações utilizada para inspecionar o artefato dos casos de uso do grupo 4 (Meu SUS Digital). Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.
+&emsp;&emsp;Este documento inclui as verificações utilizadas para inspecionar os Itens de desenvolvimento do projeto do <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/">Grupo 4(Meu SUS Digital)</a>. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.
 </p>
 
 ## Objetivo
@@ -96,6 +96,7 @@ Pode ser vista no [YouTube](https://youtu.be/EdjAVLEXQPw).</p>
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 09/12/2024 | Criação do Documento e Lista de Verificação | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.1   | 09/12/2024 | Ajuste de introdução | [Joao Victor Marques](https://github.com/jmarquees ) | [Leandro de Almeida](https://github.com/leomitx10) |
 
 
 
