@@ -106,7 +106,6 @@ nav:
           - Cenários: planejamento/verificacao_g4/veri_cenario.md
           - Casos de uso: planejamento/verificacao_g4/veri_casos_de_uso.md
           - Especificação Suplementar: planejamento/verificacao/veri_sumplementar1.md
-          - Léxicos: planejamento/verificacao_g4/veri_lexicos.md
           - Itens de desenvolvimento do projeto: planejamento/verificacao_g4/itens_dev_proj2_g4.md
 
 markdown_extensions:

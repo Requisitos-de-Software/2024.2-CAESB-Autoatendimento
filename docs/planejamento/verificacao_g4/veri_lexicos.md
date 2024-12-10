@@ -35,7 +35,7 @@ Neste documento, realizou-se a avaliação do artefato dos <a href="https://requ
 
 
 <center>
- Autor(a): <a href="https://github.com/Natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
 </center>
 
 ## Link da gravação
