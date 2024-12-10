@@ -155,6 +155,80 @@
 
 <center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center>  
 
+<br>
+
+## Requisitos Utilizados
+
+<center>
+<font size="3"><p style="text-align: center">Tabela 12: Informa os Requisitos utilizados nos léxicos abaixo:</p></font>
+
+| Id | Descrição | Implementado |
+| ----- | ---------- | -------------- |
+| INT13 | Cadastro em Débito Automático | Não |
+| OBS1 | Imóvel Selecionado | Não |
+| OBS2| Selecionar Ano ou Mês | Não |
+| INT02| Emissão de Boleto | Não |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+## Léxico L10: Imóvel Selecionado
+
+<center><p>Tabela 13: Léxico 10: Imóvel Selecionado</p>
+
+| **ID**          | **Descrição**                                                                                                         |
+|------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Classificação**| Estado                                                                                                               |
+| **Impacto**      | Define o imóvel ativo para ações relacionadas, como emissão de conta ou débito automático.                          |
+| **Noção**        | Resultado da escolha feita pelo usuário no aplicativo, identificando um imóvel específico.                          |
+| **Dicionário**   | Imóvel ativo, propriedade em foco.   
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+## Léxico L11: Cadastro em Débito Automático
+
+<center><p>Tabela 14: Léxico 11: Cadastro em Débito Automático</p>
+
+| **ID**          | **Descrição**                                                                                                         |
+|------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Classificação**| Objeto                                                                                                               |
+| **Impacto**      | Permite configurar pagamentos automáticos para o imóvel selecionado.                                                |
+| **Noção**        | Configuração realizada pelo usuário no aplicativo para ativar o débito automático em uma conta vinculada ao imóvel. |
+| **Dicionário**   | Débito automático, pagamento automático. 
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+
+## Léxico L12: Emissão de Boleto
+
+<center><p>Tabela 15: Léxico 12: Emissão de Boleto</p>
+
+| **ID**          | **Descrição**                                                                                                         |
+|------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Classificação**| Verbo                                                                                                                |
+| **Impacto**      | O boleto foi gerado e disponibilizado para pagamento.                                                               |
+| **Noção**        | Ação realizada pelo usuário no aplicativo, escolhendo um imóvel e gerando o boleto para pagamento.                  |
+| **Dicionário**   | Gerar boleto, criar documento de pagamento.                                                                         |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+## Léxico L13: Selecionar Ano ou Mês
+<center><p>Tabela 16: Léxico 13: Selecionar Ano ou Mês</p>
+
+| **ID**          | **Descrição**                                                                                                         |
+|------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Classificação**| Verbo                                                                                                                |
+| **Impacto**      | Permite ao usuário escolher um período específico para consultar a segunda via da conta.                            |
+| **Noção**        | Ação realizada no aplicativo ao filtrar informações por ano ou mês antes de gerar a segunda via da conta.           |
+| **Dicionário**   | Escolher período, filtrar data.                                                                                     |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
 
 ## Referências
 > <p id="1">1. SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf. Acesso em: 03/12/2024.
@@ -170,5 +244,6 @@
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 20/11/2024 | Criação do Léxico  | [Matheus Barros](https://github.com/Ninja-Haiyai)|[Leandro de Almeida](https://github.com/leomitx10) |
+|  1.1   | 10/12/2024 | Adicionando Léxico  | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
 
 </center>

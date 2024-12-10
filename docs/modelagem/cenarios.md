@@ -158,6 +158,93 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
+<br>
+
+## Requisitos Utilizados
+
+<center>
+<font size="3"><p style="text-align: center">Tabela 10: Informa os Requisitos utilizados no caso de uso 1. </p></font>
+
+| Id | Descrição | Implementado |
+| ----- | ---------- | -------------- |
+| INT13 | O aplicativo deve disponibilizar a opção de cadastro em débito automático. | Não |
+| OBS1 |  O aplicativo deve permitir que o usuário escolha o imóvel desejado. | Não |
+| OBS2 |  O aplicativo deve permitir que o usuário selecione o ano ou mês da segunda via da conta.| Não |
+| INT02 | O usuário deve poder emitir boleto para pagar a conta de água. | Não |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+## Cenário 10: Cadastro em Débito Automático
+
+<center>Tabela 11: Cadastro em Débito Automático
+
+| **Item**           | **Descrição**                                                                                   |
+|--------------------|-------------------------------------------------------------------------------------------------|
+| **Objetivo**       | Permitir **o cadastro do débito automático para contas de água**                                                              |
+| **Contexto**       | - **Local**: Em casa<br> - **Tempo**: Durante o dia ou a noite<br> - **Pré-condições**: Acesso ao aplicativo e conta ativa. |
+| **Atores**         | Usuário                                                                                         |
+| **Recursos**       | Smartphone, internet, conta bancária                                                                         |
+| **Episódios**      | 1. O usuário acessa o aplicativo e navega até a opção de “Débito Automático”.<br> 2. O sistema solicita que o usuário escolha o imóvel desejado.<br> 3. O usuário seleciona o imóvel e confirma.<br> 4. O sistema exibe uma tela para preenchimento dos dados bancários.<br> 5. O usuário insira as informações e conclua o cadastro. |
+| **Restrições**     |- O usuário deve possuir pelo menos um imóvel cadastrado <br> - O banco selecionado deve ser compatível com a funcionalidade.                 |                                    |
+| **Exceção**        | - Dados bancários inválidos<br> - Perda de conexão com a internet durante o processo.<br> - Imóvel não elegível para subsídio automático.                                 |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+## Cenário 11: Seleção de Imóvel para Segunda Via da Conta
+
+<center>Tabela 12: Seleção de Imóvel para Segunda Via da Conta
+
+| **Item**       | **Descrição**                                                                                                               |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Objetivo**   | Permitir ao usuário selecionar o imóvel desejado para acessar a segunda via da conta.                                       |
+| **Contexto**   | - Local: Em casa ou qualquer lugar com acesso à internet. <br> - Tempo: Durante o dia ou noite. <br> - Pré-condições: Acesso ao aplicativo e conta ativa. |
+| **Atores**     | Usuário                                                                                                                    |
+| **Recursos**   | Smartphone, internet                                                                                                       |
+| **Episódios**  | 1. O usuário acessa o menu "Segunda Via". <br> 2. O sistema exibe uma lista de imóveis cadastrados no nome do usuário. <br> 3. O usuário seleciona o imóvel desejado. <br> 4. O sistema confirma a seleção e exibe os meses e anos disponíveis para consulta. |
+| **Restrições** | O usuário deve possuir pelo menos um imóvel cadastrado.                                                                    |
+| **Exceção**    | - Nenhum imóvel cadastrado. <br> - Lista de imóveis não carregada corretamente. <br> - Perda de conexão com a internet.     |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+## Cenário 12: Consulta de Segunda Via por Ano ou Mês
+
+<center>Tabela 13: Consulta de Segunda Via por Ano ou Mês
+
+| **Item**       | **Descrição**                                                                                                               |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Objetivo**   | Permitir ao usuário consultar a segunda via da conta por ano ou mês selecionado.                                            |
+| **Contexto**   | - Local: Em casa ou qualquer lugar com acesso à internet. <br> - Tempo: Durante o dia ou noite. <br> - Pré-condições: Acesso ao aplicativo e imóvel selecionado previamente. |
+| **Atores**     | Usuário                                                                                                                    |
+| **Recursos**   | Smartphone, internet                                                                                                       |
+| **Episódios**  | 1. O usuário acessa a opção "Segunda Via" após selecionar o imóvel. <br> 2. O sistema exibe os anos e meses disponíveis para consulta. <br> 3. O usuário escolhe o ano ou mês desejado. <br> 4. O sistema apresenta a segunda via da conta correspondente para download ou visualização. |
+| **Restrições** | A conta deve estar registrada no sistema para os períodos consultados.                                                     |
+| **Exceção**    | - Ano ou mês não disponível para consulta. <br> - Falha na geração da segunda via. <br> - Perda de conexão com a internet.  |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+## Cenário 13: Emissão de Boleto para Pagamento da Conta
+
+<center>Tabela 14: Emissão de Boleto para Pagamento da Conta
+
+| **Item**       | **Descrição**                                                                                                               |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Objetivo**   | Permitir ao usuário emitir um boleto para pagamento de contas de água.                                                     |
+| **Contexto**   | - Local: Em casa ou qualquer lugar com acesso à internet. <br> - Tempo: Durante o dia ou noite. <br> - Pré-condições: Acesso ao aplicativo e imóvel com contas pendentes cadastradas. |
+| **Atores**     | Usuário                                                                                                                    |
+| **Recursos**   | Smartphone, internet                                                                                                       |
+| **Episódios**  | 1. O usuário acessa a opção "Emitir Boleto". <br> 2. O sistema solicita que o usuário selecione o imóvel associado à conta. <br> 3. O usuário seleciona o imóvel e confirma. <br> 4. O sistema gera o boleto e disponibiliza para download ou envio por e-mail. |
+| **Restrições** | O usuário deve possuir conta pendente para emitir o boleto.                                                                |
+| **Exceção**    | - Nenhuma conta pendente associada ao imóvel. <br> - Falha na geração do boleto. <br> - Perda de conexão com a internet.    |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
 ## Bibliografia
 
 > <p id="1"> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
@@ -172,5 +259,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 06/12/2024 | Criação dos cenários | [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03) |
+|  1.1   | 10/12/2024 | Adicionando cenários | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
 
 </center>

@@ -14,7 +14,7 @@
 ## Atores
 <p align="justify">&emsp;&emsp;Representamos os usuários e sistemas, ou categorias desses elementos, sendo geralmente ilustrados por ícones que lembram figuras humanas.</p>
 
-<center> <figcaption>Imagem 1: Apresenta o elemento que representa os atores.</figcaption></center>
+<center> <figcaption>Figura 1: Atores do sistema.</figcaption></center>
 <center>
 <img src="https://github.com/user-attachments/assets/593648c5-62d3-4fb1-81cd-39a4230d6ecf"></img>
  </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
@@ -27,7 +27,7 @@
 
 <p align="justify">&emsp;&emsp;Todos os casos de uso que o sistema descrito devem ser incluídos neste cenário; caso contrário, serão considerados fora do escopo do sistema.</p>
 
-<center> <figcaption>Imagem 2: Apresenta o elemento que representa os cenários.</figcaption>
+<center> <figcaption>Figura 2: Cenário.</figcaption>
 <img src="https://github.com/user-attachments/assets/4773f2c8-40dd-4296-81b6-dcc25b529bdb"></img>
  </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
 
@@ -36,7 +36,7 @@
 ## Casos de uso
 <p align="justify">&emsp;&emsp;O caso de uso é uma ação ou funcionalidade realizada pelo usuário, o ator. Normalmente, é representado por um objeto oval horizontal, sendo que cada representação corresponde a uma interação distinta que o usuário pode ter com o sistema. Para se referir às ações realizadas, é comum usar verbos no infinitivo para descrevê-las.</p>
 
-<center> <figcaption>Imagem 3: Apresenta o elemento que representa os casos de uso.</figcaption>
+<center> <figcaption>Figura 3: Casos de uso.</figcaption>
 <img src="https://github.com/user-attachments/assets/bbc415ec-a831-4518-b7f4-248823a94e24"></img>
  </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
 
@@ -53,7 +53,7 @@ Extensão: O caso de uso atual será executado normalmente, mas alguns casos de 
 
  - Notação no diagrama : <<>>
 
- <center> <figcaption>Imagem 4: Apresenta o elemento que representa a comunicação.</figcaption>
+ <center> <figcaption>Figura 4: Comunicação.</figcaption>
 <img src="https://github.com/user-attachments/assets/aa3de9ad-ebd8-4926-87f9-92d9f1ac5ebc"></img>
  </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
 
@@ -63,19 +63,38 @@ Extensão: O caso de uso atual será executado normalmente, mas alguns casos de 
 
 <p align="justify">&emsp;&emsp;Os principais casos de uso, mais relevantes e frequentemente utilizados no aplicativo, estão ilustrados na imagem 5. Para uma visualização mais detalhada da imagem, consulte os casos de uso na Caesb Autoatendimento.</p>
 
- <center> <figcaption>Imagem 5: Apresenta o diagrama de casos de uso do aplicativo da Caesb Autoatendimento.</figcaption>
-<img src="https://github.com/user-attachments/assets/941c6c58-cd59-4280-ac82-c5f0f67141f6"></img>
+ <center> <figcaption>Figura 5: Caso de uso 1, do aplicativo da Caesb Autoatendimento.</figcaption>
+<img src="https://github.com/user-attachments/assets/2f489c98-7246-4f38-8687-24cd16ba5032"></img>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
 
 <br>
 
+## Requisitos Utilizados
+
+<center>
+<font size="3"><p style="text-align: center">Tabela 1: Informa os Requisitos utilizados no caso de uso 1. </p></font>
+
+| Id | Descrição | Implementado |
+| ----- | ---------- | -------------- |
+| OBS3 |Visualizar Segunda Via de Conta | Sim |
+| INT06| Informar Falta d'Água | Sim |
+| ADD03| Realizar Auto Leitura do Hidrômetro | Sim |
+| INT01| Informar Vazamento | Sim |
+| INT03| Consultor Histórico de Consumo| Sim |
+| ADD02| Alterar Titularidade e Vencimento| Sim |
+| INT15| Agenda Atendimento Presencial | Não |
+| ADD09| Suporte de Chat ou Atendimento | Não |
+| ADD08| Notificações de Vencimento | Não |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
 
 ## Especialização dos casos de uso
 
-As tabelas de 1 a 9 mostram a especialização dos casos de uso.
+As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 1: Visualizar Segunda Via de Conta </p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Visualizar Segunda Via de Conta </p></font>
 
 | UC01 | Informações |
 | ----- | ---------- |
@@ -96,7 +115,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 2: Informar Falta d'Água </p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Informar Falta d'Água </p></font>
 
 | UC02 | Informações |
 | ----- | ---------- |
@@ -117,7 +136,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 3: Realizar Auto Leitura do Hidrômetro </p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Realizar Auto Leitura do Hidrômetro </p></font>
 
 | UC03 | Informações |
 | ----- | ---------- |
@@ -138,7 +157,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 4: Informar Vazamento </p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Informar Vazamento </p></font>
 
 | UC04 | Informações |
 | ----- | ---------- |
@@ -159,7 +178,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 5: Consultor Histórico de Consumo </p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Consultor Histórico de Consumo </p></font>
 
 | UC05 | Informações |
 | ----- | ---------- |
@@ -180,7 +199,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 6: Alterar Titularidade e Vencimento </p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Alterar Titularidade e Vencimento </p></font>
 
 | UC06 | Informações |
 | ----- | ---------- |
@@ -201,7 +220,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 7: Agenda Atendimento Presencial </p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Agenda Atendimento Presencial </p></font>
 
 | UC07 | Informações |
 | ----- | ---------- |
@@ -222,7 +241,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 8: Suporte de Chat ou Atendimento </p></font>
+<font size="3"><p style="text-align: center">Tabela 9: Suporte de Chat ou Atendimento </p></font>
 
 | UC08 | Informações |
 | ----- | ---------- |
@@ -244,7 +263,7 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 9: Notificações de Vencimento </p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Notificações de Vencimento </p></font>
 
 | UC09 | Informações |
 | ----- | ---------- |
@@ -278,4 +297,5 @@ As tabelas de 1 a 9 mostram a especialização dos casos de uso.
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 02/12/2024 | Criação do artefato | [Letícia Resende](https://github.com/LeticiaResende23) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 05/12/2024 | Inclusão da especificação do caso de uso| [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
+|  1.2   | 10/12/2024 | Ajustes pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
 

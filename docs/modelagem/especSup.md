@@ -27,58 +27,117 @@ Este método possui os seguintes critérios:
 ### Funcionalidade
 <p align="justify">&emsp;&emsp;Os requisitos funcionais estão contidos no <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/">Caso de Uso </a>.</p>
 
-### Usabilidade
-<p align="justify">&emsp;&emsp;Refere-se ao quão fácil é para o usuário realizar uma tarefa no aplicativo.</p>
+
+## Acessibilidade
+
+<center><p>Tabela 1: Acessibilidade para pessoas com deficiência visual</p> 
+
+| **Categoria**         | **Descrição**                                                                                     | **Requisito** |
+|------------------------|---------------------------------------------------------------------------------------------------|---------------|
+| Acessibilidade         | O aplicativo deve ser acessível para pessoas com deficiência visual, seguindo a WCAG versão 2.1, nível AA. | OBS18         |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center> 
+
 <br>
 
-#### 1. Acessibilidade:
-O design do aplicativo deve seguir as diretrizes de acessibilidade da Versão 8.4.1 da WCAG. <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD13</a>
+<center><p>Tabela 2: Design do aplicativo</p> 
 
-#### 2. Fluxos Simplificados:
-O aplicativo deve permitir que o usuário realize tarefas principais em no máximo 3 cliques. <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/#requisitos">OBS19</a>
+| **Categoria**         | **Descrição**                                                                                     | **Requisito** |
+|------------------------|---------------------------------------------------------------------------------------------------|---------------|
+| Acessibilidade         | O design do aplicativo deve seguir as diretrizes de acessibilidade da Versão 8.4.1 da WCAG.      | ADD13         |
 
-#### 3. Navegação Simples:
-O aplicativo deve garantir uma interface do usuário acessível e fácil de navegar. <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD22</a>
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center> 
 
-### Confiabiliade
-<p align="justify">&emsp;&emsp;Refere-se a garantias de segurança no sistema.</p>
 <br>
 
-#### 1. Suporte Offline:
-O aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas.
-<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD14</a>
+## Usabilidade
+<p>Refere-se ao quão fácil é para o usuário realizar uma tarefa no aplicativo.</p>
 
-### Desempenho
-<p align="justify">&emsp;&emsp;Refere-se a performace do aplicativo</p>
+<center><p>Tabela 3: O aplicativo deve ser responsivo</p>  
+
+| **Categoria**         | **Descrição**                                                                                     | **Requisito** |
+|------------------------|---------------------------------------------------------------------------------------------------|---------------|
+| Adaptação de Tela      | O aplicativo deve ser responsivo, adaptando-se a diferentes tamanhos de tela e dispositivos móveis. | OBS17         |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
+
 <br>
 
-#### 1. Tempo de resposta:
-O tempo de resposta para qualquer consulta ao banco de dados deve ser inferior a 2 segundos.
-<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT22</a>
+<center><p>Tabela 4: Tarefas em até 3 cliques e Interface acessível e fácil de navegar</p>  
 
-#### 2. Responsividade
-O aplicativo deve ser otimizado para diferentes tamanhos de tela e dispositivos (responsivo).
-<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT10</a>
+| **Categoria**           | **Descrição**                                                                                   | **Requisito** |
+|--------------------------|-----------------------------------------------------------------------------------------------|---------------|
+| Fluxos Simplificados     | O aplicativo deve permitir que o usuário realize tarefas principais em no máximo 3 cliques.    | OBS19         |
+| Navegação Simples        | O aplicativo deve garantir uma interface do usuário acessível e fácil de navegar.              | ADD22         |
 
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center> 
 
-### Suportabilidade
-<p align="justify">&emsp;&emsp;Refere-se ao suporte e manutenção do aplicativo.</p>
 <br>
 
-#### 1. Compatibilidade multi-plataforma:
-O aplicativo deve ser compatível com a última versão dos sistemas operacionais Android e iOS.
-<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD21</a>
+## Disponibilidade
+<center><p>Tabela 5: O aplicativo deve estar disponível para download </p>
 
-### +
-<p align="justify">&emsp;&emsp;Refere-se a outros tipos de requisitos como design, implementação, interface e físicos</p>
+| **Categoria**         | **Descrição**                                                                                     | **Requisito** |
+|------------------------|---------------------------------------------------------------------------------------------------|---------------|
+| Disponibilidade        | O aplicativo deve estar disponível para download em lojas oficiais como Google Play e App Store. | INT23         |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
+
 <br>
 
-#### 1. Sustentabilidade:
-O aplicativo deve exibir dicas de consumo consciente e economia de água. <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT16</a>
+<center><p>Tabela 6: Suporte offline para funções básicas </p>
 
-#### 2. Design limpo e moderno:
-O design do aplicativo deve ser simples, com uma interface limpa e moderna. <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/Brainstorm/#requisitos">B13</a>
+| **Categoria**         | **Descrição**                                                                                     | **Requisito** |
+|------------------------|---------------------------------------------------------------------------------------------------|---------------|
+| Suporte Offline        | O aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas. | ADD14         |
 
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center> 
+
+<br>
+
+## Desempenho
+<p> Refere-se a performace do aplicativo.</p>
+
+<center><p>Tabela 7: Resposta ao banco em menos de 2 segundos e Otimizado para todos os dispositivos. </p>
+
+| **Categoria**         | **Descrição**                                                                                     | **Requisito** |
+|------------------------|---------------------------------------------------------------------------------------------------|---------------|
+| Tempo de Resposta      | O tempo de resposta para qualquer consulta ao banco de dados deve ser inferior a 2 segundos.      | INT22         |
+| Responsividade         | O aplicativo deve ser otimizado para diferentes tamanhos de tela e dispositivos.                 | INT10         |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center> 
+
+<br>
+
+## Suportabilidade
+<p>  Refere-se ao suporte e manutenção do aplicativo.</p>
+
+<center><p>Tabela 8: Compatível com Android e iOS atuais. </p>
+
+| **Categoria**               | **Descrição**                                                                             | **Requisito** |
+|------------------------------|-------------------------------------------------------------------------------------------|---------------|
+| Compatibilidade Multi-Plataforma | O aplicativo deve ser compatível com a última versão dos sistemas operacionais Android e iOS. | ADD21         |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center> 
+
+<br>
+
+## +
+<p>Refere-se a outros tipos de requisitos como design, implementação, interface e físicos.</p>
+
+<center><p>Tabela 9: Dicas de consumo consciente e Design simples e moderno.</p>
+
+| **Categoria**               | **Descrição**                                                                             | **Requisito** |
+|------------------------------|-------------------------------------------------------------------------------------------|---------------|
+| Sustentabilidade             | O aplicativo deve exibir dicas de consumo consciente e economia de água.                 | INT16         |
+| Design Limpo e Moderno       | O design do aplicativo deve ser simples, com uma interface limpa e moderna.              | B13           |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center> 
+
+## Confiabiliade
+<p> Refere-se a garantias de segurança no sistema.</p>
+
+<br>
 
 ## Referências
 > <p style="word-wrap: break-word; overflow-wrap: break-word;">Especificacao Suplementar. Disponível em: https://aprender3.unb.br/pluginfile.php/2972491/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf .Acesso em: 03 dec. 2024.</p> 
@@ -93,3 +152,4 @@ O design do aplicativo deve ser simples, com uma interface limpa e moderna. <a h
 |  1.3   | 04/12/2024 | Adição de requisito Integração | [Joao Victor Marques](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.4   | 04/12/2024 | Adição e remoção de requisitos | [Joao Victor Marques](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.5   | 10/12/2024 | Atualização pós apresentação  | [Natan Almeida](https://github.com/natanalmeida03) | [Joao Victor Marques](https://github.com/jmarquees) |
+|  1.6   | 10/12/2024 | Adicionando especificações  | [Letícia Resende](https://github.com/LeticiaResende23) |[Natan Almeida](https://github.com/natanalmeida03) |
