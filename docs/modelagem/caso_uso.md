@@ -69,10 +69,16 @@ Extensão: O caso de uso atual será executado normalmente, mas alguns casos de 
 
 <br>
 
+ <center> <figcaption>Figura 6: Diagrama de caso de uso 2, do aplicativo da Caesb Autoatendimento.</figcaption>
+<img src="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/uc2.png?raw=true"></img>
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
+
+<br>
+
 ## Requisitos Utilizados
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 1: Informa os Requisitos utilizados no caso de uso 1. </p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Informa os Requisitos utilizados no diagrama de caso de uso 1. </p></font>
 
 | Id | Descrição | Implementado |
 | ----- | ---------- | -------------- |
@@ -89,12 +95,24 @@ Extensão: O caso de uso atual será executado normalmente, mas alguns casos de 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
+<center>
+<font size="3"><p style="text-align: center">Tabela 2: Informa os Requisitos utilizados no diagrama de caso de uso 2. </p></font>
+
+| Id | Descrição | Implementado |
+| ----- | ---------- | -------------- |
+| B10	| O sistema deve permitir a configuração de um pagamento mensal recorrente | |
+| INT14	| O usuário deve poder consultar o mapa de interrupções de fornecimento. | |
+| INT18	| O aplicativo deve disponibilizar alertas sobre manutenção programada. | |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
 ## Especialização dos casos de uso
 
-As tabelas de 2 a 10 mostram a especialização dos casos de uso.
+As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 2: Visualizar Segunda Via de Conta </p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Visualizar Segunda Via de Conta </p></font>
 
 | UC01 | Informações |
 | ----- | ---------- |
@@ -115,7 +133,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 3: Informar Falta d'Água </p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Informar Falta d'Água </p></font>
 
 | UC02 | Informações |
 | ----- | ---------- |
@@ -136,7 +154,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 4: Realizar Auto Leitura do Hidrômetro </p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Realizar Auto Leitura do Hidrômetro </p></font>
 
 | UC03 | Informações |
 | ----- | ---------- |
@@ -157,7 +175,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 5: Informar Vazamento </p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Informar Vazamento </p></font>
 
 | UC04 | Informações |
 | ----- | ---------- |
@@ -178,7 +196,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 6: Consultor Histórico de Consumo </p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Consultor Histórico de Consumo </p></font>
 
 | UC05 | Informações |
 | ----- | ---------- |
@@ -199,7 +217,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 7: Alterar Titularidade e Vencimento </p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Alterar Titularidade e Vencimento </p></font>
 
 | UC06 | Informações |
 | ----- | ---------- |
@@ -220,7 +238,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 8: Agenda Atendimento Presencial </p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Agenda Atendimento Presencial </p></font>
 
 | UC07 | Informações |
 | ----- | ---------- |
@@ -241,7 +259,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 9: Suporte de Chat ou Atendimento </p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Suporte de Chat ou Atendimento </p></font>
 
 | UC08 | Informações |
 | ----- | ---------- |
@@ -263,7 +281,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 10: Notificações de Vencimento </p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Notificações de Vencimento </p></font>
 
 | UC09 | Informações |
 | ----- | ---------- |
@@ -279,6 +297,68 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 | Rastreabilidade |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/" target="_blank">ADD08</a> |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+<center>
+<font size="3"><p style="text-align: center">Tabela 11: Configurar Pagamento Mensal Recorrente </p></font>
+
+| UC10 | Informações |
+| ----- | ---------- |
+| Descrição |O sistema deve permitir a configuração de um pagamento mensal recorrente |
+| Ator | Usuário |
+| Pré-condições |O usuário deve estar autenticado no sistema; Uma forma de pagamento válida deve estar cadastrada no sistema. |
+| Ação |  O sistema permite configurar o pagamento recorrente, incluindo frequência, valor e forma de pagamento. |
+| Fluxo principal |1. O usuário seleciona a opção de configurar pagamento recorrente </br>2.O sistema solicita as informações necessárias  </br> 3. O sistema valida as informações e salva a configuração.</br> 4. Uma confirmação é exibida. <br>|
+| Fluxo alternativo | Caso o usuário já tenha um pagamento recorrente configurado, o sistema pode exibir a opção de editar ou cancelar a configuração existente. |
+| Fluxo de exceção |Caso a forma de pagamento seja inválida, o sistema exibe uma mensagem de erro e solicita a correção.|
+| Pós-condições | A configuração do pagamento recorrente é salva no sistema. |
+| Data de Criação | 11/12/2024 |
+| Rastreabilidade |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/Brainstorm/#requisitos" target="_blank">B10</a> |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
+<br>
+
+<center>
+<font size="3"><p style="text-align: center">Tabela 12: Consultar o Mapa de Interrupções </p></font>
+
+| UC11 | Informações |
+| ----- | ---------- |
+| Descrição |Permitir que o usuário visualize áreas afetadas por interrupções no fornecimento. |
+| Ator | Usuário |
+| Pré-condições |O sistema deve ter acesso às informações de interrupções de fornecimento. |
+| Ação |  O sistema exibe um mapa com as áreas afetadas. |
+| Fluxo principal |1. O usuário seleciona a opção de consultar o mapa de interrupções. </br>2. O sistema recupera os dados atualizados sobre interrupções. </br> 3. O mapa é exibido com áreas destacadas por cores.</br>|
+| Fluxo alternativo | O usuário pode selecionar uma área específica no mapa para mais detalhes, como horário estimado de retorno. |
+| Fluxo de exceção |Caso os dados de interrupções estejam indisponíveis, o sistema exibe uma mensagem de erro e oferece tentar novamente mais tarde. |
+| Pós-condições | O usuário obtém informações sobre as interrupções no fornecimento. |
+| Data de Criação | 11/12/2024 |
+| Rastreabilidade |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos" target="_blank">INT14</a> |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
+<br>
+
+<center>
+<font size="3"><p style="text-align: center">Tabela 13: Receber Alertas de Manutenção Programada </p></font>
+
+| UC12 | Informações |
+| ----- | ---------- |
+| Descrição |Permitir que o usuário receba notificações sobre manutenções programadas. |
+| Ator | Usuário |
+| Pré-condições |O usuário deve estar registrado no sistema. |
+| Ação |  O sistema envia alertas por canais configurados. |
+| Fluxo principal |1. O sistema verifica se há manutenções programadas. </br>2. Para cada manutenção programada, o sistema verifica os usuários impactados. </br> 3. Os alertas são enviados conforme as preferências do usuário (horário e canal de envio).</br>|
+| Fluxo alternativo | Caso o usuário não tenha configurado preferências, o sistema solicita a configuração antes de enviar alertas. |
+| Fluxo de exceção |Caso o envio de alerta falhe (ex.: e-mail inválido), o sistema registra o erro e tenta enviar novamente. |
+| Pós-condições | O usuário é notificado sobre manutenções programadas. |
+| Data de Criação | 11/12/2024 |
+| Rastreabilidade |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos" target="_blank">INT18</a> |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
 
 <br>
@@ -298,4 +378,5 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 |  1.0   | 02/12/2024 | Criação do artefato | [Letícia Resende](https://github.com/LeticiaResende23) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 05/12/2024 | Inclusão da especificação do caso de uso| [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
 |  1.2   | 10/12/2024 | Ajustes pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
+|  1.3   | 11/12/2024 | Adição de novos requisitos| [Natan Almeida](https://github.com/natanalmeida03) |[Letícia Resende](https://github.com/LeticiaResende23) |
 

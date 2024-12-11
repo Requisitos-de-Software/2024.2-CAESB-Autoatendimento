@@ -245,6 +245,25 @@
 
 <br>
 
+## Cenário 14: O usuário deve poder consultar o mapa de interrupções de fornecimento.
+
+<center>Tabela 15: O usuário deve poder consultar o mapa de interrupções de fornecimento.
+
+| **Item**       | **Descrição**                                                                                                                 |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Objetivo**   | Permitir ao usuário visualizar áreas afetadas por interrupções no fornecimento de serviços.                                   |
+| **Contexto**   | - Local: Qualquer lugar com acesso ao aplicativo. <br> - Tempo: Durante o dia ou noite. <br> - Pré-condições: O sistema deve ter acesso às informações atualizadas sobre interrupções. |
+| **Atores**     | Usuário     |
+| **Recursos**   | Smartphone, internet, banco de dados com informações de interrupções                                                        |
+| **Episódios**  | 1. O usuário acessa a opção "Mapa de Interrupções". <br> 2. O sistema recupera as informações sobre interrupções ativas. <br> 3. O sistema exibe o mapa com áreas destacadas. <br> 4. O usuário visualiza as áreas afetadas. <br> 5. (Opcional) O usuário seleciona uma área específica para mais detalhes. |
+| **Restrições** | Os dados de interrupções devem estar disponíveis e atualizados no banco de dados.                                           |
+| **Exceção**    | - Os dados de interrupções estão indisponíveis. <br> - Erro ao carregar o mapa. <br> - Perda de conexão com a internet.       |
+
+</p>Autor(a): <a href="https://github.com/Natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
+<br>
+
 ## Bibliografia
 
 > <p id="1"> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
@@ -260,5 +279,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 06/12/2024 | Criação dos cenários | [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 10/12/2024 | Adicionando cenários | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
+|  1.1   | 11/12/2024 | Adicionando cenários | [Natan Almeida](https://github.com/natanalmeida03) |[Leandro de Almeida](https://github.com/leomitx10) |
 
 </center>

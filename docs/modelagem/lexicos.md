@@ -172,7 +172,7 @@
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
-## Léxico L10: Imóvel Selecionado
+### Léxico L10: Imóvel Selecionado
 
 <center><p>Tabela 13: Léxico 10: Imóvel Selecionado</p>
 
@@ -186,7 +186,7 @@
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
-## Léxico L11: Cadastro em Débito Automático
+### Léxico L11: Cadastro em Débito Automático
 
 <center><p>Tabela 14: Léxico 11: Cadastro em Débito Automático</p>
 
@@ -201,7 +201,7 @@
 </center>
 
 
-## Léxico L12: Emissão de Boleto
+### Léxico L12: Emissão de Boleto
 
 <center><p>Tabela 15: Léxico 12: Emissão de Boleto</p>
 
@@ -215,7 +215,7 @@
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
-## Léxico L13: Selecionar Ano ou Mês
+### Léxico L13: Selecionar Ano ou Mês
 <center><p>Tabela 16: Léxico 13: Selecionar Ano ou Mês</p>
 
 | **ID**          | **Descrição**                                                                                                         |
@@ -226,6 +226,21 @@
 | **Dicionário**   | Escolher período, filtrar data.                                                                                     |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
+### Léxico L14: Consultar o Mapa de Interrupções
+<center><p>Tabela 17: Léxico 14: Consultar o Mapa de Interrupções</p>
+
+| **ID**          | **Descrição**                                                                                                         |
+|------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Classificação**   | Verbo                                                 |
+| **Impacto**         | Gera visualização das áreas afetadas por interrupções, permitindo planejamento e ações por parte do usuário. |
+| **Noção**           | Ação do usuário ao acessar informações de interrupções no sistema. |
+| **Dicionário**      | Visualizar interrupções, acessar mapa. |                                                                        |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
 
 <br>
@@ -245,5 +260,7 @@
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 20/11/2024 | Criação do Léxico  | [Matheus Barros](https://github.com/Ninja-Haiyai)|[Leandro de Almeida](https://github.com/leomitx10) |
 |  1.1   | 10/12/2024 | Adicionando Léxico  | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
+|  1.2   | 11/12/2024 | Adicionando Léxico  | [Natan Almeida](https://github.com/natanalmeida03) |[Matheus Barros](https://github.com/Ninja-Haiyai) |
 
 </center>
+
