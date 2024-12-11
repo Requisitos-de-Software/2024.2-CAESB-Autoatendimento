@@ -168,6 +168,9 @@
 | OBS1 | Imóvel Selecionado | Não |
 | OBS2| Selecionar Ano ou Mês | Não |
 | INT02| Emissão de Boleto | Não |
+| ENT07| Filtro de Atendimentos | Não |
+| ENT09| Simulação de Tarifas | Não |
+| B08 | Formas de Pagamento | Não |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -245,6 +248,47 @@
 
 <br>
 
+### Léxico L15: Filtro de Atendimentos
+
+<center><p>Tabela 18: Léxico 15: Filtrar os atendimentos</p>
+
+| **ID**           | **Descrição**                                                                                       |  
+|-------------------|---------------------------------------------------------------------------------------------------|  
+| **Classificação** | Verbo                                                                                            |  
+| **Impacto**       | Permite ao usuário visualizar atendimentos de forma segmentada por ano, mês e status (finalizado ou em andamento). |  
+| **Noção**         | Ação realizada pelo usuário no aplicativo, aplicando critérios de filtragem para exibir atendimentos específicos. |  
+| **Dicionário**    | Filtrar atendimentos, aplicar critérios, segmentar visualização.                                  |  
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+### Léxico L16: Simulação de Tarifas
+
+<center><p>Tabela 19: Léxico 16: Simular Tarifas</p>
+
+| **ID**           | **Descrição**                                                                                          |  
+|-------------------|------------------------------------------------------------------------------------------------------|  
+| **Classificação** | Verbo                                                                                               |  
+| **Impacto**       | Permite ao usuário calcular os valores estimados das tarifas com base em informações fornecidas, diretamente no aplicativo. |  
+| **Noção**         | Ação realizada pelo usuário no aplicativo, fornecendo dados como consumo e tipo de uso, para calcular o valor da tarifa.  |  
+| **Dicionário**    | Calcular tarifas, estimar valores, gerar simulação.                                                 |  
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>
+
+
+### Léxico L17: Formas de Pagamento
+
+<center><p>Tabela 20: Léxico 17: Formas de Pagamento</p>
+
+| **ID**           | **Descrição**                                                                                       |  
+|-------------------|---------------------------------------------------------------------------------------------------|  
+| **Classificação** | Objeto                                                                                           |  
+| **Impacto**       | Disponibiliza opções para que o usuário conclua transações no sistema, como pagamentos de contas ou tarifas. |  
+| **Noção**         | Conjunto de métodos disponibilizados no sistema, como cartão de crédito, débito, Pix, boleto bancário ou carteiras digitais. |  
+| **Dicionário**    | Métodos de pagamento, opções de pagamento, modalidades financeiras.                               |  
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>
+
 ## Referências
 > <p id="1">1. SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf. Acesso em: 03/12/2024.
 </p>
@@ -261,6 +305,7 @@
 |  1.0   | 20/11/2024 | Criação do Léxico  | [Matheus Barros](https://github.com/Ninja-Haiyai)|[Leandro de Almeida](https://github.com/leomitx10) |
 |  1.1   | 10/12/2024 | Adicionando Léxico  | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
 |  1.2   | 11/12/2024 | Adicionando Léxico  | [Natan Almeida](https://github.com/natanalmeida03) |[Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.3   | 11/12/2024 | Adicionando Léxico  | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
 
 </center>
 
