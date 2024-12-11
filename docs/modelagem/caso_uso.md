@@ -364,7 +364,7 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 11: Filtro de Atendimentos </p></font>
+<font size="3"><p style="text-align: center">Tabela 14: Filtro de Atendimentos </p></font>
 
 | UC10 | Informações |
 | ----- | ---------- |
@@ -385,7 +385,7 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 12: Simulação de Tarifas </p></font>
+<font size="3"><p style="text-align: center">Tabela 15: Simulação de Tarifas </p></font>
 
 | UC11 | Informações |
 | ----- | ---------- |
@@ -406,7 +406,7 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 <br>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 13: Formas de Pagamento </p></font>
+<font size="3"><p style="text-align: center">Tabela 16: Formas de Pagamento </p></font>
 
 | UC12 | Informações |
 | ----- | ---------- |
@@ -441,9 +441,6 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 |  1.0   | 02/12/2024 | Criação do artefato | [Letícia Resende](https://github.com/LeticiaResende23) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 05/12/2024 | Inclusão da especificação do caso de uso| [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
 |  1.2   | 10/12/2024 | Ajustes pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
-<<<<<<< Updated upstream
 |  1.3   | 11/12/2024 | Adição de novos requisitos| [Natan Almeida](https://github.com/natanalmeida03) |[Letícia Resende](https://github.com/LeticiaResende23) |
-=======
-|  1.2   | 11/12/2024 | Inclusão de casos de uso| [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
->>>>>>> Stashed changes
+|  1.3   | 11/12/2024 | Inclusão de casos de uso| [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
 
