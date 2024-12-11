@@ -363,6 +363,69 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 
 <br>
 
+<center>
+<font size="3"><p style="text-align: center">Tabela 11: Filtro de Atendimentos </p></font>
+
+| UC10 | Informações |
+| ----- | ---------- |
+| Descrição |O sistema permite que o usuário filtre os atendimentos cadastrados por ano, mês e status (finalizado ou em andamento). |
+| Ator | Usuário |
+| Pré-condições |O usuário deve estar autenticado no sistema.<br>Devem existir atendimentos cadastrados para consulta.|
+| Ação |O sistema exibe os atendimentos de acordo com os filtros aplicados pelo usuário.|
+| Fluxo principal |1. O usuário acessa a funcionalidade de Atendimentos. </br>2.O sistema exibe os filtros disponíveis: ano, mês e status. </br> 3. O usuário seleciona um ou mais filtros. </br> 4. O sistema aplica os filtros e exibe os atendimentos correspondentes.|
+| Fluxo alternativo | O usuário não seleciona nenhum filtro: o sistema exibe todos os atendimentos disponíveis. |
+| Fluxo de exceção | Não há atendimentos que correspondam aos filtros aplicados: o sistema exibe uma mensagem informando que não há resultados.|
+| Pós-condições | O usuário visualiza os atendimentos filtrados conforme os critérios selecionados. |
+| Data de Criação | 11/12/2024 |
+| Rastreabilidade |<a href="#" target="_blank">ADD08</a> |
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<br>
+
+<center>
+<font size="3"><p style="text-align: center">Tabela 12: Simulação de Tarifas </p></font>
+
+| UC11 | Informações |
+| ----- | ---------- |
+| Descrição | O sistema permite que o usuário realize a simulação de tarifas diretamente no aplicativo, sem redirecionamento para o site da Caesb. |
+| Ator | Usuário |
+| Pré-condições | O usuário deve estar autenticado no aplicativo.<br> O aplicativo deve estar atualizado e com acesso à funcionalidade de simulação de tarifas.|
+| Ação | O sistema realiza a simulação de tarifas com base nos dados fornecidos pelo usuário.|
+| Fluxo principal |1. O usuário acessa a funcionalidade Simulação de Tarifa no aplicativo. </br>2.O sistema exibe os campos para entrada de dados, como consumo estimado, tipo de usuário (residencial, comercial, etc.), e outros parâmetros necessários. </br> 3. O usuário preenche os campos e confirma a simulação. </br> 4. O sistema processa as informações e apresenta o resultado da simulação ao usuário.|
+| Fluxo alternativo | O usuário não preenche todos os campos obrigatórios: o sistema exibe uma mensagem solicitando o preenchimento dos dados faltantes. |
+| Fluxo de exceção | O sistema encontra problemas ao processar a simulação (por exemplo, erro no servidor): o sistema exibe uma mensagem informando a falha e sugere que o usuário tente novamente mais tarde. |
+| Pós-condições | O usuário recebe o resultado da simulação de tarifa diretamente no aplicativo, sem necessidade de redirecionamento. |
+| Data de Criação | 11/12/2024 |
+| Rastreabilidade |<a href="#" target="_blank">ADD08</a> |
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<br>
+
+<center>
+<font size="3"><p style="text-align: center">Tabela 13: Formas de Pagamento </p></font>
+
+| UC12 | Informações |
+| ----- | ---------- |
+| Descrição | O sistema permite que o usuário escolha entre diferentes formas de pagamento ao realizar uma transação. |
+| Ator | Usuário |
+| Pré-condições | O usuário deve estar autenticado no aplicativo.<br> Deve haver uma conta disponível para pagamento.|
+| Ação | O sistema exibe as opções de pagamento disponíveis e processa a escolha do usuário. |
+| Fluxo principal |1. O usuário acessa a funcionalidade de pagamento no sistema. </br> 2.O sistema exibe as formas de pagamento disponíveis, como: cartão de crédito, cartão de débito e pix. </br> 3. O usuário seleciona a forma de pagamento desejada e fornece as informações necessárias (se aplicável). </br> 4. O sistema processa o pagamento e confirma a transação. |
+| Fluxo alternativo | O usuário não seleciona nenhuma forma de pagamento: o sistema exibe uma mensagem informando que a seleção é obrigatória para concluir a transação. |
+| Fluxo de exceção | O pagamento falha (ex.: cartão recusado, erro de rede): o sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente ou escolher outra forma de pagamento. |
+| Pós-condições | A transação é concluída com sucesso e o usuário recebe uma confirmação do pagamento. |
+| Data de Criação | 11/12/2024 |
+| Rastreabilidade |<a href="#" target="_blank">ADD08</a> |
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<br>
+
 
 ## Referências
 > 1. <p style="word-wrap: break-word; overflow-wrap: break-word;">Especificacao de Caso de Uso. Disponível em: https://aprender3.unb.br/pluginfile.php/2972484/mod_resource/content/3/SiglaProjeto_EspecificacaoCasoUso.pdf. Acesso em: 0 dec. 2024.</p> 
@@ -378,5 +441,9 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 |  1.0   | 02/12/2024 | Criação do artefato | [Letícia Resende](https://github.com/LeticiaResende23) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 05/12/2024 | Inclusão da especificação do caso de uso| [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
 |  1.2   | 10/12/2024 | Ajustes pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
+<<<<<<< Updated upstream
 |  1.3   | 11/12/2024 | Adição de novos requisitos| [Natan Almeida](https://github.com/natanalmeida03) |[Letícia Resende](https://github.com/LeticiaResende23) |
+=======
+|  1.2   | 11/12/2024 | Inclusão de casos de uso| [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
+>>>>>>> Stashed changes
 
