@@ -91,6 +91,10 @@ Extensão: O caso de uso atual será executado normalmente, mas alguns casos de 
 | INT15| Agenda Atendimento Presencial | Não |
 | ADD09| Suporte de Chat ou Atendimento | Não |
 | ADD08| Notificações de Vencimento | Não |
+| ENT07| Filtro de Atendimentos | Não |
+| ENT09| Simulação de Tarifas | Não |
+| B08 | Formas de Pagamento | Não |
+
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -377,7 +381,7 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 | Fluxo de exceção | Não há atendimentos que correspondam aos filtros aplicados: o sistema exibe uma mensagem informando que não há resultados.|
 | Pós-condições | O usuário visualiza os atendimentos filtrados conforme os critérios selecionados. |
 | Data de Criação | 11/12/2024 |
-| Rastreabilidade |<a href="#" target="_blank">ADD08</a> |
+| Rastreabilidade |<a href="#" target="_blank">ENT07</a> |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -398,7 +402,7 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 | Fluxo de exceção | O sistema encontra problemas ao processar a simulação (por exemplo, erro no servidor): o sistema exibe uma mensagem informando a falha e sugere que o usuário tente novamente mais tarde. |
 | Pós-condições | O usuário recebe o resultado da simulação de tarifa diretamente no aplicativo, sem necessidade de redirecionamento. |
 | Data de Criação | 11/12/2024 |
-| Rastreabilidade |<a href="#" target="_blank">ADD08</a> |
+| Rastreabilidade |<a href="#" target="_blank">ENT09</a> |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -419,7 +423,7 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 | Fluxo de exceção | O pagamento falha (ex.: cartão recusado, erro de rede): o sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente ou escolher outra forma de pagamento. |
 | Pós-condições | A transação é concluída com sucesso e o usuário recebe uma confirmação do pagamento. |
 | Data de Criação | 11/12/2024 |
-| Rastreabilidade |<a href="#" target="_blank">ADD08</a> |
+| Rastreabilidade |<a href="#" target="_blank">B08</a> |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
