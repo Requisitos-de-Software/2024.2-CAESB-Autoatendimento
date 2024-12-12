@@ -63,7 +63,17 @@ Este método possui os seguintes critérios:
 
 <br>
 
-<center><p>Tabela 4: Tarefas em até 3 cliques e Interface acessível e fácil de navegar</p>  
+<center><p>Tabela 4: O aplicativo deve separar serviços de consultas</p>  
+
+| **Categoria**         | **Descrição**                                                                                     | **Requisito** |
+|------------------------|---------------------------------------------------------------------------------------------------|---------------|
+| Organização de Tela      | A interface visual deve ser reorganizada, separando serviços e consultas. | ENT10 |
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>
+
+<br>
+
+<center><p>Tabela 5: Tarefas em até 3 cliques e Interface acessível e fácil de navegar</p>  
 
 | **Categoria**           | **Descrição**                                                                                   | **Requisito** |
 |--------------------------|-----------------------------------------------------------------------------------------------|---------------|
@@ -75,7 +85,7 @@ Este método possui os seguintes critérios:
 <br>
 
 ## Disponibilidade
-<center><p>Tabela 5: O aplicativo deve estar disponível para download </p>
+<center><p>Tabela 6: O aplicativo deve estar disponível para download </p>
 
 | **Categoria**         | **Descrição**                                                                                     | **Requisito** |
 |------------------------|---------------------------------------------------------------------------------------------------|---------------|
@@ -85,7 +95,7 @@ Este método possui os seguintes critérios:
 
 <br>
 
-<center><p>Tabela 6: Suporte offline para funções básicas </p>
+<center><p>Tabela 7: Suporte offline para funções básicas </p>
 
 | **Categoria**         | **Descrição**                                                                                     | **Requisito** |
 |------------------------|---------------------------------------------------------------------------------------------------|---------------|
@@ -98,7 +108,7 @@ Este método possui os seguintes critérios:
 ## Desempenho
 <p> Refere-se a performace do aplicativo.</p>
 
-<center><p>Tabela 7: Resposta ao banco em menos de 2 segundos e Otimizado para todos os dispositivos. </p>
+<center><p>Tabela 8: Resposta ao banco em menos de 2 segundos e Otimizado para todos os dispositivos. </p>
 
 | **Categoria**         | **Descrição**                                                                                     | **Requisito** |
 |------------------------|---------------------------------------------------------------------------------------------------|---------------|
@@ -112,7 +122,7 @@ Este método possui os seguintes critérios:
 ## Suportabilidade
 <p>  Refere-se ao suporte e manutenção do aplicativo.</p>
 
-<center><p>Tabela 8: Compatível com Android e iOS atuais. </p>
+<center><p>Tabela 9: Compatível com Android e iOS atuais. </p>
 
 | **Categoria**               | **Descrição**                                                                             | **Requisito** |
 |------------------------------|-------------------------------------------------------------------------------------------|---------------|
@@ -125,7 +135,7 @@ Este método possui os seguintes critérios:
 ## +
 <p>Refere-se a outros tipos de requisitos como design, implementação, interface e físicos.</p>
 
-<center><p>Tabela 9: Dicas de consumo consciente e Design simples e moderno.</p>
+<center><p>Tabela 10: Dicas de consumo consciente e Design simples e moderno.</p>
 
 | **Categoria**               | **Descrição**                                                                             | **Requisito** |
 |------------------------------|-------------------------------------------------------------------------------------------|---------------|
@@ -137,6 +147,14 @@ Este método possui os seguintes critérios:
 ## Confiabiliade
 <p> Refere-se a garantias de segurança no sistema.</p>
 
+<center><p>Tabela 11: Segurança com criptografia de ponta a ponta e autenticação multifator</p>
+
+| **Categoria**               | **Descrição**                                                                             | **Requisito** |
+|------------------------------|------------------------------------------------------------------------------------------|---------------|
+| Segurança | O aplicativo deve garantir a segurança dos dados do usuário, com criptografia de ponta a ponta              |      INT21    |
+| Segurança | O aplicativo deve implementar autenticação multifator para aumentar a segurança do acesso.                  |      ADD27    |
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center> 
 <br>
 
 ## Referências
@@ -153,3 +171,4 @@ Este método possui os seguintes critérios:
 |  1.4   | 04/12/2024 | Adição e remoção de requisitos | [Joao Victor Marques](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.5   | 10/12/2024 | Atualização pós apresentação  | [Natan Almeida](https://github.com/natanalmeida03) | [Joao Victor Marques](https://github.com/jmarquees) |
 |  1.6   | 10/12/2024 | Adicionando especificações  | [Letícia Resende](https://github.com/LeticiaResende23) |[Natan Almeida](https://github.com/natanalmeida03) |
+|  1.7   | 11/12/2024 | Adicionando especificações  | [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03) |
