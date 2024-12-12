@@ -75,6 +75,13 @@ Extensão: O caso de uso atual será executado normalmente, mas alguns casos de 
 
 <br>
 
+ <center> <figcaption>Figura 7: Diagrama de caso de uso 3, do aplicativo da Caesb Autoatendimento.</figcaption>
+<img src="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/caso%20de%20uso%20(leandro).jpeg?raw=true"></img>
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>
+
+<br>
+
 ## Requisitos Utilizados
 
 <center>
