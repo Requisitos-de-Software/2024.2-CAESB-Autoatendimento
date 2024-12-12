@@ -264,6 +264,60 @@
 
 <br>
 
+## Cenário 15: Filtro de atendimentos.
+<center>Tabela 11: Filtro de atendimentos
+
+| **Item**           | **Descrição**                                                                                   |
+|--------------------|-------------------------------------------------------------------------------------------------|
+| **Objetivo**       | O usuário deve conseguir filtrar os atendimentos cadastrados por ano, mês e status (finalizado ou em andamento).                                                            |
+| **Contexto**       | - **Local**: Em casa<br> - **Tempo**: Durante o dia<br> - **Pré-condições**: Acesso à internet, aplicativo instalado na versão Android. |
+| **Atores**         | Usuário                                                                                         |
+| **Recursos**       | Smartphone e internet                                                                           |
+| **Episódios**      | 	1. O usuário seleciona a opção **Meus Atendimentos** na tela inicial.<br>2. O usuário seleciona um imóvel cadastrado na Caesb.<br>3. O aplicativo exibe uma lista com todos os atendimentos com um menu na parte superior possuindo ano, mês e status.<br>4. O usuário filtra os atendimentos de acordo com os filtros que ele escolheu.<br> 5. O usuário clica em um atendimento e visualiza as informações. |
+| **Restrições**     | O usuário deve possuir uma conta na Caesb.<br> O usuário deve possuir pelo menos um imóvel cadastrado na Caesb.                                                     |
+| **Exceção**        | - Smartphone descarregado<br>- Perda de conexão com a internet<br> |
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<br>
+
+## Cenário 16: Simulação de Tarifa.
+<center>Tabela 12: Simulação de Tarifa
+
+| **Item**           | **Descrição**                                                                                   |
+|--------------------|-------------------------------------------------------------------------------------------------|
+| **Objetivo**       | O aplicativo permite que o usuário realize a simulação de tarifa.                              |
+| **Contexto**       | - **Local**: Em casa<br> - **Tempo**: Durante o dia<br> - **Pré-condições**: Acesso à internet, aplicativo instalado na versão Android. |
+| **Atores**         | Usuário                                                                                         |
+| **Recursos**       | Smartphone e internet                                                                           |
+| **Episódios**      | 	1. O usuário seleciona a opção **Simulação de Tarifa** na tela inicial.<br>2. O aplicativo exibe os campos consumo, Unidade de Consumo e Categoria para que o usuário consiga simular.<br>3. O usuário clica no botão calcular após inserir os dados.<br> 4. O aplicativo mostra as informações em formato de tabela separadas por água e esgoto. |
+| **Restrições**     | O usuário deve possuir uma conta na Caesb.
+| **Exceção**        | - Smartphone descarregado<br>- Perda de conexão com a internet<br> |
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<br>
+
+## Cenário 17: Formas de Pagamento.
+<center>Tabela 12: Formas de Pagamento.
+
+| **Item**           | **Descrição**                                                                                   |
+|--------------------|-------------------------------------------------------------------------------------------------|
+| **Objetivo**       | O sistema permite que o usuário escolha entre diferentes formas de pagamento ao realizar uma transação.    |
+| **Contexto**       | - **Local**: Em casa<br> - **Tempo**: Durante o dia<br> - **Pré-condições**: Acesso à internet, aplicativo instalado na versão Android. |
+| **Atores**         | Usuário                                                                                         |
+| **Recursos**       | Smartphone e internet                                                                           |
+| **Episódios**      | 	1. O usuário seleciona uma opção de pagamento.<br>2. O aplicativo exibe os campos para inserir os dados do pagamento ou o código no caso do pix.<br>3. Após o pagamento ser realizado uma notificação aparece avisando o usuário que tal conta foi paga. |
+| **Restrições**     | O usuário deve possuir uma conta na Caesb.<br> O usuário deve estar na tela de pagamento de conta.|
+| **Exceção**        | - Smartphone descarregado<br>- Perda de conexão com a internet<br> |
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<br>
+
 ## Bibliografia
 
 > <p id="1"> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)

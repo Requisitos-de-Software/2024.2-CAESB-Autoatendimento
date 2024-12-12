@@ -262,6 +262,8 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
+<br>
+
 ### Léxico L16: Simulação de Tarifas
 
 <center><p>Tabela 19: Léxico 16: Simular Tarifas</p>
@@ -275,6 +277,7 @@
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>
 
+<br>
 
 ### Léxico L17: Formas de Pagamento
 
@@ -284,10 +287,12 @@
 |-------------------|---------------------------------------------------------------------------------------------------|  
 | **Classificação** | Objeto                                                                                           |  
 | **Impacto**       | Disponibiliza opções para que o usuário conclua transações no sistema, como pagamentos de contas ou tarifas. |  
-| **Noção**         | Conjunto de métodos disponibilizados no sistema, como cartão de crédito, débito, Pix, boleto bancário ou carteiras digitais. |  
+| **Noção**         | Conjunto de métodos disponibilizados no sistema, como cartão de crédito, débito e Pix. |  
 | **Dicionário**    | Métodos de pagamento, opções de pagamento, modalidades financeiras.                               |  
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>
+
+<br>
 
 ## Referências
 > <p id="1">1. SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf. Acesso em: 03/12/2024.
