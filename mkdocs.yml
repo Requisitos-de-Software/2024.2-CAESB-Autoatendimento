@@ -69,6 +69,10 @@ nav:
       - Casos de Uso: modelagem/caso_uso.md
       - Cenários: modelagem/cenarios.md
       - Léxicos: modelagem/lexicos.md
+  - Modelagem Ágil:
+      - Backlog: modelagem_agil/backlog.md
+      - História de Usuário: modelagem_agil/historia_usuario.md
+      - NFR Framework: modelagem_agil/nfr.md
   - Verificação:
       - Grupo 03 (Nosso Grupo):
         - Etapa 1:
