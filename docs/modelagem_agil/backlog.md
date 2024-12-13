@@ -16,10 +16,13 @@
 
 | Feature                     | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |-----------------------------|------------------------------------------------------------|-------------|-----------------------|
-| Feature 1 - Segunda Via de Conta | US02 - Emitir e visualizar segunda via de conta              | In          | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ04 </a>                   |
-| Feature 2 - Formas de Pagamento  | US03 - Oferecer múltiplas formas de pagamento                | Out         | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ08 </a>                 |
+| Feature 1 - Segunda Via de Conta | US02 - Emitir e visualizar segunda via de conta              | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ04 </a>                   |
+| Feature 2 - Formas de Pagamento  | US03 - Oferecer múltiplas formas de pagamento                | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ08 </a>                 |
+| Feature 9 - Pagamento Recorrente| US09 - Permitir pagamento mensal recorrente | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ09 </a> |
+| Feature 12 - Atualizar Dados Cadastrais | US12 - Permitir ao usuário atualizar seus dados cadastrais pelo app | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ20 </a> | 
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a> </center>
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> 
+</center>
 <br>
 
 ## Épico 2 - Interatividade e Suporte ao Cliente
@@ -28,11 +31,12 @@
 
 | Feature                     | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |-----------------------------|------------------------------------------------------------|-------------|-----------------------|
-| Feature 3 - Barra de Funções | US01 - Visualizar funções mais utilizadas em uma barra      | Out         | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ02 </a>                    |
-| Feature 4 - Envio de Documentos | US04 - Enviar documentos pelo aplicativo                    | Out         | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ11 </a>                  |
-| Feature 5 - Suporte por Chat  | US05 - Resolver dúvidas pelo chat                           | Out         | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ13</a>   |
+| Feature 3 - Barra de Funções | US01 - Visualizar funções mais utilizadas em uma barra      | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ02 </a>                    |
+| Feature 4 - Envio de Documentos | US04 - Enviar documentos pelo aplicativo                    | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ11 </a>                  |
+| Feature 5 - Suporte por Chat  | US05 - Resolver dúvidas pelo chat                           | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ13</a>   |
+| Feature 10 - Notificação de Vencimento | US10 - Notificar o usuário para lembrar vencimento de contas e ações pendentes. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ12</a> |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
 <br>
 
 ## Épico 3 - Sustentabilidade e Consumo Consciente
@@ -41,31 +45,61 @@
 
 | Feature                          | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |----------------------------------|------------------------------------------------------------|-------------|-----------------------|
-| Feature 6 - Informar Vazamentos  | US06 - Mostrar apenas mapa das áreas atendidas pela Caesb   | In          | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ14 </a>                   |
-| Feature 7 - Informações de Falta de Água | US07 - Informar e visualizar falta de água                  | In          | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ15 </a>    
+| Feature 6 - Informar Vazamentos  | US06 - Mostrar apenas mapa das áreas atendidas pela Caesb   | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ14 </a>                   |
+| Feature 7 - Informações de Falta de Água | US07 - Informar e visualizar falta de água                  | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ15 </a> |
+| Feature 11 - Informar Vazamentos | US11 - Permitir ao usuário informar vazamentos na rua ou no hidrômetro | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ19 </a> |    
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
 
 <br>
 
 ## Épico 4: Serviços de Atendimento
+<center>
+<font size="3"><p style="text-align: center">Tabela 4: Product Backlog Elaborado com o Product Owner </p></font>
+
+| Feature                          | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
+|----------------------------------|------------------------------------------------------------|-------------|-----------------------|
+| Feature 13 - Agendar Atendimento Presencial | US13 - Permitir ao usuário agendar atendimento presencial na unidade mais próxima. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ21 </a> |  
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
 
 <br>
 
 ## Épico 5: Interface e Usabilidade
+<center>
+<font size="3"><p style="text-align: center">Tabela 5: Product Backlog Elaborado com o Product Owner </p></font>
+
+| Feature                          | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
+|----------------------------------|------------------------------------------------------------|-------------|-----------------------|
+| Feature 14 - Tutorial Inicial  | US13 - Incluir um tutorial inicial para ajudar novos usuários a se familiarizarem. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ31 </a> |
+| Feature 15 - Suporte a Múltiplos Idiomas  | US13 - Oferecer suporte a múltiplos idiomas para atender usuários diversificados. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ32 </a> |
+| Feature 16 - Responsividade  | US13 - Adaptar a diferentes tamanhos de tela. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ38 </a> |      
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
 
 <br>
 
 ## Épico 6: Desempenho e Funcionalidades Offline
+<center>
+<font size="3"><p style="text-align: center">Tabela 6: Product Backlog Elaborado com o Product Owner </p></font>
+
+| Feature                     | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
+|-----------------------------|------------------------------------------------------------|-------------|-----------------------|
+
+</center>
+
 <br>
 
 ## Épico 7 - Segurança e Privacidade
 <center>
-<font size="3"><p style="text-align: center">Tabela 4: Product Backlog Elaborado com o Product Owner </p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Product Backlog Elaborado com o Product Owner </p></font>
 
 | Feature                | História de Usuário                           | Priorização | Rastreabilidade (ID) |
 |------------------------|----------------------------------------------|-------------|-----------------------|
-| Feature 8 - Segurança de Dados | US08 - Garantir segurança dos dados do usuário | In          | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ34 </a> |
+| Feature 8 - Segurança de Dados | US08 - Garantir segurança dos dados do usuário | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ34 </a> |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
 
@@ -86,34 +120,34 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 <p align="justify">&emsp;&emsp;Após a definição de um épico, são criadas as características, que consistem em especificamente sucintas das capacidades do produto para alcançar os objetivos dos usuários. Elas representam funcionalidades com um grau de abstração mais elevado do que as histórias do usuário.</p>
 
 ### Histórias de Usuário
-<p align="justify">&emsp;&emsp;As <a href="http://127.0.0.1:8000/modelagem_agil/historia_usuario/">Histórias de Usuário</a> refinam ainda mais as características e serão aprofundadas na seção dedicada a elas. Elas são propostas como objetivas objetivas e de alto nível de uma funcionalidade desejada do ponto de vista do cliente. Geralmente, seguem o formato: "Eu, como .., quero ..para ...</p>
+<p align="justify">&emsp;&emsp;As <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/">Histórias de Usuário</a> refinam ainda mais as características e serão aprofundadas na seção dedicada a elas. Elas são propostas como objetivas objetivas e de alto nível de uma funcionalidade desejada do ponto de vista do cliente. Geralmente, seguem o formato: "Eu, como .., quero ..para ...</p>
 
 ### Épico 1: Gestão de Contas e Pagamentos
-- Requisitos relacionados:<a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ03, RQ04, RQ08, RQ09, RQ29 </a>   
+- Requisitos relacionados:<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ03, RQ04, RQ08, RQ09, RQ20, RQ29 </a>   
 - <p align="justify">Descrição: Este épico aborda as funcionalidades relacionadas à gestão de contas e pagamentos no aplicativo. Inclui requisitos como acesso e pagamento de contas passadas, emissão de segunda via, diversas formas de pagamento, configuração de pagamento mensal recorrente e alteração dos dados de vencimento.</p>
 
 ### Épico 2: Interatividade e Suporte ao Cliente
-- Requisitos relacionados: <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">  RQ01, RQ02, RQ12, RQ13, RQ30 </a>  
+- Requisitos relacionados: <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">  RQ01, RQ02, RQ12, RQ13, RQ30 </a>  
 - <p align="justify">Descrição: Este épico trata da interação do cliente com o aplicativo e suporte. Envolva requisitos como barra de busca, acesso rápido às funções mais utilizadas, envio de notificações para vencimento de contas, suporte via chat ou atendimento virtual e busca de atendimento pelo protocolo.</p>
 
 ### Épico 3: Sustentabilidade e Consumo Consciente
-- Requisitos relacionados:<a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ05, RQ14, RQ15, RQ22 </a>   
+- Requisitos relacionados:<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ05, RQ14, RQ15, RQ19, RQ22 </a>   
 - <p align="justify">Descrição: Este épico foca em funcionalidades para promover o consumo consciente e informar o cliente sobre questões ambientais e de serviço. Inclui consulta de consumo, informações sobre falta de água, notificações sobre manutenção programada e dicas de economia de água.</p>
 
 ### Épico 4: Serviços de Atendimento
-- Requisitos relacionados: <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ06, RQ21, RQ23, RQ25</a>    
+- Requisitos relacionados: <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ06, RQ21, RQ23, RQ25</a>    
 - <p align="justify">Descrição: Este épico aborda as funcionalidades de atendimento direto e solicitação de serviços. Envolve requisitos de registo e envio de ordens de serviço, agendamento de atendimentos presenciais, alteração de titularidade de conta e solicitações de reparos.</p>
 
 ### Épico 5: Interface e Usabilidade
-- Requisitos relacionados:<a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ07, RQ31, RQ32, RQ33, RQ36, RQ38</a>    
+- Requisitos relacionados:<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ07, RQ31, RQ32, RQ33, RQ36, RQ38</a>    
 - <p align="justify">Descrição: Este épico abrange a interface e a experiência do usuário. Inclui funcionalidades como pequenas normas para indicar o estado dos serviços, tutorial inicial para novos usuários, suporte a vários idiomas, conformidade com padrões de acessibilidade, interface intuitiva e suporte a diferentes tamanhos de tela.</p>
 
 ### Épico 6: Desempenho e Funcionalidades Offline
-- Requisitos relacionados:<a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ39, RQ40</a> 
+- Requisitos relacionados:<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ39, RQ40</a> 
 - <p align="justify">Descrição: Este épico trata do desempenho do aplicativo e da disponibilidade de funcionalidades offline. Envolva requisitos como tempos de resposta inferiores a 2 segundos e suporte offline para visualização de contas armazenadas.</p>
 
 ### Épico 7: Segurança e Privacidade
-- Requisitos relacionados: <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ34, RQ35</a> 
+- Requisitos relacionados: <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ34, RQ35</a> 
 - <p align="justify">Descrição: Este épico aborda a segurança e privacidade no uso do aplicativo. Inclui requisitos de proteção de dados dos usuários e conformidade com padrões de acessibilidade para garantir o uso seguro e inclusivo.</p>
 
 ## Referências
@@ -132,6 +166,7 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 |  1.0   | 12/12/2024 | Criação do artefato | [Natan Almeida](https://github.com/natanalmeida03)| [Letícia Resende](https://github.com/LeticiaResende23) |
 |  1.1   | 12/12/2024 | Adição da metodologia, Features, Épicos | [Letícia Resende](https://github.com/LeticiaResende23)| [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.2   | 12/12/2024 | Adição das Histórias de Usuário e Priorização | [Letícia Resende](https://github.com/LeticiaResende23)| [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.3   | 13/12/2024 | Adição das Histórias de Usuário e Priorização | [Natan Almeida](https://github.com/natanalmeida03)| [Leandro de Almeida](https://github.com/leomitx10) |
 </center>
 
 
