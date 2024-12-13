@@ -99,6 +99,29 @@
 
 <p align = "justify" >Com isso em mente, segue a Figura número 3 com o NFR relativo a usabilidade:</p>
 
+<center> FIgura 3: SIG usabilidade
+
+![alt text](../assets/softgoals/nfr_usabilidade.jpg)
+
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
+
+</center>
+
+### Propagação de impactos - NFR01
+
+<center> Tabela 04: Propagação de impactos NF01
+
+|          NFR                          |         Impacto           |              Avaliador               |
+| :-----------------------------------: | :-----------------------: | :----------------------------------: |
+| Usabilidade                          | ✓ (satisfeito)           | <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a> |
+| Interface intuitiva                 | ✓ (satisfeito)           | <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a> |
+| Tutorial                             | 𝒲+ (fracamente satisfeito) | <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a> |
+| Adaptar a diferentes tamanhos de tela| ✓ (satisfeito)           | <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a> |
+| Interface padronizada                | ✓ (satisfeito)           | <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a> |
+| Funcionalidades fáceis de encontrar   | 𝒲+ (fracamente satisfeito) | <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a> |
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
+</center>
+
 ## Referências
 
 > <p id="1">[1] Chung, Lawrence; A. Nixon, Brian; Mylopoulos, John. Non-Functional Requirements in Software Engineering. Acesso em 13 de Dezembro de 2024.</p>
