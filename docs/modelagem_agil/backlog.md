@@ -16,8 +16,8 @@
 
 | Feature                     | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |-----------------------------|------------------------------------------------------------|-------------|-----------------------|
-| Feature 1 - Segunda Via de Conta | US02 - Emitir e visualizar segunda via de conta              | In          | RQ04                  |
-| Feature 2 - Formas de Pagamento  | US03 - Oferecer múltiplas formas de pagamento                | Out         | RQ08                  |
+| Feature 1 - Segunda Via de Conta | US02 - Emitir e visualizar segunda via de conta              | In          | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ04 </a>                   |
+| Feature 2 - Formas de Pagamento  | US03 - Oferecer múltiplas formas de pagamento                | Out         | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ08 </a>                 |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a> </center>
 <br>
@@ -28,9 +28,9 @@
 
 | Feature                     | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |-----------------------------|------------------------------------------------------------|-------------|-----------------------|
-| Feature 3 - Barra de Funções | US01 - Visualizar funções mais utilizadas em uma barra      | Out         | RQ02                  |
-| Feature 4 - Envio de Documentos | US04 - Enviar documentos pelo aplicativo                    | Out         | RQ11                  |
-| Feature 5 - Suporte por Chat  | US05 - Resolver dúvidas pelo chat                           | Out         | RQ13                  |
+| Feature 3 - Barra de Funções | US01 - Visualizar funções mais utilizadas em uma barra      | Out         | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ02 </a>                    |
+| Feature 4 - Envio de Documentos | US04 - Enviar documentos pelo aplicativo                    | Out         | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ11 </a>                  |
+| Feature 5 - Suporte por Chat  | US05 - Resolver dúvidas pelo chat                           | Out         | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ13</a>   |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
 <br>
@@ -41,8 +41,8 @@
 
 | Feature                          | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |----------------------------------|------------------------------------------------------------|-------------|-----------------------|
-| Feature 6 - Informar Vazamentos  | US06 - Mostrar apenas mapa das áreas atendidas pela Caesb   | In          | RQ14                  |
-| Feature 7 - Informações de Falta de Água | US07 - Informar e visualizar falta de água                  | In          | RQ15      
+| Feature 6 - Informar Vazamentos  | US06 - Mostrar apenas mapa das áreas atendidas pela Caesb   | In          | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ14 </a>                   |
+| Feature 7 - Informações de Falta de Água | US07 - Informar e visualizar falta de água                  | In          | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ15 </a>    
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
 
@@ -65,7 +65,7 @@
 
 | Feature                | História de Usuário                           | Priorização | Rastreabilidade (ID) |
 |------------------------|----------------------------------------------|-------------|-----------------------|
-| Feature 8 - Segurança de Dados | US08 - Garantir segurança dos dados do usuário | In          | RQ34    |
+| Feature 8 - Segurança de Dados | US08 - Garantir segurança dos dados do usuário | In          | <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ34 </a> |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
 
@@ -89,36 +89,32 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 <p align="justify">&emsp;&emsp;As <a href="http://127.0.0.1:8000/modelagem_agil/historia_usuario/">Histórias de Usuário</a> refinam ainda mais as características e serão aprofundadas na seção dedicada a elas. Elas são propostas como objetivas objetivas e de alto nível de uma funcionalidade desejada do ponto de vista do cliente. Geralmente, seguem o formato: "Eu, como .., quero ..para ...</p>
 
 ### Épico 1: Gestão de Contas e Pagamentos
-- Requisitos relacionados: RQ03, RQ04, RQ08, RQ09, RQ29
+- Requisitos relacionados:<a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ03, RQ04, RQ08, RQ09, RQ29 </a>   
 - <p align="justify">Descrição: Este épico aborda as funcionalidades relacionadas à gestão de contas e pagamentos no aplicativo. Inclui requisitos como acesso e pagamento de contas passadas, emissão de segunda via, diversas formas de pagamento, configuração de pagamento mensal recorrente e alteração dos dados de vencimento.</p>
 
 ### Épico 2: Interatividade e Suporte ao Cliente
-- Requisitos relacionados: RQ01, RQ02, RQ12, RQ13, RQ30
+- Requisitos relacionados: <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">  RQ01, RQ02, RQ12, RQ13, RQ30 </a>  
 - <p align="justify">Descrição: Este épico trata da interação do cliente com o aplicativo e suporte. Envolva requisitos como barra de busca, acesso rápido às funções mais utilizadas, envio de notificações para vencimento de contas, suporte via chat ou atendimento virtual e busca de atendimento pelo protocolo.</p>
 
 ### Épico 3: Sustentabilidade e Consumo Consciente
-- Requisitos relacionados: RQ05, RQ14, RQ15, RQ22
+- Requisitos relacionados:<a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ05, RQ14, RQ15, RQ22 </a>   
 - <p align="justify">Descrição: Este épico foca em funcionalidades para promover o consumo consciente e informar o cliente sobre questões ambientais e de serviço. Inclui consulta de consumo, informações sobre falta de água, notificações sobre manutenção programada e dicas de economia de água.</p>
 
 ### Épico 4: Serviços de Atendimento
-- Requisitos relacionados: RQ06, RQ21, RQ23, RQ25
+- Requisitos relacionados: <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ06, RQ21, RQ23, RQ25</a>    
 - <p align="justify">Descrição: Este épico aborda as funcionalidades de atendimento direto e solicitação de serviços. Envolve requisitos de registo e envio de ordens de serviço, agendamento de atendimentos presenciais, alteração de titularidade de conta e solicitações de reparos.</p>
 
 ### Épico 5: Interface e Usabilidade
-- Requisitos relacionados: RQ07, RQ31, RQ32, RQ33, RQ36, RQ38
+- Requisitos relacionados:<a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ07, RQ31, RQ32, RQ33, RQ36, RQ38</a>    
 - <p align="justify">Descrição: Este épico abrange a interface e a experiência do usuário. Inclui funcionalidades como pequenas normas para indicar o estado dos serviços, tutorial inicial para novos usuários, suporte a vários idiomas, conformidade com padrões de acessibilidade, interface intuitiva e suporte a diferentes tamanhos de tela.</p>
 
 ### Épico 6: Desempenho e Funcionalidades Offline
-- Requisitos relacionados: RQ39, RQ40
+- Requisitos relacionados:<a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ39, RQ40</a> 
 - <p align="justify">Descrição: Este épico trata do desempenho do aplicativo e da disponibilidade de funcionalidades offline. Envolva requisitos como tempos de resposta inferiores a 2 segundos e suporte offline para visualização de contas armazenadas.</p>
 
 ### Épico 7: Segurança e Privacidade
-- Requisitos relacionados: RQ34, RQ35
+- Requisitos relacionados: <a href="http://127.0.0.1:8000/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ34, RQ35</a> 
 - <p align="justify">Descrição: Este épico aborda a segurança e privacidade no uso do aplicativo. Inclui requisitos de proteção de dados dos usuários e conformidade com padrões de acessibilidade para garantir o uso seguro e inclusivo.</p>
-
-
-
-
 
 ## Referências
 
