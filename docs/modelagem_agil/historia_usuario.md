@@ -42,7 +42,7 @@
 </center>
 
 <center>
-    <p>Vídeo 01: Entrevista com o PO</p>
+    <p>Vídeo 02: Entrevista com o PO</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/SpG8wJ3lwyc?si=RsvRbrSLw68c4YGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
 </center>
