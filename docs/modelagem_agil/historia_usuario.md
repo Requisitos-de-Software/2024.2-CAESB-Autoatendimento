@@ -49,6 +49,8 @@
 
 ## Histórias de Usuário
 
+## US01 - Barra de busca
+
 <center>Tabela 3: Barra de Busca
 
 |       ID               |      Nome       | 
@@ -62,6 +64,9 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
+
+## US02 - Registrar e acompanhar ordens de serviço
+
 <center>Tabela 4: Registrar e acompanhar ordens de serviço
 
 |       ID               |      Nome       | 
@@ -75,6 +80,9 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
+
+## US03 - Conformidade com os padrões de acessibilidade da WCAG
+
 <center>Tabela 5: Conformidade com os padrões de acessibilidade da WCAG
 
 |       ID               |      Nome       | 
@@ -88,6 +96,9 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
+
+## US04 - Buscar atendimento pelo protocolo
+
 <center>Tabela 6: Buscar atendimento pelo protocolo
 
 
@@ -102,6 +113,9 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
+
+## US05 - Alterar o vencimento da conta
+
 <center>Tabela 7: Alterar vencimento de conta
 
 
@@ -116,6 +130,9 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
+
+## US06 - Exibir pequenas descrições ao lado dos serviços
+
 <center>Tabela 8: Descrições de serviços
 
 |       ID               |      Nome       | 
@@ -129,6 +146,9 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
+
+## US07 - Adiantamento de processos via aplicativo
+
 <center>Tabela 9: Adiantamento de processos via aplicativo
 
 |       ID               |      Nome       | 
@@ -143,6 +163,8 @@
 </center>
 
 <br>
+
+## US08 - Filtrar atendimentos por ano, mês e status
 
 <center>Tabela 10: Filtrar atendimentos por ano, mês e status
 
