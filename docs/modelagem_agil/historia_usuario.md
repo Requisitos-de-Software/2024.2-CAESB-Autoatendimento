@@ -317,6 +317,144 @@
 
 <br>
 
+## US17 -  Barra de Funções Mais Utilizadas.
+
+<center>Tabela 19:  Barra de Funções Mais Utilizadas
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US17             | O sistema deve ter uma barra com as funções mais utilizadas. |
+|     Descrição          | Eu, como usuário, desejo ter acesso rápido às funções mais utilizadas em uma barra destacada para facilitar anavegação no aplicativo. |
+| Critérios de Aceitação | -  Deve haver uma barra fixa ou destacada no topo ou na parte inferior do aplicativo.<br> - A barra deve conter as funções mais utilizadas, como “Segunda Via”, “Pagamento”, “Relatar Falta de Água”, etc. <br> - A ordem das funções deve ser ajustada automaticamente com base no uso do usuário ou definido pelo administrador.|
+|     Prioridade         | Must-Have |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ02</a> |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
+## US18 - Segunda Via de Conta.
+
+<center>Tabela 20:  Segunda Via de Conta.
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US17              | O sistema deve permitir emitir e visualizar segunda via de conta. |
+|     Descrição          | Eu, como usuário, desejo emitir ou visualizar a segunda via da conta diretamente pelo aplicativo, para simplificar o acesso às informações de pagamento. |
+| Critérios de Aceitação | -  Deve haver uma opção visível para emitir ou visualizar a segunda via da conta.<br> - A segunda via deverá estar disponível para download em formato PDF. <br> - O sistema deve exibir um histórico de contas pagas e em aberto.|
+|     Prioridade         | Must-Have |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ04</a> |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
+## US19 - Formas de Pagamento.
+
+<center>Tabela 21: Formas de Pagamento.
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US17              | O sistema deve oferecer várias formas de pagamento. |
+|     Descrição          | Eu, como usuário, desejo que o aplicativo ofereça várias formas de pagamento para que eu possa escolher a mais conveniente. |
+| Critérios de Aceitação | - O sistema deve oferecer métodos de pagamento como cartão de crédito, débito, PIX e boleto bancário.<br> - O usuário deverá receber uma confirmação de pagamento imediatamente após o processo ser concluído. <br> - As opções de pagamento devem ser acessíveis em uma área destacada do aplicativo.|
+|     Prioridade         | Deve-Ter |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ08</a> |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
+## US20 - Envio de Documentos.
+
+<center>Tabela 22: Envio de Documentos.
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US17              | O sistema deve permitir o envio de documentos pelo aplicativo. |
+|     Descrição          | Eu, como usuário, desejo enviar documentos diretamente pelo aplicativo para facilitar o envio de comprovantes ou transações. |
+| Critérios de Aceitação | - Deve haver uma funcionalidade para anexar e enviar documentos no formato PDF ou imagem (JPEG/PNG).<br> - O sistema deve confirmar o envio dos documentos com uma notificação ou mensagem no aplicativo. <br> - Os documentos enviados devem ser armazenados com segurança e condicionados ao perfil do usuário.|
+|     Prioridade         | Must-Have |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ11</a> |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
+
+## US21 - Chat ou Atendimento Virtual.
+
+<center>Tabela 23: Chat ou Atendimento Virtual.
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US17              | O sistema deve incluir chat ou atendimento virtual. |
+|     Descrição          | Eu, como usuário, desejo acessar um chat ou atendimento virtual no aplicativo para resolver dúvidas e problemas de forma rápida. |
+| Critérios de Aceitação | - O aplicativo deve incluir um chatbot com respostas automáticas para perguntas frequentes e escalonamento para atendimento humano, se necessário.<br> - O chat deve estar acessível na página principal ou no menu de suporte.<br> - O sistema deve armazenar o histórico de conversas para referência futura.|
+|     Prioridade         | Deve-Ter|
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ13</a> |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
+## US22 - Informar Vazamento.
+
+<center>Tabela 24: Informar Vazamento.
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US17              | O sistema deve permitir informar vazamentos. |
+|     Descrição          | Eu, como usuário, desejo que a funcionalidade "Informar Vazamento na Rua" mostre apenas o mapa das regiões onde a Caesb atua para evitar confusões. |
+| Critérios de Aceitação | - O mapa desenhado deve limitar as regiões de atuação da Caesb.<br> - A funcionalidade deve permitir que o usuário marque o local do vazamento no mapa com precisão.<br> - O sistema deve confirmar o envio da solicitação com um número de protocolo.|
+|     Prioridade         | Must-Have|
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ14</a> |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
+## US23 - Informar e Visualizar Falta de Água.
+
+<center>Tabela 25: Informar e Visualizar Falta de Água.
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US17              | O sistema deve permitir informar e visualizar falta de água. |
+|     Descrição          | Eu, como usuário, desejo poder informar e visualizar informações sobre a falta de água para saber o status do problema e planejar meu dia. |
+| Critérios de Aceitação | - O aplicativo deve permitir que o usuário registre falta de água com informações como local, dados e hora.<br> - O sistema deve exibir notificações sobre falta de água em andamento na região do usuário.<br> -As informações devem ser atualizadas em tempo real e apresentar o status da resolução do problema.|
+|     Prioridade         | Must-Have|
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ15</a> |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+
+<br>
+
+## US24 - Segurança dos Dados.
+
+<center>Tabela 26: Informar e Visualizar Falta de Água.
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US17              | O sistema deve garantir a segurança dos dados dos usuários. |
+|     Descrição          | Eu, como usuário, desejo que o aplicativo garanta a segurança dos meus dados pessoais para evitar vazamentos ou acessos não autorizados. |
+| Critérios de Aceitação | - O sistema deve implementar autenticação segura (como senha forte, biometria ou autenticação em duas etapas).<br> - Os dados do usuário devem ser armazenados em conformidade com a LGPD (Lei Geral de Proteção de Dados).<br> - O aplicativo deve exibir uma política de privacidade clara e acessível.|
+|     Prioridade         | Must-Have|
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ34</a> |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+
+
 ## Bibliografia
 
 > <p id="1">SERRANO, Milene. SERRANO, Maurício. Requisitos – Aula 15 . Disponível em: https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf . Acesso em 12 dez 2024.</p>
@@ -329,3 +467,4 @@
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 13/12/2024 | Criação da introdução, metodologia e adição da US01 a US08| [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 14/12/2024 | Adição de historias de usuario | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.2   | 14/12/2024 | Adição de historias de usuario | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
