@@ -19,7 +19,7 @@ Local: Online via Teams
 
 
 ## Decisões
-- Nathan troca com João pra Priorização dos requisito Moscow, Matheus ajuda Nathan com isso caso fique pesado
+- Natan troca com João pra Priorização dos requisito Moscow, Matheus ajuda Natan com isso caso fique pesado
 - Observação pra Elicitação de requisitos ficou com João
 - Alterar o cronograma
 
