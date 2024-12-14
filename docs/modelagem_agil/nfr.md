@@ -119,7 +119,44 @@
 | Adaptar a diferentes tamanhos de tela| ✓ (satisfeito)           | <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a> |
 | Interface padronizada                | ✓ (satisfeito)           | <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a> |
 | Funcionalidades fáceis de encontrar   | 𝒲+ (fracamente satisfeito) | <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a> |
+
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
+
+</center>
+
+## NFR Framework - NFR02: Eficiência
+
+<p align="justify">&emsp;&emsp; textinho muito massa: </p>
+
+- RQ07: O sistema deve exibir pequenas descrições ao lado dos serviços para mostrar seu estado atual.
+- RQ17: A funcionalidade "Atendimentos" deve permitir filtros por ano, mês, status (finalizado ou em andamento).
+- RQ29: O aplicativo deve permitir que o usuário altere o vencimento da conta.
+
+<p align = "justify" >Com isso em mente, segue a Figura número 4 com o NFR relativo a eficiência:</p>
+
+<center> FIgura 4: SIG eficiência
+
+![alt text](../assets/softgoals/fazendo.png)
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+
+</center>
+
+### Propagação de impactos - NFR02
+
+<center> Tabela 05: Propagação de impactos NRF02
+
+|          NFR                          |         Impacto           |              Avaliador               |
+| :-----------------------------------: | :-----------------------: | :----------------------------------: |
+| Usabilidade                           |                           |                                      |
+| Interface intuitiva                   |                           |                                      |
+| Tutorial                              |            |                                          |
+| Adaptar a diferentes tamanhos de tela |            |                                          |
+| Interface padronizada                 |            |                                          |
+| Funcionalidades fáceis de encontrar   |            |                                          |
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+
 </center>
 
 ## Referências
