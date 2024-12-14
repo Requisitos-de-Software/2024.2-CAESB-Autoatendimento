@@ -128,9 +128,9 @@
 
 <p align="justify">&emsp;&emsp; textinho muito massa: </p>
 
-- RQ07: O sistema deve exibir pequenas descrições ao lado dos serviços para mostrar seu estado atual.
-- RQ17: A funcionalidade "Atendimentos" deve permitir filtros por ano, mês, status (finalizado ou em andamento).
-- RQ29: O aplicativo deve permitir que o usuário altere o vencimento da conta.
+- RQ37: O sistema deve minimizar o número de cliques necessários para interações.
+- RQ40: O aplicativo deve ter tempos de resposta inferiores a 2 segundos para a maioria das funcionalidades.
+
 
 <p align = "justify" >Com isso em mente, segue a Figura número 4 com o NFR relativo a eficiência:</p>
 
