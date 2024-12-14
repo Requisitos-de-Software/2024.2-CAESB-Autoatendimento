@@ -59,7 +59,7 @@
 |     Prioridade         | Must-Have |
 |     Rastreabilidade    | RQ01 |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
 <center>Tabela 4: Registrar e acompanhar ordens de serviço
@@ -72,7 +72,7 @@
 |     Prioridade         | Must-Have |
 |     Rastreabilidade    | RQ23 |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
 <center>Tabela 5: Conformidade com os padrões de acessibilidade da WCAG
@@ -85,7 +85,7 @@
 |     Prioridade         | Should-Have |
 |     Rastreabilidade    | RQ35 |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
 <center>Tabela 6: Buscar atendimento pelo protocolo
@@ -99,7 +99,7 @@
 |     Prioridade         | Should-Have |
 |     Rastreabilidade    | REQ30 |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
 <center>Tabela 7: Alterar vencimento de conta
@@ -113,7 +113,7 @@
 |     Prioridade         | Could-Have |
 |     Rastreabilidade    | REQ29 |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
 <center>Tabela 8: Descrições de serviços
@@ -126,7 +126,7 @@
 |     Prioridade         | Could-Have |
 |     Rastreabilidade    | REQ07 |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
 <center>Tabela 9: Adiantamento de processos via aplicativo
@@ -139,7 +139,7 @@
 |     Prioridade         | Could-Have |
 |     Rastreabilidade    | REQ10 |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
 <br>
@@ -154,7 +154,7 @@
 |     Prioridade         | Could-Have |
 |     Rastreabilidade    | REQ17 |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
 <br>
