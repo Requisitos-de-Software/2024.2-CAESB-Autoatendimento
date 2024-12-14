@@ -176,7 +176,7 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 |  1.1   | 12/12/2024 | Adição da metodologia, Features, Épicos | [Letícia Resende](https://github.com/LeticiaResende23)| [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.2   | 12/12/2024 | Adição das Histórias de Usuário e Priorização | [Letícia Resende](https://github.com/LeticiaResende23)| [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.3   | 13/12/2024 | Adição das Histórias de Usuário e Priorização | [Natan Almeida](https://github.com/natanalmeida03)| [Leandro de Almeida](https://github.com/leomitx10) |
-|  1.3   | 14/12/2024 | Adiciona as features 17 a 24 | [Leandro de Almeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) | 
+|  1.4   | 14/12/2024 | Adiciona as features 17 a 24 | [Leandro de Almeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) | 
 
 </center>
 
