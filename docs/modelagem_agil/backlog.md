@@ -22,7 +22,7 @@
 | Feature 12 - Atualizar Dados Cadastrais | US10 - Permitir ao usuário atualizar seus dados cadastrais pelo app | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ20 </a> | 
 | Feature 21 - Alteração do Vencimento da Conta | US05 - Alterar o vencimento da conta | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ29</a> | 
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> 
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>  
 </center>
 <br>
 
@@ -39,7 +39,7 @@
 | Feature 17 - Barra de Busca | US01 - Barra de busca. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ01</a> |
 | Feature 20 - Busca de Atendimento por Protocolo | US04 - Buscar atendimento pelo protocolo. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ30</a> |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> </center>
 <br>
 
 ## Épico 3 - Sustentabilidade e Consumo Consciente
@@ -68,7 +68,7 @@
 | Feature 23 - Adiantamento de Processos | US07 - Adiantamento de processos via aplicativo | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ10</a> |
 | Feature 24 - Filtros para Consultar Atendimentos | US08 - Filtrar atendimentos por ano, mês e status | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ17</a> |
 
-</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
 <br>
@@ -86,7 +86,7 @@
 | Feature 22 - Exibição de Estado Atual dos Serviços | Exibir pequenas descrições ao lado dos serviços | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ07 </a> |   
 
 
-</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
 <br>
@@ -177,6 +177,7 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 |  1.2   | 12/12/2024 | Adição das Histórias de Usuário e Priorização | [Letícia Resende](https://github.com/LeticiaResende23)| [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.3   | 13/12/2024 | Adição das Histórias de Usuário e Priorização | [Natan Almeida](https://github.com/natanalmeida03)| [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 14/12/2024 | Adiciona as features 17 a 24 | [Leandro de Almeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) | 
+
 </center>
 
 
