@@ -18,8 +18,8 @@
 |-----------------------------|------------------------------------------------------------|-------------|-----------------------|
 | Feature 1 - Segunda Via de Conta | US02 - Emitir e visualizar segunda via de conta              | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ04 </a>                   |
 | Feature 2 - Formas de Pagamento  | US03 - Oferecer múltiplas formas de pagamento                | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ08 </a>                 |
-| Feature 9 - Pagamento Recorrente| US09 - Permitir pagamento mensal recorrente | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ09 </a> |
-| Feature 12 - Atualizar Dados Cadastrais | US12 - Permitir ao usuário atualizar seus dados cadastrais pelo app | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ20 </a> | 
+| Feature 2 - Formas de Pagamento  | US09 - Permitir pagamento mensal recorrente | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ09 </a> |
+| Feature 12 - Atualizar Dados Cadastrais | US10 - Permitir ao usuário atualizar seus dados cadastrais pelo app | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ20 </a> | 
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> 
 </center>
@@ -34,7 +34,7 @@
 | Feature 3 - Barra de Funções | US01 - Visualizar funções mais utilizadas em uma barra      | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ02 </a>                    |
 | Feature 4 - Envio de Documentos | US04 - Enviar documentos pelo aplicativo                    | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ11 </a>                  |
 | Feature 5 - Suporte por Chat  | US05 - Resolver dúvidas pelo chat                           | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ13</a>   |
-| Feature 10 - Notificação de Vencimento | US10 - Notificar o usuário para lembrar vencimento de contas e ações pendentes. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ12</a> |
+| Feature 9 - Notificação de Vencimento | US11 - Notificar o usuário para lembrar vencimento de contas e ações pendentes. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ12</a> |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
 <br>
@@ -47,7 +47,7 @@
 |----------------------------------|------------------------------------------------------------|-------------|-----------------------|
 | Feature 6 - Informar Vazamentos  | US06 - Mostrar apenas mapa das áreas atendidas pela Caesb   | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ14 </a>                   |
 | Feature 7 - Informações de Falta de Água | US07 - Informar e visualizar falta de água                  | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ15 </a> |
-| Feature 11 - Informar Vazamentos | US11 - Permitir ao usuário informar vazamentos na rua ou no hidrômetro | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ19 </a> |    
+| Feature 6 - Informar Vazamentos | US12 - Permitir ao usuário informar vazamentos na rua ou no hidrômetro | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ19 </a> |    
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
@@ -73,9 +73,9 @@
 
 | Feature                          | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |----------------------------------|------------------------------------------------------------|-------------|-----------------------|
-| Feature 14 - Tutorial Inicial  | US13 - Incluir um tutorial inicial para ajudar novos usuários a se familiarizarem. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ31 </a> |
-| Feature 15 - Suporte a Múltiplos Idiomas  | US13 - Oferecer suporte a múltiplos idiomas para atender usuários diversificados. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ32 </a> |
-| Feature 16 - Responsividade  | US13 - Adaptar a diferentes tamanhos de tela. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ38 </a> |      
+| Feature 14 - Tutorial Inicial  | US14 - Incluir um tutorial inicial para ajudar novos usuários a se familiarizarem. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ31 </a> |
+| Feature 15 - Suporte a Múltiplos Idiomas  | US15 - Oferecer suporte a múltiplos idiomas para atender usuários diversificados. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ32 </a> |
+| Feature 16 - Responsividade  | US16 - Adaptar a diferentes tamanhos de tela. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ38 </a> |      
 
 </p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>

@@ -181,8 +181,145 @@
 
 <br>
 
+## US09 - Permitir pagamento mensal recorrente
+
+<center>Tabela 11: Permitir pagamento mensal recorrente
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US09              | O Sistema deve permitir pagamento mensal recorrente |
+|     Descrição          | Eu, como usuário, desejo cadastrar um cartão para fazer o pagamento das minhas contas de forma recorrente. |
+| Critérios de Aceitação | - Deve haver opção de cadastrar um cartão de crédito para para pagamento recorrente.<br> |
+|     Prioridade         | Could-Have |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ09 </a> |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
+<br>
+
+## US10 - Atualizar seus dados cadastrais pelo app
+
+<center>Tabela 12: Atualizar seus dados cadastrais pelo app
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US10              | O Sistema deve permitir ao usuário atualizar seus dados cadastrais pelo app |
+|     Descrição          | Eu, como usuário, desejo atualizar meus dados cadastrais pelo app para manter meus dados atualizados. |
+| Critérios de Aceitação | - Deve haver opção de atualizar dados como nome, sexo, email e telefone.<br> |
+|     Prioridade         | Should-Have |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ20 </a> |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
+<br>
+
+## US11 - Notificar o usuário para lembrar vencimento de contas e ações pendentes.
+
+<center>Tabela 13: Notificar o usuário para lembrar vencimento de contas e ações pendentes.
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US11              | O Sistema deve notificar o usuário para lembrar vencimento de contas e ações pendentes. |
+|     Descrição          | Eu, como usuário, desejo permitir que o aplicativo me envie notificações para que eu me lembre de vencimentos de contas e ações pendentes. |
+| Critérios de Aceitação | - Deve haver opção de ativar notificações.<br> - O aplicativo envia uma notificação quando estiver perto do vencimento da conta ou com ações pendentes.<br> |
+|     Prioridade         | Could-Have |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ12 </a> |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
+<br>
+
+## US12 - Permitir ao usuário informar vazamentos na rua ou no hidrômetro
+
+<center>Tabela 14: Permitir ao usuário informar vazamentos na rua ou no hidrômetro
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US12              | O Sistema deve permitir ao usuário informar vazamentos na rua ou no hidrômetro |
+|     Descrição          | Eu, como usuário, desejo informar vazamentos na rua ou no hidrômetro para contribuir com a resolução rápida de problemas. |
+| Critérios de Aceitação | - O sistema deve permitir que o usuário informe o local e a natureza do vazamento (rua ou hidrômetro).<br> - Deve haver um campo para anexar fotos e uma descrição do problema.<br> - O sistema deve confirmar o recebimento da solicitação.<br> |
+|     Prioridade         | Must-Have |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ19 </a> |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
+<br>
+
+## US13 - Permitir ao usuário agendar atendimento presencial na unidade mais próxima
+
+<center>Tabela 15: Permitir ao usuário agendar atendimento presencial na unidade mais próxima
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US13              | O Sistema deve permitir ao usuário agendar atendimento presencial na unidade mais próxima |
+|     Descrição          | Eu, como usuário, desejo agendar atendimento presencial na unidade mais próxima para resolver questões pessoalmente. |
+| Critérios de Aceitação | - O sistema deve exibir as unidades disponíveis com base na localização do usuário.<br> - Deve ser possível escolher data e horário entre as opções disponíveis.<br> - O sistema deve enviar uma confirmação do agendamento.<br> |
+|     Prioridade         | Should-Have |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ21 </a> |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
+<br>
+
+## US14 - Incluir um tutorial inicial para ajudar novos usuários a se familiarizarem
+
+<center>Tabela 16: Incluir um tutorial inicial para ajudar novos usuários a se familiarizarem
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US14              | O Sistema deve incluir um tutorial inicial para ajudar novos usuários a se familiarizarem. |
+|     Descrição          | Eu, como usuário, desejo acessar um tutorial inicial para me familiarizar com o uso do sistema. |
+| Critérios de Aceitação | - O sistema deve exibir o tutorial automaticamente no primeiro acesso. <br> - O tutorial deve ser interativo e apresentar as principais funcionalidades.<br> - Deve haver a opção de pular ou acessar o tutorial novamente pelo menu.<br> |
+|     Prioridade         | Would-Have |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ31 </a> |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
+<br>
+
+## US15 - Oferecer suporte a múltiplos idiomas para atender usuários diversificados.
+
+<center>Tabela 17: Oferecer suporte a múltiplos idiomas para atender usuários diversificados.
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US15              | O Sistema deve oferecer suporte a múltiplos idiomas para atender usuários diversificados.. |
+|     Descrição          | Eu, como usuário, desejo utilizar o sistema em múltiplos idiomas para facilitar o uso por diferentes públicos. |
+| Critérios de Aceitação | -  sistema deve oferecer suporte a pelo menos três idiomas. <br> - Deve ser possível alterar o idioma no menu de configurações.<br> - Todo o conteúdo deve ser traduzido corretamente, incluindo mensagens de erro.<br> |
+|     Prioridade         | Could-Have |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ32 </a> |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
+<br>
+
+## US16 - Adaptar a diferentes tamanhos de tela.
+
+<center>Tabela 18: Adaptar a diferentes tamanhos de tela.
+
+|       ID               |      Nome       | 
+|------------------------|-----------------|
+|      US16              | O Sistema deve adaptar a diferentes tamanhos de tela. |
+|     Descrição          | Eu, como usuário, desejo que o sistema se adapte a diferentes tamanhos de tela para facilitar o uso em dispositivos variados. |
+| Critérios de Aceitação | -  O sistema deve ser responsivo e funcional em dispositivos móveis, tablets e desktops.<br> - Não deve haver perda de funcionalidade ou distorções de layout em nenhum tamanho de tela suportado. <br> |
+|     Prioridade         | Should-Have |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ38 </a> |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
+<br>
+
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 13/12/2024 | Criação da introdução e metodologia| [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03) |
+|  1.1   | 14/12/2024 | Adição de historias de usuario | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10) |
