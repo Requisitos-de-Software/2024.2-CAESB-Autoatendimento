@@ -156,6 +156,7 @@
 | Limitações                            |    𝒲+ (fracamente satisfeito)   | <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> |
 | Tempo de resposta                     |   ✓ (satisfeito) | <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> |
 | Processar em até 2 segundos           |   ✓ (satisfeito)| <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> |
+| Organização intuitiva do menu         |   ✓ (satisfeito)| <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 
