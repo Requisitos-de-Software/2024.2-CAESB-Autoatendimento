@@ -88,9 +88,9 @@ Na Tabela 4, encontra-se o cronograma planejado para todas as atividades da quar
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
-|   Modelagem de Requisitos - Ágil: NFR Framework             	| Início: 12/12<br>Fim: 15/12    	| Leandro e Letícia                  	| Início: 15/12 Fim: 15/12 	| Natan e Matheus         	|
-|   Modelagem de Requisitos - Ágil: Backlogs                  	| Início: 12/12<br>Fim: 15/12    	| Matheus e Natan                  	| Início: 15/12 Fim: 15/12 	| João Victor e Leandro           	|
-|   Modelagem de Requisitos - Ágil: Histórias de Usuário      	| Início: 12/12<br>Fim: 16/12    	| João Victor                   	| Início: 16/12 Fim: 16/12 	| Letícia        	|
+|   Modelagem de Requisitos - Ágil: NFR Framework             	| Início: 12/12<br>Fim: 15/12    	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 14/12<br>Fim: 14/12 	|  João Victor, Leandro, Letícia, Matheus, Natan                	| Início: 15/12 Fim: 15/12 	| Natan e Matheus         	|
+|   Modelagem de Requisitos - Ágil: Backlogs                  	| Início: 12/12<br>Fim: 15/12    	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 14/12<br>Fim: 14/12 	|  João Victor, Leandro, Letícia, Matheus, Natan                	| Início: 15/12 Fim: 15/12 	| João Victor e Leandro           	|
+|   Modelagem de Requisitos - Ágil: Histórias de Usuário      	| Início: 12/12<br>Fim: 16/12    	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 14/12<br>Fim: 14/12 	|  João Victor, Leandro, Letícia, Matheus, Natan                   	| Início: 16/12 Fim: 16/12 	| Letícia        	|
 |   vericação	| Início: 13/12<br>Fim: 13/12	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 14/12<br>Fim: 14/12 	|  João Victor, Leandro, Letícia, Matheus, Natan	|
 |   vericação grupo n+1	| Início: 15/12<br>Fim: 15/12	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 16/12<br>Fim: 16/12 |  João Victor, Leandro, Letícia, Matheus, Natan	|
 |   Inspeção	| Início: 15/12<br>Fim: 15/12	|   Letícia	| Início: 15/12<br>Fim: 15/12 	|    Leandro 	|

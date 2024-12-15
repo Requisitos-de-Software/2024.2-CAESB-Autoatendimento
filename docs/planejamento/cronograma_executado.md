@@ -72,6 +72,27 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
+<br>
+
+<p align="justify">&emsp;&emsp;Na Tabela 4, encontra-se o cronograma executado para todas as atividades da quarta entrega.</p>
+
+
+| Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Modelagem de Requisitos - Ágil: NFR Framework             	| Início: 12/12<br>Fim: 15/12    	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 14/12<br>Fim: 14/12 	|  João Victor, Leandro, Letícia, Matheus, Natan                	| Início: 15/12 Fim: 15/12 	| Natan e Matheus         	|
+|   Modelagem de Requisitos - Ágil: Backlogs                  	| Início: 12/12<br>Fim: 15/12    	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 14/12<br>Fim: 14/12 	|  João Victor, Leandro, Letícia, Matheus, Natan                	| Início: 15/12 Fim: 15/12 	| João Victor e Leandro           	|
+|   Modelagem de Requisitos - Ágil: Histórias de Usuário      	| Início: 12/12<br>Fim: 16/12    	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 14/12<br>Fim: 14/12 	|  João Victor, Leandro, Letícia, Matheus, Natan                   	| Início: 16/12 Fim: 16/12 	| Letícia        	|
+|   vericação	| Início: 13/12<br>Fim: 13/12	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 14/12<br>Fim: 14/12 	|  João Victor, Leandro, Letícia, Matheus, Natan	|
+|   vericação grupo n+1	| Início: 15/12<br>Fim: 15/12	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 16/12<br>Fim: 16/12 |  João Victor, Leandro, Letícia, Matheus, Natan	|
+|   Inspeção	| Início: 15/12<br>Fim: 15/12	|   Letícia	| Início: 15/12<br>Fim: 15/12 	|    Leandro 	|
+|   Gravação da Apresentação e Entrega                        	| Início: 16/12<br>Fim: 16/12    	| João Victor, Leandro, Letícia, Matheus, Natan                             	| Início: 16/12 Fim: 16/12 	|João Victor, Leandro, Letícia, Matheus, Natan          	|
+|   Correção pós apresentação	| Início: 18/11<br>Fim: 18/11 	| João Victor, Leandro, Letícia, Matheus, Natan  	| Início: 18/11<br>Fim: 18/11 	|João Victor, Leandro, Letícia, Matheus, Natan  	|
+
+<center>
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</center>
+
+<br>
 
 ## Referências
 
@@ -91,6 +112,8 @@ Acesso em: 21 out. 2024.
 |  1.0   | 28/10/2024 | Cronograma Executado | [Letícia Resende](https://github.com/LeticiaResende23) | [Natan da Cruz](https://github.com/natanalmeida03)  |
 |  1.1   | 13/11/2024 | Correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 08/12/2024 | Adicionando cronograma da terceira entrega| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.3   | 14/12/2024 | Adicionando cronograma da quarta entrega| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
+
 
 
 </center>
