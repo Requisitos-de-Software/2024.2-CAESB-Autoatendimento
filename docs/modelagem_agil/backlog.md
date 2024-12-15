@@ -21,8 +21,12 @@
 | Feature 2 - Formas de Pagamento  | US09 - Permitir pagamento mensal recorrente | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ09 </a> |
 | Feature 12 - Atualizar Dados Cadastrais | US10 - Permitir ao usuário atualizar seus dados cadastrais pelo app | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ20 </a> | 
 | Feature 21 - Alteração do Vencimento da Conta | US05 - Alterar o vencimento da conta | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ29</a> | 
+| Feature 25 - Acesso/Pagamento de Contas Passadas | US25 - O sistema deve permitir acessar/pagar contas passadas | RF | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ03</a> |
+| Feature 26 - Consulta de Consumo | US26 - O sistema deve permitir consultar consumo | RF | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ05</a> |
+| Feature 29 - Simulação de Tarifa  | US29 - O sistema deve permitir consultar consumo | RF | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ18</a> |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>  
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a> 
 </center>
 <br>
 
@@ -37,9 +41,13 @@
 | Feature 5 - Suporte por Chat  | US21 - Resolver dúvidas pelo chat                           | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ13</a>   |
 | Feature 9 - Notificação de Vencimento | US11 - Notificar o usuário para lembrar vencimento de contas e ações pendentes. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ12</a> |
 | Feature 17 - Barra de Busca | US01 - Barra de busca. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ01</a> |
-| Feature 20 - Busca de Atendimento por Protocolo | US04 - Buscar atendimento pelo protocolo. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ30</a> |
+| Feature 20 - Busca de Atendimento por Protocolo | US04 - Buscar atendimento pelo protocolo. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ30</a> 
+| Feature 27 - Correção de Dados | US28 - Permitir ao usuário corrigir erros retornando à tela anterior e atualizando os dados. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ16</a> |
+| Feature 28 - Alertas de Manutenção | US31 - Disponibilizar alertas sobre manutenção programada. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ24</a> |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> </center>
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a> 
+</center>
 <br>
 
 ## Épico 3 - Sustentabilidade e Consumo Consciente

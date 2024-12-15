@@ -453,6 +453,126 @@
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
+## US25 - Acesso/Pagamento de Contas Passadas.
+<center>Tabela 27: Acesso/Pagamento de Contas Passadas.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US03                   | O sistema deve permitir acessar/pagar contas passadas.                                    |
+| Descrição              | Eu, como usuário, desejo poder acessar e pagar contas passadas diretamente pelo aplicativo para facilitar minha gestão financeira. |
+| Critérios de Aceitação | - O sistema deve listar todas as contas passadas disponíveis para acesso. <br> - O usuário deve poder selecionar uma conta e visualizar os detalhes. <br> - O usuário deve ter a opção de pagar a conta diretamente pelo aplicativo. |
+| Prioridade             | Must-Have                                                                                   |
+| Rastreabilidade        | [RQ03](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></center>
+
+<br>
+
+## US26 - Consulta de Consumo.
+<center>Tabela 28: Consulta de Consumo.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US05                   | O sistema deve permitir consultar consumo.                                                |
+| Descrição              | Eu, como usuário, desejo poder consultar meu consumo de água para monitorar minha utilização e economizar. |
+| Critérios de Aceitação | - O aplicativo deve mostrar o consumo total do usuário em um período selecionado. <br> - O usuário deve ter a opção de visualizar gráficos comparativos do consumo. |
+| Prioridade             | Must-Have                                                                                   |
+| Rastreabilidade        | [RQ05](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></center>
+
+<br>
+
+## US27 - Bloqueio/Reativação/Solicitação de Reparo.
+<center>Tabela 29: Bloqueio/Reativação/Solicitação de Reparo.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US06                   | O sistema deve permitir bloqueio, reativação ou solicitação de reparo.                    |
+| Descrição              | Eu, como usuário, desejo poder bloquear minha conta, reativá-la ou solicitar reparo diretamente pelo aplicativo para gerenciar melhor meu serviço. |
+| Critérios de Aceitação | - O aplicativo deve fornecer opções para bloquear, reativar ou solicitar reparo. <br> - O usuário deve receber confirmação de cada ação realizada. |
+| Prioridade             | Must-Have                                                                                   |
+| Rastreabilidade        | [RQ06](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></center>
+
+<br>
+
+## US28 - Correção de Erros.
+<center>Tabela 30: Correção de Erros.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US16                   | O sistema deve permitir ao usuário corrigir erros retornando à tela anterior e atualizando os dados. |
+| Descrição              | Eu, como usuário, desejo que, ao identificar um erro, eu possa corrigir rapidamente e voltar à tela anterior sem perder os dados. |
+| Critérios de Aceitação | - O usuário deve ter a opção de voltar à tela anterior. <br> - O sistema deve atualizar os dados após a correção sem perder informações. |
+| Prioridade             | Must-Have                                                                                   |
+| Rastreabilidade        | [RQ16](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></center>
+
+<br>
+
+## US29 - Simulação de Tarifa.
+<center>Tabela 31: Simulação de Tarifa.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US18                   | A funcionalidade "Simulação de tarifa" deve ser nativa do aplicativo e não redirecionar ao site da Caesb. |
+| Descrição              | Eu, como usuário, desejo poder simular tarifas diretamente no aplicativo, sem necessidade de ser redirecionado a outro site. |
+| Critérios de Aceitação | - O aplicativo deve ter uma seção específica para simulação de tarifas. <br> - O usuário deve receber resultados instantâneos da simulação. |
+| Prioridade             | Must-Have                                                                                   |
+| Rastreabilidade        | [RQ18](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></center>
+
+<br>
+
+## US30 - Dicas de Consumo Consciente.
+<center>Tabela 32: Dicas de Consumo Consciente.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US22                   | O aplicativo deve exibir dicas de consumo consciente e economia de água.                   |
+| Descrição              | Eu, como usuário, desejo receber dicas sobre consumo consciente e formas de economizar água para melhorar minha gestão de recursos. |
+| Critérios de Aceitação | - O aplicativo deve exibir dicas em uma seção dedicada. <br> - O usuário deve poder visualizar dicas personalizadas com base em seu consumo. |
+| Prioridade             | Should-Have                                                                                 |
+| Rastreabilidade        | [RQ22](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></center>
+
+<br>
+
+## US31 - Alertas sobre Manutenção Programada.
+<center>Tabela 33: Alertas sobre Manutenção Programada.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US24                   | O aplicativo deve disponibilizar alertas sobre manutenção programada.                     |
+| Descrição              | Eu, como usuário, desejo ser notificado sobre manutenções programadas para evitar interrupções no serviço. |
+| Critérios de Aceitação | - O usuário deve receber notificações sobre manutenções com antecedência. <br> - O aplicativo deve permitir que o usuário visualize um histórico de manutenções programadas. |
+| Prioridade             | Should-Have                                                                                 |
+| Rastreabilidade        | [RQ24](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></center>
+
+<br>
+
+## US32 - Alteração na Titularidade da Conta.
+<center>Tabela 34: Alteração na Titularidade da Conta.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US25                   | O usuário deve poder solicitar alteração na titularidade da conta.                        |
+| Descrição              | Eu, como usuário, desejo ter a opção de solicitar a alteração na titularidade da minha conta para gerenciar melhor minha relação com a Caesb. |
+| Critérios de Aceitação | - O aplicativo deve fornecer um formulário para solicitação de alteração. <br> - O usuário deve receber confirmação e status da solicitação. |
+| Prioridade             | Must-Have                                                                                   |
+| Rastreabilidade        | [RQ25](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></center>
+
+
+
 
 
 ## Bibliografia
@@ -468,3 +588,4 @@
 |  1.0   | 13/12/2024 | Criação da introdução, metodologia e adição da US01 a US08| [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 14/12/2024 | Adição de historias de usuario | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.2   | 14/12/2024 | Adição de historias de usuario | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.3   | 15/12/2024 | Adição das historias de usuario 25 até 32| [Matheus Barros](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)|
