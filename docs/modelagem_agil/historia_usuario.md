@@ -59,7 +59,7 @@
 |     Descrição          | Eu, como usuário, desejo que o aplicativo tenha uma barra de busca para facilitar a localização de eventos específicos pelo nome ou palavra-chave. |
 | Critérios de Aceitação | - Na página principal do aplicativo, deve haver uma barra de busca visível no topo ou em local destacado.<br>- Ao digitar na barra de busca, os eventos listados devem ser filtrados em tempo real para corresponder aos termos inseridos.<br> - A busca deve suportar diferentes critérios, como nome do evento e palavras-chave. |
 |     Prioridade         | Must-Have |
-|     Rastreabilidade    | RQ01 |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ01</a> |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -75,7 +75,7 @@
 |     Descrição          | Eu, como usuário, desejo registrar e acompanhar ordens de serviço para gerenciar eficientemente as atividades relacionadas. |
 | Critérios de Aceitação | - Deve haver uma opção clara no aplicativo para registrar uma nova ordem de serviço, incluindo campos como descrição, prioridade, data, e responsável.<br> - O sistema deve permitir visualizar uma lista de ordens de serviço registradas, com informações básicas (ex.: título, status, prioridade).<br> - Deve ser possível atualizar o status de uma ordem de serviço (ex.: Pendente, Em Progresso, Concluído).<br> - O usuário deve poder filtrar ou buscar ordens de serviço com base em critérios como status ou prioridade. |
 |     Prioridade         | Must-Have |
-|     Rastreabilidade    | RQ23 |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ23</a> |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -91,7 +91,7 @@
 |     Descrição          | Eu, como usuário, desejo que o aplicativo esteja em conformidade com os padrões de acessibilidade da última versão da WCAG, para garantir que ele possa ser utilizado por pessoas com diferentes tipos de deficiência. |
 | Critérios de Aceitação | - Todos os elementos de interface devem ser compatíveis com leitores de tela e navegáveis por teclado.<br> - As cores, contrastes, e tamanhos de fontes devem atender aos requisitos mínimos estabelecidos pela WCAG.<br> - Deve haver suporte a textos alternativos para imagens e elementos gráficos não textuais.<br> - O sistema deve evitar elementos que possam causar problemas para pessoas com fotosensibilidade, como animações rápidas ou piscantes.<br> - Deve haver testes realizados para validar conformidade com a última versão da WCAG antes da entrega do produto. |
 |     Prioridade         | Should-Have |
-|     Rastreabilidade    | RQ35 |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ35</a> |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -108,7 +108,7 @@
 |     Descrição          | Eu, como usuário, desejo buscar um atendimento pelo protocolo para acompanhar rapidamente o status de uma solicitação específica. |
 | Critérios de Aceitação | - Deve haver um campo de busca na interface do aplicativo, onde o usuário possa inserir o número do protocolo.<br> - Após digitar o protocolo e confirmar a busca, o sistema deve exibir os detalhes do atendimento correspondente, como status, data de registro, e descrição.<br> - Caso o protocolo não seja encontrado, o sistema deve informar ao usuário que não há registros correspondentes.<br> - A busca pelo protocolo deve ser rápida, com retorno dos resultados em até 5 segundos. |
 |     Prioridade         | Should-Have |
-|     Rastreabilidade    | REQ30 |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">REQ30</a> |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -125,7 +125,7 @@
 |     Descrição          | Eu, como usuário, desejo alterar a data de vencimento da minha conta para adequá-la às minhas necessidades financeiras e evitar atrasos no pagamento. |
 | Critérios de Aceitação | - Deve haver uma opção na interface do aplicativo para alterar a data de vencimento da conta, localizada de forma clara e acessível.<br> - O sistema deve permitir que o usuário selecione uma nova data dentro de um intervalo permitido (ex.: do dia 1 ao dia 28 de cada mês).<br> - Após a alteração, o sistema deve confirmar a mudança e informar ao usuário a nova data de vencimento.<br> - Caso a alteração não seja possível (ex.: devido a restrições de contrato), o sistema deve apresentar uma mensagem explicativa ao usuário. |
 |     Prioridade         | Could-Have |
-|     Rastreabilidade    | REQ29 |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">REQ29</a> |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -141,7 +141,7 @@
 |     Descrição          | Eu, como usuário, desejo visualizar pequenas descrições ao lado dos serviços para entender rapidamente o estado atual de cada um. |
 | Critérios de Aceitação | - O sistema deve exibir uma breve descrição ou rótulo ao lado de cada serviço listado, indicando claramente seu estado atual (ex.: "Em Andamento", "Concluído", "Pendente").<br> - As descrições devem ser dinâmicas e atualizadas automaticamente quando o estado do serviço for alterado.<br> - As informações exibidas devem ser concisas, com no máximo 2-3 palavras para evitar poluição visual.<br> - O design deve ser responsivo, garantindo que as descrições sejam legíveis em dispositivos móveis e telas menores. |
 |     Prioridade         | Could-Have |
-|     Rastreabilidade    | REQ07 |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">REQ07</a> |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -157,7 +157,7 @@
 |     Descrição          | Eu, como usuário, desejo poder adiantar processos diretamente pelo aplicativo para reduzir o tempo de espera e agilizar os procedimentos. |
 | Critérios de Aceitação | - Deve haver uma opção no aplicativo que permita ao usuário solicitar o adiantamento de um processo, visível em locais relevantes (ex.: detalhes do processo).<br> - O sistema deve apresentar as condições e requisitos para que o adiantamento seja possível, como taxas ou documentos necessários.<br> - Após solicitar o adiantamento, o usuário deve receber uma confirmação com o novo status e um prazo atualizado.<br> - Caso o adiantamento não seja possível, o sistema deve informar os motivos e sugerir alternativas (se aplicável).|
 |     Prioridade         | Could-Have |
-|     Rastreabilidade    | REQ10 |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">REQ10</a> |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -174,7 +174,7 @@
 |     Descrição          | Eu, como usuário, desejo filtrar os atendimentos por ano, mês e status (finalizado ou em andamento) para localizar rapidamente os registros relevantes. |
 | Critérios de Aceitação | - Deve haver opções de filtro claras e acessíveis na funcionalidade "Atendimentos".<br> - O sistema deve permitir selecionar um ou mais dos seguintes critérios de filtro: ano, mês e status (finalizado ou em andamento).<br> - Após aplicar os filtros, a lista de atendimentos exibida deve ser atualizada automaticamente para mostrar apenas os registros correspondentes.<br> - O sistema deve permitir combinar filtros (ex.: filtrar por ano e status ao mesmo tempo).<br> - Deve haver uma opção para limpar os filtros aplicados e retornar à lista completa de atendimentos. |
 |     Prioridade         | Could-Have |
-|     Rastreabilidade    | REQ17 |
+|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">REQ17</a> |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -340,7 +340,7 @@
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
-|      US17              | O sistema deve permitir emitir e visualizar segunda via de conta. |
+|      US18              | O sistema deve permitir emitir e visualizar segunda via de conta. |
 |     Descrição          | Eu, como usuário, desejo emitir ou visualizar a segunda via da conta diretamente pelo aplicativo, para simplificar o acesso às informações de pagamento. |
 | Critérios de Aceitação | -  Deve haver uma opção visível para emitir ou visualizar a segunda via da conta.<br> - A segunda via deverá estar disponível para download em formato PDF. <br> - O sistema deve exibir um histórico de contas pagas e em aberto.|
 |     Prioridade         | Must-Have |
@@ -357,10 +357,10 @@
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
-|      US17              | O sistema deve oferecer várias formas de pagamento. |
+|      US19              | O sistema deve oferecer várias formas de pagamento. |
 |     Descrição          | Eu, como usuário, desejo que o aplicativo ofereça várias formas de pagamento para que eu possa escolher a mais conveniente. |
 | Critérios de Aceitação | - O sistema deve oferecer métodos de pagamento como cartão de crédito, débito, PIX e boleto bancário.<br> - O usuário deverá receber uma confirmação de pagamento imediatamente após o processo ser concluído. <br> - As opções de pagamento devem ser acessíveis em uma área destacada do aplicativo.|
-|     Prioridade         | Deve-Ter |
+|     Prioridade         | must-have |
 |     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ08</a> |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
@@ -374,7 +374,7 @@
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
-|      US17              | O sistema deve permitir o envio de documentos pelo aplicativo. |
+|      US20              | O sistema deve permitir o envio de documentos pelo aplicativo. |
 |     Descrição          | Eu, como usuário, desejo enviar documentos diretamente pelo aplicativo para facilitar o envio de comprovantes ou transações. |
 | Critérios de Aceitação | - Deve haver uma funcionalidade para anexar e enviar documentos no formato PDF ou imagem (JPEG/PNG).<br> - O sistema deve confirmar o envio dos documentos com uma notificação ou mensagem no aplicativo. <br> - Os documentos enviados devem ser armazenados com segurança e condicionados ao perfil do usuário.|
 |     Prioridade         | Must-Have |
@@ -392,7 +392,7 @@
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
-|      US17              | O sistema deve incluir chat ou atendimento virtual. |
+|      US21              | O sistema deve incluir chat ou atendimento virtual. |
 |     Descrição          | Eu, como usuário, desejo acessar um chat ou atendimento virtual no aplicativo para resolver dúvidas e problemas de forma rápida. |
 | Critérios de Aceitação | - O aplicativo deve incluir um chatbot com respostas automáticas para perguntas frequentes e escalonamento para atendimento humano, se necessário.<br> - O chat deve estar acessível na página principal ou no menu de suporte.<br> - O sistema deve armazenar o histórico de conversas para referência futura.|
 |     Prioridade         | Deve-Ter|
@@ -409,7 +409,7 @@
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
-|      US17              | O sistema deve permitir informar vazamentos. |
+|      US22              | O sistema deve permitir informar vazamentos. |
 |     Descrição          | Eu, como usuário, desejo que a funcionalidade "Informar Vazamento na Rua" mostre apenas o mapa das regiões onde a Caesb atua para evitar confusões. |
 | Critérios de Aceitação | - O mapa desenhado deve limitar as regiões de atuação da Caesb.<br> - A funcionalidade deve permitir que o usuário marque o local do vazamento no mapa com precisão.<br> - O sistema deve confirmar o envio da solicitação com um número de protocolo.|
 |     Prioridade         | Must-Have|
@@ -426,7 +426,7 @@
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
-|      US17              | O sistema deve permitir informar e visualizar falta de água. |
+|      US23              | O sistema deve permitir informar e visualizar falta de água. |
 |     Descrição          | Eu, como usuário, desejo poder informar e visualizar informações sobre a falta de água para saber o status do problema e planejar meu dia. |
 | Critérios de Aceitação | - O aplicativo deve permitir que o usuário registre falta de água com informações como local, dados e hora.<br> - O sistema deve exibir notificações sobre falta de água em andamento na região do usuário.<br> -As informações devem ser atualizadas em tempo real e apresentar o status da resolução do problema.|
 |     Prioridade         | Must-Have|
@@ -440,11 +440,11 @@
 
 ## US24 - Segurança dos Dados.
 
-<center>Tabela 26: Informar e Visualizar Falta de Água.
+<center>Tabela 26: Segurança dos Dados.
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
-|      US17              | O sistema deve garantir a segurança dos dados dos usuários. |
+|      US24              | O sistema deve garantir a segurança dos dados dos usuários. |
 |     Descrição          | Eu, como usuário, desejo que o aplicativo garanta a segurança dos meus dados pessoais para evitar vazamentos ou acessos não autorizados. |
 | Critérios de Aceitação | - O sistema deve implementar autenticação segura (como senha forte, biometria ou autenticação em duas etapas).<br> - Os dados do usuário devem ser armazenados em conformidade com a LGPD (Lei Geral de Proteção de Dados).<br> - O aplicativo deve exibir uma política de privacidade clara e acessível.|
 |     Prioridade         | Must-Have|
