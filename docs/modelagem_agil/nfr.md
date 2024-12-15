@@ -80,7 +80,7 @@
 | **RQ34** | O aplicativo deve garantir segurança com os dados dos usuários. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/">ADD06</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/">ADD07</a> | Sim |
 | **RQ35** | O aplicativo deve estar em conformidade com os padrões de acessibilidade da última versão da WCAG. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/">ADD13</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/">INT26</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/">OBS18</a> | Não |
 | **RQ36** | O aplicativo deve ter uma interface intuitiva, organizada e fácil de usar. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/">INT08</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/entrevista/">ENT02</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/Brainstorm/">B15</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/Brainstorm/">B13</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/entrevista/">ENT10</a> | Sim |
-| **RQ37** | O sistema deve minimizar o número de cliques necessários para interações. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/Brainstorm/">B14</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/">OBS19</a> | Sim |
+| **RQ37** | O número de cliques necessários para realizar uma ação deve ser de 3 a 5. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/Brainstorm/">B14</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/">OBS19</a> | Sim |
 | **RQ38** | O aplicativo deve se adaptar a diferentes tamanhos de tela. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/">OBS17</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/">INT10</a> | Não |
 | **RQ39** | O aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/">ADD14</a> | Não | NAO |
 | **RQ40** | O aplicativo deve ter tempos de resposta inferiores a 2 segundos para a maioria das funcionalidades. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/">INT22</a> | Não |
@@ -128,7 +128,7 @@
 
 <p align="justify">&emsp;&emsp; textinho muito massa: </p>
 
-- RQ37: O sistema deve minimizar o número de cliques necessários para interações.
+- RQ37: O número de cliques necessários para realizar uma ação deve ser de 3 a 5.
 - RQ40: O aplicativo deve ter tempos de resposta inferiores a 2 segundos para a maioria das funcionalidades.
 
 
@@ -136,7 +136,7 @@
 
 <center> FIgura 4: SIG eficiência
 
-![alt text](../assets/softgoals/fazendo.png)
+![alt text](../assets/softgoals/NFR2.png)
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 
@@ -148,12 +148,14 @@
 
 |          NFR                          |         Impacto           |              Avaliador               |
 | :-----------------------------------: | :-----------------------: | :----------------------------------: |
-| Usabilidade                           |                           |                                      |
-| Interface intuitiva                   |                           |                                      |
-| Tutorial                              |            |                                          |
-| Adaptar a diferentes tamanhos de tela |            |                                          |
-| Interface padronizada                 |            |                                          |
-| Funcionalidades fáceis de encontrar   |            |                                          |
+| Eficiência                            |  ✓ (satisfeito)     | <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> |
+| Otimizar tarefas                      |  𝒲+ (fracamente satisfeito)  | <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> |
+| Reduzir tarefas repetitivas           |   𝒲+ (fracamente satisfeito)| <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> |
+| Facilitar a navegação do usuário com fluxos lógicos |  ✓ (satisfeito)  | <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> |
+| Executar com 3 ou 5 cliques           |   ✓ (satisfeito) | <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> |
+| Limitações                            |    𝒲+ (fracamente satisfeito)   | <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> |
+| Tempo de resposta                     |   ✓ (satisfeito) | <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> |
+| Processar em até 2 segundos           |   ✓ (satisfeito)| <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 
@@ -212,3 +214,4 @@
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 13/12/2024 | Criação da introdução, metodologia e NFR de usabilidade| [Matheus Barros](https://github.com/Ninja-Haiyai) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 14/12/2024 | Adicionando NFR de confiabilidade e impactos|  [Letícia Resende](https://github.com/LeticiaResende23) |[Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.2   | 14/12/2024 | Adiciona NFR02: Eficiência| [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03) |
