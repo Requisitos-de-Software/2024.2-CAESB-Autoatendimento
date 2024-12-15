@@ -134,7 +134,7 @@
 
 <p align = "justify" >Com isso em mente, segue a Figura número 4 com o NFR relativo a eficiência:</p>
 
-<center> FIgura 4: SIG eficiência
+<center> Figura 4: SIG eficiência
 
 ![alt text](../assets/softgoals/NFR2.png)
 
@@ -171,7 +171,7 @@
 
 <p align = "justify" >Com isso em mente, segue a Figura número 5 com o NFR relativo a confiabilidade:</p>
 
-<center> FIgura 5: SIG Confiabilidade
+<center> Figura 5: SIG Confiabilidade
 
 ![alt text](https://github.com/user-attachments/assets/c2f5f9dd-c4f0-43e8-bb87-3888573ba4d7)
 
@@ -200,6 +200,40 @@
 
 </center>
 
+## NFR Framework - NFR04: Suportabilidade
+
+<p align="justify">&emsp;&emsp; Suportabilidade é um atributo de qualidade de um sistema que se refere à sua capacidade de ser mantido, adaptado ou expandido com facilidade ao longo de seu ciclo de vida. Esse atributo é fundamental para garantir que o sistema possa evoluir diante de mudanças nos requisitos, corrigir problemas rapidamente e incorporar novas funcionalidades sem comprometer sua estabilidade ou desempenho. É um dos requisitos não funcionais (NFRs) mais relevantes em sistemas modernos, especialmente em contextos onde a manutenção contínua e a escalabilidade são cruciais para atender às demandas do negócio. </p>
+
+- RQ32: O aplicativo deve oferecer suporte a múltiplos idiomas para atender usuários diversificados.
+- RQ33: O aplicativo deve ser compatível com as versões mais recentes do Android e iOS.
+- RQ38: O aplicativo deve se adaptar a diferentes tamanhos de tela.
+
+<p align = "justify" >Com isso em mente, segue a Figura número 5 com o NFR relativo a suportabilidade:</p>
+
+<center> Figura 5: SIG suportabilidade
+
+![alt text](../assets/softgoals/NRF4.png)
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+
+</center>
+
+### Propagação de impactos - NFR04
+
+<center> Tabela 07: Propagação de impactos NRF04
+
+|          NFR                          |         Impacto           |              Avaliador               |
+| :-----------------------------------: | :-----------------------: | :----------------------------------: |
+| Suportabilidade                       |  ✓ (satisfeito)     | <a href="https://github.com/natanalmeida03" target="_blank">Natan Almeida</a> |
+| Estabilidade                          |  ✓ (satisfeito)  | <a href="https://github.com/natanalmeida03" target="_blank">Natan Almeida</a> |
+| Múltiplos idiomas                     |   𝒲+ (fracamente satisfeito)| <a href="https://github.com/natanalmeida03" target="_blank">Natan Almeida</a> |
+| Adaptar a diferentes tamanhos de tela |  ✓ (satisfeito)  | <a href="https://github.com/natanalmeida03" target="_blank">Natan Almeida</a> |
+| Compatibilidade Multi-plataforma      |   ✓ (satisfeito) | <a href="https://github.com/natanalmeida03" target="_blank">Natan Almeida</a> |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+
+</center>
+<br>
 
 ## Referências
 
@@ -216,3 +250,4 @@
 |  1.0   | 13/12/2024 | Criação da introdução, metodologia e NFR de usabilidade| [Matheus Barros](https://github.com/Ninja-Haiyai) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 14/12/2024 | Adicionando NFR de confiabilidade e impactos|  [Letícia Resende](https://github.com/LeticiaResende23) |[Matheus Barros](https://github.com/Ninja-Haiyai) |
 |  1.2   | 14/12/2024 | Adiciona NFR02: Eficiência| [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03) |
+|  1.3   | 15/12/2024 | Adiciona NFR04: suportabilidade| [Natan Almeida](https://github.com/natanalmeida03) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
