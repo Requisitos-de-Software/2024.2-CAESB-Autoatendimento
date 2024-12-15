@@ -1,4 +1,4 @@
-# Histórias de Usuários
+# Histórias de Usuário
 
 ## Introdução
 

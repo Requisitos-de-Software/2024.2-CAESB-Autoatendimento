@@ -126,7 +126,7 @@
 
 ## NFR Framework - NFR02: Eficiência
 
-<p align="justify">&emsp;&emsp; textinho muito massa: </p>
+<p align="justify">&emsp;&emsp; Eficiência é um atributo de qualidade de um sistema que se refere à sua capacidade de executar as funções especificadas de maneira otimizada, utilizando o mínimo de recursos necessários. Esse atributo é fundamental para garantir que o sistema ofereça respostas rápidas e mantenha um desempenho estável, mesmo sob condições de carga elevada. É um dos requisitos não funcionais (NFRs) mais relevantes em sistemas computacionais modernos, especialmente em aplicações onde o desempenho é importante. </p>
 
 - RQ37: O número de cliques necessários para realizar uma ação deve ser de 3 a 5.
 - RQ40: O aplicativo deve ter tempos de resposta inferiores a 2 segundos para a maioria das funcionalidades.
