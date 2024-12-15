@@ -179,7 +179,7 @@
 ### Propagação de impactos - NFR03
 <center> Tabela 06: Propagação de impactos NRF03
 
-|        NFR                     |    Impacto                   |  Avaliado           |
+|        NFR                     |    Impacto                   |  Avaliador           |
 |--------------------------------|------------------------------|-------------------------|
 | Confiabilidade                 | ✓ (satisfeito)              | <a href="https://github.com/LeticiaResende23" target="_blank">Letícia Resende</a>    |
 | Segurança                      | ✓ (satisfeito)              | <a href="https://github.com/LeticiaResende23" target="_blank">Letícia Resende</a>       |
