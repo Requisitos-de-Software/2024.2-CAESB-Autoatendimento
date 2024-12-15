@@ -90,7 +90,7 @@
 
 
 ## NFR Framework - NFR01: Usabilidade
-<p align="justify">&emsp;&emsp; De acordo com Jakob Nielsen usabilidade é um atributo de qualidade que avalia a facilidade de uso das interfaces de usuário. Nielsen define usabilidade como um conjunto de componentes que determinam o quão eficaz, eficiente e satisfatória é a interação do usuário com um sistema. Os requisitos utilizdos para esse NFR foram: </p>
+<p align="justify">&emsp;&emsp; De acordo com Jakob Nielsen usabilidade é um atributo de qualidade que avalia a facilidade de uso das interfaces de usuário. Nielsen define usabilidade como um conjunto de componentes que determinam o quão eficaz, eficiente e satisfatória é a interação do usuário com um sistema. Os requisitos utilizados para esse NFR foram: </p>
 
 - RQ31: O aplicativo deve incluir um tutorial inicial para ajudar novos usuários a se familiarizarem.
 - RQ32: O aplicativo deve oferecer suporte a múltiplos idiomas para atender usuários diversificados.
@@ -158,13 +158,52 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 
 </center>
+<br>
+
+## NFR Framework - NFR03: Confiabilidade
+
+<p align="justify">&emsp;&emsp; Confiabilidade é um atributo de qualidade de um sistema que se refere à sua capacidade de executar as funções especificadas de maneira consistente, correta e sem falhas em um determinado período de tempo ou sob condições específicas. É um dos requisitos não funcionais (NFRs) mais importantes em sistemas computacionais, pois está diretamente relacionado à confiança que os usuários depositam no sistema. Os requisitos utilizados para esse NFR foram: </p>
+
+- RQ34 - O aplicativo deve garantir segurança com os dados dos usuários.
+
+<p align = "justify" >Com isso em mente, segue a Figura número 5 com o NFR relativo a confiabilidade:</p>
+
+<center> FIgura 5: SIG Confiabilidade
+
+![alt text](https://github.com/user-attachments/assets/c2f5f9dd-c4f0-43e8-bb87-3888573ba4d7)
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+
+</center>
+
+### Propagação de impactos - NFR03
+<center> Tabela 06: Propagação de impactos NRF03
+
+|        NFR                     |    Impacto                   |  Avaliado           |
+|--------------------------------|------------------------------|-------------------------|
+| Confiabilidade                 | ✓ (satisfeito)              | <a href="https://github.com/LeticiaResende23" target="_blank">Letícia Resende</a>    |
+| Segurança                      | ✓ (satisfeito)              | <a href="https://github.com/LeticiaResende23" target="_blank">Letícia Resende</a>       |
+| Solicitar autenticação         | ++ (fortemente satisfeito)  | <a href="https://github.com/LeticiaResende23" target="_blank">Letícia Resende</a>       |
+| Notificar novos logins         | 𝒲+ (fracamente satisfeito)  |<a href="https://github.com/LeticiaResende23" target="_blank">Letícia Resende</a>      |
+| Implementar criptografia       | ++ (fortemente satisfeito)  | <a href="https://github.com/LeticiaResende23" target="_blank">Letícia Resende</a>      |
+| Transparência                  | ✓ (satisfeito)              | <a href="https://github.com/LeticiaResende23" target="_blank">Letícia Resende</a>       |
+| Política de Privacidade        | + (satisfeito)              | <a href="https://github.com/LeticiaResende23" target="_blank">Letícia Resende</a>      |
+| Termos de Uso                  | + (satisfeito)              | <a href="https://github.com/LeticiaResende23" target="_blank">Letícia Resende</a>       |
+| Suporte ao Usuário             | ✓ (satisfeito)              | <a href="https://github.com/LeticiaResende23" target="_blank">Letícia Resende</a>         |
+| FAQs sobre segurança           | 𝒲+ (fracamente satisfeito)  | <a href="https://github.com/LeticiaResende23" target="_blank">Letícia Resende</a>        |
+| Suporte dedicado ao usuário    | + (satisfeito)              | <a href="https://github.com/LeticiaResende23" target="_blank">Letícia Resende</a>        |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+
+</center>
+
 
 ## Referências
 
 > <p id="1">[1] Chung, Lawrence; A. Nixon, Brian; Mylopoulos, John. Non-Functional Requirements in Software Engineering. Acesso em 13 de Dezembro de 2024.</p>
 > <p id="2">[2] SILVA, R. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Tese (Mestrado em Engenharia de Software) - Centro de Informática, Universidade Federal de Pernambuco. Recife, p. 155. 2019. Acesso em: 13 de Dezembro de 2022
 > <p id="3"> [3]NIELSEN, Jakob. Usability Engineering. San Francisco: Morgan Kaufmann, 1994.
-
+> <p id="4">[4] Sommerville, I. (2011). Engenharia de Software (9ª Edição). Acesso em 14 de Dezembro de 2024.
 </p>
 
 ## Histórico de versão
@@ -172,3 +211,4 @@
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 13/12/2024 | Criação da introdução, metodologia e NFR de usabilidade| [Matheus Barros](https://github.com/Ninja-Haiyai) |[Natan Almeida](https://github.com/natanalmeida03) |
+|  1.1   | 14/12/2024 | Adicionando NFR de confiabilidade e impactos|  [Letícia Resende](https://github.com/LeticiaResende23) |[Matheus Barros](https://github.com/Ninja-Haiyai) |
