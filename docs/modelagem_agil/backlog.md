@@ -21,9 +21,9 @@
 | Feature 2 - Formas de Pagamento  | US09 - Permitir pagamento mensal recorrente | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ09 </a> |
 | Feature 12 - Atualizar Dados Cadastrais | US10 - Permitir ao usuário atualizar seus dados cadastrais pelo app | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ20 </a> | 
 | Feature 21 - Alteração do Vencimento da Conta | US05 - Alterar o vencimento da conta | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ29</a> | 
-| Feature 25 - Acesso/Pagamento de Contas Passadas | US25 - O sistema deve permitir acessar/pagar contas passadas | RF | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ03</a> |
-| Feature 26 - Consulta de Consumo | US26 - O sistema deve permitir consultar consumo | RF | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ05</a> |
-| Feature 29 - Simulação de Tarifa  | US29 - O sistema deve permitir consultar consumo | RF | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ18</a> |
+| Feature 25 - Acesso/Pagamento de Contas Passadas | US25 - O sistema deve permitir acessar/pagar contas passadas | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ03</a> |
+| Feature 26 - Consulta de Consumo | US26 - O sistema deve permitir consultar consumo | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ05</a> |
+| Feature 29 - Simulação de Tarifa  | US29 - O sistema deve permitir a simulação da Tarifa | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ18</a> |
 
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a> 
@@ -59,8 +59,10 @@
 | Feature 6 - Informar Vazamentos  | US22 - Mostrar apenas mapa das áreas atendidas pela Caesb   | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ14 </a>                   |
 | Feature 7 - Informações de Falta de Água | US23 - Informar e visualizar falta de água                  | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ15 </a> |
 | Feature 6 - Informar Vazamentos | US12 - Permitir ao usuário informar vazamentos na rua ou no hidrômetro | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ19 </a> |    
+| Feature 30 - Dicas de Consumo Consciente | US30 - Exibir dicas de consumo consciente e economia de água | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ22</a> |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
 </center>
 
 <br>
@@ -75,8 +77,11 @@
 | Feature 18 - Registro e Acompanhamento de Ordens de Serviço | US02 - Registrar e acompanhar ordens de serviço. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ23</a> |
 | Feature 23 - Adiantamento de Processos | US07 - Adiantamento de processos via aplicativo | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ10</a> |
 | Feature 24 - Filtros para Consultar Atendimentos | US08 - Filtrar atendimentos por ano, mês e status | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ17</a> |
+| Feature 31 - Bloqueio e Reativação de Conta | US27 - Permitir bloqueio, reativação ou solicitação de reparo | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ06</a> |
+| Feature 32 - Alteração de Titularidade | US32 - Permitir ao usuário solicitar alteração na titularidade da conta | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ25</a> |
 
-</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
 </center>
 
 <br>
@@ -144,8 +149,8 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 </thead>
 <tbody>
 <!-- epico 1 -->
-<tr >
-<td rowspan="4" style="vertical-align: middle; font-weight: bold;">Épico 1 - Gestão de Contas e Pagamentos</td>
+<tr>
+<td rowspan="7" style="vertical-align: middle; font-weight: bold;">Épico 1 - Gestão de Contas e Pagamentos</td>
 <td>Feature 1 - Segunda Via de Conta</td>
 </tr>
 <tr>
@@ -157,8 +162,18 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 <tr>
 <td>Feature 21 - Alteração do Vencimento da Conta</td>
 </tr>
+<tr>
+<td>Feature 25 - Acesso/Pagamento de Contas Passadas</td>
+</tr>
+<tr>
+<td>Feature 26 - Consulta de Consumo</td>
+</tr>
+<tr>
+<td>Feature 29 - Simulação de Tarifa</td>
+</tr>
 <!-- epico 2 -->
-<td rowspan="6" style="vertical-align: middle; font-weight: bold;">Épico 2 - Interatividade e Suporte ao Cliente</td>
+<tr>
+<td rowspan="8" style="vertical-align: middle; font-weight: bold;">Épico 2 - Interatividade e Suporte ao Cliente</td>
 <td>Feature 3 - Barra de Funções</td>
 </tr>
 <tr>
@@ -176,17 +191,26 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 <tr>
 <td>Feature 20 - Busca de Atendimento por Protocolo</td>
 </tr>
+<tr>
+<td>Feature 27 - Correção de Dados</td>
+</tr>
+<tr>
+<td>Feature 28 - Alertas de Manutenção</td>
+</tr>
 <!-- epico 3 -->
-<tr >
-<td rowspan="2" style="vertical-align: middle; font-weight: bold;">Épico 3 - Sustentabilidade e Consumo Consciente</td>
+<tr>
+<td rowspan="3" style="vertical-align: middle; font-weight: bold;">Épico 3 - Sustentabilidade e Consumo Consciente</td>
 <td>Feature 6 - Informar Vazamentos</td>
 </tr>
 <tr>
 <td>Feature 7 - Informações de Falta de Água</td>
 </tr>
+<tr>
+<td>Feature 30 - Dicas de Consumo Consciente</td>
+</tr>
 <!-- epico 4 -->
-<tr >
-<td rowspan="4" style="vertical-align: middle; font-weight: bold;">Épico 4: Serviços de Atendimento</td>
+<tr>
+<td rowspan="6" style="vertical-align: middle; font-weight: bold;">Épico 4: Serviços de Atendimento</td>
 <td>Feature 13 - Agendar Atendimento Presencial</td>
 </tr>
 <tr>
@@ -197,6 +221,12 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 </tr>
 <tr>
 <td>Feature 24 - Filtros para Consultar Atendimentos</td>
+</tr>
+<tr>
+<td>Feature 31 - Bloqueio e Reativação de Conta</td>
+</tr>
+<tr>
+<td>Feature 32 - Alteração de Titularidade</td>
 </tr>
 <!-- epico 5 -->
 <td rowspan="5" style="vertical-align: middle; font-weight: bold;">Épico 5: Interface e Usabilidade</td>
@@ -224,6 +254,7 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 </tr>
 </tbody>
 </table>
+
 
 </center>
 
@@ -280,7 +311,7 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 |  1.2   | 12/12/2024 | Adição das Histórias de Usuário e Priorização | [Letícia Resende](https://github.com/LeticiaResende23)| [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.3   | 13/12/2024 | Adição das Histórias de Usuário e Priorização | [Natan Almeida](https://github.com/natanalmeida03)| [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.4   | 14/12/2024 | Adiciona as features 17 a 24 | [Leandro de Almeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) | 
-
+|  1.5   | 14/12/2024 | Adiciona as features 25 a 32 | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Natan Almeida](https://github.com/natanalmeida03) | 
 </center>
 
 
