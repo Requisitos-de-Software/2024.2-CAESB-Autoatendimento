@@ -572,10 +572,7 @@
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></center>
 
 
-
-
-
-## Bibliografia
+## Referências
 
 > <p id="1">SERRANO, Milene. SERRANO, Maurício. Requisitos – Aula 15 . Disponível em: https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf . Acesso em 12 dez 2024.</p>
 

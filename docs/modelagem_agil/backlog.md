@@ -7,12 +7,29 @@
 ## Metodologia
 <p align="justify">&emsp;&emsp;Durante uma entrevista com o Product Owner (PO), enquanto ele descrevia as funcionalidades desejadas, os desenvolvedores/entrevistadores tomaram notas e fizeram perguntas para esclarecer suas ideias. Após a elicitação das histórias do usuário, os critérios de acessibilidade foram definidos, e as histórias foram definidas pelo PO em duas categorias: 'In', representando itens imprescindíveis para a conclusão do projeto, e 'Out', para itens desejados, mas não críticos para o sucesso do projeto (uma abordagem adaptada para priorização de requisitos Em). em seguida, temas, épicos e recursos foram organizados para categorizar as histórias do usuário. As Tabelas a seguir apresentam o backlog do produto, com o detalhamento de cada história do usuário incluída nos detalhes do documento, bem como o significado de cada um desses termos.</p>
 
-## Backlog
+
+<center>Tabela 1: Participantes entrevista 1
+
+| Participante   | Função          | Local         | Data       |
+|----------------|-----------------|---------------|------------|
+| Carolina Barbosa | Desenvolvedor   |   Gama - DF   | 12/12/2024 |
+| Maria Oliveira | Desenvolvedor   |   Gama - DF   | 15/12/2024 |
+| Pedro Santos   | Product Owner   |   Gama - DF   | 10/12/2024 |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<center>
+    <p>Vídeo 01: Entrevista com o PO</p>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/SpG8wJ3lwyc?si=RsvRbrSLw68c4YGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</center>
+
 
 ## Épico 1 - Gestão de Contas e Pagamentos
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 1: Product Backlog Elaborado com o Product Owner </p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Product Backlog Elaborado com o Product Owner </p></font>
 
 | Feature                     | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |-----------------------------|------------------------------------------------------------|-------------|-----------------------|
@@ -32,7 +49,7 @@
 
 ## Épico 2 - Interatividade e Suporte ao Cliente
 <center>
-<font size="3"><p style="text-align: center">Tabela 2: Product Backlog Elaborado com o Product Owner </p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Product Backlog Elaborado com o Product Owner </p></font>
 
 | Feature                     | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |-----------------------------|------------------------------------------------------------|-------------|-----------------------|
@@ -52,7 +69,7 @@
 
 ## Épico 3 - Sustentabilidade e Consumo Consciente
 <center>
-<font size="3"><p style="text-align: center">Tabela 3: Product Backlog Elaborado com o Product Owner </p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Product Backlog Elaborado com o Product Owner </p></font>
 
 | Feature                          | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |----------------------------------|------------------------------------------------------------|-------------|-----------------------|
@@ -69,7 +86,7 @@
 
 ## Épico 4: Serviços de Atendimento
 <center>
-<font size="3"><p style="text-align: center">Tabela 4: Product Backlog Elaborado com o Product Owner </p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Product Backlog Elaborado com o Product Owner </p></font>
 
 | Feature                          | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |----------------------------------|------------------------------------------------------------|-------------|-----------------------|
@@ -88,7 +105,7 @@
 
 ## Épico 5: Interface e Usabilidade
 <center>
-<font size="3"><p style="text-align: center">Tabela 5: Product Backlog Elaborado com o Product Owner </p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Product Backlog Elaborado com o Product Owner </p></font>
 
 | Feature                          | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |----------------------------------|------------------------------------------------------------|-------------|-----------------------|
@@ -106,7 +123,7 @@
 
 ## Épico 6: Desempenho e Funcionalidades Offline
 <center>
-<font size="3"><p style="text-align: center">Tabela 6: Product Backlog Elaborado com o Product Owner </p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Product Backlog Elaborado com o Product Owner </p></font>
 
 | Feature                     | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |-----------------------------|------------------------------------------------------------|-------------|-----------------------|
@@ -117,7 +134,7 @@
 
 ## Épico 7 - Segurança e Privacidade
 <center>
-<font size="3"><p style="text-align: center">Tabela 7: Product Backlog Elaborado com o Product Owner </p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Product Backlog Elaborado com o Product Owner </p></font>
 
 | Feature                | História de Usuário                           | Priorização | Rastreabilidade (ID) |
 |------------------------|----------------------------------------------|-------------|-----------------------|
@@ -138,7 +155,7 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 <p align="justify">&emsp;&emsp;Após a definição de um épico, são criadas as características, que consistem em especificamente sucintas das capacidades do produto para alcançar os objetivos dos usuários. Elas representam funcionalidades com um grau de abstração mais elevado do que as histórias do usuário. As features estão especificadas na tabela 8.</p>
 
 <center>
-<font size="3"><p style="text-align: center">Tabela 8: Features </p></font>
+<font size="3"><p style="text-align: center">Tabela 9: Features </p></font>
 
 <table>
 <thead>
