@@ -94,6 +94,8 @@ nav:
           - Léxicos: planejamento/verificacao/veri_lexico.md
           - Especificação Suplementar: planejamento/verificacao/veri_suplementar.md
           - Itens de desenvolvimento do projeto: planejamento/verificacao/itens_dev_proj3.md
+        - Etapa 4: 
+           - Backlog: planejamento/verificacao/veri_backlog.md
       - Grupo 04:
         - Etapa 1:
             - Aplicativo Selecionado: planejamento/verificacao_g4/aplicativo_escolhido.md
@@ -114,7 +116,6 @@ nav:
           - Casos de uso: planejamento/verificacao_g4/veri_casos_de_uso.md
           - Especificação Suplementar: planejamento/verificacao/veri_sumplementar1.md
           - Itens de desenvolvimento do projeto: planejamento/verificacao_g4/itens_dev_proj2_g4.md
-
 markdown_extensions:
   - attr_list
   - md_in_html
