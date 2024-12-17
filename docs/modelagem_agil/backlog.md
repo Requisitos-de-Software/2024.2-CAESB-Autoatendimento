@@ -329,7 +329,7 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 - <p align="justify">Descrição: Este épico aborda as funcionalidades de atendimento direto e solicitação de serviços. Envolve requisitos de registro e envio de ordens de serviço, agendamento de atendimentos presenciais, alteração de titularidade de conta, filtro de atendimentos e solicitações de reparos.</p>
 
 ### Épico 5: Interface e Usabilidade
-- Requisitos relacionados:<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ07, RQ26, RQ27, RQ31, RQ32, RQ33, RQ36, RQ37, RQ38, RQ35</a>    
+- Requisitos relacionados:<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ07, RQ26, RQ27, RQ31, RQ32, RQ33, RQ35, RQ36, RQ37, RQ38</a>    
 - <p align="justify">Descrição: Este épico abrange a interface e a experiência do usuário. Inclui funcionalidades como pequenas normas para indicar o estado dos serviços, tutorial inicial para novos usuários, suporte a vários idiomas, conformidade com padrões de acessibilidade, interface intuitiva e suporte a diferentes tamanhos de tela.</p>
 
 ### Épico 6: Desempenho e Funcionalidades Offline
