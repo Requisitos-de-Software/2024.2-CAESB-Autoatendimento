@@ -581,7 +581,7 @@
 | US33                   | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                     |
 | Descrição              | Eu, como usuário, quero poder escolher o imóvel desejado, para que eu possa consultar e gerenciar os serviços de abastecimento de água e esgoto, verificar o histórico de consumo, fazer solicitações ou consultar débitos relacionados ao imóvel. |
 | Critérios de Aceitação | - O aplicativo deve exibir uma lista de imóveis cadastrados ou permitir a busca por endereço para que o usuário possa selecionar o imóvel desejado. <br> - Caso o imóvel não esteja cadastrado, o usuário deve ser orientado a realizar o cadastro ou buscar informações relacionadas. <br> - O usuário pode selecionar o imóvel desejado da lista para consultar ou realizar ações, como verificar o consumo de água, acessar faturas, solicitar serviços, etc. |
-| Prioridade             | Should-Have                                                                                 |
+| Prioridade             | Must-Have                                                                                 |
 | Rastreabilidade        | [RQ26](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
 
 </p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
@@ -593,7 +593,7 @@
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
-| US34                   | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                     |
+| US34                   | O aplicativo deve reconhecer automaticamente os imóveis associados ao cliente da Caesb.                     |
 | Descrição              | Eu, como usuário, quero que o aplicativo reconheça automaticamente os imóveis associados à minha conta, para que eu possa acessar rapidamente as informações e serviços relacionados a esses imóveis, sem precisar fazer o cadastro manualmente. |
 | Critérios de Aceitação | - O aplicativo deve identificar e exibir automaticamente todos os imóveis associados à conta do cliente, com base no CPF, CNPJ ou outra informação de identificação fornecida no login. <br> - Após o login, o cliente verá uma lista com todos os imóveis associados à sua conta, incluindo informações básicas como endereço, número de matrícula e status dos serviços (água, esgoto).  <br> - O cliente não precisará inserir dados adicionais para visualizar os imóveis, pois as informações serão recuperadas automaticamente da base de dados da CAESB. <br> - Para cada imóvel listado, o aplicativo deve permitir que o cliente visualize informações detalhadas, como consumo de água, status de pagamentos, débitos, entre outros. |
 | Prioridade             | Should-Have                                                                                 |
