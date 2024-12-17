@@ -12,17 +12,17 @@
 
 | Participante   | Função          | Local         | Data       |
 |----------------|-----------------|---------------|------------|
-| Carolina Barbosa | Desenvolvedor   |   Gama - DF   | 12/12/2024 |
-| Maria Oliveira | Desenvolvedor   |   Gama - DF   | 15/12/2024 |
-| Pedro Santos   | Product Owner   |   Gama - DF   | 10/12/2024 |
+| Leandro de Almeida | Desenvolvedor   |   Gama - DF   | 16/12/2024 |
+| Leticia Resende | Desenvolvedor   |   Gama - DF   | 16/12/2024 |
+| Carolina Barbosa | Product Owner   |   Gama - DF   | 16/12/2024 |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
 <center>
     <p>Vídeo 01: Entrevista com o PO</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/SpG8wJ3lwyc?si=RsvRbrSLw68c4YGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/PsvCjqgs0CE?si=WVM3HbC9OoIOo7lK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> e <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
 
@@ -113,7 +113,7 @@
 | Feature 15 - Suporte a Múltiplos Idiomas  | US15 - Oferecer suporte a múltiplos idiomas para atender usuários diversificados. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ32 </a> |
 | Feature 16 - Responsividade  | US16 - Adaptar a diferentes tamanhos de tela. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ38 </a> |     
 | Feature 19 - Conformidade com Padrões de Acessibilidade | US03 - Conformidade com os padrões de acessibilidade da WCAG. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ35 </a> |   
-| Feature 22 - Exibição de Estado Atual dos Serviços | Exibir pequenas descrições ao lado dos serviços | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ07 </a> |   
+| Feature 22 - Exibição de Estado Atual dos Serviços | US06 - Exibir pequenas descrições ao lado dos serviços | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ07 </a> |   
 
 
 </p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>

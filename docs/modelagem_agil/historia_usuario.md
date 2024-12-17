@@ -16,17 +16,17 @@
 
 | Participante   | Função          | Local         | Data       |
 |----------------|-----------------|---------------|------------|
-| João Silva     | Desenvolvedor   |   Gama - DF   | 12/12/2024 |
-| Maria Oliveira | Desenvolvedor   |   Gama - DF   | 15/12/2024 |
-| Pedro Santos   | Product Owner   |   Gama - DF   | 10/12/2024 |
+| Leandro de Almeida | Desenvolvedor   |   Gama - DF   | 16/12/2024 |
+| Leticia Resende | Desenvolvedor   |   Gama - DF   | 16/12/2024 |
+| Carolina Barbosa | Product Owner   |   Gama - DF   | 16/12/2024 |
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
 <center>
     <p>Vídeo 01: Entrevista com o PO</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/SpG8wJ3lwyc?si=RsvRbrSLw68c4YGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/PsvCjqgs0CE?si=WVM3HbC9OoIOo7lK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> e <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
 <center>Tabela 2: Participantes entrevista 2
