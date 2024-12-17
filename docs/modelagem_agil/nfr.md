@@ -244,9 +244,9 @@
 
 <p align = "justify" >Com isso em mente, segue a Figura número 6 com o NFR relativo a manutenibilidade:</p>
 
-<center> Figura 5: SIG manutenibilidade
+<center> Figura 6: SIG manutenibilidade
 
-![alt text](../assets/softgoals/NRF4.png)
+![alt text](../assets/softgoals/nfr05.jpg)
 
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 
