@@ -235,6 +235,37 @@
 </center>
 <br>
 
+## NFR Framework - NFR05: Manutenibilidade
+
+<p align="justify">&emsp;&emsp; A manutenibilidade de um sistema se refere à facilidade com que um sistema pode ser mantido, ajustado ou melhorado ao longo de seu ciclo de vida. Em outras palavras, é a capacidade do sistema de ser modificado para corrigir defeitos, melhorar o desempenho ou adaptar-se a novos requisitos, sem causar grandes interrupções ou custos excessivos. </p>
+
+- RQ35: O aplicativo deve estar em conformidade com os padrões de acessibilidade da última versão da WCAG.
+- RQ39: O aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas.
+
+<p align = "justify" >Com isso em mente, segue a Figura número 6 com o NFR relativo a manutenibilidade:</p>
+
+<center> Figura 5: SIG manutenibilidade
+
+![alt text](../assets/softgoals/NRF4.png)
+
+</p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
+
+</center>
+
+### Propagação de impactos - NFR05
+
+<center> Tabela 08: Propagação de impactos NRF05
+
+|          NFR                          |         Impacto           |              Avaliador               |
+| :-----------------------------------: | :-----------------------: | :----------------------------------: |
+| Conformidade com os padrões de acessibilidade da última versão da WCAG                      |  𝒲+ (fracamente satisfeito)     | <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a> |
+| Suporte offline para funcionalidades básicas                          |  𝒲+ (fracamente satisfeito)  | <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a> |
+
+</p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
+
+</center>
+<br>
+
 ## Referências
 
 > <p id="1">[1] Chung, Lawrence; A. Nixon, Brian; Mylopoulos, John. Non-Functional Requirements in Software Engineering. Acesso em 13 de Dezembro de 2024.</p>
@@ -251,3 +282,4 @@
 |  1.1   | 14/12/2024 | Adicionando NFR de confiabilidade e impactos|  [Letícia Resende](https://github.com/LeticiaResende23) |[Matheus Barros](https://github.com/Ninja-Haiyai) |
 |  1.2   | 14/12/2024 | Adiciona NFR02: Eficiência| [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.3   | 15/12/2024 | Adiciona NFR04: suportabilidade| [Natan Almeida](https://github.com/natanalmeida03) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.4   | 17/12/2024 | Adiciona NFR05: manutenibilidade| [Joao Victor Marques](https://github.com/jmarquees) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
