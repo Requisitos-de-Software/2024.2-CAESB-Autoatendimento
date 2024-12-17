@@ -8,12 +8,30 @@
 
 <p align="justify">&emsp;&emsp;Para que este documento possa ser produzido, foram utilizados os requisitos não funcionais presentes no nosso projeto e elicitados no artefato de <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">de requisitos elicitados</a>, que trata dos requisitos elicitados em relação ao  aplicativo <a href="https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR">Caesb Autoatendimento</a>.</p>
 
+<p align="justify">&emsp;&emsp;Para a verificação foi feita uma reunião com o PO para validação dos NFR, os participantes estão contidos na tabela 1</p>
+
+<center>Tabela 1: Participantes entrevista 1
+
+| Participante   | Função          | Local         | Data       |
+|----------------|-----------------|---------------|------------|
+| Natan Almeida  | Desenvolvedor   |   Gama - DF   | 17/12/2024 |
+| Matheus Barros | Desenvolvedor   |   Gama - DF   | 17/12/2024 |
+| João Paulo     | Product Owner   |   Gama - DF   | 17/12/2024 |
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
+<center>
+    <p>Vídeo 01: Entrevista com o PO</p>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/pLyS8JTte6Q?si=XORINlf23HvaU--f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
+</center>
+
 <p align="justify">&emsp;&emsp;Esse framework leva em consideração o conceito de "softgoal", eles se referem a um objeto desprovido de definição clara e critérios de satisfação sólidos, esses softgoals são utilizados para representar Requisitos não-funcionais e podem estar conectados entre si, refletindo as influências que eles exercem entre si.</p>
 
+<p align="justify">&emsp;&emsp; Existem três categorias de softgoals, abaixo segue (Tabela 2)  uma explicação sobre cada tipo:</p>
 
-<p align="justify">&emsp;&emsp; Existem três categorias de softgoals, abaixo segue (Tabela 1)  uma explicação sobre cada tipo:</p>
-
-<center>Tabela 1: Tipos de Softgoals
+<center>Tabela 2: Tipos de Softgoals
 
 | **Tipo de Softgoal**         | **Descrição**                                                                                                                                 |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -47,9 +65,9 @@
 
 </center>
 
-<p align="justify">&emsp;&emsp; Depois de fazermos a identificação deles e relacionarmos devemos atribuir a eles as contribuições e decomposições, que serão explicadas na Tabela 2: </p>
+<p align="justify">&emsp;&emsp; Depois de fazermos a identificação deles e relacionarmos devemos atribuir a eles as contribuições e decomposições, que serão explicadas na Tabela 3: </p>
 
-<center> Tabela 2: Tipos de contribuições e decomposições
+<center> Tabela 3: Tipos de contribuições e decomposições
 
 | **Tipo de Contribuição**           | **Descrição**                                                                                          |
 |------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -70,7 +88,7 @@
 
 ## Requisitos Não-Funcionais:
 <center>
-<figcaption>Tabela 03 - Requisitos Não Funcionais (RNF) utilizados para elabaoração do documento, retirado do artefato <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados.md/">de requisitos elicitados</a> :</figcaption>
+<figcaption>Tabela 04 - Requisitos Não Funcionais (RNF) utilizados para elabaoração do documento, retirado do artefato <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados.md/">de requisitos elicitados</a> :</figcaption>
 
 |  ID  |                      DESCRIÇÃO                       |                 RASTREABILIDADE                  | IMPLEMENTADO |
 | :--: | :--------------------------------------------------: | :----------------------------------------------: | :----------: |
@@ -109,7 +127,7 @@
 
 ### Propagação de impactos - NFR01
 
-<center> Tabela 04: Propagação de impactos NF01
+<center> Tabela 05: Propagação de impactos NF01
 
 |          NFR                          |         Impacto           |              Avaliador               |
 | :-----------------------------------: | :-----------------------: | :----------------------------------: |
@@ -144,7 +162,7 @@
 
 ### Propagação de impactos - NFR02
 
-<center> Tabela 05: Propagação de impactos NRF02
+<center> Tabela 06: Propagação de impactos NRF02
 
 |          NFR                          |         Impacto           |              Avaliador               |
 | :-----------------------------------: | :-----------------------: | :----------------------------------: |
@@ -180,7 +198,7 @@
 </center>
 
 ### Propagação de impactos - NFR03
-<center> Tabela 06: Propagação de impactos NRF03
+<center> Tabela 07: Propagação de impactos NRF03
 
 |        NFR                     |    Impacto                   |  Avaliador           |
 |--------------------------------|------------------------------|-------------------------|
@@ -220,7 +238,7 @@
 
 ### Propagação de impactos - NFR04
 
-<center> Tabela 07: Propagação de impactos NRF04
+<center> Tabela 08: Propagação de impactos NRF04
 
 |          NFR                          |         Impacto           |              Avaliador               |
 | :-----------------------------------: | :-----------------------: | :----------------------------------: |
@@ -254,7 +272,7 @@
 
 ### Propagação de impactos - NFR05
 
-<center> Tabela 08: Propagação de impactos NRF05
+<center> Tabela 09: Propagação de impactos NRF05
 
 |          NFR                          |         Impacto           |              Avaliador               |
 | :-----------------------------------: | :-----------------------: | :----------------------------------: |
@@ -283,3 +301,4 @@
 |  1.2   | 14/12/2024 | Adiciona NFR02: Eficiência| [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.3   | 15/12/2024 | Adiciona NFR04: suportabilidade| [Natan Almeida](https://github.com/natanalmeida03) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
 |  1.4   | 17/12/2024 | Adiciona NFR05: manutenibilidade| [Joao Victor Marques](https://github.com/jmarquees) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.5   | 17/12/2024 | Adiciona vídeo 01 | [Natan Almeida](https://github.com/natanalmeida03) | [Matheus Barros](https://github.com/Ninja-Haiyai) |

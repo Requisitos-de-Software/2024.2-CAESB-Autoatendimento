@@ -95,7 +95,8 @@ nav:
           - Especificação Suplementar: planejamento/verificacao/veri_suplementar.md
           - Itens de desenvolvimento do projeto: planejamento/verificacao/itens_dev_proj3.md
         - Etapa 4: 
-           - Backlog: planejamento/verificacao/veri_backlog.md
+          - Backlog: planejamento/verificacao/veri_backlog.md
+          - NFR Framework: planejamento/verificacao/veri_nfr.md
       - Grupo 04:
         - Etapa 1:
             - Aplicativo Selecionado: planejamento/verificacao_g4/aplicativo_escolhido.md
