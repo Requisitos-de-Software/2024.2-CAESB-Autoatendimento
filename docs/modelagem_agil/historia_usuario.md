@@ -574,19 +574,123 @@
 <br>
 
 ## US33 - Escolher imóvel desejado.
-<center>Tabela 33: Escolher imóvel desejado.
+<center>Tabela 35: Escolher imóvel desejado.
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
 | US26                   | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                     |
 | Descrição              | Eu, como usuário, quero poder escolher o imóvel desejado, para que eu possa consultar e gerenciar os serviços de abastecimento de água e esgoto, verificar o histórico de consumo, fazer solicitações ou consultar débitos relacionados ao imóvel. |
-| Critérios de Aceitação | - O aplicativo deve exibir uma lista de imóveis cadastrados ou permitir a busca por endereço para que o usuário possa selecionar o imóvel desejado. <br> - Caso o imóvel não esteja cadastrado, o usuário deve ser orientado a realizar o cadastro ou buscar informações relacionadas. |
+| Critérios de Aceitação | - O aplicativo deve exibir uma lista de imóveis cadastrados ou permitir a busca por endereço para que o usuário possa selecionar o imóvel desejado. <br> - Caso o imóvel não esteja cadastrado, o usuário deve ser orientado a realizar o cadastro ou buscar informações relacionadas. <br> - O usuário pode selecionar o imóvel desejado da lista para consultar ou realizar ações, como verificar o consumo de água, acessar faturas, solicitar serviços, etc. |
 | Prioridade             | Should-Have                                                                                 |
-| Rastreabilidade        | [RQ24](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+| Rastreabilidade        | [RQ26](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
 
 </p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
 
 <br>
+
+## US34 - Reconhecimento automático de imóveis.
+<center>Tabela 36: Reconhecimento automático de imóveis.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US27                   | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                     |
+| Descrição              | Eu, como usuário, quero que o aplicativo reconheça automaticamente os imóveis associados à minha conta, para que eu possa acessar rapidamente as informações e serviços relacionados a esses imóveis, sem precisar fazer o cadastro manualmente. |
+| Critérios de Aceitação | - O aplicativo deve identificar e exibir automaticamente todos os imóveis associados à conta do cliente, com base no CPF, CNPJ ou outra informação de identificação fornecida no login. <br> - Após o login, o cliente verá uma lista com todos os imóveis associados à sua conta, incluindo informações básicas como endereço, número de matrícula e status dos serviços (água, esgoto).  <br> - O cliente não precisará inserir dados adicionais para visualizar os imóveis, pois as informações serão recuperadas automaticamente da base de dados da CAESB. <br> - Para cada imóvel listado, o aplicativo deve permitir que o cliente visualize informações detalhadas, como consumo de água, status de pagamentos, débitos, entre outros. |
+| Prioridade             | Should-Have                                                                                 |
+| Rastreabilidade        | [RQ27](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
+
+<br>
+
+## US35 - Consideração do número de pessoas no imóvel.
+<center>Tabela 37: Consideração do número de pessoas no imóvel.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US28                   | O aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo.                     |
+| Descrição              | Eu, como usuário, quero que o aplicativo considere o número de pessoas no meu imóvel ao calcular a média do consumo de água, para que eu tenha uma estimativa mais precisa do consumo baseado na quantidade de moradores. |
+| Critérios de Aceitação | - O aplicativo deve permitir que o usuário informe o número de pessoas no imóvel, seja durante o cadastro ou por meio de atualização nas configurações.  <br> - O cálculo da média de consumo de água deve ser ajustado automaticamente com base no número de pessoas informadas.   <br> - O usuário deve poder visualizar a média de consumo de água, levando em consideração o número de pessoas no imóvel, em comparação com o histórico de consumo anterior.  <br> - O sistema deve gerar uma recomendação de consumo com base no número de moradores, mostrando se o consumo está dentro da média ou se há alguma anomalia. |
+| Prioridade             | Should-Have                                                                                 |
+| Rastreabilidade        | [RQ28](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
+
+<br>
+
+## US36 - Compatibilidade com Android e iOS.
+<center>Tabela 38: Compatibilidade com Android e iOS.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US33                   | O aplicativo deve ser compatível com as versões mais recentes do Android e iOS.                     |
+| Descrição              | Eu, como usuário, quero que o aplicativo seja compatível com as versões mais recentes do Android e iOS, para garantir que o aplicativo funcione corretamente em meu dispositivo e aproveite os recursos mais recentes desses sistemas operacionais. |
+| Critérios de Aceitação | - O aplicativo deve ser otimizado para oferecer boa performance e compatibilidade com as funcionalidades dessas versões, como novos recursos, APIs e melhorias de segurança.   <br> - Caso o usuário esteja utilizando uma versão anterior do sistema operacional, o aplicativo deve notificar que pode haver limitações de compatibilidade ou funcionalidades.    <br> - O aplicativo deve ser capaz de realizar atualizações futuras para manter a compatibilidade com novas versões do Android e iOS.   |
+| Prioridade             | Must-Have                                                                                 |
+| Rastreabilidade        | [RQ33](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
+
+<br>
+
+## US37 - Interface intuitiva e organizada.
+<center>Tabela 39: Interface intuitiva e organizada.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US36                   | O aplicativo deve ter uma interface intuitiva, organizada e fácil de usar.                     |
+| Descrição              | Eu, como usuário, quero que o aplicativo tenha uma interface intuitiva, organizada e fácil de usar, para que eu possa navegar facilmente pelas funcionalidades e realizar minhas tarefas sem dificuldade. |
+| Critérios de Aceitação | - O aplicativo deve ter uma navegação simples e clara, com menus e botões visíveis e de fácil acesso.   <br> - As funcionalidades mais importantes devem ser facilmente acessíveis a partir da tela inicial, sem a necessidade de muitas etapas.   <br> - A interface deve ser limpa, sem sobrecarga de informações, utilizando ícones e textos explicativos para facilitar o entendimento.   <br> - O design deve ser responsivo e adaptável, funcionando bem em diferentes tamanhos de tela e dispositivos.   <br> - O aplicativo deve ser testado com usuários para garantir que a interface é compreendida e fácil de usar por um público amplo, incluindo pessoas com pouca experiência tecnológica. |
+| Prioridade             | Should-Have                                                                                 |
+| Rastreabilidade        | [RQ36](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
+
+<br>
+
+## US38 - Minimização do número de cliques necessários para interações.
+<center>Tabela 40: Minimização do número de cliques necessários para interações.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US37                   | O sistema deve minimizar o número de cliques necessários para interações.                    |
+| Descrição              | Eu, como usuário, quero que o sistema minimize o número de cliques necessários para realizar as interações, para que eu possa completar minhas tarefas de maneira rápida e eficiente, sem perder tempo em ações desnecessárias. |
+| Critérios de Aceitação | - O sistema deve ser projetado para que as interações mais comuns ou críticas sejam acessíveis com o menor número possível de cliques.    <br> - O fluxo de navegação deve ser otimizado, garantindo que o usuário não precise percorrer várias telas ou menus para realizar uma ação simples.   <br> - O sistema deve usar opções como seleções automáticas, sugestões e menus suspensos para reduzir a necessidade de cliques repetitivos. |
+| Prioridade             | Should-Have                                                                                 |
+| Rastreabilidade        | [RQ37](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
+
+<br>
+
+## US39 - Suporte offline.
+<center>Tabela 41: Suporte offline.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US39                   | O aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas.   |
+| Descrição              | Eu, como usuário, quero que o aplicativo permita o suporte offline para funcionalidades básicas, como a visualização de contas armazenadas, para que eu possa acessar essas informações mesmo quando não estiver conectado à internet. |
+| Critérios de Aceitação | - O aplicativo deve armazenar localmente informações como contas, faturas e histórico de consumo, permitindo que o usuário acesse esses dados offline.     <br> - O usuário deve ser capaz de visualizar as contas e faturas salvas no dispositivo sem precisar de uma conexão com a internet.    <br> - Quando a conexão for restabelecida, o aplicativo deve sincronizar automaticamente os dados armazenados localmente com o servidor, atualizando informações como status de pagamento e novos débitos. <br> - O aplicativo deve informar ao usuário quando estiver no modo offline e quando os dados não estiverem atualizados devido à falta de conexão. |
+| Prioridade             | Must-Have                                                                                 |
+| Rastreabilidade        | [RQ39](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
+
+<br>
+
+## US40 - Tempos de resposta inferiores a 2 segundos para funcionalidades.
+<center>Tabela 42: Tempos de resposta inferiores a 2 segundos para funcionalidades.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US40                   | O aplicativo deve ter tempos de resposta inferiores a 2 segundos para a maioria das funcionalidades.   |
+| Descrição              | Eu, como usuário, quero que o aplicativo tenha tempos de resposta inferiores a 2 segundos para a maioria das funcionalidades, para que eu possa realizar minhas tarefas de maneira rápida e eficiente.  |
+| Critérios de Aceitação | - O tempo de resposta do aplicativo para ações como abrir telas, consultar contas, e exibir informações deve ser inferior a 2 segundos na maioria das situações.   <br> - O aplicativo deve ser otimizado para garantir um desempenho ágil, evitando delays significativos durante a navegação ou ao acessar dados.   <br> - Caso uma funcionalidade demore mais de 2 segundos para ser carregada, o aplicativo deve informar ao usuário que está processando a ação (ex: uma animação de carregamento ou uma mensagem de "aguarde").   <br> - O design deve ser responsivo e adaptável, funcionando bem em diferentes tamanhos de tela e dispositivos.   <br> - O desempenho do aplicativo deve ser testado em diferentes dispositivos para garantir que o tempo de resposta seja mantido abaixo de 2 segundos, especialmente nas funcionalidades mais utilizadas. |
+| Prioridade             | Must-Have                                                                                 |
+| Rastreabilidade        | [RQ40](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
+
 
 ## Referências
 
