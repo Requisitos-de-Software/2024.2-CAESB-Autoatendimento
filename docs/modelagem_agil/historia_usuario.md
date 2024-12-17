@@ -578,7 +578,7 @@
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
-| US26                   | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                     |
+| US33                   | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                     |
 | Descrição              | Eu, como usuário, quero poder escolher o imóvel desejado, para que eu possa consultar e gerenciar os serviços de abastecimento de água e esgoto, verificar o histórico de consumo, fazer solicitações ou consultar débitos relacionados ao imóvel. |
 | Critérios de Aceitação | - O aplicativo deve exibir uma lista de imóveis cadastrados ou permitir a busca por endereço para que o usuário possa selecionar o imóvel desejado. <br> - Caso o imóvel não esteja cadastrado, o usuário deve ser orientado a realizar o cadastro ou buscar informações relacionadas. <br> - O usuário pode selecionar o imóvel desejado da lista para consultar ou realizar ações, como verificar o consumo de água, acessar faturas, solicitar serviços, etc. |
 | Prioridade             | Should-Have                                                                                 |
@@ -593,7 +593,7 @@
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
-| US27                   | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                     |
+| US34                   | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                     |
 | Descrição              | Eu, como usuário, quero que o aplicativo reconheça automaticamente os imóveis associados à minha conta, para que eu possa acessar rapidamente as informações e serviços relacionados a esses imóveis, sem precisar fazer o cadastro manualmente. |
 | Critérios de Aceitação | - O aplicativo deve identificar e exibir automaticamente todos os imóveis associados à conta do cliente, com base no CPF, CNPJ ou outra informação de identificação fornecida no login. <br> - Após o login, o cliente verá uma lista com todos os imóveis associados à sua conta, incluindo informações básicas como endereço, número de matrícula e status dos serviços (água, esgoto).  <br> - O cliente não precisará inserir dados adicionais para visualizar os imóveis, pois as informações serão recuperadas automaticamente da base de dados da CAESB. <br> - Para cada imóvel listado, o aplicativo deve permitir que o cliente visualize informações detalhadas, como consumo de água, status de pagamentos, débitos, entre outros. |
 | Prioridade             | Should-Have                                                                                 |
@@ -608,7 +608,7 @@
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
-| US28                   | O aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo.                     |
+| US35                   | O aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo.                     |
 | Descrição              | Eu, como usuário, quero que o aplicativo considere o número de pessoas no meu imóvel ao calcular a média do consumo de água, para que eu tenha uma estimativa mais precisa do consumo baseado na quantidade de moradores. |
 | Critérios de Aceitação | - O aplicativo deve permitir que o usuário informe o número de pessoas no imóvel, seja durante o cadastro ou por meio de atualização nas configurações.  <br> - O cálculo da média de consumo de água deve ser ajustado automaticamente com base no número de pessoas informadas.   <br> - O usuário deve poder visualizar a média de consumo de água, levando em consideração o número de pessoas no imóvel, em comparação com o histórico de consumo anterior.  <br> - O sistema deve gerar uma recomendação de consumo com base no número de moradores, mostrando se o consumo está dentro da média ou se há alguma anomalia. |
 | Prioridade             | Should-Have                                                                                 |
@@ -623,7 +623,7 @@
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
-| US33                   | O aplicativo deve ser compatível com as versões mais recentes do Android e iOS.                     |
+| US36                   | O aplicativo deve ser compatível com as versões mais recentes do Android e iOS.                     |
 | Descrição              | Eu, como usuário, quero que o aplicativo seja compatível com as versões mais recentes do Android e iOS, para garantir que o aplicativo funcione corretamente em meu dispositivo e aproveite os recursos mais recentes desses sistemas operacionais. |
 | Critérios de Aceitação | - O aplicativo deve ser otimizado para oferecer boa performance e compatibilidade com as funcionalidades dessas versões, como novos recursos, APIs e melhorias de segurança.   <br> - Caso o usuário esteja utilizando uma versão anterior do sistema operacional, o aplicativo deve notificar que pode haver limitações de compatibilidade ou funcionalidades.    <br> - O aplicativo deve ser capaz de realizar atualizações futuras para manter a compatibilidade com novas versões do Android e iOS.   |
 | Prioridade             | Must-Have                                                                                 |
@@ -638,7 +638,7 @@
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
-| US36                   | O aplicativo deve ter uma interface intuitiva, organizada e fácil de usar.                     |
+| US37                   | O aplicativo deve ter uma interface intuitiva, organizada e fácil de usar.                     |
 | Descrição              | Eu, como usuário, quero que o aplicativo tenha uma interface intuitiva, organizada e fácil de usar, para que eu possa navegar facilmente pelas funcionalidades e realizar minhas tarefas sem dificuldade. |
 | Critérios de Aceitação | - O aplicativo deve ter uma navegação simples e clara, com menus e botões visíveis e de fácil acesso.   <br> - As funcionalidades mais importantes devem ser facilmente acessíveis a partir da tela inicial, sem a necessidade de muitas etapas.   <br> - A interface deve ser limpa, sem sobrecarga de informações, utilizando ícones e textos explicativos para facilitar o entendimento.   <br> - O design deve ser responsivo e adaptável, funcionando bem em diferentes tamanhos de tela e dispositivos.   <br> - O aplicativo deve ser testado com usuários para garantir que a interface é compreendida e fácil de usar por um público amplo, incluindo pessoas com pouca experiência tecnológica. |
 | Prioridade             | Should-Have                                                                                 |
@@ -653,7 +653,7 @@
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
-| US37                   | O sistema deve minimizar o número de cliques necessários para interações.                    |
+| US38                   | O sistema deve minimizar o número de cliques necessários para interações.                    |
 | Descrição              | Eu, como usuário, quero que o sistema minimize o número de cliques necessários para realizar as interações, para que eu possa completar minhas tarefas de maneira rápida e eficiente, sem perder tempo em ações desnecessárias. |
 | Critérios de Aceitação | - O sistema deve ser projetado para que as interações mais comuns ou críticas sejam acessíveis com o menor número possível de cliques.    <br> - O fluxo de navegação deve ser otimizado, garantindo que o usuário não precise percorrer várias telas ou menus para realizar uma ação simples.   <br> - O sistema deve usar opções como seleções automáticas, sugestões e menus suspensos para reduzir a necessidade de cliques repetitivos. |
 | Prioridade             | Should-Have                                                                                 |
