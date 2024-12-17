@@ -706,3 +706,4 @@
 |  1.1   | 14/12/2024 | Adição de historias de usuario | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.2   | 14/12/2024 | Adição de historias de usuario | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 15/12/2024 | Adição das historias de usuario 25 até 32| [Matheus Barros](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)|
+|  1.4   | 17/12/2024 | Adição das historias de usuario 33 a 40| [Joao Victor Marques](https://github.com/jmarquees)| [Leandro de Almeida](https://github.com/leomitx10)|
