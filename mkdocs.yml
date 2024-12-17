@@ -97,6 +97,7 @@ nav:
         - Etapa 4: 
           - Backlog: planejamento/verificacao/veri_backlog.md
           - NFR Framework: planejamento/verificacao/veri_nfr.md
+          - Histórias de Usuário: planejamento/verificacao/veri_historia.md
       - Grupo 04:
         - Etapa 1:
             - Aplicativo Selecionado: planejamento/verificacao_g4/aplicativo_escolhido.md
