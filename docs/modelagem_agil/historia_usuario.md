@@ -571,6 +571,22 @@
 
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></center>
 
+<br>
+
+## US33 - Escolher imóvel desejado.
+<center>Tabela 33: Escolher imóvel desejado.
+
+| ID                     | Nome                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| US26                   | O aplicativo deve permitir que o usuário escolha o imóvel desejado.                     |
+| Descrição              | Eu, como usuário, quero poder escolher o imóvel desejado, para que eu possa consultar e gerenciar os serviços de abastecimento de água e esgoto, verificar o histórico de consumo, fazer solicitações ou consultar débitos relacionados ao imóvel. |
+| Critérios de Aceitação | - O aplicativo deve exibir uma lista de imóveis cadastrados ou permitir a busca por endereço para que o usuário possa selecionar o imóvel desejado. <br> - Caso o imóvel não esteja cadastrado, o usuário deve ser orientado a realizar o cadastro ou buscar informações relacionadas. |
+| Prioridade             | Should-Have                                                                                 |
+| Rastreabilidade        | [RQ24](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
+
+</p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
+
+<br>
 
 ## Referências
 
