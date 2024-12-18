@@ -46,15 +46,15 @@ Neste documento, realizou-se a avaliação do projeto <a href="https://github.co
 
 | **ID** | **Descrição**                                                                                       | **Avaliação** | **Autor**      | **Observações**                                |
 |--------|-----------------------------------------------------------------------------------------------------|---------------|----------------|-----------------------------------------------|
-| 01     | O histórico de versão padronizado? |            | André Barros   |                            |
-| 02     | O(s) autores e o(s) revisores para cada artefato?                                        |            | André Barros   |                            |
-| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?                                  |            | André Barros   |                            |
-| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos?                           |            | André Barros   |                            |
-| 05     | Um texto fazendo uma introdução dos artefatos?                           |            | André Barros   |  
-| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |            | André Barros   |                            |
-| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).                                        |            | André Barros   |                            |
-| 08     | A gravação da reunião do grupo.                                 |            | André Barros   |                            |
-| 09     | Vídeo de apresentação na categoria "não listado" no youtube?                           |            | André Barros   |   
+| 01     | O histórico de versão padronizado? |      Sim      | André Barros   |  Versão 1.6 17/12                          |
+| 02     | O(s) autores e o(s) revisores para cada artefato?                                        |          Sim      | André Barros   |            Versão 1.6 17/12                |
+| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?                                 |    Sim            | André Barros   |        Versão 1.6 17/12                    |
+| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos?                           |          Sim      | André Barros   |                   Versão 1.6 17/12         |
+| 05     | Um texto fazendo uma introdução dos artefatos?                           |       Sim         | André Barros   |  Versão 1.6 17/12
+| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |      Sim          | André Barros   |                  Versão 1.6 17/12          |
+| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).                                        |     Sim           | André Barros   |                     Versão 1.6 17/12       |
+| 08     | A gravação da reunião do grupo.                                 |         Sim       | André Barros   |        Versão 1.6 17/12                    |
+| 09     | Vídeo de apresentação na categoria "não listado" no youtube?                           |        Sim        | André Barros   |   Versão 1.6 17/12
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
