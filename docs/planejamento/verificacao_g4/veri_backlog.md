@@ -121,7 +121,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 18/12/2024 | Criação do Documento e Lista de Verificação do Grupo + 1 | [Matheus Barros](https://github.com/Ninja-Haiyai)<br> [Joao Victor](https://github.com/jmarquees) | [Letícia Resende](https://github.com/LeticiaResende23)<br> [Leandro de Almeida](https://github.com/leomitx10)<br> [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.0   | 18/12/2024 | Criação do Documento e Lista de Verificação do Grupo + 1 | [Matheus Barros](https://github.com/Ninja-Haiyai)<br> [Joao Victor Marques](https://github.com/jmarquees) | [Letícia Resende](https://github.com/LeticiaResende23)<br> [Leandro de Almeida](https://github.com/leomitx10)<br> [Natan Almeida](https://github.com/natanalmeida03) |
 
 
 

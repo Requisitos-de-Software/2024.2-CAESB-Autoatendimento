@@ -39,7 +39,7 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 
 
 <center>
-</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
 
 <br>
@@ -56,11 +56,12 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 | 06     | <p align="justify">A história possui critérios de aceitação?</p> |               | André Barros                | Versão 1.0 18/12    |
 | 07     | <p align="justify">As histórias de usuário são concisas, evitando jargões técnicos e mantendo a linguagem acessível para todos os stakeholders?</p> |               | Matheus Barros             | Versão 1.0 18/12    |
 | 08     | <p align="justify">Os critérios de aceitação são específicos e mensuráveis, permitindo uma avaliação clara de quando a história está concluída?</p> |               | Matheus Barros             | Versão 1.0 18/12    |
-
+| 09     | <p align="justify">A equipe de desenvolvimento consegue entender claramente o que é necessário para implementar a história?</p> |               | Joao Victor Marques             | Versão 1.0 18/12    |
+| 10     | <p align="justify">A história de usuário agrega valor direto ao produto ou serviço?</p> |               | Joao Victor Marques             | Versão 1.0 18/12    |
 
 
 <center>
-</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
 
 ## Link da gravação
@@ -69,7 +70,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=uHQJN5MjRW4).</p>
 <center>
     <p>Vídeo 01: Verificação das Histórias de Usuário</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/uHQJN5MjRW4?si=C5opqRWmCxlPuwMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
- </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
+ </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
 
 ## Problemas encontrados
@@ -171,5 +172,5 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=uHQJN5MjRW4).</p>
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 18/12/2024 | Criação do Documento e Lista de Verificação do Grupo + 1 | [Matheus Barros](https://github.com/Ninja-Haiyai)<br> [Joao Victor](https://github.com/jmarquees) | [Letícia Resende](https://github.com/LeticiaResende23)<br> [Leandro de Almeida](https://github.com/leomitx10)<br> [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.0   | 18/12/2024 | Criação do Documento e Lista de Verificação do Grupo + 1 | [Matheus Barros](https://github.com/Ninja-Haiyai)<br> [Joao Victor Marques](https://github.com/jmarquees) | [Letícia Resende](https://github.com/LeticiaResende23)<br> [Leandro de Almeida](https://github.com/leomitx10)<br> [Natan Almeida](https://github.com/natanalmeida03) |
 
