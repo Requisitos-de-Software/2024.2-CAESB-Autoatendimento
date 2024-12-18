@@ -37,7 +37,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | 04     | Softgoals representam metas bem definidas?                 |               | André Barros      |                   |
 | 05     | Os impactos foram corretamente propagados?                 |               | André Barros      |                   |
 | 06     | Foram colocadas legendas para os rótulos do NFR?          |               | Matheus Barros    |                   |
-| 07     | Foram colocadas legendas para composição e decomposição dos NFRs? |               | Matheus Barros    |                   |
+| 07     | Foram colocadas legendas para contribuições e decomposição dos NFRs? |               | Matheus Barros    |                   |
 | 08     | Foram utilizados apenas requisitos não funcionais? |               | Joao Victor Marques    |       |
 | 09     | Os requisitos não funcionais estão documentados de forma clara e compreensível? |               | Joao Victor Marques    |      |
 
@@ -51,15 +51,16 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**         | **Observações**       |
 | ------ | ---------------------------------------------------------- | ------------- | ----------------- | --------------------- |
-| 01     | A definição do RNF e as fontes de evidência na literatura? |               | André Barros      | Versão 1.0 18/12      |
-| 02     | O artefato possui cartão de especificação do RNF?          |               | André Barros      | Versão 1.0 18/12      |
-| 03     | Os softgoals condizem com o contexto?                      |               | André Barros      | Versão 1.0 18/12      |
-| 04     | Softgoals representam metas bem definidas?                 |               | André Barros      | Versão 1.0 18/12      |
-| 05     | Os impactos foram corretamente propagados?                 |               | André Barros      | Versão 1.0 18/12      |
-| 06     | Foram colocadas legendas para os rótulos do NFR?          |               | Matheus Barros    | Versão 1.0 18/12      |
-| 07     | Foram colocadas legendas para composição e decomposição dos NFRs? |               | Matheus Barros    | Versão 1.0 18/12      |
-| 08     | Foram utilizados apenas requisitos não funcionais? |               | Joao Victor Marques    | Versão 1.0 18/12      |
-| 09     | Os requisitos não funcionais estão documentados de forma clara e compreensível? |               | Joao Victor Marques    | Versão 1.0 18/12      |
+| 01     | A definição do RNF e as fontes de evidência na literatura? | Sim           | André Barros      | Versão 1.0 18/12      |
+| 02     | O artefato possui cartão de especificação do RNF?          | Não           | André Barros      | Versão 1.0 18/12      |
+| 03     | Os softgoals condizem com o contexto?                      | Sim           | André Barros      | Versão 1.0 18/12      |
+| 04     | Softgoals representam metas bem definidas?                 | Sim           | André Barros      | Versão 1.0 18/12      |
+| 05     | Os impactos foram corretamente propagados?                 | Sim           | André Barros      | Versão 1.0 18/12      |
+| 06     | Foram colocadas legendas para os rótulos do NFR?          | Sim           | Matheus Barros    | Versão 1.0 18/12      |
+| 07     | Foram colocadas legendas para contribuições e decomposição dos NFRs? | Sim           | Matheus Barros    | Versão 1.0 18/12      |
+| 08     | Foram utilizados apenas requisitos não funcionais?         | Sim           | Joao Victor Marques| Versão 1.0 18/12      |
+| 09     | Os requisitos não funcionais estão documentados de forma clara e compreensível? | Sim           | Joao Victor Marques| Versão 1.0 18/12      |
+
 
 <center>
 </p>Autor(a): </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
@@ -67,21 +68,21 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 ## Link da gravação
 
-Pode ser vista no [YouTube]().</p>
+Pode ser vista no [YouTube](https://youtu.be/zxJYTZEa48k).</p>
 
 <center>
     <p>Vídeo 01: Verificação NFR Framework</p>
-    <iframe width="760" height="515" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/zxJYTZEa48k?si=zctaRSQfPN0iCYrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
 
 ## Problemas encontrados
 
-<p align="justify">&emsp;&emsp;Embora os requisitos não funcionais tenham sido detalhados na história de usuário, o artefato não possui o cartão de especificação.</p>
+<p align="justify">&emsp;&emsp;Não é encontrado quais requisitos não funcionais foram utilizados nem a o cartão de especificação de NFR</p>
 
 ## Sugestões
 
-<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
+<p align="justify">&emsp;&emsp;Adicionar os requisitos não funcionais utilizados e os cartões de especificação NFR</p>
 
 <br>
 
@@ -91,8 +92,10 @@ Pode ser vista no [YouTube]().</p>
 </p>
 
 <center><figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
- 
+
+<center>
 ![ref1](../../assets/nfrvvee.png)
+</center>
 
  <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>,
@@ -119,8 +122,9 @@ Pode ser vista no [YouTube]().</p>
 
 <center><figcaption>Imagem 3: Foto da Referência 3</figcaption></center>
 
+<center>
 ![alt text](../../assets/softgoals/propagaçao_impacto.png)
-
+</center>
 <center>
 <p> Autor: (CHUNG et al., 2000). </p>
 </center>

@@ -49,26 +49,27 @@
 
 | **ID** | **Descrição**                                                                                       | **Avaliação** | **Autor**      | **Observações**                                |
 |--------|-----------------------------------------------------------------------------------------------------|---------------|----------------|-----------------------------------------------|
-| 01     | O histórico de versão padronizado? |      Sim      | André Barros   |  Versão 1.6 17/12                          |
-| 02     | O(s) autores e o(s) revisores para cada artefato?                                        |          Sim      | André Barros   |            Versão 1.6 17/12                |
-| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?                                 |    Sim            | André Barros   |        Versão 1.6 17/12                    |
-| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos?                           |          Sim      | André Barros   |                   Versão 1.6 17/12         |
-| 05     | Um texto fazendo uma introdução dos artefatos?                           |       Sim         | André Barros   |  Versão 1.6 17/12
-| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |      Sim          | André Barros   |                  Versão 1.6 17/12          |
-| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).                                        |     Sim           | André Barros   |                     Versão 1.6 17/12       |
-| 08     | A gravação da reunião do grupo.                                 |         Sim       | André Barros   |        Versão 1.6 17/12                    |
-| 09     | Vídeo de apresentação na categoria "não listado" no youtube?                           |        Sim        | André Barros   |   Versão 1.6 17/12
+| 01     | O histórico de versão padronizado? |      Sim      | André Barros   |  Versão 1.0 18/12                          |
+| 02     | O(s) autores e o(s) revisores para cada artefato?                                        |          Sim      | André Barros   |            Versão 1.0 18/12                |
+| 03     | Referências bibliográficas e/ou bibliografia em todos os artefatos?                                 |    Sim            | André Barros   |        Versão 1.0 18/12                    |
+| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos?                           |          Sim      | André Barros   |                   Versão 1.0 18/12         |
+| 05     | Um texto fazendo uma introdução dos artefatos?                           |       Sim         | André Barros   |  Versão 1.0 18/12                          |
+| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |      Sim          | André Barros   |                  Versão 1.0 18/12          |
+| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).                                        |     Sim           | André Barros   |                     Versão 1.0 18/12       |
+| 08     | A gravação da reunião do grupo.                                 |         Sim       | André Barros   |        Versão 1.0 18/12                    |
+| 09     | Vídeo de apresentação na categoria "não listado" no youtube?                           |        Sim        | André Barros   |   Versão 1.0 18/12                          |
+
 
 <center>
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
 
 ## Link da gravação
-Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
+Pode ser vista no [YouTube](https://youtu.be/1RBLOcXxffs).</p>
 
 <center>
     <p>Vídeo 01: Verificação dos Itens de Desenvolvimento do Projeto</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/QwvekW_rAhw?si=RS0Zq2DKGf0WAdld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/1RBLOcXxffs?si=oe2l5gtlWrWpP_UA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
 

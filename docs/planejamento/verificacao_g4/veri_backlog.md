@@ -43,11 +43,12 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 | **ID** | **Descrição**  | **Avaliação** | **Autor**         | **Observações**       |
 |--------|----------------|---------------|-------------------|-----------------------|
-| 01     | <p align="justify">O backlog possui épicos e temas bem definidos e descritos?</p>  |               | André Barros      | Versão 1.0 18/12      |
-| 02     | <p align="justify">Os itens do backlog estão organizados e priorizados de forma clara, utilizando categorias como "Must Have" (essenciais), "Should Have" (importantes, mas não críticas), "Could Have" (desejáveis) e "Won't Have" (não tratados no momento)?</p> |               | Matheus Barros    | Versão 1.0 18/12      |
-| 03     | <p align="justify">O backlog foi validado com usuário ou PO?</p> |               | Matheus Barros    | Versão 1.0 18/12      |
-| 04     | <p align="justify">Todos os itens do backlog estão alinhados aos objetivos do projeto? </p> |               | Joao Victor Marques    | Versão 1.0 18/12      |
-| 05     | <p align="justify">O backlog está organizado de forma que facilite a compreensão e o planejamento da equipe? </p> |               | Joao Victor Marques    | Versão 1.0 18/12      |
+| 01     | <p align="justify">O backlog possui épicos e temas bem definidos e descritos?</p>  | Sim           | André Barros      | Versão 1.0 18/12      |
+| 02     | <p align="justify">Os itens do backlog estão organizados e priorizados de forma clara, utilizando categorias como "Must Have" (essenciais), "Should Have" (importantes, mas não críticas), "Could Have" (desejáveis) e "Won't Have" (não tratados no momento)?</p> | Sim           | Matheus Barros    | Versão 1.0 18/12      |
+| 03     | <p align="justify">O backlog foi validado com usuário ou PO?</p> | Sim           | Matheus Barros    | Versão 1.0 18/12      |
+| 04     | <p align="justify">Todos os itens do backlog estão alinhados aos objetivos do projeto? </p> | Sim           | Joao Victor Marques    | Versão 1.0 18/12      |
+| 05     | <p align="justify">O backlog está organizado de forma que facilite a compreensão e o planejamento da equipe? </p> | Sim           | Joao Victor Marques    | Versão 1.0 18/12      |
+
 
 
 <center>
@@ -55,11 +56,11 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 </center>
 
 ## Link da gravação
-Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
+Pode ser vista no [YouTube](https://youtu.be/prlVsYhev8Q).</p>
 
 <center>
     <p>Vídeo 01: Verificação do Backlog</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/Vvb7kMAARYU?si=15YIRfSVFu6nDm7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/prlVsYhev8Q?si=m2Sx2C-CxNJEdZPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
 

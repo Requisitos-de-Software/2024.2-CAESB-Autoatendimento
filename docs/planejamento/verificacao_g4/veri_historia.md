@@ -49,16 +49,17 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 
 | **ID** | **Descrição**  | **Avaliação** | **Autor**                     | **Observações**    |
 |--------|----------------|---------------|-------------------------------|--------------------|
-| 01     | <p align="justify">Os títulos das histórias de usuário são auto-explicativos?</p>  |               | André Barros                | Versão 1.0 18/12    |
-| 02     | <p align="justify">O “quem”, “o que” e o “por que” estão definidos na história de usuário?</p>    |               | André Barros                | Versão 1.0 18/12    |
-| 03     | <p align="justify">A participação do cliente e/ou persona na validação das histórias de usuário?</p> |               | André Barros                | Versão 1.0 18/12    |
-| 04     | <p align="justify">A participação do cliente e/ou persona na elicitação de requisitos?</p> |               | André Barros                | Versão 1.0 18/12    |
-| 05     | <p align="justify">Todas as histórias de usuários podem ser testadas?</p> |               | André Barros                | Versão 1.0 18/12    |
-| 06     | <p align="justify">A história possui critérios de aceitação?</p> |               | André Barros                | Versão 1.0 18/12    |
-| 07     | <p align="justify">As histórias de usuário são concisas, evitando jargões técnicos e mantendo a linguagem acessível para todos os stakeholders?</p> |               | Matheus Barros             | Versão 1.0 18/12    |
-| 08     | <p align="justify">Os critérios de aceitação são específicos e mensuráveis, permitindo uma avaliação clara de quando a história está concluída?</p> |               | Matheus Barros             | Versão 1.0 18/12    |
-| 09     | <p align="justify">A equipe de desenvolvimento consegue entender claramente o que é necessário para implementar a história?</p> |               | Joao Victor Marques             | Versão 1.0 18/12    |
-| 10     | <p align="justify">A história de usuário agrega valor direto ao produto ou serviço?</p> |               | Joao Victor Marques             | Versão 1.0 18/12    |
+| 01     | <p align="justify">Os títulos das histórias de usuário são auto-explicativos?</p>  | Sim           | André Barros                | Versão 1.0 18/12    |
+| 02     | <p align="justify">O “quem”, “o que” e o “por que” estão definidos na história de usuário?</p>    | Sim           | André Barros                | Versão 1.0 18/12    |
+| 03     | <p align="justify">A participação do cliente e/ou persona na validação das histórias de usuário?</p> | Sim           | André Barros                | Versão 1.0 18/12    |
+| 04     | <p align="justify">A participação do cliente e/ou persona na elicitação de requisitos?</p> | Sim           | André Barros                | Versão 1.0 18/12    |
+| 05     | <p align="justify">Todas as histórias de usuários podem ser testadas?</p> | Sim           | André Barros                | Versão 1.0 18/12    |
+| 06     | <p align="justify">A história possui critérios de aceitação?</p> | Sim           | André Barros                | Versão 1.0 18/12    |
+| 07     | <p align="justify">As histórias de usuário são concisas, evitando jargões técnicos e mantendo a linguagem acessível para todos os stakeholders?</p> | Sim           | Matheus Barros             | Versão 1.0 18/12    |
+| 08     | <p align="justify">Os critérios de aceitação são específicos e mensuráveis, permitindo uma avaliação clara de quando a história está concluída?</p> | Sim           | Matheus Barros             | Versão 1.0 18/12    |
+| 09     | <p align="justify">A equipe de desenvolvimento consegue entender claramente o que é necessário para implementar a história?</p> | Sim           | Joao Victor Marques             | Versão 1.0 18/12    |
+| 10     | <p align="justify">A história de usuário agrega valor direto ao produto ou serviço?</p> | Sim           | Joao Victor Marques             | Versão 1.0 18/12    |
+
 
 
 <center>
@@ -66,11 +67,11 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 </center>
 
 ## Link da gravação
-Pode ser vista no [YouTube](https://www.youtube.com/watch?v=uHQJN5MjRW4).</p>
+Pode ser vista no [YouTube](https://youtu.be/5GoCtVwS9-U).</p>
 
 <center>
     <p>Vídeo 01: Verificação das Histórias de Usuário</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/uHQJN5MjRW4?si=C5opqRWmCxlPuwMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/5GoCtVwS9-U?si=bF34wvnwywt0MOuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
 
