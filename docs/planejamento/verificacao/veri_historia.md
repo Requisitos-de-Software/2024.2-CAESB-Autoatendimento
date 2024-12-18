@@ -47,15 +47,15 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 
 | **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
 |--------|----------------|---------------|--|------------------|
-| 01 | <p align="justify">Os títulos das histórias de usuário são auto-explicativos?</p>  |  | André Barros    |       |
-| 02 | <p align="justify">O “quem”, “o que” e o “por que” estão definidos na história de usuário?</p>    |  |   André Barros      |   |
-| 03 |<p align="justify">A participação do cliente e/ou persona na validação das histórias de usuário?</p> |  | André Barros  |      |  
-| 04 |<p align="justify">A participação do cliente e/ou persona na elicitação de requisitos?</p> |  | André Barros |      |  
-| 05 |<p align="justify">Todas as histórias de usuários podem ser testadas?</p> |   | André Barros |      |  
-| 06 |<p align="justify">A história possui critérios de aceitação?</p> |   | André Barros |      | 
-| 07 |<p align="justify">As histórias de usuário foram escritas a partir da perspectiva do usuário?</p> |   | Letícia, Natan, Leandro  |      |  
-| 07 |<p align="justify">As histórias são escritas no formato padrão "Eu, como [tipo de usuário], quero [realizar uma ação] para [atingir um objetivo específico]"?</p> |   | Letícia, Natan, Leandro  |      | 
-| 08 |<p align="justify">Cada história descreve uma funcionalidade que deve ser implementada no aplicativo</p> |   | Letícia, Natan, Leandro  |      | 
+| 01 | <p align="justify">Os títulos das histórias de usuário são auto-explicativos?</p>  | Incompleto | André Barros    |   Versão 1.4 17/12    |
+| 02 | <p align="justify">O “quem”, “o que” e o “por que” estão definidos na história de usuário?</p>    | Sim |   André Barros      | Versão 1.4 17/12  |
+| 03 |<p align="justify">A participação do cliente e/ou persona na validação das histórias de usuário?</p> | Sim | André Barros  |  Versão 1.4 17/12    |  
+| 04 |<p align="justify">A participação do cliente e/ou persona na elicitação de requisitos?</p> | Sim | André Barros |  Versão 1.4 17/12    |  
+| 05 |<p align="justify">Todas as histórias de usuários podem ser testadas?</p> | Sim  | André Barros |  Versão 1.4 17/12    |  
+| 06 |<p align="justify">A história possui critérios de aceitação?</p> | Sim  | André Barros |   Versão 1.4 17/12   | 
+| 07 |<p align="justify">As histórias de usuário foram escritas a partir da perspectiva do usuário?</p> | Sim  | Letícia, Natan, Leandro  |   Versão 1.4 17/12   |  
+| 07 |<p align="justify">As histórias são escritas no formato padrão "Eu, como [tipo de usuário], quero [realizar uma ação] para [atingir um objetivo específico]"?</p> | Sim  | Letícia, Natan, Leandro  |  Versão 1.4 17/12    | 
+| 08 |<p align="justify">Cada história descreve uma funcionalidade que deve ser implementada no aplicativo</p> | Sim  | Letícia, Natan, Leandro  |  Versão 1.4 17/12    | 
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -71,12 +71,11 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 </center>
 
 ## Problemas encontrados
-<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
+<p align="justify">1. Alguns títulos não são claros o suficientes chegando a ter somente o nume da funcionalidade.</p>
 
 
 ## Sugestões
-<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
-
+<p align="justify">1. Mudar alguns títulos para tornar eles mais explicativos sobre o do que se trata a história de usuário.</p>
 <br>
 
 ## Referências
