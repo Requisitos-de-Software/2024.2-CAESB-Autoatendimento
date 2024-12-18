@@ -63,11 +63,11 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 </center>
 
 ## Link da gravação
-Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
+Pode ser vista no [YouTube](https://www.youtube.com/watch?v=uHQJN5MjRW4).</p>
 
 <center>
     <p>Vídeo 01: Verificação das Histórias de Usuário</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/uHQJN5MjRW4?si=AzvzR35W3gO60UOj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/uHQJN5MjRW4?si=C5opqRWmCxlPuwMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
