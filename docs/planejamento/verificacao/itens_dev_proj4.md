@@ -65,7 +65,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 <center>
     <p>Vídeo 01: Verificação dos Itens de Desenvolvimento do Projeto</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/u45UkD9gNtE?si=ywFmnMs8ReKuD_07" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/QwvekW_rAhw?si=RS0Zq2DKGf0WAdld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 

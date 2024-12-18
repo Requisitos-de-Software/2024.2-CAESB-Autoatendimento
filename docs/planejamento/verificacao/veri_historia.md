@@ -18,7 +18,8 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 </p>
 
 
-## Verificação do Backlog
+## Verificação das Histórias de Usuário
+
 <p align="justify">
 &emsp;&emsp;A tabela 01 apresenta a lista de  Verificação das Histórias de Usuário  que foram elaboradas com base no plano de ensino da disciplina e 02 apresenta a verificação.
 </p>
@@ -65,8 +66,8 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 <center>
-    <p>Vídeo 01: Verificação do Backlog</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/u45UkD9gNtE?si=ywFmnMs8ReKuD_07" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>Vídeo 01: Verificação das Histórias de Usuário</p>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/uHQJN5MjRW4?si=AzvzR35W3gO60UOj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 

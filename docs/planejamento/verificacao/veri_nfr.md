@@ -21,13 +21,30 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 </p>
 
-## Verificação da Elicitação
+## Verificação da NFR Framework
 
 <p align="justify">
-&emsp;&emsp;A tabela 01 apresenta a Lista de Verificação do NFR Framework que foi elaborada com base no plano de ensino da disciplina
+&emsp;&emsp;A tabela 01 apresenta a lista de  Verificação do NFR Framework  que foram elaboradas com base no plano de ensino da disciplina e 02 apresenta a verificação.
 </p>
 
-<center>Tabela 01: Verificação das Técnicas de Elicitação</center>
+<center>Tabela 02: Verificação da NFR Framework</center>
+
+| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
+| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
+| 01     | A definição do RNF e as fontes de evidência na literatura? |          | André Barros |  |
+| 02     | O artefato possui cartão de especificação do RNF?          |  | André Barros | |
+| 03     | Os softgoals condizem com o contexto?                      |           | André Barros |  |
+| 04     | Softgoals representam metas bem definidas?                 |           | André Barros |  |
+| 05     | Os impactos foram corretamente propagados?                 |          | André Barros |  |
+| 06     | O artefato possui rastreabilidade para os requisitos não funcionais utilizados?                 |         | Natan, Leandro, Letícia |  |
+| 07     | Os requisitos não-funcionais são verificáveis?             |    | Natan, Leandro, Letícia |  |
+
+<center>
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>,
+</center>
+
+
+<center>Tabela 02: Verificação da NFR Framework</center>
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
@@ -36,8 +53,8 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | 03     | Os softgoals condizem com o contexto?                      | Sim           | André Barros | Versão 1.5 17/12. |
 | 04     | Softgoals representam metas bem definidas?                 | Sim           | André Barros | Versão 1.5 17/12. |
 | 05     | Os impactos foram corretamente propagados?                 | Sim           | André Barros | Versão 1.5 17/12. |
-| 06     | O artefato possui rastreabilidade para os requisitos não funcionais utilizados?                 | Sim           | Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>   | Versão 1.5 17/12. |
-| 07     | Os requisitos não-funcionais são verificáveis?             |     Sim     | Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>   | Versão 1.5 17/12. |
+| 06     | O artefato possui rastreabilidade para os requisitos não funcionais utilizados?                 | Sim           | Natan, Leandro, Letícia | Versão 1.5 17/12. |
+| 07     | Os requisitos não-funcionais são verificáveis?             |     Sim     | Natan, Leandro, Letícia | Versão 1.5 17/12. |
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>,
@@ -49,7 +66,7 @@ Pode ser vista no [YouTube]().</p>
 
 <center>
     <p>Vídeo 01: Verificação NFR Framework</p>
-    <iframe width="760" height="515" src="https://youtube.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/y2-191PM_ys?si=QWTKBqPnyYzXqOIN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>,
 </center>
 

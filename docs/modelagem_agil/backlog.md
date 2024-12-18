@@ -321,7 +321,7 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 - <p align="justify">Descrição: Este épico trata da interação do cliente com o aplicativo e suporte. Envolva requisitos como barra de busca, acesso rápido às funções mais utilizadas, envio de notificações para vencimento de contas, suporte via chat ou atendimento virtual e busca de atendimento pelo protocolo.</p>
 
 ### Épico 3: Sustentabilidade e Consumo Consciente
-- Requisitos relacionados:<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ05, RQ14, RQ15, RQ19, RQ22, RQ28 </a>   
+- Requisitos relacionados:<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ14, RQ15, RQ19, RQ22, RQ28 </a>   
 - <p align="justify">Descrição: Este épico foca em funcionalidades para promover o consumo consciente e informar o cliente sobre questões ambientais e de serviço. Inclui consulta de consumo, informações sobre falta de água, notificações sobre manutenção programada e dicas de economia de água.</p>
 
 ### Épico 4: Serviços de Atendimento
