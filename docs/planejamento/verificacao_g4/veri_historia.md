@@ -35,7 +35,8 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 | 06     | <p align="justify">A história possui critérios de aceitação?</p> |               | André Barros                |                    |
 | 07     | <p align="justify">As histórias de usuário são concisas, evitando jargões técnicos e mantendo a linguagem acessível para todos os stakeholders?</p> |               | Matheus Barros |                    |
 | 08     | <p align="justify">Os critérios de aceitação são específicos e mensuráveis, permitindo uma avaliação clara de quando a história está concluída?</p> |               | Matheus Barros|                    |
-
+| 09     | <p align="justify">A equipe de desenvolvimento consegue entender claramente o que é necessário para implementar a história?</p> |               | Joao Victor Marques             |     |
+| 10     | <p align="justify">A história de usuário agrega valor direto ao produto ou serviço?</p> |               | Joao Victor Marques             |     |
 
 
 <center>
