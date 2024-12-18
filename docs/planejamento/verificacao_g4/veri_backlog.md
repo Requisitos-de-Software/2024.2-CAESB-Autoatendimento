@@ -29,6 +29,8 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | 01     | <p align="justify">O backlog possui épicos e temas bem definidos e descritos?</p>  |               | André Barros      |                       |
 | 02     | <p align="justify">Os itens do backlog estão organizados e priorizados de forma clara, utilizando categorias como "Must Have" (essenciais), "Should Have" (importantes, mas não críticas), "Could Have" (desejáveis) e "Won't Have" (não tratados no momento)?</p> |               | Matheus Barros    |                       |
 | 03     | <p align="justify"> O backlog foi validado com usuário ou PO?</p> |               | Matheus Barros    |                       |
+| 04     | <p align="justify">Todos os itens do backlog estão alinhados aos objetivos do projeto? </p> |               | Joao Victor Marques    |       |
+| 05     | <p align="justify">O backlog está organizado de forma que facilite a compreensão e o planejamento da equipe? </p> |               | Joao Victor Marques    |     |
 
 
 <center>
