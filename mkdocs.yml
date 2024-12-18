@@ -123,7 +123,7 @@ nav:
           - Backlog: planejamento/verificacao_g4/veri_backlog.md
           - Histórias de Usuário: planejamento/verificacao_g4/veri_historia.md
           - NFR Framework: planejamento/verificacao_g4/veri_nfr.md
-          - Itens de desenvolvimento do projeto: planejamento/verificacao_g4/itens_dev_proj3_g4.md
+          - Itens de desenvolvimento do projeto: planejamento/verificacao_g4/itens_dev_proj4_g4.md
 markdown_extensions:
   - attr_list
   - md_in_html
