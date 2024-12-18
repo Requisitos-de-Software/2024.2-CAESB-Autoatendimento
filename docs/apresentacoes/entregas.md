@@ -31,11 +31,11 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Ba
 </center>
 
 ## Entrega 4
-A apresentação da entrega 4, pode ser vista no [YouTube](https://www.youtube.com/watch?v=wUAYOgZsYvA).
+A apresentação da entrega 4, pode ser vista no [YouTube](https://www.youtube.com/watch?v=UMwL5C6WRXs).
 
 <center>
 <p>Vídeo 04: Gravação da apresentação 4</p>
-<iframe width="760" height="515" src="https://www.youtube.com/embed/wUAYOgZsYvA?si=S-_4LwqAGmU4A9xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/UMwL5C6WRXs?si=IZOuPheQ5iOpRt0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
@@ -52,5 +52,6 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 |  1.2   | 24/11/2024 | Adiciona a entrega 2 | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
 |  1.3   | 07/12/2024 | Adiciona a entrega 3 |[Matheus Barros ](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.4   | 17/12/2024 | Adiciona a entrega 4 |[Letícia Resende](https://github.com/LeticiaResende23)| [Matheus Barros ](https://github.com/Ninja-Haiyai)|
+|  1.5   | 17/12/2024 | Arruma video entrega 4 |[Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai)|
 
 </center>
