@@ -38,10 +38,12 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | 05     | Os impactos foram corretamente propagados?                 |               | André Barros      |                   |
 | 06     | Foram colocadas legendas para os rótulos do NFR?          |               | Matheus Barros    |                   |
 | 07     | Foram colocadas legendas para composição e decomposição dos NFRs? |               | Matheus Barros    |                   |
+| 08     | Foram utilizados apenas requisitos não funcionais? |               | Joao Victor Marques    |       |
+| 09     | Os requisitos não funcionais estão documentados de forma clara e compreensível? |               | Joao Victor Marques    |      |
 
 
 <center>
-</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
 <br>
 
@@ -56,10 +58,11 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | 05     | Os impactos foram corretamente propagados?                 |               | André Barros      | Versão 1.0 18/12      |
 | 06     | Foram colocadas legendas para os rótulos do NFR?          |               | Matheus Barros    | Versão 1.0 18/12      |
 | 07     | Foram colocadas legendas para composição e decomposição dos NFRs? |               | Matheus Barros    | Versão 1.0 18/12      |
-
+| 08     | Foram utilizados apenas requisitos não funcionais? |               | Joao Victor Marques    | Versão 1.0 18/12      |
+| 09     | Os requisitos não funcionais estão documentados de forma clara e compreensível? |               | Joao Victor Marques    | Versão 1.0 18/12      |
 
 <center>
-</p>Autor(a): </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
+</p>Autor(a): </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
 
 ## Link da gravação
@@ -69,7 +72,7 @@ Pode ser vista no [YouTube]().</p>
 <center>
     <p>Vídeo 01: Verificação NFR Framework</p>
     <iframe width="760" height="515" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>Autor(a): </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
+</p>Autor(a): </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
 
 ## Problemas encontrados
@@ -125,5 +128,5 @@ Pode ser vista no [YouTube]().</p>
 ## Histórico de Versão
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 18/12/2024 | Criação do Documento e Lista de Verificação do Grupo + 1 | [Matheus Barros](https://github.com/Ninja-Haiyai)<br> [Joao Victor](https://github.com/jmarquees) | [Letícia Resende](https://github.com/LeticiaResende23)<br> [Leandro de Almeida](https://github.com/leomitx10)<br> [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.0   | 18/12/2024 | Criação do Documento e Lista de Verificação do Grupo + 1 | [Matheus Barros](https://github.com/Ninja-Haiyai)<br> [Joao Victor Marques](https://github.com/jmarquees) | [Letícia Resende](https://github.com/LeticiaResende23)<br> [Leandro de Almeida](https://github.com/leomitx10)<br> [Natan Almeida](https://github.com/natanalmeida03) |
 
