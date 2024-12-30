@@ -164,13 +164,13 @@
 
 | Id | Descrição | Implementado |
 | ----- | ---------- | -------------- |
-| INT13 | Cadastro em Débito Automático | Não |
-| OBS1 | Imóvel Selecionado | Não |
-| OBS2| Selecionar Ano ou Mês | Não |
-| INT02| Emissão de Boleto | Não |
-| ENT07| Filtro de Atendimentos | Não |
-| ENT09| Simulação de Tarifas | Não |
-| B08 | Formas de Pagamento | Não |
+|<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> INT13</a> | Cadastro em Débito Automático | Não |
+|<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> OBS1</a> | Imóvel Selecionado | Não |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> OBS2</a>| Selecionar Ano ou Mês | Não |
+|<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> INT02</a>| Emissão de Boleto | Não |
+|<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> ENT07</a>| Filtro de Atendimentos | Não |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> ENT09</a>| Simulação de Tarifas | Não |
+|<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> B08</a> | Formas de Pagamento | Não |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>

@@ -218,6 +218,7 @@
 
 </center>
 
+
 ## NFR Framework - NFR04: Suportabilidade
 
 <p align="justify">&emsp;&emsp; Suportabilidade é um atributo de qualidade de um sistema que se refere à sua capacidade de ser mantido, adaptado ou expandido com facilidade ao longo de seu ciclo de vida. Esse atributo é fundamental para garantir que o sistema possa evoluir diante de mudanças nos requisitos, corrigir problemas rapidamente e incorporar novas funcionalidades sem comprometer sua estabilidade ou desempenho. É um dos requisitos não funcionais (NFRs) mais relevantes em sistemas modernos, especialmente em contextos onde a manutenção contínua e a escalabilidade são cruciais para atender às demandas do negócio. </p>
