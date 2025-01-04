@@ -14,24 +14,33 @@
 <p align="justify">
 &emsp;&emsp; A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base no plano de ensino da disciplina. Com essa lista, foi feito um checklist para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações.
 
-Neste documento, realizou-se a avaliação do artefato <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Metodologia </a>, que trata dos metódos e técnicas utilizadas no projeto  <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Caesb Autoatendimento</a>.
+Neste documento, realizou-se a avaliação do artefato <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/metodologia/" target = "_blank">Metodologia </a>, que trata dos metódos e técnicas utilizadas no projeto  <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Caesb Autoatendimento</a>.
 </p>
 
 ## Verificação da Metodologia
 
-<center>Tabela 01: Verificação Metodologia</center>
+<p align="justify">A tabela 01 apresenta a lista de Verificação do Cronograma que foi elaborada com base no plano de ensino da disciplina e 02 apresenta a verificação. </p>
 
-| Número | Descrição                                                                                                                        | Avaliação | Observações |
-| :----: | :------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
-| 1      | O artefato possui introdução?                                                                                                    |    Sim       |             |
-| 2      | O artefato define a metodologia que será utilizada?                                                                              |       Sim     |             |
-| 3      | O artefato possui bibliografia ou referência bibliográfica (chamando do texto para as referências onde a referência é utilizada)?|   Sim         |             |
-| 4      | O artefato possui histórico de versões, apresentando a versão, a data, e os responsáveis?                                        |    Sim        |             |
-| 5      | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação?                                                  |     Sim       |             |
-| 6      | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                     |               |   Não se aplica |
-| 7      | A metodologia escolhida é descrita e contextualizada?                                                                            |    Não  | A metodologia scrum não foi descrita         |
-| 8      | É explicado o porquê da escolha da metodologia?                                                                                  |    Sim       | Está um pouco vago            |
-| 9      | Os recursos necessários para a implementação da metodologia são listados?                                                        |   Não        |             |
+
+<center>Tabela 01: Lista Verificação da Metodologia</center>
+
+| ID | Descrição| Avaliação | Autor | Observações |
+| :----: | :----- | :-------: | :-----: |:---------: |
+| 1 | A metodologia escolhida é descrita e contextualizada? |  | Leandro de Almeida | |
+| 2 | É explicado o porquê da escolha da metodologia? |  | Leandro de Almeida | |
+| 3 | Os recursos necessários para a implementação da metodologia são listados? |  | Leandro de Almeida | |
+
+<center>
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
+</center>
+
+<center>Tabela 02: Verificação da Metodologia</center>
+
+| ID | Descrição| Avaliação | Autor | Observações |
+| :----: | :----- | :-------: | :-----: |:---------: |
+| 1 | A metodologia escolhida é descrita e contextualizada? | Não | Leandro de Almeida | Versão 1.1 28/12 |
+| 2 | É explicado o porquê da escolha da metodologia? | Sim | Leandro de Almeida | Versão 1.1 28/12 |
+| 3 | Os recursos necessários para a implementação da metodologia são listados? | Não | Leandro de Almeida | Versão 1.1 28/12 |
 
 <center>
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
@@ -68,7 +77,7 @@ Pode ser vista no [YouTube](https://youtu.be/QUgt46e-qe0).</p>
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 05/11/2024 | Criação do Documento e Lista de Verificação da Metodologia | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
-|  1.1   | 06/11/2024 | Adiciona o video de verificação | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+|  Versão 1.1   | 06/11/2024 | Adiciona o video de verificação | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
 |  1.2   | 16/11/2024 | Correção pós apresentação | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
 
 </center>
