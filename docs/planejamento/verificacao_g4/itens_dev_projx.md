@@ -76,15 +76,15 @@ Pode ser vista no [YouTube](https://youtu.be/wgZ2OCly4CU?si=t85IUPGAGaajwCja).</
 
 ## Sugestões
 
-<p align="justify">1. Padronizar o histórico de versão dos artefatos Cronograma de Execução e Aplicativos Avaliados.
+<p align="justify">1. Padronizar o histórico de versão dos artefatos Cronograma de Execução e Aplicativos Avaliados.</p>
 
-<p align="justify">2. ACrescentar os revisores no histórico de versão dos artefatos Cronograma de Execução e Aplicativos Avaliados.
+<p align="justify">2. ACrescentar os revisores no histórico de versão dos artefatos Cronograma de Execução e Aplicativos Avaliados.</p>
 
 <br>
 
 ## Referências
 
-> <p id="1">1. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 04 de Jan. de 2025.
+> <p id="1">1. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 04 de Jan. de 2025.</p>
 
 <center> <figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
 
@@ -95,6 +95,7 @@ Pode ser vista no [YouTube](https://youtu.be/wgZ2OCly4CU?si=t85IUPGAGaajwCja).</
 </center>
 
  </p><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+
 <br>
 
 ## Histórico de Versão
