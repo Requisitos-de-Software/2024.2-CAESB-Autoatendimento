@@ -21,22 +21,34 @@
 
 ## Verificação da Equipe 
 
+
+<p align="justify">
+&emsp;&emsp;A tabela 01 apresenta a lista de  Verificação da equipe do grupo 4 que foi elaborada com base no plano de ensino da disciplina e 02 apresenta a verificação.
+</p>
+<center>Tabela 01: Lista Verificação da equipe do grupo 4</center>
+
+| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
+|--------|----------------|---------------|--|------------------|
+| 01   |Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? |  | André Barros    |       |
+| 02   | O histórico de versão padronizado?    |  |   André Barros      |   |
+| 03   | Na página de equipe, possui uma breve introdução sobre o projeto?|  | Letícia Resende |      |  
+
 <center>
-<p align="justify">&emsp;&emsp;Tabela 01: Verificação da equipe do grupo 04</p>
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
-| Número | Descrição | Avaliação | Observações | 
-| :----: | :-------: | :-------: | :--------: | 
-| 1 | O artefato possui introdução ?| sim| versão 1.1 07/11 |
-| 2 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | Sim |versão 1.1 07/11 |
-| 3 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação? | Sim |versão 1.1 07/11 |
-| 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim | versão 1.1 07/11|
-| 5 | A página apresenta todos os integrantes da equipe com base na planilha disponibilizada no aprender? | Sim |versão 1.1 07/11 |
-| 6 | Todos os integrantes possuem foto e nome? | Sim |versão 1.1 07/11 |  
 
-Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
+<center>Tabela 02: Verificação da equipe do grupo 4</center>
+
+| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
+|--------|----------------|---------------|--|------------------|
+| 01   |Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim | André Barros    |  versão 1.2 03/01    |
+| 02   | O histórico de versão padronizado?    | Sim |   André Barros      |  versão 1.2 03/01  |
+| 03   | Na página de equipe, possui uma breve introdução sobre o projeto?| Sim | Letícia Resende | versão 1.2 03/01  | 
+
+<center>
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
-
 
 ## Link da gravação
 Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
@@ -45,7 +57,7 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 </center>
 
 <center>
-<iframe width="760" height="515" src="https://www.youtube.com/embed/UGawLqEVE2Y?si=0640c5v7n_e-FkhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/gU-yurwkynU?si=0RSXSIUdM40uqZe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 </center>
@@ -66,15 +78,12 @@ Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 <br>
 
 
-
 ## Histórico de versão
 
-<center>
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 07/11/2024 | Criação do Documento, Lista de Verificação e vídeo grupo 4 |  [Letícia Resende](https://github.com/LeticiaResende23) |  [Matheus Barros](https://github.com/Ninja-Haiyai) |
 |  1.1   | 07/11/2024 | Ajuste no Layout |  [Matheus Barros](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23)|
 |  1.2   | 13/11/2024 | Correção pós apresentação |  [Matheus Barros](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23)|
-
-</center>
+|  1.3   | 03/01/2025 | Correção da verificação | [Letícia Resende](https://github.com/LeticiaResende23) |[Matheus Barros](https://github.com/Ninja-Haiyai) |

@@ -102,13 +102,13 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 
 <p align="justify">&emsp;&emsp;Tabela 03: Verificação Rich Picture - Caesb Autoatendimento.</p>
 
-| Número | Descrição | Avaliação | Observações | 
-| :----: | :-------: | :-------: | :--------: | 
-| 7 | Rich Picture possui uma legenda explicando os símbolos utilizados no diagrama?| Sim | |
-| 8 | Contém a explicação dos componentes?| Sim | |
-| 9 | O Rich Picture conta uma história?| Sim | |
-| 10 | Comunica mais ideias do que palavras?| Sim | |
-| 11 | O rich picture dá uma ideia do que realmente está acontecendo?| Sim | |
+| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
+|--------|----------------|---------------|--|------------------|
+| 7   | Rich Picture possui uma legenda explicando os símbolos utilizados no diagrama?| Sim | André Barros    |  versão 1.6  03/01   |
+| 8   | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo.    | Sim |   André Barros      | versão 1.6  03/01  |
+| 9   | O Rich Picture conta uma história? |Sim |Letícia Resende|  versão 1.6  03/01     |  
+| 10   | Comunica mais ideias do que palavras?| Sim | Letícia Resende | versão 1.6  03/01      |  
+| 11  | O rich picture dá uma ideia do que realmente está acontecendo?| Sim | Letícia Resende |   versão 1.6  03/01    |  
 
 <center>
 Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -120,7 +120,7 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 <center>
 <p>Vídeo 03: Verificação do Rich Picture - Caesb Autoatendimento.</p>
 
-  <iframe width="760" height="515" src="https://www.youtube.com/embed/TTPBJEne0wU?si=yBKRpdsqWtJUaXDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="760" height="515" src="https://www.youtube.com/embed/NVVRp1vJhFo?si=tI31iwPfDhDr-vZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>

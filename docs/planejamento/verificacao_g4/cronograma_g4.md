@@ -23,24 +23,36 @@
 
 ## Verificação Cronograma
 
-<p align="justify">&emsp;&emsp;Tabela 01: Verificação do Cronograma do grupo 04</p>
+<p align="justify">
+&emsp;&emsp;A tabela 01 apresenta a lista de  Verificação do Cronograma que foi elaborada com base no plano de ensino da disciplina e 02 apresenta a verificação.
+</p>
+<center>Tabela 01: Lista Verificação do Cronograma do grupo 4</center>
 
-| Número | Descrição                                                                                    | Avaliação | Observações |
-|----|----------------------------------------------------------------------------------------------|-----------|-------------|
-| 1 | O cronograma possui todas as atividades de todas as etapas para cada integrante?             |    Sim       |  versão 1.3 07/11           |
-| 2 | Possui datas de início e fim das entrega dos artefatos e com o período da revisão deles?     |   Sim        | versão 1.3   07/11         |
-| 3 | O artefato contem uma seção do cronograma executado?                                         |    Sim       | versão 1.3  07/11          |
-| 4 | o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? |    Sim       | versão 1.3   07/11        |
-| 5 | O artefato possui Introdução?                                                                |    Sim       | versão 1.3  07/11         |
-| 6 | Possui um histórico de versão padronizado no artefato?                                       |  Sim         | versão 1.3     07/11      |
-| 7 | Possui referências bibliográficas/bibliografia no artefatos?                                 |    Sim       | versão 1.3    07/11      |
-| 8 | Possui um revisor diferente do que elaborou o cronograma?                                    |    Sim       | versão 1.3  07/11        |
-| 9 | As tabelas estão padronizadas?                                                               |    Sim       | versão 1.3  0711          |
+| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
+|--------|----------------|---------------|--|------------------|
+| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |  | André Barros    |       |
+| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.    |  |   André Barros      |   |
+| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?|  | André Barros |      |  
+| 04   | Possui um cronograma executado, além do planejado?|  | Letícia Resende |      |  
+| 05   | O cronograma possui revisores?|  | Letícia Resende |      |  
 
 <center>
-Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
+<center>Tabela 02: Verificação do Cronograma do grupo 4</center>
+
+| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
+|--------|----------------|---------------|--|------------------|
+| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | André Barros    |  versão 1.3  03/01   |
+| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.    | Sim |   André Barros      | versão 1.3  03/01  |
+| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim | André Barros |  versão 1.3  03/01     |  
+| 04   | Possui um cronograma executado, além do planejado?| Sim | Letícia Resende | versão 1.3  03/01      |  
+| 05   | O cronograma possui revisores?| Sim | Letícia Resende |   versão 1.3  03/01    |  
+
+<center>
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</center>
 
 ## Link da gravação - Verificação do Cronograma
 Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
@@ -49,7 +61,7 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 </center>
 
 <center>
-<iframe width="760" height="515" src="https://www.youtube.com/embed/AiN-Rrh8Qvg?si=-S-NoXN9NX4_0k8u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/Du240s7HN-M?si=eOlxoEr68C2osLTB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
@@ -79,15 +91,15 @@ Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 
 ## Histórico de Versão
 
-<center>
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 07/11/2024 | Criação do Documento, Lista de Verificação e vídeo| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.1   | 07/11/2024 | Ajuste no Layout | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23)|
 |  1.2   | 13/11/2024 | Correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
+|  1.3   | 03/01/2025 | Correção da verificação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
 
 
-</center>
+
 
 
