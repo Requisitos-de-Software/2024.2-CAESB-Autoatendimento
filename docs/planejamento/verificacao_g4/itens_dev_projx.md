@@ -42,15 +42,15 @@
 
 | **ID** | **Descrição** | **Avaliação** | **Autor**      | **Observações** |
 |--------|---------------|---------------|----------------|-----------------|
-| 01     | O histórico de versão padronizado? | Não | André Barros   |  |
-| 02     | O(s) autores e o(s) revisores para cada artefato? | Não | André Barros   |  |
-| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?  | Sim| André Barros   |  |
-| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos? | Sim | André Barros |  |
-| 05     | Um texto fazendo uma introdução dos artefatos? | Sim | André Barros |  |  
-| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  | Sim | André Barros |  |
-| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc). | Sim | André Barros |  |
-| 08     | A gravação da reunião do grupo. | Sim | André Barros |  |
-| 09     | Vídeo de apresentação na categoria "não listado" no youtube? | Sim | André Barros   |  |  
+| 01     | O histórico de versão padronizado? | Não | André Barros   | Versão 1.3 - 30/11 |
+| 02     | O(s) autores e o(s) revisores para cada artefato? | Não | André Barros   | Versão 1.3 - 30/11 |
+| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?  | Sim| André Barros   | Versão 1.3 - 30/11 |
+| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos? | Sim | André Barros | Versão 1.3 - 30/11 |
+| 05     | Um texto fazendo uma introdução dos artefatos? | Sim | André Barros | Versão 1.3 - 30/11 |  
+| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  | Sim | André Barros | Versão 1.3 - 30/11 |
+| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc). | Sim | André Barros | Versão 1.3 - 30/11 |
+| 08     | A gravação da reunião do grupo. | Sim | André Barros | Versão 1.3 - 30/11 |
+| 09     | Vídeo de apresentação na categoria "não listado" no youtube? | Sim | André Barros | Versão 1.3 - 30/11 |  
 
 <center>
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
@@ -100,6 +100,6 @@ Pode ser vista no [YouTube](https://youtu.be/wgZ2OCly4CU?si=t85IUPGAGaajwCja).</
 
 ## Histórico de Versão
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 04/01/2025 | Criação do Documento e Lista de Verificação | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |

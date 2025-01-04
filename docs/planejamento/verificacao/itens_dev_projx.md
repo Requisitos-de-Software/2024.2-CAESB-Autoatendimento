@@ -93,6 +93,6 @@ Pode ser vista no [YouTube](https://youtu.be/wgZ2OCly4CU?si=t85IUPGAGaajwCja).</
 
 ## Histórico de Versão
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 04/01/2025 | Criação do Documento e Lista de Verificação | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
