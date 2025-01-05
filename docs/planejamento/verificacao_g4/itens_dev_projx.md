@@ -61,7 +61,7 @@ Pode ser vista no [YouTube](https://youtu.be/wgZ2OCly4CU?si=t85IUPGAGaajwCja).</
 
 <center>
     <p>Vídeo 01: Verificação dos Itens de desenvolvimento do projeto</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/wgZ2OCly4CU?si=t85IUPGAGaajwCja" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/1kCVLNJLeTU?si=6hRjUWVOwZlPqfUy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 <center>

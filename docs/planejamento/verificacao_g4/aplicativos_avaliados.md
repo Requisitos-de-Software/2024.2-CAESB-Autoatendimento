@@ -61,7 +61,7 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=lQjq0o2LYCE" target="
 
 <center>
 <p>Vídeo 01: Verificação dos Aplicativos Avaliados</p>
-<iframe width="760" height="515" src="https://www.youtube.com/embed/lQjq0o2LYCE?si=zKcfFmLM-wmUQtFB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/yqVSE7Mny6Y?si=hW29jh2UrjE4CtH5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 
@@ -89,7 +89,8 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
-|  1.0   | 04/01/2025 | Criação do Documento e Lista de Verificação  | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
-|  1.1   | 04/01/2025 | Add Video de Verificação | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.0   | 07/11/2024 | Criação do Documento e Lista de Verificação  | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.1   | 07/11/2024 | Add Video de Verificação | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.2   | 04/01/2025 | Coerreção da lista | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
 
 </center>

@@ -51,7 +51,7 @@ Pode ser vista no [YouTube](https://youtu.be/QUgt46e-qe0).</p>
 
 <center>
     <p>Vídeo 01: Verificação da Metodologia</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/QUgt46e-qe0?si=taLRR4ycl5KxMWuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/Jvs9eMMFEDo?si=r8_uS6_WGs8JSw1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
@@ -77,7 +77,7 @@ Pode ser vista no [YouTube](https://youtu.be/QUgt46e-qe0).</p>
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 05/11/2024 | Criação do Documento e Lista de Verificação da Metodologia | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
-|  Versão 1.1   | 06/11/2024 | Adiciona o video de verificação | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+|  1.1   | 06/11/2024 | Adiciona o video de verificação | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
 |  1.2   | 16/11/2024 | Correção pós apresentação | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
 
 </center>
