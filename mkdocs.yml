@@ -75,8 +75,8 @@ nav:
       - Histórias de Usuário: modelagem_agil/historia_usuario.md
       - NFR Framework: modelagem_agil/nfr.md
   - Pós-Rastreabilidade:
-      - foward-from: pos_rastreabilidade/foward-from.md
-      - backward-from: pos_rastreabilidade/backward-from.md
+      - Forward-from: pos_rastreabilidade/foward-from.md
+      - Backward-from: pos_rastreabilidade/backward-from.md
       - Matriz de Rastreabilidade: pos_rastreabilidade/matriz.md
   - Verificação:
       - Grupo 03 (Nosso Grupo):
