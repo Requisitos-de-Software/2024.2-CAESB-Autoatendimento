@@ -1,6 +1,12 @@
 # Cronograma Executado
 
-<p align="justify">&emsp;&emsp;Na Tabela 1, encontra-se o cronograma executado para todas as atividades da primeira entrega.</p>
+## Introdução
+
+<p align="justify">&emsp;&emsp;O cronograma executado mostra as atividades feitas em cada entrega, com as revisões, os responsáveis e as datas de realização. Ele ajuda a acompanhar o progresso do projeto de forma clara e organizada.</p>
+
+<br>
+
+<center>Tabela 01: Cronograma executado para todas as atividades da primeira entrega.</center>
 
 <center>
 
@@ -29,7 +35,8 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 <br>
 
 
-<p align="justify">&emsp;&emsp;Na Tabela 2, encontra-se o cronograma executado para todas as atividades da segunda entrega.</p>
+
+<center>Tabela 02: Cronograma executado para todas as atividades da segunda entrega.</center>
 
 | Atividade                                                                                         	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                  	| Revisores 	|
 |---------------------------------------------------------------------------------------------------	|----------------------------	|-----------------------------------	|--------------------------	|-----------	|
@@ -54,7 +61,8 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 <br>
 
 
-<p align="justify">&emsp;&emsp;Na Tabela 3, encontra-se o cronograma executado para todas as atividades da terceira entrega.</p>
+
+<center>Tabela 03: Cronograma executado para todas as atividades da terceira entrega.</center>
 
 | Atividade                                                     	| Período de desenvolvimento 	| Responsáveis     	| Revisão                 	| Revisores        	|
 |---------------------------------------------------------------	|----------------------------	|------------------	|-------------------------	|------------------	|
@@ -74,7 +82,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 <br>
 
-<p align="justify">&emsp;&emsp;Na Tabela 4, encontra-se o cronograma executado para todas as atividades da quarta entrega.</p>
+<center>Tabela 04: Cronograma executado para todas as atividades da quarta entrega.</center>
 
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
@@ -113,7 +121,7 @@ Acesso em: 21 out. 2024.
 |  1.1   | 13/11/2024 | Correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 08/12/2024 | Adicionando cronograma da terceira entrega| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 14/12/2024 | Adicionando cronograma da quarta entrega| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
-
+|  1.4   | 27/12/2024 | Adicionando a introdução e arrumando o titulo das tabelas | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
 
 
 </center>

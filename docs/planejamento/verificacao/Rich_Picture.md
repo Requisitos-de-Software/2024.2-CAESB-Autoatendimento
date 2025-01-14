@@ -63,18 +63,15 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Ba
 
 <p align="justify">&emsp;&emsp;Tabela 02: Verificação Rich Picture - BRB Mobilidadde.</p>
 
-| Número | Descrição                                                                                                               | Avaliação | Observações |
-| :----: | :---------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
-|   7    | O(s) Ator(es) do RichPicture está do lado de fora da fronteira do sistema?                                              |  Sim       |             |
-|   8    | O rich picture conta uma história?                                                                                      |  Sim         |             |
-|   9    | No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?                            |  Sim          |             |
-|   10   | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture”?                              |  Sim          |             |
-|   11   | As operações especificam o que o sistema faz?                                                                           |  Sim          |             |
-|   12   | O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas?                             |  Sim          |             |
-|   13   | O rich picture apresenta uma escolha de palavras simples (sem jargões) relevantes para o entendimento?                  |  Sim          |             |
+| ID | Descrição| Avaliação | Autor | Observações |
+| :----: | :----- | :-------: | :-----: |:---------: |
+| 1 | No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | Sim | André Barros | Versão 1.7 22/11 |
+| 2 | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo? | Sim | André Barros | Versão 1.7 22/11 |
+| 3 | As setas mostram a direção do fluxo de dados entre atores, operações e armazenamentos de dados? | Sim | Leandro de Almeida | Versão 1.7 22/11 |
+
 
 <center>
-Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Alemida</a></h6>
+Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
 ### Link da gravação - Verificação do BRB Mobilidade
@@ -85,7 +82,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=MizcbfGQFEs).</p>
 </center>
 
 <center>
-  <iframe width="760" height="515" src="https://www.youtube.com/embed/MizcbfGQFEs?si=_03Bzod12JzzcWfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="760" height="515" src="https://www.youtube.com/embed/tEfIqiZnrmc?si=HVBoGNEu-twyCH-y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
@@ -203,6 +200,21 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">João Victor 
 ### Sugestões
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
+## Referências
+
+> <p id="1">1. REVADI, Chindy Elsanna. Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em: 04 de jan. de 2025.
+
+<center> <figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
+
+<center>
+
+![alt text](../../assets/setas_fonte.png)
+
+</center>
+
+ </p><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+<br>
+
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
@@ -214,3 +226,4 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">João Victor 
 |  1.4   | 06/11/2024 | verificação do rich picture brb mobilidade |  [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
 |  1.5   | 06/11/2024 | verificação do rich picture carteira de trabalho digital |  [Joao Victor Marques](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.6   | 13/11/2024 | Correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.7   | 04/01/2024 | Correção pós apresentação| [Leandro de Almeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) |

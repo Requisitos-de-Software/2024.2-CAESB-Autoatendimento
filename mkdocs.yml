@@ -74,9 +74,14 @@ nav:
       - Backlog: modelagem_agil/backlog.md
       - Histórias de Usuário: modelagem_agil/historia_usuario.md
       - NFR Framework: modelagem_agil/nfr.md
+  - Pós-Rastreabilidade:
+      - Forward-from: pos_rastreabilidade/foward-from.md
+      - Backward-from: pos_rastreabilidade/backward-from.md
+      - Matriz de Rastreabilidade: pos_rastreabilidade/matriz.md
   - Verificação:
       - Grupo 03 (Nosso Grupo):
         - Etapa 1:
+          - Itens de desenvolvimento do projeto: planejamento/verificacao/itens_dev_projx.md
           - Equipe: planejamento/verificacao/equipe.md
           - Cronogramas: planejamento/verificacao/Cronogramaa.md
           - Metodologia: planejamento/verificacao/metodologia.md
@@ -101,6 +106,7 @@ nav:
           - Itens de desenvolvimento do projeto: planejamento/verificacao/itens_dev_proj4.md
       - Grupo 04:
         - Etapa 1:
+            - Itens de desenvolvimento do projeto: planejamento/verificacao_g4/itens_dev_projx.md
             - Aplicativo Selecionado: planejamento/verificacao_g4/aplicativo_escolhido.md
             - Aplicativos Avaliados: planejamento/verificacao_g4/aplicativos_avaliados.md
             - Termos de Uso: planejamento/verificacao_g4/termos_de_uso.md
