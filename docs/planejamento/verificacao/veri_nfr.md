@@ -27,7 +27,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 &emsp;&emsp;A tabela 01 apresenta a lista de  Verificação do NFR Framework  que foram elaboradas com base no plano de ensino da disciplina e 02 apresenta a verificação.
 </p>
 
-<center>Tabela 02: Verificação da NFR Framework</center>
+<center>Tabela 01: Verificação da NFR Framework</center>
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
