@@ -75,6 +75,9 @@ nav:
       - Backlog: modelagem_agil/backlog.md
       - Histórias de Usuário: modelagem_agil/historia_usuario.md
       - NFR Framework: modelagem_agil/nfr.md
+  - Pós-Rastreabilidade: 
+      - Backward-from: rastreabilidade/backwardfrom.md
+      - Matriz de Rastreabilidade: rastreabilidade/matriz.md
   - Verificação:
       - Grupo 03 (Nosso Grupo):
         - Etapa 1:
