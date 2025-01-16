@@ -254,3 +254,4 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | :----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  `1.0`   | 14/01/2024 | Criação do artefato  | [Natan Almeida](https://github.com/natanalmeida03) <br> [João Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  `1.1`   | 15/01/2024 | Adição de requisitos  | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  `1.2`   | 15/01/2024 | Adição de requisitos  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
