@@ -190,7 +190,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 ## Requisitos Não-Funcionais
 
 <center>
-<figcaption>Tabela 8 - RNF01 </figcaption>
+<figcaption>Tabela 11 - RNF01 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ31</a> | O aplicativo deve incluir um tutorial inicial para ajudar novos usuários a se familiarizarem. |
 | :-: | :-: |
@@ -207,7 +207,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 </center>
 
 <center>
-<figcaption>Tabela 9 - RNF02 </figcaption>
+<figcaption>Tabela 12 - RNF02 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ32</a> | O aplicativo deve oferecer suporte a múltiplos idiomas para atender usuários diversificados. |
 | :-: | :-: |
@@ -224,7 +224,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 </center>
 
 <center>
-<figcaption>Tabela 10 - RNF03 </figcaption>
+<figcaption>Tabela 13 - RNF03 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ38</a> | O aplicativo deve se adaptar a diferentes tamanhos de tela. |
 | :-: | :-: |
@@ -240,6 +240,39 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
 
+<center>
+<figcaption>Tabela 14 - RNF04 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ33</a> | O aplicativo deve ser compatível com as versões mais recentes do Android e iOS. |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5 - Interface e Usabilidade</a>  |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 36 - Compatibilidade com Android e iOS </a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us36-compatibilidade-com-android-e-ios">US36 - Compatibilidade com Android e iOS </a> |
+| Léxico  | Léxico relacionado |
+| Casos de uso | Caso de uso relacionado |
+| Cenários | Cenário relacionado |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
+</center>
+
+<center>
+<figcaption>Tabela 15 - RNF04 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ33</a> | O aplicativo deve ser compatível com as versões mais recentes do Android e iOS. |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5 - Interface e Usabilidade</a>  |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 36 - Compatibilidade com Android e iOS </a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us36-compatibilidade-com-android-e-ios">US36 - Compatibilidade com Android e iOS </a> |
+| Léxico  | Léxico relacionado |
+| Casos de uso | Caso de uso relacionado |
+| Cenários | Cenário relacionado |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
+</center>
 
 ## Referências
 
