@@ -66,7 +66,7 @@
 | Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-<center>
+</center>
 
 <center>
 <figcaption>Tabela 4 - RF02 </figcaption>
@@ -83,7 +83,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-<center>
+</center>
 
 <center>
 <figcaption>Tabela 5 - RF04 </figcaption>
@@ -100,7 +100,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-<center>
+</center>
 
 <center>
 <figcaption>Tabela 6 - RF03 </figcaption>
@@ -117,7 +117,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-<center>
+</center>
 
 <center>
 <figcaption>Tabela 7 - RF05 </figcaption>
@@ -134,7 +134,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-<center>
+</center>
 
 
 ## Rquisitos Não-Funcionais
@@ -154,7 +154,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-<center>
+</center>
 
 <center>
 <figcaption>Tabela 9 - RNF02 </figcaption>
@@ -171,7 +171,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-<center>
+</center>
 
 <center>
 <figcaption>Tabela 10 - RNF03 </figcaption>
@@ -188,14 +188,14 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-<center>
+</center>
 
 
 ## Referências
 
-> POHL, Klaus. RUPP, Chris. Requirements Engineering Fundamentals. Disponível em: <a href= https://aprender3.unb.br/pluginfile.php/2972562/mod_resource/content/2/Rastreabilidade.pdf> https://aprender3.unb.br/pluginfile.php/2972562/mod_resource/content/2/Rastreabilidade.pdf </a>. Acesso em 14 de Jan. de 2024.
+><p> POHL, Klaus. RUPP, Chris. Requirements Engineering Fundamentals. Disponível em: <a href= https://aprender3.unb.br/pluginfile.php/2972562/mod_resource/content/2/Rastreabilidade.pdf> https://aprender3.unb.br/pluginfile.php/2972562/mod_resource/content/2/Rastreabilidade.pdf </a>. Acesso em 14 de Jan. de 2024.</p>
 
-> Requisitos - Aula 26 - Profa.Milene e Prof.Mauricio. Disponível em: <a href= https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf> https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf </a>. Acesso em 14 de Jan. de 2024.
+><p> Requisitos - Aula 26 - Profa.Milene e Prof.Mauricio. Disponível em: <a href= https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf> https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf </a>. Acesso em 14 de Jan. de 2024.</p>
 
 
 ## Histórico de Versão
