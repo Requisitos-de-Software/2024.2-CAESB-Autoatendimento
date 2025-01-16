@@ -10,7 +10,7 @@
     &emsp;&emsp;Baseando-se no meta-modelo de Toranzo, disponível no Aprender3, nos slides 19 e 23 da aula 26, os requisitos foram classificados pelo grupo em níveis e elos.
 </p>
 
-### Nivéis
+### Níveis
 
 - <b>Ambiental</b>: informações oriundas do ambiente e do contexto ao qual a organizcaão está inserida.
 - <b>Organizacional</b>: informações relacionadas à organização.
@@ -99,10 +99,11 @@
 <center>
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida e Matheus Barros<a href="https://github.com/Ninja-Haiyai" target = "_blank"></a></h6>
 </center>
+<br>
 
 ## Requisitos Não Funcionais
 
-<center>Tabela 01: Requisitos Funcionais</center>
+<center>Tabela 02: Requisitos Não Funcionais</center>
 
 |  ID  |        DESCRIÇÃO          | RASTREABILIDADE | CATEGORIA | IMPLEMENTADO |
 | :--: | :-----------------------: | :-------------: | :-------: | :----------: |
@@ -120,6 +121,30 @@
 <center>
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida e Matheus Barros<a href="https://github.com/Ninja-Haiyai" target = "_blank"></a></h6>
 </center>
+
+## Elos
+
+<p align="justify">&emsp;&emsp;Nessa parte iremos abordar as conexões entre os requisitos que foram mostrados anteriormente nas tabelas 1 e 2, para tal iremos utilizar a metodologia anteriormente apresentada para que possamos classificar os requisitos em qual tipo de elo eles são:</p>
+
+<center>Tabela 03: Requisitos Não Funcionais</center>
+<br>
+
+| ID    | Requisitos | Tipo de elo  | Descrição do elo                                                                                  |
+|-------|------------|--------------|--------------------------------------------------------------------------------------------------|
+| ELO1  | RQ03       | Satisfação   | O requisito RQ03 diz que o aplicativo deveria possuir a capacidade de pagar e visualizar contas anteriores. |
+| ELO2  | RQ05       | Satisfação   | O requisito RQ05 diz que o sistema deve permitir consultar consumo.                              |
+| ELO3  | RQ06       | Recurso      | O requisito RQ06 diz que o sistema deve permitir bloqueio, reativação ou solicitação de reparo nos serviços da Caesb. |
+| ELO4  | RQ16       | Representação| O requisito RQ16 diz que o sistema deve permitir ao usuário corrigir erros retornando à tela anterior e atualizando os dados. |
+| ELO5  | RQ18       | Alocado      | O requisito RQ18 diz que a funcionalidade "Simulação de tarifa" deve ser nativa do aplicativo e não redirecionar ao site da Caesb. |
+| ELO6  | RQ22       | Agregação    | O requisito RQ22 diz que o aplicativo deve exibir dicas de consumo consciente e economia de água. |
+| ELO7  | RQ24       | Responsabilidade | O requisito RQ24 diz que o aplicativo deve disponibilizar alertas sobre manutenção programada.       |
+| ELO8  | RQ25       | Satisfação   | O requisito RQ25 diz que o usuário deve poder solicitar alteração na titularidade da conta.       |
+
+<center>
+<h6>Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></h6>
+
+</center>
+
 
 ## Referências
 
