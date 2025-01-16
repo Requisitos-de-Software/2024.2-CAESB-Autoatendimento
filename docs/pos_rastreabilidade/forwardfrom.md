@@ -153,6 +153,23 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
 
+<center>
+<figcaption>Tabela 9 - RF07 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ27</a> | O aplicativo deve reconhecer automaticamente os imóveis associados ao cliente da Caesb. |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5 - Interface e Usabilidade</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 34 - Reconhecimento Automático de Imóveis </a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us34-reconhecimento-automatico-de-imoveis">US34 - Reconhecimento automático de imóveis </a> |
+| Léxico  | Léxico relacionado |
+| Casos de uso | Caso de uso relacionado |
+| Cenários | Cenário relacionado |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
+</center>
+
 
 ## Rquisitos Não-Funcionais
 
