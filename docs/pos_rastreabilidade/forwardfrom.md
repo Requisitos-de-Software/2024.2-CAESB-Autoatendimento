@@ -136,6 +136,23 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
 
+<center>
+<figcaption>Tabela 8 - RF06 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ26</a> | O aplicativo deve permitir que o usuário escolha o imóvel desejado. |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interatividade-e-suporte-ao-cliente">Épico 5 - Interface e Usabilidade</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 33 - Escolher imóvel desejado </a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us33-permitir-pagamento-mensal-recorrente">US33 - Escolher imóvel desejado </a> |
+| Léxico  | Léxico relacionado |
+| Casos de uso | Caso de uso relacionado |
+| Cenários | Cenário relacionado |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
+</center>
+
 
 ## Rquisitos Não-Funcionais
 
