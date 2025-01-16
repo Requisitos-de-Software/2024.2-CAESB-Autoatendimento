@@ -54,11 +54,11 @@
 <center>
 <figcaption>Tabela 3 - RF01 </figcaption>
 
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ01</a> | O sistema deve ter uma barra de busca. |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ09</a> | O sistema deve permitir a configuração de um pagamento mensal recorrente |
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente">Épico 2 - Interatividade e Suporte ao Cliente</a> |
-| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 17 - Barra de Busca</a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us01-barra-de-busca">US01 - Barra de busca</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 2 - Formas de Pagamento </a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us09-permitir-pagamento-mensal-recorrente">US09 - Permitir pagamento mensal recorrente</a> |
 | Léxico  | Léxico relacionado |
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
@@ -71,11 +71,11 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 <center>
 <figcaption>Tabela 4 - RF02 </figcaption>
 
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ02</a> | O sistema deve ter as funções mais utilizadas/mais buscadas em uma barra |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ12</a> | O aplicativo deve oferecer notificações para lembrar vencimento de contas e ações pendentes. |
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente">Épico 2 - Interatividade e Suporte ao Cliente</a> |
-| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 3 - Barra de Funções </a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us17-barra-de-funcoes-mais-utilizadas">US17 - Barra de Funções Mais Utilizadas.</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 9 - Notificação de Vencimento</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us11-notificar-o-usuario-para-lembrar-vencimento-de-contas-e-acoes-pendentes">US11 - Notificar o usuário para lembrar vencimento de contas e ações pendentes.</a> |
 | Léxico  | Léxico relacionado |
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
@@ -86,30 +86,30 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 <center>
 
 <center>
-<figcaption>Tabela 5 - RF03 </figcaption>
+<figcaption>Tabela 5 - RF04 </figcaption>
 
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ03</a> | O sistema deve permitir acessar/pagar contas passadas |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ19</a> | O aplicativo deve permitir ao usuário informar vazamentos na rua ou no hidrômetro |
 | :-: | :-: |
-| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos">Épico 1 - Gestão de Contas e Pagamentos</a> |
-| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 25 - Acesso/Pagamento de Contas Passadas </a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us25-acessopagamento-de-contas-passadas">US25 - Acesso/Pagamento de Contas Passadas</a> |
-| Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
-| NFR | -- |
-| Especificação Suplementar | -- |
-
-Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-<center>
-
-<center>
-<figcaption>Tabela 6 - RF04 </figcaption>
-
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ04</a> | O sistema deve permitir emitir/vizualizar segunda via de conta |
-| :-: | :-: |
-| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos">Épico 1 - Gestão de Contas e Pagamentos</a> |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-3-sustentabilidade-e-consumo-consciente">Épico 3 - Sustentabilidade e Consumo Consciente</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 1 - Segunda Via de Conta</a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us18-segunda-via-de-conta">US18 - Segunda Via de Conta.</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us12-permitir-ao-usuario-informar-vazamentos-na-rua-ou-no-hidrometro">US12 - Permitir ao usuário informar vazamentos na rua ou no hidrômetro.</a> |
+| Léxico  | Léxico relacionado |
+| Casos de uso | Caso de uso relacionado |
+| Cenários | Cenário relacionado |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+<center>
+
+<center>
+<figcaption>Tabela 6 - RF03 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ20</a> | O usuário deve poder atualizar seus dados cadastrais pelo app. |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos">Épico 1 - Gestão de Contas e Pagamentos</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 12 - Atualizar Dados Cadastrais </a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us10-atualizar-seus-dados-cadastrais-pelo-app">US10 - Atualizar seus dados cadastrais pelo app</a> |
 | Léxico  | Léxico relacionado |
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
@@ -122,28 +122,11 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 <center>
 <figcaption>Tabela 7 - RF05 </figcaption>
 
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ05</a> | O sistema deve permitir consultar consumo |
-| :-: | :-: |
-| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos">Épico 1 - Gestão de Contas e Pagamentos</a> |
-| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 26 - Consulta de Consumo </a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us26-consulta-de-consumo">US26 - Consulta de Consumo</a> |
-| Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
-| NFR | -- |
-| Especificação Suplementar | -- |
-
-Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-<center>
-
-<center>
-<figcaption>Tabela 8 - RF06 </figcaption>
-
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ06</a> | O sistema deve permitir bloqueio, reativação ou solicitação de reparo |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ21</a> | O aplicativo deve permitir agendar atendimento presencial na unidade mais próxima. |
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-4-servicos-de-atendimento">Épico 4: Serviços de Atendimento</a> |
-| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 31 - Bloqueio e Reativação de Conta </a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us27-bloqueioreativacaosolicitacao-de-reparo">US27 - Bloqueio/Reativação/Solicitação de Reparo.</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 13 - Agendar Atendimento Presencial </a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us13-permitir-ao-usuario-agendar-atendimento-presencial-na-unidade-mais-proxima">US13 - Permitir ao usuário agendar atendimento presencial na unidade mais próxima</a> |
 | Léxico  | Léxico relacionado |
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
@@ -152,11 +135,12 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 <center>
+
 
 ## Rquisitos Não-Funcionais
 
 <center>
-<figcaption>Tabela 9 - RNF01 </figcaption>
+<figcaption>Tabela 8 - RNF01 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ31</a> | O aplicativo deve incluir um tutorial inicial para ajudar novos usuários a se familiarizarem. |
 | :-: | :-: |
@@ -173,13 +157,30 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 <center>
 
 <center>
-<figcaption>Tabela 10 - RNF02 </figcaption>
+<figcaption>Tabela 9 - RNF02 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ32</a> | O aplicativo deve oferecer suporte a múltiplos idiomas para atender usuários diversificados. |
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5: Interface e Usabilidade</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 15 - Suporte a Múltiplos Idiomas </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us15-oferecer-suporte-a-multiplos-idiomas-para-atender-usuarios-diversificados">US15 - Oferecer suporte a múltiplos idiomas para atender usuários diversificados.</a> |
+| Léxico  | Léxico relacionado |
+| Casos de uso | -- |
+| Cenários | Cenário relacionado |
+| NFR | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/#nfr-framework-nfr01-usabilidade">NFR Framework - NFR01: Usabilidade</a> |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+<center>
+
+<center>
+<figcaption>Tabela 10 - RNF03 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ38</a> | O aplicativo deve se adaptar a diferentes tamanhos de tela. |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5: Interface e Usabilidade</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 16 - Responsividade </a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us16-adaptar-a-diferentes-tamanhos-de-tela">US16 - Adaptar a diferentes tamanhos de tela.</a> |
 | Léxico  | Léxico relacionado |
 | Casos de uso | -- |
 | Cenários | Cenário relacionado |
