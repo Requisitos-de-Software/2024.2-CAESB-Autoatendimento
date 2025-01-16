@@ -170,8 +170,24 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
 
+<center>
+<figcaption>Tabela 10 - RF08 </figcaption>
 
-## Rquisitos Não-Funcionais
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ28</a> | O aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo. |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-3-sustentabilidade-e-consumo-consciente">Épico 3 - Sustentabilidade e Consumo Consciente</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 35 - Consideração do número de pessoas no imóvel </a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us35-consideracao-do-numero-de-pessoas-no-imovel">US35 - Consideração do número de pessoas no imóvel </a> |
+| Léxico  | Léxico relacionado |
+| Casos de uso | Caso de uso relacionado |
+| Cenários | Cenário relacionado |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
+</center>
+
+## Requisitos Não-Funcionais
 
 <center>
 <figcaption>Tabela 8 - RNF01 </figcaption>
