@@ -258,13 +258,13 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 </center>
 
 <center>
-<figcaption>Tabela 15 - RNF04 </figcaption>
+<figcaption>Tabela 15 - RNF05 </figcaption>
 
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ33</a> | O aplicativo deve ser compatível com as versões mais recentes do Android e iOS. |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ36</a> | O aplicativo deve ter uma interface intuitiva, organizada e fácil de usar. |
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5 - Interface e Usabilidade</a>  |
-| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 36 - Compatibilidade com Android e iOS </a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us36-compatibilidade-com-android-e-ios">US36 - Compatibilidade com Android e iOS </a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 37 - Interface Intuitiva e Organizada </a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us37-interface-intuitiva-e-organizada">US37 - Interface intuitiva e organizada </a> |
 | Léxico  | Léxico relacionado |
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
