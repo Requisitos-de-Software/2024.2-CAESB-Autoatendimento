@@ -24,10 +24,10 @@
 | OBS     | Observação                |
 | ENT     | Entrevista                |
 | BS      | Brainstorm                |
-| CEN     | Cenários                  |
-| LEX     | Léxico                    |
+| C       | Cenários                  |
+| L       | Léxico                    |
 | ES      | Especificação Suplementar |
-| US      | Caso de Uso               |
+| UC      | Caso de Uso               |
 
 </center>
 
@@ -59,9 +59,9 @@
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente">Épico 2 - Interatividade e Suporte ao Cliente</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 2 - Formas de Pagamento </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us09-permitir-pagamento-mensal-recorrente">US09 - Permitir pagamento mensal recorrente</a> |
-| Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
+| Léxico  | -- |
+| Casos de uso | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">Casos de Uso(UC02)</a> |
+| Cenários | -- |
 | NFR | -- |
 | Especificação Suplementar | -- |
 
@@ -78,9 +78,9 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente">Épico 2 - Interatividade e Suporte ao Cliente</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 9 - Notificação de Vencimento</a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us11-notificar-o-usuario-para-lembrar-vencimento-de-contas-e-acoes-pendentes">US11 - Notificar o usuário para lembrar vencimento de contas e ações pendentes.</a> |
-| Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
+| Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l09-notificacoes-de-vencimento">Léxicos(L09)</a> |
+| Casos de uso | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">Casos de Uso(UC01)</a> |
+| Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-9-notificacoes-de-vencimento">Cenários(C9)</a> |
 | NFR | -- |
 | Especificação Suplementar | -- |
 
@@ -97,9 +97,9 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-3-sustentabilidade-e-consumo-consciente">Épico 3 - Sustentabilidade e Consumo Consciente</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 1 - Segunda Via de Conta</a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us12-permitir-ao-usuario-informar-vazamentos-na-rua-ou-no-hidrometro">US12 - Permitir ao usuário informar vazamentos na rua ou no hidrômetro.</a> |
-| Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
+| Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l04-informar-vazamento-na-rua">Léxicos(L04)</a> |
+| Casos de uso | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">Casos de Uso(UC01)</a>|
+| Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-4-informar-vazamento-na-rua">Cenários(C4)</a> |
 | NFR | -- |
 | Especificação Suplementar | -- |
 
@@ -116,9 +116,9 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos">Épico 1 - Gestão de Contas e Pagamentos</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 12 - Atualizar Dados Cadastrais </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us10-atualizar-seus-dados-cadastrais-pelo-app">US10 - Atualizar seus dados cadastrais pelo app</a> |
-| Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
+| Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l06-alterar-titularidade-e-vencimento">Léxicos(L06)</a>  |
+| Casos de uso | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">Casos de Uso(UC01)</a> |
+| Cenários | -- |
 | NFR | -- |
 | Especificação Suplementar | -- |
 
@@ -135,9 +135,9 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-4-servicos-de-atendimento">Épico 4: Serviços de Atendimento</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 13 - Agendar Atendimento Presencial </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us13-permitir-ao-usuario-agendar-atendimento-presencial-na-unidade-mais-proxima">US13 - Permitir ao usuário agendar atendimento presencial na unidade mais próxima</a> |
-| Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
+| Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l07-agendar-atendimento-presencial">Léxicos(L07)</a> |
+| Casos de uso | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">Casos de Uso(UC01)</a> |
+| Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-7-agenda-atendimento-presencial">Cenários(C7)</a> |
 | NFR | -- |
 | Especificação Suplementar | -- |
 
@@ -344,9 +344,9 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5: Interface e Usabilidade</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 14 - Tutorial Inicial </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us14-incluir-um-tutorial-inicial-para-ajudar-novos-usuarios-a-se-familiarizarem">US14 - Incluir um tutorial inicial para ajudar novos usuários a se familiarizarem</a> |
-| Léxico  | Léxico relacionado |
+| Léxico  | -- |
 | Casos de uso | -- |
-| Cenários | Cenário relacionado |
+| Cenários | -- |
 | NFR | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/#nfr-framework-nfr01-usabilidade">NFR Framework - NFR01: Usabilidade</a> |
 | Especificação Suplementar | -- |
 
@@ -361,9 +361,9 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5: Interface e Usabilidade</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 15 - Suporte a Múltiplos Idiomas </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us15-oferecer-suporte-a-multiplos-idiomas-para-atender-usuarios-diversificados">US15 - Oferecer suporte a múltiplos idiomas para atender usuários diversificados.</a> |
-| Léxico  | Léxico relacionado |
+| Léxico  | -- |
 | Casos de uso | -- |
-| Cenários | Cenário relacionado |
+| Cenários | -- |
 | NFR | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/#nfr-framework-nfr01-usabilidade">NFR Framework - NFR01: Usabilidade</a> |
 | Especificação Suplementar | -- |
 
@@ -378,11 +378,11 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5: Interface e Usabilidade</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 16 - Responsividade </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us16-adaptar-a-diferentes-tamanhos-de-tela">US16 - Adaptar a diferentes tamanhos de tela.</a> |
-| Léxico  | Léxico relacionado |
+| Léxico  | -- |
 | Casos de uso | -- |
-| Cenários | Cenário relacionado |
+| Cenários | -- |
 | NFR | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/#nfr-framework-nfr01-usabilidade">NFR Framework - NFR01: Usabilidade</a> |
-| Especificação Suplementar | -- |
+| Especificação Suplementar |  href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#usabilidade">ES de Usabilidade</a>      |
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
