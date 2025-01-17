@@ -372,6 +372,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 |  1.0   | 06/12/2024 | Criação dos cenários | [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 10/12/2024 | Adicionando cenários | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
 |  1.2   | 11/12/2024 | Adicionando cenários | [Natan Almeida](https://github.com/natanalmeida03) |[Leandro de Almeida](https://github.com/leomitx10) |
-|  1.3   | 11/12/2024 | Adicionando cenários | [Matheus Barros](https://github.com/Ninja-Haiyai) |[Leandro de Almeida](https://github.com/leomitx10) |
+|  1.3   | 15/12/2024 | Adicionando cenários | [Matheus Barros](https://github.com/Ninja-Haiyai) |[Leandro de Almeida](https://github.com/leomitx10) |
 
 </center>
