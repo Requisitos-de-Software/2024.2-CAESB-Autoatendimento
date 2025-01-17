@@ -147,10 +147,17 @@
 | ELO14  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ14</a>|  Agregação  | O requisito RQ14 estipula que a funcionalidade "Informar vazamento na rua" deve mostrar apenas o mapa das regiões em que a Caesb atua.|
 | ELO15  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ15</a>      |  Responsabilidade  | O requisito RQ15 afirma que o usuário deve poder informar e visualizar informações sobre a falta de água.|
 | ELO16  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ34</a>      |  Satisfação  | O requisito RQ34 assegura que o aplicativo deve garantir segurança com os dados dos usuários.   |
-
+| ELO17  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ09</a>  | Funcionalidade   | O requisito RQ09 estabelece que o sistema deve permitir a configuração de um pagamento mensal recorrente       |
+| ELO18  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ12</a>  | Satisfação   | O requisito RQ12 define que o sistema deve oferecer notificações para lembrar vencimento de contas e ações pendentes.      |
+| ELO19  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ19</a> | Satisfação   | O requisito RQ19 especifica que o sistema deve permitir ao usuário informar vazamentos na rua ou no hidrômetro      |
+| ELO20  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ20</a> | Satisfação   | O requisito RQ20 determina que o  usuário deve poder atualizar seus dados cadastrais pelo app. |
+| ELO21  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ21</a>       |  Satisfação    | O requisito RQ21 determina que o sistema deve permitir agendar atendimento presencial na unidade mais próxima.|
+| ELO22  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ31</a>|  Representação  | O requisito RQ31 define que o sistema deve incluir um tutorial inicial para ajudar novos usuários a se familiarizarem.|
+| ELO23  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ32</a>      |  Qualidade  | O requisito RQ32 afirma que o aplicativo deve oferecer suporte a múltiplos idiomas para atender usuários diversificados.|
+| ELO24  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ38</a>      |  Representação  | O requisito RQ38 assegura que o aplicativo deve se adaptar a diferentes tamanhos de tela.   |
 
 <center>
-Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 
 </center>
 
