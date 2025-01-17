@@ -139,9 +139,18 @@
 | ELO6  | RQ22       | Agregação    | O requisito RQ22 diz que o aplicativo deve exibir dicas de consumo consciente e economia de água. |
 | ELO7  | RQ24       | Responsabilidade | O requisito RQ24 diz que o aplicativo deve disponibilizar alertas sobre manutenção programada.       |
 | ELO8  | RQ25       | Satisfação   | O requisito RQ25 diz que o usuário deve poder solicitar alteração na titularidade da conta.       |
+| ELO9  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ02</a>  | Satisfação   | O requisito RQ02 estabelece que o sistema deve ter as funções mais utilizadas/mais buscadas em uma barra.       |
+| ELO10  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ04</a>  | Satisfação   | O requisito RQ04 define que o sistema deve permitir emitir/visualizar segunda via de conta.      |
+| ELO11  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ08</a> | Recurso   | O requisito RQ08 especifica que o sistema deve oferecer várias formas de pagamento.      |
+| ELO12  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ11</a> | Representação   | O requisito RQ11 determina que o usuário deve poder enviar documentos diretamente pelo aplicativo. |
+| ELO13  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ13</a>       |  Alocado    | O requisito RQ13 propõe que o aplicativo deve incluir suporte a chat ou atendimento virtual para dúvidas. |
+| ELO14  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ14</a>|  Agregação  | O requisito RQ14 estipula que a funcionalidade "Informar vazamento na rua" deve mostrar apenas o mapa das regiões em que a Caesb atua.|
+| ELO15  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ15</a>      |  Responsabilidade  | O requisito RQ15 afirma que o usuário deve poder informar e visualizar informações sobre a falta de água.|
+| ELO16  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ34</a>      |  Satisfação  | O requisito RQ34 assegura que o aplicativo deve garantir segurança com os dados dos usuários.   |
+
 
 <center>
-<h6>Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></h6>
+Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 
 </center>
 
@@ -160,4 +169,5 @@
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 |  1.0   | 14/01/2025 | Escrita da introdução e metodologia |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.1   | 14/01/2025 | Adição dos Elos 1-8 |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
+|  1.2   | 16/01/2025 | Adição dos Elos 9-16 |[Letícia Resende ](https://github.com/LeticiaResende23)  | [Matheus Barros ](https://github.com/Ninja-Haiyai)|
 

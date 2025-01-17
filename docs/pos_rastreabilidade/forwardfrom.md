@@ -68,6 +68,8 @@
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
 
+<br>
+
 <center>
 <figcaption>Tabela 4 - RF02 </figcaption>
 
@@ -85,8 +87,10 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
 
+<br>
+
 <center>
-<figcaption>Tabela 5 - RF04 </figcaption>
+<figcaption>Tabela 5 - RF03 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ19</a> | O aplicativo deve permitir ao usuário informar vazamentos na rua ou no hidrômetro |
 | :-: | :-: |
@@ -102,8 +106,10 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
 
+<br>
+
 <center>
-<figcaption>Tabela 6 - RF03 </figcaption>
+<figcaption>Tabela 6 - RF04 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ20</a> | O usuário deve poder atualizar seus dados cadastrais pelo app. |
 | :-: | :-: |
@@ -118,6 +124,8 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
+
+<br>
 
 <center>
 <figcaption>Tabela 7 - RF05 </figcaption>
@@ -136,6 +144,8 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
 
+<br>
+
 <center>
 <figcaption>Tabela 8 - RF06 </figcaption>
 
@@ -152,6 +162,8 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
+
+<br>
 
 <center>
 <figcaption>Tabela 9 - RF07 </figcaption>
@@ -170,6 +182,8 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
 
+<br>
+
 <center>
 <figcaption>Tabela 10 - RF08 </figcaption>
 
@@ -187,10 +201,143 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
 
+<br>
+
+<center>
+<figcaption>Tabela 11 - RF09 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ02</a> | O sistema deve ter as funções mais utilizadas/mais buscadas em uma barra. |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente">Épico 2 - Interatividade e Suporte ao Cliente</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 17 - Barra de Busca</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#historias-de-usuario_1"> US01 - Barra de busca</a> |
+| Léxico  | --|
+| Casos de uso | --|
+| Cenários | -- |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+<br>
+
+<center>
+<figcaption>Tabela 12 - RF10 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ04</a> | O sistema deve permitir emitir/visualizar segunda via de conta |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos">Épico 1 - Gestão de Contas e Pagamentos</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 1 - Segunda Via de Conta</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us18-segunda-via-de-conta">US18 - Segunda Via de Conta</a> |
+| Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l01-emitir-a-segunda-via-de-conta">L01 - Emitir a Segunda Via de Conta</a> |
+| Casos de uso | --|
+| Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-1-emitir-a-segunda-via-de-conta">Cenário 1 - Emitir a Segunda Via de Conta</a> |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
+<center>
+<figcaption>Tabela 13 - RF11 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ08</a> |O sistema deve oferecer várias formas de pagamento |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos">Épico 1 - Gestão de Contas e Pagamentos</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 2 - Formas de Pagamento</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us19-formas-de-pagamento">US19 - Formas de Pagamento.</a> |
+| Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#lexico-l17-formas-de-pagamento">L17 - Formas de Pagamento</a> |
+| Casos de uso | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC12 - Formas de Pagamento</a>|
+| Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-17-formas-de-pagamento">Cenário 17 - Formas de Pagamento</a> |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
+<center>
+<figcaption>Tabela 14 - RF12 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ11</a> |O usuário deve poder enviar documentos diretamente pelo aplicativo|
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente">Épico 2 - Interatividade e Suporte ao Cliente</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 4 - Envio de Documentos</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us20-envio-de-documentos">US20 - Envio de Documentos</a> |
+| Léxico  | --|
+| Casos de uso | --|
+| Cenários | --|
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
+<center>
+<figcaption>Tabela 15 - RF13 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ13</a> |O aplicativo deve incluir suporte a chat ou atendimento virtual para resolver dúvidas dos usuários|
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente">Épico 2 - Interatividade e Suporte ao Cliente</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 5 - Suporte por Chat</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us21-chat-ou-atendimento-virtual">US21 - Chat ou Atendimento Virtual</a> |
+| Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l08-suporte-de-chat-ou-atendimento">L08 - Suporte de Chat ou Atendimento</a> |
+| Casos de uso |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC08 - Suporte de Chat ou Atendimento</a> |
+| Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-8-suporte-de-chat-ou-atendimento">Cenário 8 - Suporte de Chat ou Atendimento</a>|
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
+<center>
+<figcaption>Tabela 16 - RF14 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ14</a> |A funcionalidade "Informar vazamento na rua" deve mostrar apenas o mapa das regiões em que a Caesb atua|
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-3-sustentabilidade-e-consumo-consciente">Épico 3 - Sustentabilidade e Consumo Consciente</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 6 - Informar Vazamentos</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us22-informar-vazamento">US22 - Informar Vazamento</a> |
+| Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l04-informar-vazamento-na-rua">L04 - Informar Vazamento na Rua</a> |
+| Casos de uso |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC04 - Informar Vazamento</a> |
+| Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-4-informar-vazamento-na-rua">Cenário 4 - Informar Vazamento na Rua</a>|
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+<br>
+
+<center>
+<figcaption>Tabela 17 - RF15 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ15</a> |O usuário deve poder informar e visualizar informações sobre a falta de água|
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-3-sustentabilidade-e-consumo-consciente">Épico 3 - Sustentabilidade e Consumo Consciente</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 7 - Informações de Falta de Água</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us23-informar-e-visualizar-falta-de-agua">US23 - Informar e Visualizar Falta de Água</a> |
+| Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l02-informar-falta-dagua">L02 - Informar Falta d'Água</a> |
+| Casos de uso |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC02 - Informar Falta d'Água</a> |
+| Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-2-informar-falta-dagua">Cenário 2 - Informar Falta d'Água</a>|
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
 ## Requisitos Não-Funcionais
 
 <center>
-<figcaption>Tabela 11 - RNF01 </figcaption>
+<figcaption>Tabela 18 - RNF01 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ31</a> | O aplicativo deve incluir um tutorial inicial para ajudar novos usuários a se familiarizarem. |
 | :-: | :-: |
@@ -207,7 +354,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 </center>
 
 <center>
-<figcaption>Tabela 12 - RNF02 </figcaption>
+<figcaption>Tabela 19 - RNF02 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ32</a> | O aplicativo deve oferecer suporte a múltiplos idiomas para atender usuários diversificados. |
 | :-: | :-: |
@@ -224,7 +371,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 </center>
 
 <center>
-<figcaption>Tabela 13 - RNF03 </figcaption>
+<figcaption>Tabela 20 - RNF03 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ38</a> | O aplicativo deve se adaptar a diferentes tamanhos de tela. |
 | :-: | :-: |
@@ -241,7 +388,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 </center>
 
 <center>
-<figcaption>Tabela 14 - RNF04 </figcaption>
+<figcaption>Tabela 21 - RNF04 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ33</a> | O aplicativo deve ser compatível com as versões mais recentes do Android e iOS. |
 | :-: | :-: |
@@ -258,7 +405,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 </center>
 
 <center>
-<figcaption>Tabela 15 - RNF05 </figcaption>
+<figcaption>Tabela 22 - RNF05 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ36</a> | O aplicativo deve ter uma interface intuitiva, organizada e fácil de usar. |
 | :-: | :-: |
@@ -275,7 +422,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 </center>
 
 <center>
-<figcaption>Tabela 16 - RNF06 </figcaption>
+<figcaption>Tabela 23 - RNF06 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ37</a> |  	O sistema deve minimizar o número de cliques necessários para interações. |
 | :-: | :-: |
@@ -292,7 +439,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 </center>
 
 <center>
-<figcaption>Tabela 17 - RNF07 </figcaption>
+<figcaption>Tabela 24 - RNF07 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ39</a> |  	O aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas. |
 | :-: | :-: |
@@ -309,7 +456,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 </center>
 
 <center>
-<figcaption>Tabela 18 - RNF08 </figcaption>
+<figcaption>Tabela 25 - RNF08 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ40</a> |  	O aplicativo deve ter tempos de resposta inferiores a 2 segundos para a maioria das funcionalidades. |
 | :-: | :-: |
@@ -325,6 +472,26 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
 
+<br>
+
+<center>
+<figcaption>Tabela 26 - RNF09 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ34</a> |O aplicativo deve garantir segurança com os dados dos usuários|
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-7-seguranca-e-privacidade">Épico 7 - Segurança e Privacidade</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 8 - Segurança de Dados</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us24-seguranca-dos-dados">US24 - Segurança dos Dados</a> |
+| Léxico  | -- |
+| Casos de uso | --|
+| Cenários | --|
+| NFR | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/#nfr-framework-nfr03-confiabilidade">NFR Framework - NFR03: Confiabilidade</a>  |
+| Especificação Suplementar |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#confiabiliade">Especificação Suplementar - Confiabilidade</a> |
+
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+
 ## Referências
 
 ><p> POHL, Klaus. RUPP, Chris. Requirements Engineering Fundamentals. Disponível em: <a href= https://aprender3.unb.br/pluginfile.php/2972562/mod_resource/content/2/Rastreabilidade.pdf> https://aprender3.unb.br/pluginfile.php/2972562/mod_resource/content/2/Rastreabilidade.pdf </a>. Acesso em 14 de Jan. de 2024.</p>
@@ -336,7 +503,8 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :----: | :--------: | :------------------: | :-------------------: | :-----------------: |
-|  `1.0`   | 14/01/2024 | Criação do artefato  | [Natan Almeida](https://github.com/natanalmeida03) <br> [João Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
-|  `1.1`   | 15/01/2024 | Adição de requisitos  | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10) |
-|  `1.2`   | 16/01/2024 | Adição de requisitos  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
-|  `1.3`   | 16/01/2024 | Adição de requisitos não funcionais  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.0   | 14/01/2024 | Criação do artefato  | [Natan Almeida](https://github.com/natanalmeida03) <br> [João Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.1   | 15/01/2024 | Adição de requisitos  | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.2   | 16/01/2024 | Adição de requisitos  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.3   | 16/01/2024 | Adição de requisitos não funcionais  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.4   | 16/01/2024 | Adição de requisitos funcionais e não funcionais  | [Letícia Resende ](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03) |
