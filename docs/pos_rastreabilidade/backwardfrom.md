@@ -156,9 +156,18 @@
 | ELO22  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ31</a>|  Representação  | O requisito RQ31 define que o sistema deve incluir um tutorial inicial para ajudar novos usuários a se familiarizarem.|
 | ELO23  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ32</a>      |  Qualidade  | O requisito RQ32 afirma que o aplicativo deve oferecer suporte a múltiplos idiomas para atender usuários diversificados.|
 | ELO24  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ38</a>      |  Representação  | O requisito RQ38 assegura que o aplicativo deve se adaptar a diferentes tamanhos de tela.   |
+| ELO25  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ01</a> | Representação | O requisito RQ01 define que o sistema deve ter uma barra de busca.   |
+| ELO26  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ23</a> | Responsabilidade | O requisito RQ23 determina que usuário deve poder registrar e acompanhar ordens de serviço.   |
+| ELO27  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ35</a> | Satisfação | O requisito RQ35 define que o sistema deve estar em conformidade com os padrões de acessibilidade da última versão da WCAG.   |
+| ELO28  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ30</a> | Representação | O requisito RQ30 estabelece que o sistema deve permitir que o usuário busque um atendimento pelo protocolo.   |
+| ELO28  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ29</a> | Recurso | O requisito RQ29 define que o sistema deve permitir que o usuário altere o vencimento da conta.   |
+| ELO29  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ07</a> | Agregação | O requisito RQ07 estabele que o sistema deve exibir pequenas descrições ao lado dos serviços para mostrar seu estado atual.  |
+| ELO30  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ10</a> | Recurso | O requisito RQ30 determina que o sistema deve possibilitar o adiantamento de processos via aplicativo.  |
+| ELO31  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ17</a> | Alocado | O requisito RQ17 determina que a funcionalidade "Atendimentos" deve permitir filtros por ano, mês, status (finalizado ou em andamento).  |
+
 
 <center>
-Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e  <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 
 </center>
 
@@ -178,4 +187,5 @@ Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros<
 |  1.0   | 14/01/2025 | Escrita da introdução e metodologia |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.1   | 14/01/2025 | Adição dos Elos 1-8 |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.2   | 16/01/2025 | Adição dos Elos 9-16 |[Letícia Resende ](https://github.com/LeticiaResende23)  | [Matheus Barros ](https://github.com/Ninja-Haiyai)|
-|  1.3   | 14/01/2025 | Adição da rastreabilidade dos Elos 1 - 8 |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
+|  1.3   | 16/01/2025 | Adição dos Elos 25-31 |[Leandro de Almeida ](https://github.com/leomitx10)  | [Matheus Barros ](https://github.com/Ninja-Haiyai)|
+|  1.4   | 14/01/2025 | Adição da rastreabilidade dos Elos 1 - 8 |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
