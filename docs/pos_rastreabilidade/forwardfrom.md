@@ -334,6 +334,65 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 
 <br>
 
+<center>
+<figcaption>Tabela 18 - RF16 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ01</a> |O sistema deve ter uma barra de busca.|
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-3-sustentabilidade-e-consumo-consciente">Épico 2 - Interatividade e Suporte ao Cliente</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 17 - Barra de Busca</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us23-informar-e-visualizar-falta-de-agua">US01 - Barra de busca</a> |
+| Léxico  | -- |
+| Casos de uso | -- |
+| Cenários | -- |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<br>
+
+<center>
+<figcaption>Tabela 19 - RF17 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ23</a> |O usuário deve poder registrar e acompanhar ordens de serviço.|
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-3-sustentabilidade-e-consumo-consciente">Épico 4: Serviços de Atendimento</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 18 - Registro e Acompanhamento de Ordens de Serviço</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us23-informar-e-visualizar-falta-de-agua">US02 - Registrar e acompanhar ordens de serviço.</a> |
+| Léxico  | -- |
+| Casos de uso | -- |
+| Cenários | -- |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<br>
+
+<br>
+
+<center>
+<figcaption>Tabela 20 - RF18 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/">RQ35</a> | O aplicativo deve estar em conformidade com os padrões de acessibilidade da última versão da WCAG. |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-3-sustentabilidade-e-consumo-consciente">Épico 5: Interface e Usabilidade</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 19 - Conformidade com Padrões de Acessibilidade</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us23-informar-e-visualizar-falta-de-agua">US03 - Conformidade com os padrões de acessibilidade da WCAG.</a> |
+| Léxico  | -- |
+| Casos de uso | -- |
+| Cenários | -- |
+| NFR | NFR Framework - NFR05: Manutenibilidade |
+| Especificação Suplementar | -- |
+
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<br>
+
 ## Requisitos Não-Funcionais
 
 <center>
