@@ -154,7 +154,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5 - Interface e Usabilidade</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 33 - Escolher imóvel desejado </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us33-permitir-pagamento-mensal-recorrente">US33 - Escolher imóvel desejado </a> |
-| Léxico  | Léxico relacionado |
+| Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#lexico-l10-imovel-selecionado"> L10 - Imóvel Selecionado </a>|
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
 | NFR | -- |
