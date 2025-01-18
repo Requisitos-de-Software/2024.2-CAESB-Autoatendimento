@@ -393,6 +393,156 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 
 <br>
 
+<center>
+<figcaption>Tabela 21 - RF19 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ03</a> | O sistema deve permitir acessar/pagar contas anteriores |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos">Épico 1: Gestão de Contas e pagamentos</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 25 - Acesso/Pagamento de contas passadas</a> |
+| História de Usuário | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us25-acessopagamento-de-contas-passadas">US25 - Acesso/Pagamento de Contas passadas |
+| Léxico  |  <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l01-emitir-a-segunda-via-de-conta"> L01: Emitir segunda via de conta|
+| Casos de uso | -- |
+| Cenários | -- |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
+</center>
+
+<br>
+
+<center>
+<figcaption>Tabela 22 - RF20 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ05</a> | O sistema deve permitir consultar consumo |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos">Épico 1: Gestão de Contas e pagamentos</a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 26 - Consulta de consumo</a> |
+| História de Usuário | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us26-consulta-de-consumo">US26 - Consulta de Consumo|
+| Léxico  |  <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l05-consultar-historico-de-consumo"> L05: Consultar Histórico de Consumo |
+| Casos de uso | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso"> UC05 -  Consultar histórico de consumo|
+| Cenários | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-5-consultar-historico-de-consumo"> Cenário 5 -  Consultar histórico de consumo |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
+</center>
+
+<br>
+
+<center>
+<figcaption>Tabela 22 - RF20 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ06</a> | O sistema deve permitir bloqueio, reativação ou solicitação de reparo |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-4-servicos-de-atendimento">Épico 4: Serviços de atendimento </a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 31 - Bloqueio e reativação de conta</a> |
+| História de Usuário | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us27-bloqueioreativacaosolicitacao-de-reparo">US27 - Bloqueio/Reativação/Solicitação de Reparo|
+| Léxico  |  -- |
+| Casos de uso | --|
+| Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-18-bloqueio-reativacao-solicitacao-de-reparo">Cenário 18: Bloqueio/Reativação/Solicitação de Reparo</a> |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
+</center>
+
+<br>
+
+<center>
+<figcaption>Tabela 23 - RF21 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ16</a> | O sistema deve permitir ao usuário corrigir erros retornando à tela anterior e atualizando dados |
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente">Épico 2: Interatividade e Suporte ao Cliente </a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 27 - Correção de dados</a> |
+| História de Usuário | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us28-correcao-de-erros">US28 - Correção de Erros|
+| Léxico  |  <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#lexico-l16-simulacao-de-tarifas"> L16 - Simulação de Tarifas  |
+| Casos de uso | --|
+| Cenários |-- |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
+</center>
+
+<br>
+
+<center>
+<figcaption>Tabela 24 - RF22 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ18</a> | A funcionalidade "Simulação de tarifa" deve ser nativa do aplicativo e não redirecionar ao site da Caesb.|
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos">Épico 1: Gestão de contas e pagamentos </a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 29 - Simulação de Tarifa</a> |
+| História de Usuário | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us29-simulacao-de-tarifa">US29 - Simulação de Tarifa|
+| Léxico  |  -- |
+| Casos de uso | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso"> US11 - Simulação de Tarifa|
+| Cenários |<a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-16-simulacao-de-tarifa"> Cenário 16: Simulação de Tarifa|
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
+</center>
+
+<br>
+
+<center>
+<figcaption>Tabela 25 - RF23 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ22</a> |O aplicativo deve exibir dicas de consumo consciente e economia de água.|
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-3-sustentabilidade-e-consumo-consciente">Épico 3: Sustentabilidade e Consumo Consciente </a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 30 - Dicas de Consumo Consciente</a> |
+| História de Usuário | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us30-dicas-de-consumo-consciente">US30 - Dicas de Consumo Consciente|
+| Léxico  |  -- |
+| Casos de uso | -- |
+| Cenários |-- |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
+</center>
+
+<br>
+
+<center>
+<figcaption>Tabela 26 - RF24 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ24</a> |O aplicativo deve disponibilizar alertas sobre manutenção programada.|
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-3-sustentabilidade-e-consumo-consciente">Épico 2: Interatividade e Suporte ao Cliente </a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 28 - Alertas de Manutenção</a> |
+| História de Usuário | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us31-alertas-sobre-manutencao-programada">US31 - Alertas sobre Manutenção Programada|
+| Léxico  |  -- |
+| Casos de uso | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC12 - Alertas sobre Manutenção Programada|
+| Cenários |-- |
+| NFR | -- |
+| Especificação Suplementar | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#suportabilidade"> Suportabilidade |
+
+Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
+</center>
+
+ <br>
+
+<center>
+<figcaption>Tabela 27 - RF25 </figcaption>
+
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ25</a> |O usuário pode solicitar alteração na titularidade da conta.|
+| :-: | :-: |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-4-servicos-de-atendimento">Épico 4: Serviços de Atendimento </a> |
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 32 - Permitir ao usuário solicitar alteração na titularidade da conta </a> |
+| História de Usuário | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us32-alteracao-na-titularidade-da-conta">US32 - Alteração na titularidade da Conta.|
+| Léxico  | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l06-alterar-titularidade-e-vencimento">L06: Alterar Titularidade e Vencimento   |
+| Casos de uso | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC06 - Alterar titularidade e vencimento|
+| Cenários |<a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-6-alterar-titularidade-e-vencimento"> Cenário 6: Alterar Titularidade e Vencimento |
+| NFR | -- |
+| Especificação Suplementar | -- |
+
+Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
+</center>
+
 ## Requisitos Não-Funcionais
 
 <center>

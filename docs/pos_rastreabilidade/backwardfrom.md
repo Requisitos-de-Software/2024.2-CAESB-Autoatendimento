@@ -131,14 +131,15 @@
 
 | ID    | Requisitos | Tipo de elo  | Descrição do elo                                                                                  |
 |-------|------------|--------------|--------------------------------------------------------------------------------------------------|
-| ELO1  | RQ03       | Satisfação   | O requisito RQ03 diz que o aplicativo deveria possuir a capacidade de pagar e visualizar contas anteriores. |
-| ELO2  | RQ05       | Satisfação   | O requisito RQ05 diz que o sistema deve permitir consultar consumo.                              |
-| ELO3  | RQ06       | Recurso      | O requisito RQ06 diz que o sistema deve permitir bloqueio, reativação ou solicitação de reparo nos serviços da Caesb. |
-| ELO4  | RQ16       | Representação| O requisito RQ16 diz que o sistema deve permitir ao usuário corrigir erros retornando à tela anterior e atualizando os dados. |
-| ELO5  | RQ18       | Alocado      | O requisito RQ18 diz que a funcionalidade "Simulação de tarifa" deve ser nativa do aplicativo e não redirecionar ao site da Caesb. |
-| ELO6  | RQ22       | Agregação    | O requisito RQ22 diz que o aplicativo deve exibir dicas de consumo consciente e economia de água. |
-| ELO7  | RQ24       | Responsabilidade | O requisito RQ24 diz que o aplicativo deve disponibilizar alertas sobre manutenção programada.       |
-| ELO8  | RQ25       | Satisfação   | O requisito RQ25 diz que o usuário deve poder solicitar alteração na titularidade da conta.       |
+| ELO1  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ03</a> | Satisfação   | O requisito RQ03 diz que o aplicativo deveria possuir a capacidade de pagar e visualizar contas anteriores. |
+| ELO2  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ05</a> | Satisfação   | O requisito RQ05 diz que o sistema deve permitir consultar consumo.                              |
+| ELO3  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ06</a> | Recurso      | O requisito RQ06 diz que o sistema deve permitir bloqueio, reativação ou solicitação de reparo nos serviços da Caesb. |
+| ELO4  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ16</a> | Representação| O requisito RQ16 diz que o sistema deve permitir ao usuário corrigir erros retornando à tela anterior e atualizando os dados. |
+| ELO5  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ18</a> | Alocado      | O requisito RQ18 diz que a funcionalidade "Simulação de tarifa" deve ser nativa do aplicativo e não redirecionar ao site da Caesb. |
+| ELO6  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ22</a> | Agregação    | O requisito RQ22 diz que o aplicativo deve exibir dicas de consumo consciente e economia de água. |
+| ELO7  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ24</a> | Responsabilidade | O requisito RQ24 diz que o aplicativo deve disponibilizar alertas sobre manutenção programada.       |
+| ELO8  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ25</a> | Satisfação   | O requisito RQ25 diz que o usuário deve poder solicitar alteração na titularidade da conta.       |
+| ELO9  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ02</a> | Satisfação   | O requisito RQ02 estabelece que o sistema deve ter as funções mais utilizadas/mais buscadas em uma barra.       |
 | ELO9  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ02</a>  | Satisfação   | O requisito RQ02 estabelece que o sistema deve ter as funções mais utilizadas/mais buscadas em uma barra.       |
 | ELO10  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ04</a>  | Satisfação   | O requisito RQ04 define que o sistema deve permitir emitir/visualizar segunda via de conta.      |
 | ELO11  |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos">RQ08</a> | Recurso   | O requisito RQ08 especifica que o sistema deve oferecer várias formas de pagamento.      |
@@ -177,4 +178,4 @@ Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros<
 |  1.0   | 14/01/2025 | Escrita da introdução e metodologia |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.1   | 14/01/2025 | Adição dos Elos 1-8 |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.2   | 16/01/2025 | Adição dos Elos 9-16 |[Letícia Resende ](https://github.com/LeticiaResende23)  | [Matheus Barros ](https://github.com/Ninja-Haiyai)|
-
+|  1.3   | 14/01/2025 | Adição da rastreabilidade dos Elos 1 - 8 |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
