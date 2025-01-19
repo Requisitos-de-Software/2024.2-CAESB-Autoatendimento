@@ -665,7 +665,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Casos de uso | -- |
 | Cenários | -- |
 | NFR | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/#nfr-framework-nfr01-usabilidade">NFR Framework - NFR01: Usabilidade</a> |
-| Especificação Suplementar |  href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#usabilidade">ES de Usabilidade</a>      |
+| Especificação Suplementar |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#usabilidade">ES de Usabilidade</a>      |
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
@@ -682,7 +682,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
 | NFR | -- |
-| Especificação Suplementar | -- |
+| Especificação Suplementar | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#suportabilidade">Especificação Suplementar - Suportabilidade</a> |
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
@@ -699,7 +699,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
 | NFR | -- |
-| Especificação Suplementar | -- |
+| Especificação Suplementar | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#usabilidade">Especificação Suplementar - Usabilidade</a> |
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
@@ -716,7 +716,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
 | NFR | -- |
-| Especificação Suplementar | -- |
+| Especificação Suplementar | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#usabilidade">Especificação Suplementar - Usabilidade</a> |
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
@@ -733,7 +733,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
 | NFR | -- |
-| Especificação Suplementar | -- |
+| Especificação Suplementar | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#disponibilidade">Especificação Suplementar - Disponibilidade</a>  |
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
@@ -750,7 +750,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
 | NFR | -- |
-| Especificação Suplementar | -- |
+| Especificação Suplementar | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#desempenho">Especificação Suplementar - Desempenho</a>  |
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
