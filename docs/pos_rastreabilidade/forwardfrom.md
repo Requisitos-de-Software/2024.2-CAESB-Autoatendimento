@@ -807,9 +807,9 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :----: | :--------: | :------------------: | :-------------------: | :-----------------: |
-|  1.0   | 14/01/2024 | Criação do artefato  | [Natan Almeida](https://github.com/natanalmeida03) <br> [João Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
-|  1.1   | 15/01/2024 | Adição de requisitos  | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10) |
-|  1.2   | 16/01/2024 | Adição de requisitos  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
-|  1.3   | 16/01/2024 | Adição de requisitos não funcionais  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
-|  1.4   | 16/01/2024 | Adição de requisitos funcionais e não funcionais  | [Letícia Resende ](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03) |
-|  1.5   | 17/01/2024 | Adição de requisitos funcionais 16 a 22 e do do requisito não funcional 10 | [Leandro de Almeida ](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.0   | 14/01/2025 | Criação do artefato  | [Natan Almeida](https://github.com/natanalmeida03) <br> [João Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.1   | 15/01/2025 | Adição de requisitos  | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.2   | 16/01/2025 | Adição de requisitos  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.3   | 16/01/2025 | Adição de requisitos não funcionais  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.4   | 16/01/2025 | Adição de requisitos funcionais e não funcionais  | [Letícia Resende ](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.5   | 17/01/2025 | Adição de requisitos funcionais 16 a 22 e do do requisito não funcional 10 | [Leandro de Almeida ](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) |
