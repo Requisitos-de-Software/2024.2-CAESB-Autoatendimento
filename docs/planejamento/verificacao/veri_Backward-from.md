@@ -17,7 +17,7 @@
 <p align="justify">
 &emsp;&emsp; A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base no plano de ensino da disciplina. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações.
 
-Neste documento, realizou-se a avaliação do artefato do <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/matriz/">Backward-from</a>, que trata das atividades realizadas no desenvolvimento do aplicativo <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Caesb Autoatendimento</a>.
+Neste documento, realizou-se a avaliação do artefato do <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/">Backward-from</a>, que trata das atividades realizadas no desenvolvimento do aplicativo <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Caesb Autoatendimento</a>.
 
 </p>
 
@@ -31,11 +31,11 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-|   01   | Cada requisito possui um vínculo explícito com sua respectiva fonte de origem? |           | Leandro de Almeida |  |  
-|   02   | As fontes relacionadas aos requisitos são acessíveis e devidamente documentadas?|           | Leandro de Almeida | |  
-|   03   | As mudanças realizadas nos requisitos estão justificadas com base em suas fontes?|           | Leandro de Almeida | |  
-|   04   | Existe uma justificativa clara (rationale) para a inclusão de cada requisito no projeto? |           | Leandro de Almeida | |  
-|   05   | Os elos de rastreabilidade backward-from incluem dependências entre requisitos e fontes? |           | Leandro de Almeida |  |  
+|   01   | Cada requisito está claramente ligado à sua fonte de origem? |           | Leandro de Almeida |  |  
+|   02   | As fontes dos requisitos estão disponíveis e bem documentadas?|           | Leandro de Almeida | |  
+|   03   | As mudanças nos requisitos são justificadas com base em suas fontes?|           | Leandro de Almeida | |  
+|   04   | Há uma justificativa clara para incluir cada requisito no projeto? |           | Leandro de Almeida | |  
+|   05   | Os elos de rastreabilidade backward-from incluem as dependências entre os requisitos e suas fontes? |           | Leandro de Almeida |  |  
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -47,11 +47,11 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-|   01   | Cada requisito possui um vínculo explícito com sua respectiva fonte de origem? |           | Leandro de Almeida |  |  
-|   02   | As fontes relacionadas aos requisitos são acessíveis e devidamente documentadas?|           | Leandro de Almeida | |  
-|   03   | As mudanças realizadas nos requisitos estão justificadas com base em suas fontes?|           | Leandro de Almeida | |  
-|   04   | Existe uma justificativa clara (rationale) para a inclusão de cada requisito no projeto? |           | Leandro de Almeida | |  
-|   05   | Os elos de rastreabilidade backward-from incluem dependências entre requisitos e fontes? |           | Leandro de Almeida |  |  
+|   01   | Cada requisito está claramente ligado à sua fonte de origem? |   Sim  | Leandro de Almeida | versão 1.4 17/01 |  
+|   02   | As fontes dos requisitos estão disponíveis e bem documentadas?|   Sim  | Leandro de Almeida | versão 1.4 17/01 |  
+|   03   | As mudanças nos requisitos são justificadas com base em suas fontes?|  Não  | Leandro de Almeida | versão 1.4 17/01 |  
+|   04   | Há uma justificativa clara para incluir cada requisito no projeto? | Sim | Leandro de Almeida | versão 1.4 17/01 |  
+|   05   | Os elos de rastreabilidade backward-from incluem as dependências entre os requisitos e suas fontes? | Não | Leandro de Almeida | versão 1.4 17/01  |  
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -69,11 +69,14 @@ Pode ser vista no [YouTube]().</p>
 
 ## Problemas encontrados
 
-<p align="justify">&emsp;&emsp;Não foram encontrados problemas nesse artefato.</p>
+<p align="justify">&emsp;&emsp;3. O artefato não menciona se houveram mudanças nos requisitos.</p>
+<p align="justify">&emsp;&emsp;5. O artefato não possui as dependências entre os requisitos.</p>
 
 ## Sugestões
 
-<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
+<p align="justify">&emsp;&emsp;3. Incluir no artefato as mudanças realizadas nos requisitos e a justificativa para essas mudanças.</p>
+<p align="justify">&emsp;&emsp;3. Incluir no artefato as dependências entre os requisitos.</p>
+
 
 <br>
 
@@ -98,4 +101,5 @@ Pode ser vista no [YouTube]().</p>
 
 | Versão |    Data    |                  Descrição                  |                       Autor                        |                        Revisor                         |
 | :----: | :--------: | :-----------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
-|  1.0   | 17/01/2025 | Criação do Documento e Lista de Verificação | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.0   | 17/01/2025 | Criação do Documento e Lista de Verificação | [Leandro de Almeida](https://github.com/leomitx10) |    [Matheus Barros](https://github.com/Ninja-Haiyai)   |
+|  1.1   | 18/01/2025 | Adiciona resultado da verificação | [Leandro de Almeida](https://github.com/leomitx10) |    [Matheus Barros](https://github.com/Ninja-Haiyai)   |
