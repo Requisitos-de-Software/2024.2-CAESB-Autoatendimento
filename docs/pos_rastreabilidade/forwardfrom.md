@@ -373,7 +373,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <br>
 
 <center>
-<figcaption>Tabela 20 - RF19 </figcaption>
+<figcaption>Tabela 20 - RF18 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ30</a> | O aplicativo deve permitir que o usuário busque um atendimento pelo protocolo. |
 | :-: | :-: |
@@ -392,7 +392,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <br>
 
 <center>
-<figcaption>Tabela 21 - RF20 </figcaption>
+<figcaption>Tabela 21 - RF19 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ29</a> | O aplicativo deve permitir que o usuário altere o vencimento da conta. |
 | :-: | :-: |
@@ -411,7 +411,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <br>
 
 <center>
-<figcaption>Tabela 22 - RF21 </figcaption>
+<figcaption>Tabela 22 - RF20 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ07</a> | O sistema deve exibir pequenas descrições ao lado dos serviços para mostrar seu estado atual. |
 | :-: | :-: |
@@ -430,7 +430,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <br>
 
 <center>
-<figcaption>Tabela 23 - RF22 </figcaption>
+<figcaption>Tabela 23 - RF21 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/" target = "_blank">RQ10</a> | O sistema deve possibilitar o adiantamento de processos via aplicativo. |
 | :-: | :-: |
@@ -449,7 +449,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <br>
 
 <center>
-<figcaption>Tabela 24 - RF23 </figcaption>
+<figcaption>Tabela 24 - RF22 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ17</a> | A funcionalidade "Atendimentos" deve permitir filtros por ano, mês, status (finalizado ou em andamento). |
 | :-: | :-: |
@@ -468,7 +468,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <br>
 
 <center>
-<figcaption>Tabela 25 - RF19 </figcaption>
+<figcaption>Tabela 25 - RF23 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ03</a> | O sistema deve permitir acessar/pagar contas anteriores |
 | :-: | :-: |
@@ -487,7 +487,7 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 <br>
 
 <center>
-<figcaption>Tabela 26 - RF20 </figcaption>
+<figcaption>Tabela 26 - RF24 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ05</a> | O sistema deve permitir consultar consumo |
 | :-: | :-: |
@@ -506,7 +506,7 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 <br>
 
 <center>
-<figcaption>Tabela 27 - RF20 </figcaption>
+<figcaption>Tabela 27 - RF25 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ06</a> | O sistema deve permitir bloqueio, reativação ou solicitação de reparo |
 | :-: | :-: |
@@ -525,7 +525,7 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 <br>
 
 <center>
-<figcaption>Tabela 28 - RF21 </figcaption>
+<figcaption>Tabela 28 - RF26 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ16</a> | O sistema deve permitir ao usuário corrigir erros retornando à tela anterior e atualizando dados |
 | :-: | :-: |
@@ -544,7 +544,7 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 <br>
 
 <center>
-<figcaption>Tabela 29 - RF22 </figcaption>
+<figcaption>Tabela 29 - RF27 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ18</a> | A funcionalidade "Simulação de tarifa" deve ser nativa do aplicativo e não redirecionar ao site da Caesb.|
 | :-: | :-: |
@@ -563,7 +563,7 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 <br>
 
 <center>
-<figcaption>Tabela 30 - RF23 </figcaption>
+<figcaption>Tabela 30 - RF28 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ22</a> |O aplicativo deve exibir dicas de consumo consciente e economia de água.|
 | :-: | :-: |
@@ -582,7 +582,7 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 <br>
 
 <center>
-<figcaption>Tabela 31 - RF24 </figcaption>
+<figcaption>Tabela 31 - RF29 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ24</a> |O aplicativo deve disponibilizar alertas sobre manutenção programada.|
 | :-: | :-: |
@@ -601,7 +601,7 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
  <br>
 
 <center>
-<figcaption>Tabela 32 - RF25 </figcaption>
+<figcaption>Tabela 32 - RF30 </figcaption>
 
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ25</a> |O usuário pode solicitar alteração na titularidade da conta.|
 | :-: | :-: |

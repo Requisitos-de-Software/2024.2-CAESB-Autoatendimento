@@ -188,4 +188,4 @@ Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros<
 |  1.1   | 14/01/2025 | Adição dos Elos 1-8 |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.2   | 16/01/2025 | Adição dos Elos 9-16 |[Letícia Resende ](https://github.com/LeticiaResende23)  | [Matheus Barros ](https://github.com/Ninja-Haiyai)|
 |  1.3   | 16/01/2025 | Adição dos Elos 25-31 |[Leandro de Almeida ](https://github.com/leomitx10)  | [Matheus Barros ](https://github.com/Ninja-Haiyai)|
-|  1.4   | 14/01/2025 | Adição da rastreabilidade dos Elos 1 - 8 |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
+|  1.4   | 17/01/2025 | Adição da rastreabilidade dos Elos 1 - 8 |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
