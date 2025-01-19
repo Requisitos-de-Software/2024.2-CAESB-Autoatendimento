@@ -40,6 +40,16 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 </center>
 
 
+## Entrega 5
+A apresentação da entrega 5, pode ser vista no [YouTube]().
+
+<center>
+<p>Vídeo 05: Gravação da apresentação 5</p>
+<iframe width="760" height="515" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
+</center>
+
+
 
 ## Histórico de versão
 
@@ -53,5 +63,5 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 |  1.3   | 07/12/2024 | Adiciona a entrega 3 |[Matheus Barros ](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.4   | 17/12/2024 | Adiciona a entrega 4 |[Letícia Resende](https://github.com/LeticiaResende23)| [Matheus Barros ](https://github.com/Ninja-Haiyai)|
 |  1.5   | 17/12/2024 | Arruma video entrega 4 |[Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai)|
-
+|  1.6   | 18/01/2025 | Adiciona a entrega 5 |[Matheus Barros ](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)|
 </center>

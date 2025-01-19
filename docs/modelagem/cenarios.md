@@ -318,6 +318,44 @@
 
 <br>
 
+## Cenário 18: Bloqueio/Reativação/Solicitação de Reparo
+
+<center>
+Tabela 13: Bloqueio/Reativação/Solicitação de Reparo
+
+| **Item**           | **Descrição**                                                                                   |
+|--------------------|-------------------------------------------------------------------------------------------------|
+| **Objetivo**       | Permitir **bloqueio, reativação ou solicitação de reparo nos serviços da Caesb**             |
+| **Contexto**       | - **Local**: Em casa<br> - **Tempo**: Durante o dia ou a noite<br> - **Pré-condições**: Acesso ao aplicativo e conta ativa. |
+| **Atores**         | Usuário                                                                                         |
+| **Recursos**       | Smartphone, internet                                                                           |
+| **Episódios**      | 1. O usuário acessa o aplicativo.<br> 2. O sistema exibe a opção de serviços.<br> 3. O usuário escolhe a ação desejada (bloqueio, reativação ou reparo).<br> 4. O sistema solicita informações adicionais.<br> 5. O usuário fornece as informações e confirma a ação. |
+| **Restrições**     | - O usuário deve ter uma conta ativa para solicitar bloqueio ou reativação.                    |
+| **Exceção**        | - Dados inválidos.<br> - Serviço não disponível.<br> - Perda de conexão com a internet durante o processo. |
+
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>
+</center>
+
+---
+
+## Cenário 19: Correção de Erros
+
+<center>
+Tabela 14: Correção de Erros
+
+| **Item**           | **Descrição**                                                                                   |
+|--------------------|-------------------------------------------------------------------------------------------------|
+| **Objetivo**       | Permitir **a correção de erros retornando à tela anterior e atualizando os dados**             |
+| **Contexto**       | - **Local**: Em casa<br> - **Tempo**: Durante o dia ou a noite<br> - **Pré-condições**: Acesso ao aplicativo e conta ativa. |
+| **Atores**         | Usuário                                                                                         |
+| **Recursos**       | Smartphone, internet                                                                           |
+| **Episódios**      | 1. O usuário acessa o aplicativo.<br> 2. O sistema exibe a tela atual com dados incorretos.<br> 3. O usuário clica na opção de voltar.<br> 4. O sistema retorna à tela anterior.<br> 5. O usuário atualiza os dados e confirma. |
+| **Restrições**     | - O usuário deve ter uma conta ativa.                                                         |
+| **Exceção**        | - Dados inválidos.<br> - Perda de conexão com a internet durante o processo.                  |
+
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>
+</center>
+
 ## Bibliografia
 
 > <p id="1"> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
@@ -333,6 +371,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 06/12/2024 | Criação dos cenários | [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 10/12/2024 | Adicionando cenários | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
-|  1.1   | 11/12/2024 | Adicionando cenários | [Natan Almeida](https://github.com/natanalmeida03) |[Leandro de Almeida](https://github.com/leomitx10) |
+|  1.2   | 11/12/2024 | Adicionando cenários | [Natan Almeida](https://github.com/natanalmeida03) |[Leandro de Almeida](https://github.com/leomitx10) |
+|  1.3   | 15/12/2024 | Adicionando cenários | [Matheus Barros](https://github.com/Ninja-Haiyai) |[Leandro de Almeida](https://github.com/leomitx10) |
 
 </center>

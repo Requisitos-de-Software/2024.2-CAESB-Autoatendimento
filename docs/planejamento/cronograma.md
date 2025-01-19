@@ -1,11 +1,11 @@
 # Cronograma
 
-## Instrodução
+## Descrição
 <p align="justify">&emsp;&emsp;O cronograma tem como objetivo organizar todas as tarefas a serem realizadas durante a disciplina de Requisitos de Software. As atividades foram distribuídas de acordo com as etapas em que devem ser executadas. Os cronogramas em andamento serão atualizados conforme necessário ao longo do tempo.</p>
 
 ## Entrega 1 - Planejamento do Projeto
 
-<center>Tabela 01: Cronograma executado para todas as atividades da primeira entrega.</center>
+Na Tabela 1, encontra-se o cronograma planejado para todas as atividades da primeira entrega.
 
 
 | Atividade                                      	| Período de desenvolvimento 	| Responsáveis               	| Revisão                  	| Revisores        	|
@@ -33,7 +33,7 @@
 
 ## Entrega 2 - Elicitação
 
-<center>Tabela 02: Cronograma executado para todas as atividades da segunda entrega.</center>
+Na Tabela 2, encontra o cronograma planejado para todas as atividades da segunda entrega.
 
 | Atividade                                                                                         	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                  	| Revisores 	|
 |---------------------------------------------------------------------------------------------------	|----------------------------	|-----------------------------------	|--------------------------	|-----------	|
@@ -62,7 +62,7 @@
 
 ## Entrega 3 - Modelagem de Requisitos 1
 
-<center>Tabela 03: Cronograma executado para todas as atividades da terceira entrega.</center>
+Na Tabela 3, encontra-se o cronograma planejado para todas as atividades da terceira entrega.
 
 | Atividade                                                     	| Período de desenvolvimento 	| Responsáveis     	| Revisão                 	| Revisores        	|
 |---------------------------------------------------------------	|----------------------------	|------------------	|-------------------------	|------------------	|
@@ -84,7 +84,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 ## Entrega 4 - Modelagem de Requisitos 1.2
 
-<center>Tabela 04: Cronograma executado para todas as atividades da quarta entrega.</center>
+Na Tabela 4, encontra-se o cronograma planejado para todas as atividades da quarta entrega.
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -107,7 +107,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 ## Entrega 5 - Análise de Requisitos: Verificação e Validação 
 
-<center>Tabela 05: Cronograma executado para todas as atividades da quinta entrega.</center>
+Na Tabela 5, encontra-se o cronograma planejado para todas as atividades da entrega 5.
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -129,7 +129,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 ## Entrega 6 - Pós-Rastreabilidade
 
-<center>Tabela 06: Cronograma executado para todas as atividades da sexta entrega.</center>
+Na Tabela 6, encontra-se o cronograma planejado para todas as atividades da sexta entrega.
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -151,7 +151,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 ## Entrega Final 
 
-<center>Tabela 07: Cronograma executado para todas as atividades da última entrega.</center>
+Na Tabela 7, encontra-se o cronograma planejado para todas as atividades da última entrega.
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -191,7 +191,6 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 22/10/2024 | Cronograma Planejado | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.1   | 13/11/2024 | Correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
-|  1.2   | 28/12/2024 | Arrumando o titulo das tabelas | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
 
 
 </center>

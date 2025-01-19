@@ -294,6 +294,51 @@
 
 <br>
 
+### Léxico L18: Consultar Endereço de Pontos de Atendimento
+<center><p>Tabela 21: Léxico 18: Consultar Endereço de Pontos de Atendimento</p>
+
+| **ID**          | **Descrição**                                                                                                         |
+|------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Classificação**   | Verbo                                                 |
+| **Impacto**         | Gera uma visualização interativa dos pontos de atendimento próximos ao usuário, com base na sua localização atual. |
+| **Noção**           | Ação realizada pelo usuário no app da CAESB ao procurar dados sobre a localização dos pontos de atendimento presencial da empresa. Ao realizar essa ação, o usuário vê os endereços dos postos de atendimento mais próximos ou específicos para o serviço solicitado. A pesquisa pode ser realizada levando em conta a posição atual do usuário ou pela busca manual de um endereço ou área.|
+| **Dicionário**      | Pontos de atendimento, acessar mapa. |                                                                        |
+
+</p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
+</center>
+
+<br>
+
+### Léxico L19: Consultar Situação do Fornecimento de Água
+<center><p>Tabela 22: Léxico 19: Consultar Situação do Fornecimento de Água</p>
+
+| **ID**          | **Descrição**                                                                                                         |
+|------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Classificação**   | Verbo                                                 |
+| **Impacto**         | O sistema apresenta informações sobre o estado do fornecimento, como possíveis interrupções, manutenções programadas, ou até mesmo a normalidade do serviço, permitindo ao usuário ficar informado sobre a disponibilidade de água no momento. |
+| **Noção**           | Ação realizada pelo usuário no aplicativo da CAESB para verificar a situação atual do fornecimento de água em sua região ou imóvel. |
+| **Dicionário**      | Consultar estado de fornecimento, consultar manutenções agendadas. |                                                                        |
+
+</p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
+</center>
+
+<br>
+
+### Léxico L20: Consultar Desempenho do Sistema de Abastecimento
+<center><p>Tabela 23: Léxico 20: Consultar Desempenho do Sistema de Abastecimento</p>
+
+| **ID**          | **Descrição**                                                                                                         |
+|------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Classificação**   | Verbo                                                 |
+| **Impacto**         | O app fornece dados sobre pressão da água, qualidade do abastecimento, e eventuais alertas ou melhorias planejadas para o sistema. |
+| **Noção**           | Ação realizada pelo usuário no aplicativo para consultar informações sobre o desempenho do sistema de abastecimento de água na sua região. |
+| **Dicionário**      | Consultar desempenho. |                                                                        |
+
+</p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
+</center>
+
+<br>
+
 ## Referências
 > <p id="1">1. SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf. Acesso em: 03/12/2024.
 </p>
@@ -311,6 +356,7 @@
 |  1.1   | 10/12/2024 | Adicionando Léxico  | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
 |  1.2   | 11/12/2024 | Adicionando Léxico  | [Natan Almeida](https://github.com/natanalmeida03) |[Matheus Barros](https://github.com/Ninja-Haiyai) |
 |  1.3   | 11/12/2024 | Adicionando Léxico  | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.4   | 15/01/2025 | Adicionando Léxico  | [Joao Victor Marques](https://github.com/jmarquees) |[Letícia Resende](https://github.com/LeticiaResende23) |
 
 </center>
 

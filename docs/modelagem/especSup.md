@@ -58,8 +58,10 @@ Este método possui os seguintes critérios:
 | **Categoria**         | **Descrição**                                                                                     | **Requisito** |
 |------------------------|---------------------------------------------------------------------------------------------------|---------------|
 | Adaptação de Tela      | O aplicativo deve ser responsivo, adaptando-se a diferentes tamanhos de tela e dispositivos móveis. | OBS17         |
+| Interface intuitiva e organizada      | O aplicativo deve ter uma interface intuitiva, organizada e fácil de usar. | INT08         |
+| Minimização do número de cliques      | O sistema deve minimizar o número de cliques necessários para interações. | B14         |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></center>
 
 <br>
 
@@ -127,8 +129,10 @@ Este método possui os seguintes critérios:
 | **Categoria**               | **Descrição**                                                                             | **Requisito** |
 |------------------------------|-------------------------------------------------------------------------------------------|---------------|
 | Compatibilidade Multi-Plataforma | O aplicativo deve ser compatível com a última versão dos sistemas operacionais Android e iOS. | ADD21         |
+Divulgação de atualização | O aplicativo deve disponibilizar alertas de suas manutenções programadas. | RQ24         |
 
-</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center> 
+
+</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center></center> 
 
 <br>
 
@@ -153,8 +157,9 @@ Este método possui os seguintes critérios:
 |------------------------------|------------------------------------------------------------------------------------------|---------------|
 | Segurança | O aplicativo deve garantir a segurança dos dados do usuário, com criptografia de ponta a ponta              |      INT21    |
 | Segurança | O aplicativo deve implementar autenticação multifator para aumentar a segurança do acesso.                  |      ADD27    |
+| Segurança | O aplicativo deve permitir correção de erros sem perder os dados, voltando a tela anterior                  |      ADD16    |
 
-</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center> 
+</p>Autor(a): <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></center> 
 <br>
 
 ## Referências
@@ -172,3 +177,5 @@ Este método possui os seguintes critérios:
 |  1.5   | 10/12/2024 | Atualização pós apresentação  | [Natan Almeida](https://github.com/natanalmeida03) | [Joao Victor Marques](https://github.com/jmarquees) |
 |  1.6   | 10/12/2024 | Adicionando especificações  | [Letícia Resende](https://github.com/LeticiaResende23) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.7   | 11/12/2024 | Adicionando especificações  | [Leandro de Almeida](https://github.com/leomitx10) |[Natan Almeida](https://github.com/natanalmeida03) |
+|  1.8   | 15/01/2025 | Adicionando especificações  | [Joao Victor Marques](https://github.com/jmarquees) |[Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.9   | 15/01/2025 | Adicionando especificações  | [Matheus Barros](https://github.com/Ninja-Haiyai) |[Letícia Resende](https://github.com/LeticiaResende23) |

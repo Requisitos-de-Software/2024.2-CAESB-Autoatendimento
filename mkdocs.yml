@@ -47,6 +47,8 @@ nav:
       - Reunião 4 - 24/11/2024: atas/reuniao4.md
       - Reunião 5 - 28/11/2024: atas/reuniao5.md
       - Reunião 6 - 10/12/2024: atas/reuniao6.md
+      - Reunião 7 - 13/01/2025: atas/reuniao7.md
+      - Reunião 8 - 19/01/2025: atas/reuniao8.md
   - Apresentações:
       - Entregas: apresentacoes/entregas.md
   - Elicitação:
@@ -75,13 +77,12 @@ nav:
       - Histórias de Usuário: modelagem_agil/historia_usuario.md
       - NFR Framework: modelagem_agil/nfr.md
   - Pós-Rastreabilidade:
-      - Forward-from: pos_rastreabilidade/foward-from.md
-      - Backward-from: pos_rastreabilidade/backward-from.md
+      - Forward-from: pos_rastreabilidade/forwardfrom.md
+      - Backward-from: pos_rastreabilidade/backwardfrom.md
       - Matriz de Rastreabilidade: pos_rastreabilidade/matriz.md
   - Verificação:
       - Grupo 03 (Nosso Grupo):
         - Etapa 1:
-          - Itens de desenvolvimento do projeto: planejamento/verificacao/itens_dev_projx.md
           - Equipe: planejamento/verificacao/equipe.md
           - Cronogramas: planejamento/verificacao/Cronogramaa.md
           - Metodologia: planejamento/verificacao/metodologia.md
@@ -104,9 +105,14 @@ nav:
           - NFR Framework: planejamento/verificacao/veri_nfr.md
           - Histórias de Usuário: planejamento/verificacao/veri_historia.md
           - Itens de desenvolvimento do projeto: planejamento/verificacao/itens_dev_proj4.md
+        - Etapa 5:
+          - Forward-from: planejamento/verificacao/forwardfrom.md
+          - Itens de desenvolvimento do projeto: planejamento/verificacao/itens_dev_proj5.md
+          - Backward-from: planejamento/verificacao/veri_Backward-from.md
+          - Matriz de Rastreabilidade: planejamento/verificacao/veri_matriz.md
+
       - Grupo 04:
         - Etapa 1:
-            - Itens de desenvolvimento do projeto: planejamento/verificacao_g4/itens_dev_projx.md
             - Aplicativo Selecionado: planejamento/verificacao_g4/aplicativo_escolhido.md
             - Aplicativos Avaliados: planejamento/verificacao_g4/aplicativos_avaliados.md
             - Termos de Uso: planejamento/verificacao_g4/termos_de_uso.md

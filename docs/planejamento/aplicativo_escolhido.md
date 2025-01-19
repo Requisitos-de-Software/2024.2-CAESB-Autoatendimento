@@ -85,13 +85,12 @@ sobre o sistema.</p>
 
 ## Histórico de versão
 
-| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
+| Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 22/10/2024 | Adição do aplicativo escolhido | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10)  |
 |  1.1   | 27/10/2024 | Arrumando as fontes das imagens | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
 |  1.2   | 29/10/2024 | Mudando o aplicativo | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 13/11/2024 | Correção pós apresentação |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
-|  1.3   | 28/12/2024 | Padroniza o histórico de versão |[Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
 
 
 </center>
