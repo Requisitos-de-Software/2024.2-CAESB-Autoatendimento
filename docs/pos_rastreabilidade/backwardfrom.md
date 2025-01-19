@@ -12,7 +12,7 @@
 
 ### Níveis
 
-- <b>Ambiental</b>: informações oriundas do ambiente e do contexto ao qual a organizcaão está inserida.
+- <b>Ambiental</b>: informações oriundas do ambiente e do contexto ao qual a organização está inserida.
 - <b>Organizacional</b>: informações relacionadas à organização.
 - <b>Gerencial</b>: informações que auxiliam na gerencia do projeto.
 - <b>Desenvolvimento</b>: informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento.
@@ -160,13 +160,21 @@
 | ELO27  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ35</a> | Satisfação | O requisito RQ35 define que o sistema deve estar em conformidade com os padrões de acessibilidade da última versão da WCAG.   |
 | ELO28  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ30</a> | Representação | O requisito RQ30 estabelece que o sistema deve permitir que o usuário busque um atendimento pelo protocolo.   |
 | ELO29  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ29</a> | Recurso | O requisito RQ29 define que o sistema deve permitir que o usuário altere o vencimento da conta.   |
-| ELO30  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ07</a> | Agregação | O requisito RQ07 estabele que o sistema deve exibir pequenas descrições ao lado dos serviços para mostrar seu estado atual.  |
+| ELO30  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ07</a> | Agregação | O requisito RQ07 estabelece que o sistema deve exibir pequenas descrições ao lado dos serviços para mostrar seu estado atual.  |
 | ELO31  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ10</a> | Recurso | O requisito RQ30 determina que o sistema deve possibilitar o adiantamento de processos via aplicativo.  |
 | ELO32  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ17</a> | Alocado | O requisito RQ17 determina que a funcionalidade "Atendimentos" deve permitir filtros por ano, mês, status (finalizado ou em andamento).  |
+| ELO33  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ26</a> | Recurso | O requisito RQ26 define que o aplicativo deve permitir que o usuário escolha o imóvel desejado.  |
+| ELO34  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ27</a> | Recurso | O requisito RQ27 define que o aplicativo deve reconhecer automaticamente os imóveis associados ao cliente da Caesb.  |
+| ELO35  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ28</a> | Recurso | O requisito RQ28 define que o aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo.  |
+| ELO36  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ33</a> | Satisfação | O requisito RQ33 determina que o aplicativo deve ser compatível com as versões mais recentes do Android e iOS.  |
+| ELO37  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ36</a> | Representação | O requisito RQ36 determina que o aplicativo deve ter uma interface intuitiva, organizada e fácil de usar.  |
+| ELO38  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ37</a> | Satisfação | O requisito RQ37 determina que o sistema deve minimizar o número de cliques necessários para interações.  |
+| ELO39  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ39</a> | Recurso | O requisito RQ39 determina que o aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas.  |
+| ELO40  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ40</a> | Agregação | O requisito RQ40 determina que o aplicativo deve ter tempos de resposta inferiores a 2 segundos para a maioria das funcionalidades.  |
 
 
 <center>
-Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e  <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> e <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 
 </center>
 
@@ -188,3 +196,4 @@ Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros<
 |  1.2   | 16/01/2025 | Adição dos Elos 9-16 |[Letícia Resende ](https://github.com/LeticiaResende23)  | [Matheus Barros ](https://github.com/Ninja-Haiyai)|
 |  1.3   | 16/01/2025 | Adição dos Elos 25-31 |[Leandro de Almeida ](https://github.com/leomitx10)  | [Matheus Barros ](https://github.com/Ninja-Haiyai)|
 |  1.4   | 17/01/2025 | Adição da rastreabilidade dos Elos 1 - 8 |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
+|  1.5   | 19/01/2025 | Adição da rastreabilidade dos Elos 33 - 40 |[Joao Victor Marques ](https://github.com/jmarquees)   | [Leandro de Almeida](https://github.com/leomitx10)|
