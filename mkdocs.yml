@@ -136,6 +136,11 @@ nav:
           - Histórias de Usuário: planejamento/verificacao_g4/veri_historia.md
           - NFR Framework: planejamento/verificacao_g4/veri_nfr.md
           - Itens de desenvolvimento do projeto: planejamento/verificacao_g4/itens_dev_proj4_g4.md
+        - Etapa 5:
+          - Forward-from: planejamento/verificacao_g4/forwardfrom.md
+          - Itens de desenvolvimento do projeto: planejamento/verificacao_g4/itens_dev_proj5.md
+          - Backward-from: planejamento/verificacao_g4/veri_Backward-from.md
+          - Matriz de Rastreabilidade: planejamento/verificacao_g4/veri_matriz.md
 markdown_extensions:
   - attr_list
   - md_in_html
