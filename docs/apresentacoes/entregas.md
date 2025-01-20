@@ -45,8 +45,8 @@ A apresentação da entrega 5, pode ser vista no [YouTube](https://www.youtube.c
 
 <center>
 <p>Vídeo 05: Gravação da apresentação 5</p>
-<iframe width="760" height="515" src="https://youtu.be/N1alMrJa-WU?si=oNT5lKgryNs2OOJD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/N1alMrJa-WU?si=E7_HZ-_Z4wYWVT1_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
 
