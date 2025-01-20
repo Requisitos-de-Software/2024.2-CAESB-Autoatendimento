@@ -18,11 +18,11 @@ Local: Online via Teams
 
 
 ## Link da gravação
-A reunião do dia 19/01/2025, pode ser vista no [YouTube]().</p>
+A reunião do dia 19/01/2025, pode ser vista no [YouTube](https://www.youtube.com/watch?v=N1alMrJa-WU).</p>
 
 <center>
     <p>Vídeo 01: Gravação da reunião 8</p>
-    <iframe width="760" height="515" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://youtu.be/N1alMrJa-WU?si=oNT5lKgryNs2OOJD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
 </center>
 

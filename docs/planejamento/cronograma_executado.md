@@ -94,6 +94,22 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 <br>
 
+<p align="justify">&emsp;&emsp;Na Tabela 5, encontra-se o cronograma executado para todas as atividades da quinta entrega.</p>
+
+| Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Pós-rastreabilidade: Backward-form                        	| Início: 03/01<br>Fim: 08/01   	| João Victor, Letícia, Matheus, Natan, Leandro        	| Início: 10/01 Fim: 10/01 	| João Victor, Letícia, Matheus, Natan, Leandro 	|
+|   Pós-rastreabilidade: Forward-form                         	| Início: 03/01<br>Fim: 08/01    	| João Victor, Letícia, Matheus, Natan, Leandro  	| Início: 10/01 Fim: 10/01 	| Leandro, Natan, Matheus, Leandro, João Victor	|
+|   vericação	| Início: 18/01<br>Fim: 18/01	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 19/01<br>Fim: 19/01 	|  João Victor, Leandro, Letícia, Matheus, Natan	|
+|   vericação grupo n+1	| Início: 19/01<br>Fim: 20/01	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 19/01<br>Fim: 20/01 |  João Victor, Leandro, Letícia, Matheus, Natan	|
+|   Inspeção	| Início: 19/01<br>Fim: 19/01	|   Letícia, Natan, Matheus	| Início: 19/01<br>Fim: 19/01 	|    Leandro 	|
+|   Gravação da Apresentação e Entrega                        	| Início: 19/01<br>Fim: 19/01    	| João Victor, Leandro, Letícia, Matheus, Natan                             	| Início: 19/01 Fim: 19/01 	|   João Victor, Leandro, Letícia, Matheus, Natan        	|
+|   Correção pós apresentação	| Início: 20/01<br>Fim: 21/01 	| João Victor, Leandro, Letícia, Matheus, Natan 	| Início: 21/01<br>Fim: 21/01 	| João Victor, Leandro, Letícia, Matheus, Natan 	|
+
+<center>
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</center>
+
 ## Referências
 
 > <p id="1">1. SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. Aprender 3. Distrito Federal, 2016. Disponível em:  
@@ -113,6 +129,7 @@ Acesso em: 21 out. 2024.
 |  1.1   | 13/11/2024 | Correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 08/12/2024 | Adicionando cronograma da terceira entrega| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 14/12/2024 | Adicionando cronograma da quarta entrega| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.4   | 19/01/2025 | Adicionando cronograma da quinta entrega| [Matheus Barros do Nascimento](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23) |
 
 
 
