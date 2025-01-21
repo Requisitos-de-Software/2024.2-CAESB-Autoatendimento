@@ -51,7 +51,7 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 |   01   | Cada requisito está claramente ligado à sua fonte de origem? |   Sim  | Leandro de Almeida | versão 1.4 17/01 |  
 |   02   | As fontes dos requisitos estão disponíveis e bem documentadas?|   Sim  | Leandro de Almeida | versão 1.4 17/01 |  
 |   03   | As mudanças nos requisitos são justificadas com base em suas fontes?|  Não  | Leandro de Almeida | versão 1.4 17/01 |  
-|   04   | Há uma justificativa clara para incluir cada requisito no projeto? | Sim | Leandro de Almeida | versão 1.4 17/01 |  
+|   04   | Há uma justificativa clara para incluir cada requisito no projeto? | Não | Leandro de Almeida | versão 1.4 17/01 |  
 |   05   | Os elos de rastreabilidade backward-from incluem as dependências entre os requisitos e suas fontes? | Não | Leandro de Almeida | versão 1.4 17/01  |  
 |   06   | Este artefato tem um impacto direto em outro artefato ou módulo que foi desenvolvido anteriormente? | Não | Joao Victor Marques | versão 1.4 20/01  |
 
