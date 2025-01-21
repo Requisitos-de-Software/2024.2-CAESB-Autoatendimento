@@ -61,6 +61,14 @@ Neste documento, realizou-se a avaliação do projeto <a href="https://requisito
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
+## Link da gravação
+Pode ser vista no [YouTube](https://youtu.be/yQlkcHdGZus?si=4pYU6_Y13PRAQI5b).</p>
+
+<center>
+    <p>Vídeo 01: Verificação de Itens de Desenvolvimento do Projeto</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yQlkcHdGZus?si=4pYU6_Y13PRAQI5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
+</center>
 
 ## Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>

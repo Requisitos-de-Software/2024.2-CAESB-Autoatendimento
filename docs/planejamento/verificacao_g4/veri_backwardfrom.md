@@ -59,6 +59,14 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 </p>Autor(a):<a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>, <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
 
+## Link da gravação
+Pode ser vista no [YouTube](https://youtu.be/wFCG_teX-H0?si=fXs74BKC_N9c_t0d).</p>
+
+<center>
+    <p>Vídeo 01: Verificação do Backward-From</p>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/wFCG_teX-H0?si=fXs74BKC_N9c_t0d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
+</center>
 
 ## Problemas encontrados
 
