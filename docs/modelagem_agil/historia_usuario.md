@@ -249,57 +249,6 @@
 
 <br>
 
-## US14 - Incluir um tutorial inicial para ajudar novos usuários a se familiarizarem
-
-<center>Tabela 16: Incluir um tutorial inicial para ajudar novos usuários a se familiarizarem
-
-|       ID               |      Nome       | 
-|------------------------|-----------------|
-|      US14              | O Sistema deve incluir um tutorial inicial para ajudar novos usuários a se familiarizarem. |
-|     Descrição          | Eu, como usuário, desejo acessar um tutorial inicial para me familiarizar com o uso do sistema. |
-| Critérios de Aceitação | - O sistema deve exibir o tutorial automaticamente no primeiro acesso. <br> - O tutorial deve ser interativo e apresentar as principais funcionalidades.<br> - Deve haver a opção de pular ou acessar o tutorial novamente pelo menu.<br> |
-|     Prioridade         | Would-Have |
-|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ31 </a> |
-
-</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-</center>
-
-<br>
-
-## US15 - Oferecer suporte a múltiplos idiomas para atender usuários diversificados.
-
-<center>Tabela 17: Oferecer suporte a múltiplos idiomas para atender usuários diversificados.
-
-|       ID               |      Nome       | 
-|------------------------|-----------------|
-|      US15              | O Sistema deve oferecer suporte a múltiplos idiomas para atender usuários diversificados.. |
-|     Descrição          | Eu, como usuário, desejo utilizar o sistema em múltiplos idiomas para facilitar o uso por diferentes públicos. |
-| Critérios de Aceitação | -  sistema deve oferecer suporte a pelo menos três idiomas. <br> - Deve ser possível alterar o idioma no menu de configurações.<br> - Todo o conteúdo deve ser traduzido corretamente, incluindo mensagens de erro.<br> |
-|     Prioridade         | Could-Have |
-|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ32 </a> |
-
-</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-</center>
-
-<br>
-
-## US16 - Adaptar a diferentes tamanhos de tela.
-
-<center>Tabela 18: Adaptar a diferentes tamanhos de tela.
-
-|       ID               |      Nome       | 
-|------------------------|-----------------|
-|      US16              | O Sistema deve adaptar a diferentes tamanhos de tela. |
-|     Descrição          | Eu, como usuário, desejo que o sistema se adapte a diferentes tamanhos de tela para facilitar o uso em dispositivos variados. |
-| Critérios de Aceitação | -  O sistema deve ser responsivo e funcional em dispositivos móveis, tablets e desktops.<br> - Não deve haver perda de funcionalidade ou distorções de layout em nenhum tamanho de tela suportado. <br> |
-|     Prioridade         | Should-Have |
-|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ38 </a> |
-
-</p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-</center>
-
-<br>
-
 ## US17 -  Barra de Funções Mais Utilizadas.
 
 <center>Tabela 19:  Barra de Funções Mais Utilizadas
