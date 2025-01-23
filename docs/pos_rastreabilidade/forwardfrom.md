@@ -77,6 +77,7 @@
 | Critério de aceitação |  Deve haver opção de cadastrar um cartão de crédito para para pagamento recorrente. |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO17</a> |
 | Implementado | Não |
+| Versionamento| Requisito não foi modificado|
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
@@ -97,6 +98,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Critério de aceitação | - Deve haver opção de ativar notificações. - O aplicativo envia uma notificação quando estiver perto do vencimento da conta ou com ações pendentes. |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO18</a> |
 | Implementado | Não |
+| Versionamento| Requisito não foi modificado|
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
@@ -117,6 +119,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Critério de aceitação | - O sistema deve permitir que o usuário informe o local e a natureza do vazamento (rua ou hidrômetro). - Deve haver um campo para anexar fotos e uma descrição do problema. - O sistema deve confirmar o recebimento da solicitação. |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO19</a> |
 | Implementado | sim <br> <img src="https://i.ibb.co/71gk2Jt/qqq.jpg" style="height:200px;">|
+| Versionamento| Requisito não foi modificado|
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
@@ -137,6 +140,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Critério de aceitação | - Deve haver opção de atualizar dados como nome, sexo, email e telefone. |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO20</a> |
 | Implementado | Sim |
+| Versionamento| Requisito não foi modificado|
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
@@ -157,6 +161,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Critério de aceitação | - O sistema deve exibir as unidades disponíveis com base na localização do usuário. - Deve ser possível escolher data e horário entre as opções disponíveis. - O sistema deve enviar uma confirmação do agendamento. |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO21</a> |
 | Implementado | Não |
+| Versionamento| Requisito não foi modificado|
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
@@ -232,6 +237,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Critério de aceitação |<p align="justify"> - Na página principal do aplicativo, deve haver uma barra de busca visível no topo ou em local destacado <br> - Ao digitar na barra de busca, os eventos listados devem ser filtrados em tempo real para corresponder aos termos inseridos. <br> - A busca deve suportar diferentes critérios, como nome do evento e palavras-chave.</p> |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO9</a> |
 | Implementado | Não |
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -251,6 +257,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Critério de aceitação |<p align="justify"> - Deve haver uma opção visível para emitir ou visualizar a segunda via da conta. <br> - A segunda via deverá estar disponível para download em formato PDF. <br> -  O sistema deve exibir um histórico de contas pagas e em aberto.</p> |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO10</a> |
 | Implementado | sim <br> <img src="https://github.com/user-attachments/assets/3d813d4b-92e9-4b2e-9070-9d288a3b15db" style="height:200px;"> <img src="https://github.com/user-attachments/assets/66ba9b17-9159-4cbe-b93c-d3ba09bb5e5a" style="height:200px;"> <img src="https://github.com/user-attachments/assets/e1b6d0e8-725c-4373-8418-85aa61a8f26a" style="height:200px;">  |
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -271,6 +278,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Critério de aceitação |<p align="justify"> - O sistema deve oferecer métodos de pagamento como cartão de crédito, débito, PIX e boleto bancário. <br> - O usuário deverá receber uma confirmação de pagamento imediatamente após o processo ser concluído. <br> - As opções de pagamento devem ser acessíveis em uma área destacada do aplicativo.</p> |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO11</a> |
 | Implementado | Não |
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -291,6 +299,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Critério de aceitação |<p align="justify"> - Deve haver uma funcionalidade para anexar e enviar documentos no formato PDF ou imagem (JPEG/PNG). <br> - O sistema deve confirmar o envio dos documentos com uma notificação ou mensagem no aplicativo. <br> - Os documentos enviados devem ser armazenados com segurança e condicionados ao perfil do usuário.</p> |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO12</a> |
 | Implementado | Não|
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -311,7 +320,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Critério de aceitação |<p align="justify"> - O aplicativo deve incluir um chatbot com respostas automáticas para perguntas frequentes e escalonamento para atendimento humano, se necessário. <br> - O chat deve estar acessível na página principal ou no menu de suporte. <br> - O sistema deve armazenar o histórico de conversas para referência futura.</p> |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO13</a> |
 | Implementado | Não |
-
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -332,7 +341,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Critério de aceitação |<p align="justify"> - O sistema deve permitir que o usuário informe o local e a natureza do vazamento (rua ou hidrômetro). <br> - Deve haver um campo para anexar fotos e uma descrição do problema. <br> - O sistema deve confirmar o recebimento da solicitação.</p> |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO14</a> |
 | Implementado | sim <br> <img src="https://github.com/user-attachments/assets/8427e72a-13d7-4291-bfbd-070324e9bd85" style="height:200px;"> <img src="https://github.com/user-attachments/assets/794f2c53-77f8-4dc7-905a-8787394aa8c1" style="height:200px;"> <img src="https://github.com/user-attachments/assets/eb4ceacc-33e2-4d4d-8372-f490802cb193" style="height:200px;"> |
-
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -352,6 +361,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Critério de aceitação |<p align="justify"> - O aplicativo deve permitir que o usuário registre falta de água com informações como local, dados e hora. <br> - O sistema deve exibir notificações sobre falta de água em andamento na região do usuário. <br> - As informações devem ser atualizadas em tempo real e apresentar o status da resolução do problema.</p> |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO15</a> |
 | Implementado | sim <br> <img src="https://github.com/user-attachments/assets/64300815-a12c-4457-9133-e1525a1fe3d0" style="height:200px;"> <img src="https://github.com/user-attachments/assets/cabbffa8-cba4-4dba-b363-b494ceec2262" style="height:200px;"> <img src="https://github.com/user-attachments/assets/a0dbe900-80ec-421e-b500-6493a383787e" style="height:200px;"> |
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -786,6 +796,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Especificação Suplementar |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#confiabiliade">Especificação Suplementar - Confiabilidade</a> |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO16</a> |
 | Implementado | Sim <br> <img src="https://github.com/user-attachments/assets/2addfda2-c49f-4905-ac62-d008a261e0e3" style="height:200px;"> |
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
