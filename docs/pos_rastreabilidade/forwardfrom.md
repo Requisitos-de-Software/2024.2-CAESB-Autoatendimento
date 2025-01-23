@@ -229,8 +229,9 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Léxico  | --|
 | Casos de uso | --|
 | Cenários | -- |
-| NFR | -- |
-| Especificação Suplementar | -- |
+| Critério de aceitação |<p align="justify"> - Na página principal do aplicativo, deve haver uma barra de busca visível no topo ou em local destacado <br> - Ao digitar na barra de busca, os eventos listados devem ser filtrados em tempo real para corresponder aos termos inseridos. <br> - A busca deve suportar diferentes critérios, como nome do evento e palavras-chave.</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO9</a> |
+| Implementado | Não |
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -247,8 +248,9 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l01-emitir-a-segunda-via-de-conta">L01 - Emitir a Segunda Via de Conta</a> |
 | Casos de uso | --|
 | Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-1-emitir-a-segunda-via-de-conta">Cenário 1 - Emitir a Segunda Via de Conta</a> |
-| NFR | -- |
-| Especificação Suplementar | -- |
+| Critério de aceitação |<p align="justify"> - Deve haver uma opção visível para emitir ou visualizar a segunda via da conta. <br> - A segunda via deverá estar disponível para download em formato PDF. <br> -  O sistema deve exibir um histórico de contas pagas e em aberto.</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO10</a> |
+| Implementado | sim <br> <img src="https://github.com/user-attachments/assets/3d813d4b-92e9-4b2e-9070-9d288a3b15db" style="height:200px;"> <img src="https://github.com/user-attachments/assets/66ba9b17-9159-4cbe-b93c-d3ba09bb5e5a" style="height:200px;"> <img src="https://github.com/user-attachments/assets/e1b6d0e8-725c-4373-8418-85aa61a8f26a" style="height:200px;">  |
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -266,8 +268,9 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#lexico-l17-formas-de-pagamento">L17 - Formas de Pagamento</a> |
 | Casos de uso | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC12 - Formas de Pagamento</a>|
 | Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-17-formas-de-pagamento">Cenário 17 - Formas de Pagamento</a> |
-| NFR | -- |
-| Especificação Suplementar | -- |
+| Critério de aceitação |<p align="justify"> - O sistema deve oferecer métodos de pagamento como cartão de crédito, débito, PIX e boleto bancário. <br> - O usuário deverá receber uma confirmação de pagamento imediatamente após o processo ser concluído. <br> - As opções de pagamento devem ser acessíveis em uma área destacada do aplicativo.</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO11</a> |
+| Implementado | Não |
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -285,8 +288,9 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Léxico  | --|
 | Casos de uso | --|
 | Cenários | --|
-| NFR | -- |
-| Especificação Suplementar | -- |
+| Critério de aceitação |<p align="justify"> - Deve haver uma funcionalidade para anexar e enviar documentos no formato PDF ou imagem (JPEG/PNG). <br> - O sistema deve confirmar o envio dos documentos com uma notificação ou mensagem no aplicativo. <br> - Os documentos enviados devem ser armazenados com segurança e condicionados ao perfil do usuário.</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO12</a> |
+| Implementado | Não|
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -304,8 +308,10 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l08-suporte-de-chat-ou-atendimento">L08 - Suporte de Chat ou Atendimento</a> |
 | Casos de uso |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC08 - Suporte de Chat ou Atendimento</a> |
 | Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-8-suporte-de-chat-ou-atendimento">Cenário 8 - Suporte de Chat ou Atendimento</a>|
-| NFR | -- |
-| Especificação Suplementar | -- |
+| Critério de aceitação |<p align="justify"> - O aplicativo deve incluir um chatbot com respostas automáticas para perguntas frequentes e escalonamento para atendimento humano, se necessário. <br> - O chat deve estar acessível na página principal ou no menu de suporte. <br> - O sistema deve armazenar o histórico de conversas para referência futura.</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO13</a> |
+| Implementado | Não |
+
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -323,8 +329,10 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l04-informar-vazamento-na-rua">L04 - Informar Vazamento na Rua</a> |
 | Casos de uso |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC04 - Informar Vazamento</a> |
 | Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-4-informar-vazamento-na-rua">Cenário 4 - Informar Vazamento na Rua</a>|
-| NFR | -- |
-| Especificação Suplementar | -- |
+| Critério de aceitação |<p align="justify"> - O sistema deve permitir que o usuário informe o local e a natureza do vazamento (rua ou hidrômetro). <br> - Deve haver um campo para anexar fotos e uma descrição do problema. <br> - O sistema deve confirmar o recebimento da solicitação.</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO14</a> |
+| Implementado | sim <br> <img src="https://github.com/user-attachments/assets/8427e72a-13d7-4291-bfbd-070324e9bd85" style="height:200px;"> <img src="https://github.com/user-attachments/assets/794f2c53-77f8-4dc7-905a-8787394aa8c1" style="height:200px;"> <img src="https://github.com/user-attachments/assets/eb4ceacc-33e2-4d4d-8372-f490802cb193" style="height:200px;"> |
+
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -341,8 +349,9 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l02-informar-falta-dagua">L02 - Informar Falta d'Água</a> |
 | Casos de uso |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC02 - Informar Falta d'Água</a> |
 | Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-2-informar-falta-dagua">Cenário 2 - Informar Falta d'Água</a>|
-| NFR | -- |
-| Especificação Suplementar | -- |
+| Critério de aceitação |<p align="justify"> - O aplicativo deve permitir que o usuário registre falta de água com informações como local, dados e hora. <br> - O sistema deve exibir notificações sobre falta de água em andamento na região do usuário. <br> - As informações devem ser atualizadas em tempo real e apresentar o status da resolução do problema.</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO15</a> |
+| Implementado | sim <br> <img src="https://github.com/user-attachments/assets/64300815-a12c-4457-9133-e1525a1fe3d0" style="height:200px;"> <img src="https://github.com/user-attachments/assets/cabbffa8-cba4-4dba-b363-b494ceec2262" style="height:200px;"> <img src="https://github.com/user-attachments/assets/a0dbe900-80ec-421e-b500-6493a383787e" style="height:200px;"> |
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -641,8 +650,6 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5: Interface e Usabilidade</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 14 - Tutorial Inicial </a> |
-| Léxico  | -- |
-| Cenários | -- |
 | NFR | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/#nfr-framework-nfr01-usabilidade">NFR Framework - NFR01: Usabilidade</a> |
 | Especificação Suplementar | -- |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO22</a> |
@@ -658,8 +665,6 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5: Interface e Usabilidade</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 15 - Suporte a Múltiplos Idiomas </a> |
-| Léxico  | -- |
-| Cenários | -- |
 | NFR | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/#nfr-framework-nfr01-usabilidade">NFR Framework - NFR01: Usabilidade</a> |
 | Especificação Suplementar | -- |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO23</a> |
@@ -675,8 +680,6 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5: Interface e Usabilidade</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 16 - Responsividade </a> |
-| Léxico  | -- |
-| Cenários | -- |
 | NFR | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/#nfr-framework-nfr01-usabilidade">NFR Framework - NFR01: Usabilidade</a> |
 | Especificação Suplementar |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#usabilidade">ES de Usabilidade</a>      |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO24</a> |
@@ -779,12 +782,10 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-7-seguranca-e-privacidade">Épico 7 - Segurança e Privacidade</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 8 - Segurança de Dados</a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us24-seguranca-dos-dados">US24 - Segurança dos Dados</a> |
-| Léxico  | -- |
-| Casos de uso | --|
-| Cenários | --|
 | NFR | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/#nfr-framework-nfr03-confiabilidade">NFR Framework - NFR03: Confiabilidade</a>  |
 | Especificação Suplementar |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#confiabiliade">Especificação Suplementar - Confiabilidade</a> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO16</a> |
+| Implementado | Sim <br> <img src="https://github.com/user-attachments/assets/2addfda2-c49f-4905-ac62-d008a261e0e3" style="height:200px;"> |
 
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -829,3 +830,4 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 |  1.4   | 16/01/2025 | Adição de requisitos funcionais e não funcionais  | [Letícia Resende ](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.5   | 17/01/2025 | Adição de requisitos funcionais 16 a 22 e do do requisito não funcional 10 | [Leandro de Almeida ](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.6   | 22/01/2025 | Correção pós-apresentação | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida ](https://github.com/leomitx10) | 
+|  1.7   | 23/01/2025 | Correção pós-apresentação | [Letícia Resende ](https://github.com/LeticiaResende23) | [Leandro de Almeida ](https://github.com/leomitx10) | 

@@ -31,11 +31,11 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     |  A matriz geral inclui a elicitação e estabelece a relação dos requisitos com os projetos associados?|          | Letícia Resende |  |
-| 02     |  A matriz geral indica se cada requisito foi ou não implementado?          |  | Letícia Resende | |
-| 03     |  Uma boa matriz de rastreabilidade mantém os elos das fontes de informações?                      |           | Letícia Resende |  |
-| 04     |  A matriz de rastreabilidade apresenta o rastreamento dos documentos e suas referências, incluindo elementos como Histórias de Usuário (US), Análise de Documentos (ADD) e outros itens descritos na legenda?                |           | Letícia Resende |  |
-| 05     |  Os requisitos funcionais e não funcionais estão claramente identificados e documentados na matriz geral?             |          | Letícia Resende |  |
+| 01     | Todos os requisitos possuem uma identificação única (ID) que facilita seu rastreamento ao longo do desenvolvimento?|          | Letícia Resende |  |
+| 02     |  As exigências dos requisitos na matriz estão claras e definidas o suficiente para serem entendidas por todas as partes interessadas?          |  | Letícia Resende | |
+| 03     |  Os métodos de elicitação utilizados para cada requisito estão devidamente documentados e correlacionados na matriz?                     |           | Letícia Resende |  |
+| 04     |  Os artigos relacionados, como histórias de usuário, cenários e casos de uso, estão claramente vinculados aos requisitos na matriz?               |           | Letícia Resende |  |
+| 05     | O status de implementação dos requisitos (implementado ou não implementado) está atualizado e refletido na matriz?            |          | Letícia Resende |  |
 
 
 <center>
@@ -48,11 +48,11 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     |  A matriz geral inclui a elicitação e estabelece a relação dos requisitos com os projetos associados?|  Sim  | Letícia Resende | versão 1.4 17/01 |
-| 02     |  A matriz geral indica se cada requisito foi ou não implementado?    | Sim | Letícia Resende |versão 1.4 17/01 |
-| 03     |  Uma boa matriz de rastreabilidade mantém os elos das fontes de informações    |     Sim      | Letícia Resende | versão 1.4 17/01 |
-| 04     |  A matriz de rastreabilidade apresenta o rastreamento dos documentos e suas referências, incluindo elementos como Histórias de Usuário (US), Análise de Documentos (ADD) e outros itens descritos na legenda?    |     Sim      | Letícia Resende | versão 1.4 17/01 |
-| 05     |  Os requisitos funcionais e não funcionais estão claramente identificados e documentados na matriz geral? |     Sim     | Letícia Resende | versão 1.4 17/01 |
+| 01     | Todos os requisitos possuem uma identificação única (ID) que facilita seu rastreamento ao longo do desenvolvimento?|  Sim  | Letícia Resende | versão 1.5 23/01 |
+| 02     | As exigências dos requisitos na matriz estão claras e definidas o suficiente para serem entendidas por todas as partes interessadas?    | Sim | Letícia Resende |versão 1.5 23/01 |
+| 03     | Os métodos de elicitação utilizados para cada requisito estão devidamente documentados e correlacionados na matriz?         |     Sim      | Letícia Resende | versão 1.5 23/01 |
+| 04     | Os artigos relacionados, como histórias de usuário, cenários e casos de uso, estão claramente vinculados aos requisitos na matriz?          |     Sim      | Letícia Resende | versão 1.5 23/01 |
+| 05     | O status de implementação dos requisitos (implementado ou não implementado) está atualizado e refletido na matriz?      |     Sim     | Letícia Resende | versão 1.5 23/01 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
@@ -64,7 +64,7 @@ Pode ser vista no [YouTube]().</p>
 
 <center>
     <p>Vídeo 01: Verificação da Matriz de Rastreabilidade</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/ub9aNj17NFY?si=WIWiG8C7IwoLQjA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/L9O847938As?si=Q4-cLrbZIx0Fcfqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
@@ -114,3 +114,4 @@ Pode ser vista no [YouTube]().</p>
 | Versão |    Data    |                  Descrição                  |                       Autor                        |                        Revisor                         |
 | :----: | :--------: | :-----------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
 |  1.0   | 17/01/2025 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23)| [Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.1   | 23/01/2025 | Correção pós - apresentação | [Letícia Resende](https://github.com/LeticiaResende23)| [Matheus Barros](https://github.com/Ninja-Haiyai) |

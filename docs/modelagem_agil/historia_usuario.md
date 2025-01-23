@@ -370,21 +370,6 @@
 
 <br>
 
-## US24 - Segurança dos Dados.
-
-<center>Tabela 26: Segurança dos Dados.
-
-|       ID               |      Nome       | 
-|------------------------|-----------------|
-|      US24              | O sistema deve garantir a segurança dos dados dos usuários. |
-|     Descrição          | Eu, como usuário, desejo que o aplicativo garanta a segurança dos meus dados pessoais para evitar vazamentos ou acessos não autorizados. |
-| Critérios de Aceitação | - O sistema deve implementar autenticação segura (como senha forte, biometria ou autenticação em duas etapas).<br> - Os dados do usuário devem ser armazenados em conformidade com a LGPD (Lei Geral de Proteção de Dados).<br> - O aplicativo deve exibir uma política de privacidade clara e acessível.|
-|     Prioridade         | Must-Have|
-|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ34</a> |
-
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
-</center>
-
 ## US25 - Acesso/Pagamento de Contas Passadas.
 <center>Tabela 27: Acesso/Pagamento de Contas Passadas.
 
