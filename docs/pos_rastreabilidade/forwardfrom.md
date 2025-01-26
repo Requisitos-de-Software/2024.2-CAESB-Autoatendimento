@@ -371,16 +371,18 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <center>
 <figcaption>Tabela 18 - RF16 </figcaption>
 
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/" target = "_blank">RQ01</a> |O sistema deve ter uma barra de busca.|
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/" target = "_blank">RQ01</a> |O sistema deve ter uma barra de busca|
 | :-: | :-: |
-| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente"target = "_blank">Épico 2 - Interatividade e Suporte ao Cliente</a> |
-| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features"target = "_blank">Feature 17 - Barra de Busca</a> |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente"target = "_blank">Épico 2 - Interatividade e Suporte ao Cliente</a>  |
+| Feature |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features"target = "_blank">Feature 17 - Barra de Busca</a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us01-barra-de-busca"target = "_blank">US01 - Barra de busca</a> |
 | Léxico  | -- |
-| Casos de uso | -- |
-| Cenários | -- |
-| NFR | -- |
-| Especificação Suplementar | -- |
+| Casos de uso |  -- |
+| Cenários | --|
+| Critério de aceitação |<p align="justify">- Na página principal do aplicativo, deve haver uma barra de busca visível no topo ou em local destacado.<br> - Ao digitar na barra de busca, os eventos listados devem ser filtrados em tempo real para corresponder aos termos inseridos. <br>- A busca deve suportar diferentes critérios, como nome do evento e palavras-chave.</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO25</a> |
+| Implementado | Não|
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -390,16 +392,18 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <center>
 <figcaption>Tabela 19 - RF17 </figcaption>
 
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ23</a> |O usuário deve poder registrar e acompanhar ordens de serviço.|
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ23</a> |O usuário deve poder registrar e acompanhar ordens de serviço|
 | :-: | :-: |
-| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-4-servicos-de-atendimento"target = "_blank">Épico 4: Serviços de Atendimento</a> |
-| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features"target = "_blank">Feature 18 - Registro e Acompanhamento de Ordens de Serviço</a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us02-registrar-e-acompanhar-ordens-de-servico"target = "_blank">US02 - Registrar e acompanhar ordens de serviço.</a> |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-4-servicos-de-atendimento"target = "_blank">Épico 4: Serviços de Atendimento</a>  |
+| Feature |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features"target = "_blank">Feature 18 - Registro e Acompanhamento de Ordens de Serviço</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us02-registrar-e-acompanhar-ordens-de-servico"target = "_blank">US02 - Registrar e acompanhar ordens de serviço</a> |
 | Léxico  | -- |
-| Casos de uso | -- |
-| Cenários | -- |
-| NFR | -- |
-| Especificação Suplementar | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#acessibilidade"target = "_blank">Especificação Suplementar - Acessibilidade</a> |
+| Casos de uso |  -- |
+| Cenários | --|
+| Critério de aceitação |<p align="justify">- Na página principal do aplicativo, deve haver uma barra de busca visível no topo ou em local destacado.<br> - Ao digitar na barra de busca, os eventos listados devem ser filtrados em tempo real para corresponder aos termos inseridos. <br>- A busca deve suportar diferentes critérios, como nome do evento e palavras-chave.</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO26</a> |
+| Implementado | Sim |
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -409,16 +413,18 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <center>
 <figcaption>Tabela 20 - RF18 </figcaption>
 
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ30</a> | O aplicativo deve permitir que o usuário busque um atendimento pelo protocolo. |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ30</a> | O aplicativo deve permitir que o usuário busque um atendimento pelo protocolo |
 | :-: | :-: |
-| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente"target = "_blank">Épico 2 - Interatividade e Suporte ao Cliente</a> |
-| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features"target = "_blank">Feature 20 - Busca de Atendimento por Protocolo</a> |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente"target = "_blank">Épico 2 - Interatividade e Suporte ao Cliente</a>  |
+| Feature |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features"target = "_blank">Feature 20 - Busca de Atendimento por Protocolo</a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us04-buscar-atendimento-pelo-protocolo"target = "_blank">US04 - Buscar atendimento pelo protocolo.</a> |
 | Léxico  | -- |
-| Casos de uso | -- |
-| Cenários | -- |
-| NFR | -- |
-| Especificação Suplementar | -- |
+| Casos de uso |  -- |
+| Cenários | --|
+| Critério de aceitação |<p align="justify"> - Deve haver um campo de busca na interface do aplicativo, onde o usuário possa inserir o número do protocolo.<br> - Após digitar o protocolo e confirmar a busca, o sistema deve exibir os detalhes do atendimento correspondente, como status, data de registro, e descrição. <br> - Caso o protocolo não seja encontrado, o sistema deve informar ao usuário que não há registros correspondentes. <br> - A busca pelo protocolo deve ser rápida, com retorno dos resultados em até 5 segundos.</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO28</a> |
+| Implementado | Não |
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -428,16 +434,18 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <center>
 <figcaption>Tabela 21 - RF19 </figcaption>
 
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ29</a> | O aplicativo deve permitir que o usuário altere o vencimento da conta. |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ29</a> | O aplicativo deve permitir que o usuário altere o vencimento da conta |
 | :-: | :-: |
-| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos"target = "_blank">Épico 1 - Gestão de Contas e Pagamentos.</a> |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos"target = "_blank">Épico 1 - Gestão de Contas e Pagamentos</a>  |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features"target = "_blank">Feature 21 - Alteração do Vencimento da Conta</a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us05-alterar-o-vencimento-da-conta"target = "_blank">US05 - Alterar o vencimento da conta.</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us05-alterar-o-vencimento-da-conta"target = "_blank">US05 - Alterar o vencimento da conta</a> |
 | Léxico  | <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l06-alterar-titularidade-e-vencimento" target = "_blank">L06 - Alterar Titularidade e Vencimento</a> |
-| Casos de uso | <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso" target = "_blank">UC06 - Alterar Titularidade e Vencimento</a> |
+| Casos de uso |  <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso" target = "_blank">UC06 - Alterar Titularidade e Vencimento</a> |
 | Cenários | <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-6-alterar-titularidade-e-vencimento" target = "_blank">Cenário 6 - Alterar Titularidade e Vencimento</a> |
-| NFR | -- |
-| Especificação Suplementar | -- |
+| Critério de aceitação |<p align="justify"> - Deve haver um campo de busca na interface do aplicativo, onde o usuário possa inserir o número do protocolo.<br> - Deve haver uma opção na interface do aplicativo para alterar a data de vencimento da conta, localizada de forma clara e acessível. <br> - O sistema deve permitir que o usuário selecione uma nova data dentro de um intervalo permitido (ex.: do dia 1 ao dia 28 de cada mês). <br> - Após a alteração, o sistema deve confirmar a mudança e informar ao usuário a nova data de vencimento. <br> - Caso a alteração não seja possível (ex.: devido a restrições de contrato), o sistema deve apresentar uma mensagem explicativa ao usuário.</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO29</a> |
+| Implementado | Não |
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -447,16 +455,18 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <center>
 <figcaption>Tabela 22 - RF20 </figcaption>
 
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ07</a> | O sistema deve exibir pequenas descrições ao lado dos serviços para mostrar seu estado atual. |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ07</a> | O sistema deve exibir pequenas descrições ao lado dos serviços para mostrar seu estado atual |
 | :-: | :-: |
-| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade" target = "_blank">Épico 5 - Interface e Usabilidade.</a> |
+| Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade" target = "_blank">Épico 5 - Interface e Usabilidade.</a>  |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features" target = "_blank">Feature 22 - Exibição de Estado Atual dos Serviços</a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us06-exibir-pequenas-descricoes-ao-lado-dos-servicos" target = "_blank">US06 - Exibir pequenas descrições ao lado dos serviços</a> |
 | Léxico  | -- |
 | Casos de uso | -- |
 | Cenários | -- |
-| NFR | -- |
-| Especificação Suplementar | -- |
+| Critério de aceitação |<p align="justify"> - O sistema deve exibir uma breve descrição ou rótulo ao lado de cada serviço listado, indicando claramente seu estado atual (ex.: "Em Andamento", "Concluído", "Pendente"). <br>- As descrições devem ser dinâmicas e atualizadas automaticamente quando o estado do serviço for alterado.<br>- As informações exibidas devem ser concisas, com no máximo 2-3 palavras para evitar poluição visual.<br>- O design deve ser responsivo, garantindo que as descrições sejam legíveis em dispositivos móveis e telas menores.</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO30</a> |
+| Implementado | Não |
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -466,7 +476,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <center>
 <figcaption>Tabela 23 - RF21 </figcaption>
 
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/" target = "_blank">RQ10</a> | O sistema deve possibilitar o adiantamento de processos via aplicativo. |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/" target = "_blank">RQ10</a> | O sistema deve possibilitar o adiantamento de processos via aplicativo |
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-4-servicos-de-atendimento" target = "_blank">Épico 4 - Serviços de Atendimento</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features" target = "_blank">Feature 23 - Adiantamento de Processos</a> |
@@ -474,8 +484,10 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Léxico  | -- |
 | Casos de uso | -- |
 | Cenários | -- |
-| NFR | -- |
-| Especificação Suplementar | -- |
+| Critério de aceitação |<p align="justify"> - Deve haver uma opção no aplicativo que permita ao usuário solicitar o adiantamento de um processo, visível em locais relevantes (ex.: detalhes do processo).<br>- O sistema deve apresentar as condições e requisitos para que o adiantamento seja possível, como taxas ou documentos necessários.<br>- Após solicitar o adiantamento, o usuário deve receber uma confirmação com o novo status e um prazo atualizado.<br>- Caso o adiantamento não seja possível, o sistema deve informar os motivos e sugerir alternativas (se aplicável).</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO31</a> |
+| Implementado | Não |
+| Versionamento| Requisito não foi modificado |
 
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -485,16 +497,19 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <center>
 <figcaption>Tabela 24 - RF22 </figcaption>
 
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ17</a> | A funcionalidade "Atendimentos" deve permitir filtros por ano, mês, status (finalizado ou em andamento). |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/"target = "_blank">RQ17</a> | A funcionalidade "Atendimentos" deve permitir filtros por ano, mês, status (finalizado ou em andamento) |
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-4-servicos-de-atendimento"target = "_blank">Épico 4 - Serviços de Atendimento</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features"target = "_blank">Feature 24 - Filtros para Consultar Atendimentos</a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us08-filtrar-atendimentos-por-ano-mes-e-status"target = "_blank">US08 - Filtrar atendimentos por ano, mês e status</a> |
-| Léxico  |  <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#lexico-l15-filtro-de-atendimentos" target = "_blank">L15 - Filtro de Atendimentos</a> |
-| Casos de uso |  <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso" target = "_blank">UC10 - Filtro de Atendimentos</a> |
+| Léxico  | <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#lexico-l15-filtro-de-atendimentos" target = "_blank">L15 - Filtro de Atendimentos</a> |
+| Casos de uso | <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso" target = "_blank">UC10 - Filtro de Atendimentos</a> |
 | Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-15-filtro-de-atendimentos" target = "_blank">Cenário 15 - Filtro de atendimentos</a> |
-| NFR | -- |
-| Especificação Suplementar | -- |
+| Critério de aceitação |<p align="justify"> - Deve haver opções de filtro claras e acessíveis na funcionalidade "Atendimentos".<br>- O sistema deve permitir selecionar um ou mais dos seguintes critérios de filtro: ano, mês e status (finalizado ou em andamento).<br>- Após aplicar os filtros, a lista de atendimentos exibida deve ser atualizada automaticamente para mostrar apenas os registros correspondentes.<br>- O sistema deve permitir combinar filtros (ex.: filtrar por ano e status ao mesmo tempo).
+<br>- Deve haver uma opção para limpar os filtros aplicados e retornar à lista completa de atendimentos.</p> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO32</a> |
+| Implementado | Sim |
+| Versionamento| Requisito não foi modificado |
 
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
@@ -806,22 +821,20 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 <center>
 <figcaption>Tabela 42 - RNF10 </figcaption>
 
-| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/" target = "_blank">RQ35</a> | O aplicativo deve estar em conformidade com os padrões de acessibilidade da última versão da WCAG. |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/" target = "_blank">RQ35</a> | O aplicativo deve estar em conformidade com os padrões de acessibilidade da última versão da WCAG |
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade"target = "_blank">Épico 5: Interface e Usabilidade</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features"target = "_blank">Feature 19 - Conformidade com Padrões de Acessibilidade</a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us03-conformidade-com-os-padroes-de-acessibilidade-da-wcag"target = "_blank">US03 - Conformidade com os padrões de acessibilidade da WCAG.</a> |
-| Léxico  | -- |
-| Casos de uso | -- |
-| Cenários | -- |
-| NFR | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/#nfr-framework-nfr05-manutenibilidade"target="_blank">NFR Framework - NFR05: Manutenibilidade</a> |
+| NFR | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/#nfr-framework-nfr05-manutenibilidade"target="_blank">NFR Framework - NFR05: Manutenibilidade</a>  |
 | Especificação Suplementar | -- |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO27</a> |
+| Implementado | Não |
+| Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
 <br>
-
 
 ## Referências
 
@@ -839,6 +852,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 |  1.2   | 16/01/2025 | Adição de requisitos  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 16/01/2025 | Adição de requisitos não funcionais  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.4   | 16/01/2025 | Adição de requisitos funcionais e não funcionais  | [Letícia Resende ](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03) |
-|  1.5   | 17/01/2025 | Adição de requisitos funcionais 16 a 22 e do do requisito não funcional 10 | [Leandro de Almeida ](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.5   | 17/01/2025 | Adição de requisitos funcionais 16 a 22 e do requisito não funcional 10 | [Leandro de Almeida ](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.6   | 22/01/2025 | Correção pós-apresentação | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida ](https://github.com/leomitx10) | 
 |  1.7   | 23/01/2025 | Correção pós-apresentação | [Letícia Resende ](https://github.com/LeticiaResende23) | [Leandro de Almeida ](https://github.com/leomitx10) | 
+|  1.8   | 24/01/2025 | Correção pós-apresentação |[Leandro de Almeida ](https://github.com/leomitx10) | [Letícia Resende ](https://github.com/LeticiaResende23) |  
