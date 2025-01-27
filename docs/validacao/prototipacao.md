@@ -85,7 +85,7 @@
 
 
 
-## Referências
+## Referências Bibliográficas
 
 ><p >Guide to prototyping in Figma. Disponível em: <a href="https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma">https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma</a>. Acesso em: 26 de Janeiro de 2025.</p>
 
