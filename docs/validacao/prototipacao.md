@@ -4,7 +4,6 @@
 
 <p align="justify">&emsp;&emsp;A prototipação consiste em criar representações funcionais ou simulações de sistemas de interação antes de sua implementação definitiva. Quanto mais ciclos de iteração forem realizados, maior será a qualidade do produto final. Essa prática é indispensável para validar o produto, pois permite testar conceitos, funcionalidades e fluxos de interação com os usuários antes da versão final. Por meio dos protótipos, é possível coletar feedback, identificar problemas e realizar ajustes, garantindo um produto final mais eficiente e alinhado às necessidades dos usuários. </p>
 
-<br>
 
 ## Metodologia 
 
@@ -18,9 +17,9 @@
 
 | REQUISITO | DESCRIÇÃO |
 | :-------: | :-------: |
-| RQ13 |	O aplicativo deve incluir suporte a chat ou atendimento virtual para resolver dúvidas dos usuários. |
-| RQ22 |	O aplicativo deve exibir dicas de consumo consciente e economia de água. |
-| RQ24 |	O aplicativo deve disponibilizar alertas sobre manutenção programada. |
+|<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ13</a> |	O aplicativo deve incluir suporte a chat ou atendimento virtual para resolver dúvidas dos usuários. |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ22</a> |	O aplicativo deve exibir dicas de consumo consciente e economia de água. |
+|<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ24</a>|	O aplicativo deve disponibilizar alertas sobre manutenção programada. |
 
 <center>
  Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
@@ -42,9 +41,9 @@
 
 | REQUISITO | DESCRIÇÃO |
 | :-------: | :-------: |
-| RQ01 |	O sistema deve ter uma barra de busca. |
-| RQ02 |	O sistema deve ter as funções mais utilizadas/mais buscadas em uma barra.|
-| RQ03 |	O sistema deve permitir acessar/pagar contas passadas. |
+|<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ01</a>|	O sistema deve ter uma barra de busca. |
+|<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ02</a> |	O sistema deve ter as funções mais utilizadas/mais buscadas em uma barra.|
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ03</a> |	O sistema deve permitir acessar/pagar contas passadas. |
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
@@ -53,7 +52,7 @@
 
 <p align="justify">&emsp;&emsp;Protótipo 2: </p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/dbiQFXXDS5Q15ETwauGOJv/prototipo-1?node-id=1-11&p=f&scaling=scale-down&content-scaling=responsive&page-id=0%3A1&starting-point-node-id=1%3A11&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/g4t2yX9pGDxetua6RahZfy/Untitled?node-id=1-131&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
@@ -73,4 +72,5 @@
 | Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 |  1.0   |26/01/2025 | Criacao do artefato |[ Natan Almeida ](https://github.com/natanalmeida03)   | [Leandro de Almeida](https://github.com/leomitx10)|
+|  1.1  |27/01/2025 | Adição do protótipo 2 |[Letícia Resende](https://github.com/LeticiaResende23)  | [ Natan Almeida ](https://github.com/natanalmeida03)|
 
