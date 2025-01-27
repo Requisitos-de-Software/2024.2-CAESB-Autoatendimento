@@ -402,7 +402,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Cenários | --|
 | Critério de aceitação |<p align="justify">- Na página principal do aplicativo, deve haver uma barra de busca visível no topo ou em local destacado.<br> - Ao digitar na barra de busca, os eventos listados devem ser filtrados em tempo real para corresponder aos termos inseridos. <br>- A busca deve suportar diferentes critérios, como nome do evento e palavras-chave.</p> |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO26</a> |
-| Implementado | Sim |
+| Implementado | Não |
 | Versionamento| Requisito não foi modificado|
 
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -508,7 +508,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Critério de aceitação |<p align="justify"> - Deve haver opções de filtro claras e acessíveis na funcionalidade "Atendimentos".<br>- O sistema deve permitir selecionar um ou mais dos seguintes critérios de filtro: ano, mês e status (finalizado ou em andamento).<br>- Após aplicar os filtros, a lista de atendimentos exibida deve ser atualizada automaticamente para mostrar apenas os registros correspondentes.<br>- O sistema deve permitir combinar filtros (ex.: filtrar por ano e status ao mesmo tempo).
 <br>- Deve haver uma opção para limpar os filtros aplicados e retornar à lista completa de atendimentos.</p> |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO32</a> |
-| Implementado | Sim |
+| Implementado | Não |
 | Versionamento| Requisito não foi modificado |
 
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
