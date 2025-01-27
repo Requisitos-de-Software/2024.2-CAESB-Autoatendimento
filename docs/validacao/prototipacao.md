@@ -36,6 +36,32 @@
 </center>
 <br>
 
+### Protótipo 2
+
+<p align="justify">&emsp;&emsp; A tabela 2 mostra os requisitos utilizados para o protótipo 2. </p>
+
+| REQUISITO | DESCRIÇÃO |
+| :-------: | :-------: |
+| RQ01 |	O sistema deve ter uma barra de busca. |
+| RQ02 |	O sistema deve ter as funções mais utilizadas/mais buscadas em uma barra.|
+| RQ03 |	O sistema deve permitir acessar/pagar contas passadas. |
+
+<center>
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+<br>
+
+<p align="justify">&emsp;&emsp;Protótipo 2: </p>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/dbiQFXXDS5Q15ETwauGOJv/prototipo-1?node-id=1-11&p=f&scaling=scale-down&content-scaling=responsive&page-id=0%3A1&starting-point-node-id=1%3A11&embed-host=share" allowfullscreen></iframe>
+
+<center>
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+<br>
+
+
+
 ## Referências
 
 ><p >Guide to prototyping in Figma. Disponível em: <a href="https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma">https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma</a>. Acesso em: 26 de Janeiro de 2025.</p>

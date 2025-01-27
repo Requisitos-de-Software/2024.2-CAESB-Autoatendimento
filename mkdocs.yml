@@ -82,6 +82,7 @@ nav:
       - Backward-from: pos_rastreabilidade/backwardfrom.md
       - Matriz de Rastreabilidade: pos_rastreabilidade/matriz.md
   - Validação:
+      - Comprovação Informal: validacao/compro_informal.md
       - Protipação: validacao/prototipacao.md
   - Verificação:
       - Grupo 03 (Nosso Grupo):
