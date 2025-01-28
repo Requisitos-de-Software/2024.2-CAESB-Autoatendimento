@@ -83,7 +83,20 @@
 </center>
 <br>
 
+## Validação
 
+### Validação 1
+
+| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |Horário| **Data** |
+|-------------------|------------------|-------------|-----------------------------|---|-----------|
+| Natan Almeida | Paulo Lamounier    |   4 min     |    FCTE-UnB     | 16:00 | 28/01/2025|
+
+<center>
+    <p>Vídeo 01: Validação protótipo 1 `1.0` e 2 `1.1`</p>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/W9JmcavSni4?si=ev5IRNjKxKimbSEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+</center>
+<br>
 
 ## Referências Bibliográficas
 
@@ -97,4 +110,5 @@
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 |  1.0   |26/01/2025 | Criacao do artefato |[ Natan Almeida ](https://github.com/natanalmeida03)   | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.1  |27/01/2025 | Adição do protótipo 2 |[Letícia Resende](https://github.com/LeticiaResende23)  | [ Natan Almeida ](https://github.com/natanalmeida03)|
+|  1.2  |28/01/2025 | video validacao | [ Natan Almeida ](https://github.com/natanalmeida03) | [Letícia Resende](https://github.com/LeticiaResende23)  | 
 
