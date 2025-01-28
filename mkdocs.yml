@@ -83,7 +83,7 @@ nav:
       - Matriz de Rastreabilidade: pos_rastreabilidade/matriz.md
   - Validação:
       - Comprovação Informal: validacao/compro_informal.md
-      - Protipação: validacao/prototipacao.md
+      - Prototipação: validacao/prototipacao.md
   - Verificação:
       - Grupo 03 (Nosso Grupo):
         - Etapa 1:
@@ -114,6 +114,10 @@ nav:
           - Itens de desenvolvimento do projeto: planejamento/verificacao/itens_dev_proj5.md
           - Backward-from: planejamento/verificacao/veri_Backward-from.md
           - Matriz de Rastreabilidade: planejamento/verificacao/veri_matriz.md
+        - Etapa 6:
+          - Comprovação Informal: planejamento/verificacao/veri_informal.md
+          - Prototipação: planejamento/verificacao/veri_prototipos.md
+
 
       - Grupo 04:
         - Etapa 1:
