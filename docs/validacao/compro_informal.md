@@ -10,7 +10,7 @@
 
 <p align="justify">&emsp;&emsp;Destaca-se que, devido à formalidade do tema abordado, a mensagem enviada por e-mail foi elaborada de forma mais estruturada e formal. Esse meio foi escolhido para ser mais adequado para compartilhar informações técnicas e relatadas sobre os trabalhos produzidos.</p>
 
-<p align="justify">&emsp;&emsp;Assim, a comunicação através do e-mail possibilitou uma abordagem completa e eficiente para alcançar o objetivo de validar o projeto. As figuras 1 e 2 apresentam as mensagens enviadas por essas plataformas. Todas foram encaminhadas no dia 27 de Janeiro.</p>
+<p align="justify">&emsp;&emsp;Assim, a comunicação através do e-mail possibilitou uma abordagem completa e eficiente para alcançar o objetivo de validar o projeto. As imagens 1 e 2 apresentam as mensagens enviadas por essas plataformas. Todas foram encaminhadas no dia 27 de Janeiro.</p>
 
 <center> Imagem 1: Mensagem enviada via E-mail
 
