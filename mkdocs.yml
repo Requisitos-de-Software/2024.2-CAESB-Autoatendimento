@@ -84,6 +84,21 @@ nav:
   - Validação:
       - Comprovação Informal: validacao/compro_informal.md
       - Prototipação: validacao/prototipacao.md
+  - Verificação Geral: 
+      - Nosso Grupo: 
+          - Entrega 1: verificacao_geral/
+          - Entrega 2: verificacao_geral/
+          - Entrega 3: verificacao_geral/
+          - Entrega 4: verificacao_geral/
+          - Entrega 5: verificacao_geral/
+          - Entrega 6: verificacao_geral/veri_entrega6.md
+      - Grupo + 1:
+          - Entrega 1: verificacao_geral_g4/
+          - Entrega 2: verificacao_geral_g4/
+          - Entrega 3: verificacao_geral_g4/
+          - Entrega 4: verificacao_geral_g4/
+          - Entrega 5: verificacao_geral_g4/
+          - Entrega 6: verificacao_geral_g4/veri_entrega6_g4.md
   - Verificação:
       - Grupo 03 (Nosso Grupo):
         - Etapa 1:
@@ -117,8 +132,6 @@ nav:
         - Etapa 6:
           - Comprovação Informal: planejamento/verificacao/veri_informal.md
           - Prototipação: planejamento/verificacao/veri_prototipos.md
-
-
       - Grupo 04:
         - Etapa 1:
             - Aplicativo Selecionado: planejamento/verificacao_g4/aplicativo_escolhido.md
