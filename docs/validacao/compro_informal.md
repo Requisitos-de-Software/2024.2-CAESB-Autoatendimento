@@ -28,6 +28,12 @@
 
 </center>
 
+## Retorno do Caesb Autoatendimento
+
+<p align="justify">&emsp;&emsp;
+Até o momento da entrega do artefato (02/02/2025) não foram obtidas respostas de validação. Caso a equipe entre em contato por alguma rede social, será inserido neste artefato sua comprovação informal quanto ao que foi desenvolvido no projeto.
+</p>
+
 ## Referências Bibliográficas
 
 ><p >SERRANO, Milene. Requisitos - Aula 23. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2523157/mod_resource/content/2/Requisitos - Aula 023.pdf. Acesso em: 26 de jan de 2025.</p>
