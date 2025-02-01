@@ -39,11 +39,11 @@
 <p align="center">Requisitos de Software<br /><br />
 <a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a>
 </p>
-
-
 </center>
 
-## Referências
+<br>
+
+## Referências Bibliográficas
 
 </center>
 
@@ -52,7 +52,7 @@
    Acesso em: 21 out. 2024.
 </p>
 
----
+<br>
 
 ## Histórico de versão
 

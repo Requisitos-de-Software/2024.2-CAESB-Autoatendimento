@@ -104,32 +104,9 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 <br>
 
-
-## Entrega 5 - Análise de Requisitos: Verificação e Validação 
+## Entrega 5 - Pós-Rastreabilidade 
 
 Na Tabela 5, encontra-se o cronograma planejado para todas as atividades da entrega 5.
-
-| Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
-|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
-|   Verificação por inspeção de todos os artefatos              	| Início: 20/12 <br>Fim: 27/12    	| João Victor, Leandro, Letícia, Matheus, Natan          	|Início: 05/01 <br>Fim: 05/01| João Victor, Leandro, Letícia, Matheus, Natan 
-|   Validação: Prototipação e Comprovação Informal            	| Início: 23/12<br>Fim: 18/01    	| João Victor, Leandro, Letícia, Matheus, Natan          	| Início: 21/01 Fim: 21/01 	| João Victor, Leandro, Letícia, Matheus, Natan          	| 
-|   vericação	| Início: 25/01<br>Fim: 25/01	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 25/01<br>Fim: 26/01 	|  João Victor, Leandro, Letícia, Matheus, Natan	|
-|   vericação grupo n+1	| Início: 27/01<br>Fim: 28/01	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 16/12<br>Fim: 16/12 |  João Victor, Leandro, Letícia, Matheus, Natan	|
-|   Inspeção	| Início: 28/01<br>Fim: 28/01	|   Letícia	| Início: 28/01<br>Fim: 28/01 	|    Leandro 	|
-|   Gravação da Apresentação e Entrega                        	| Início: 29/01<br>Fim: 29/01    	| João Victor, Leandro, Letícia, Matheus, Natan                            	| Início: 29/01 Fim: 29/01	| João Victor, Leandro, Letícia, Matheus, Natan               	|
-|   Correção pós apresentação	| Início: 30/01<br>Fim: 31/01 	| João Victor, Leandro, Letícia, Matheus, Natan    	| Início: 31/01<br>Fim: 31/01 	| João Victor, Leandro, Letícia, Matheus, Natan    	|
-
-<center>
-Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
-</center>
-
-
-<br>
-
-
-## Entrega 6 - Pós-Rastreabilidade
-
-Na Tabela 6, encontra-se o cronograma planejado para todas as atividades da sexta entrega.
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -140,6 +117,27 @@ Na Tabela 6, encontra-se o cronograma planejado para todas as atividades da sext
 |   Inspeção	| Início: 19/01<br>Fim: 19/01	|   Letícia	| Início: 20/01<br>Fim: 20/01 	|    Leandro 	|
 |   Gravação da Apresentação e Entrega                        	| Início: 20/01<br>Fim: 20/01    	| João Victor, Leandro, Letícia, Matheus, Natan                             	| Início: 20/01 Fim: 20/01 	|   João Victor, Leandro, Letícia, Matheus, Natan        	|
 |   Correção pós apresentação	| Início: 20/01<br>Fim: 21/01 	| João Victor, Leandro, Letícia, Matheus, Natan 	| Início: 21/01<br>Fim: 21/01 	| João Victor, Leandro, Letícia, Matheus, Natan 	|
+
+
+<center>
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</center>
+
+<br>
+
+## Entrega 6 - Análise de Requisitos: Verificação e Validação 
+
+Na Tabela 6, encontra-se o cronograma planejado para todas as atividades da sexta entrega.
+
+| Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Verificação por inspeção de todos os artefatos              	| Início: 20/12 <br>Fim: 27/12    	| João Victor, Leandro, Letícia, Matheus, Natan          	|Início: 05/01 <br>Fim: 05/01| João Victor, Leandro, Letícia, Matheus, Natan 
+|   Validação: Prototipação e Comprovação Informal            	| Início: 23/12<br>Fim: 18/01    	| João Victor, Leandro, Letícia, Matheus, Natan          	| Início: 21/01 Fim: 21/01 	| João Victor, Leandro, Letícia, Matheus, Natan          	| 
+|   vericação	| Início: 25/01<br>Fim: 25/01	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 25/01<br>Fim: 26/01 	|  João Victor, Leandro, Letícia, Matheus, Natan	|
+|   vericação grupo n+1	| Início: 27/01<br>Fim: 28/01	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 16/12<br>Fim: 16/12 |  João Victor, Leandro, Letícia, Matheus, Natan	|
+|   Inspeção	| Início: 28/01<br>Fim: 28/01	|   Letícia	| Início: 28/01<br>Fim: 28/01 	|    Leandro 	|
+|   Gravação da Apresentação e Entrega                        	| Início: 29/01<br>Fim: 29/01    	| João Victor, Leandro, Letícia, Matheus, Natan                            	| Início: 29/01 Fim: 29/01	| João Victor, Leandro, Letícia, Matheus, Natan               	|
+|   Correção pós apresentação	| Início: 30/01<br>Fim: 31/01 	| João Victor, Leandro, Letícia, Matheus, Natan    	| Início: 31/01<br>Fim: 31/01 	| João Victor, Leandro, Letícia, Matheus, Natan    	|
 
 <center>
 Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -168,8 +166,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 <br>
 
-
-## Referências
+## Referências Bibliográficas
 
 </center>
 
@@ -191,6 +188,6 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 22/10/2024 | Cronograma Planejado | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.1   | 13/11/2024 | Correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
-
+|  1.2   | 01/02/2025 | Ajustes no Cronograma | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
 
 </center>

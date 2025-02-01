@@ -108,9 +108,26 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 <center>
 Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+
+</center>
+<br>
+<p align="justify">&emsp;&emsp;Na Tabela 6, encontra-se o cronograma executado para todas as atividades da sexta entrega.</p>
+
+| Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Prototipação                     	| Início: 26/01<br>Fim: 01/02   	| João Victor, Letícia, Matheus, Natan, Leandro        	| Início: 01/02 Fim: 03/02 	|  Letícia e Leandro 	|
+|   Inspeção Geral                      	| Início: 29/01<br>Fim: 03/02    	| João Victor, Letícia, Matheus, Natan, Leandro  	| Início: 01/02 Fim: 03/02 	| Leandro, Natan, Matheus, Leandro, João Victor	|
+|   Vericação Geral grupo + 1	| Início: 31/01<br>Fim: 03/02	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 01/01<br>Fim: 03/02 	|  João Victor, Leandro, Letícia, Matheus, Natan	|
+|   Gravação da Apresentação e Entrega  | Início: 02/02<br>Fim: 03/02    	| João Victor, Leandro, Letícia, Matheus, Natan  | Início: 01/02 Fim: 03/02 	|   João Victor, Leandro, Letícia, Matheus, Natan        	|
+|   Correção pós apresentação	| Início: 04/02<br>Fim: 10/02 	| João Victor, Leandro, Letícia, Matheus, Natan 	| Início: 04/02<br>Fim: 10/02 	| João Victor, Leandro, Letícia, Matheus, Natan 	|
+
+<center>
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
-## Referências
+<br>
+
+## Referências Bibliográficas
 
 > <p id="1">1. SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. Aprender 3. Distrito Federal, 2016. Disponível em:  
 [https://aprender3.unb.br/pluginfile.php/2972380/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf](https://aprender3.unb.br/pluginfile.php/2972380/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf){:target="_blank"}. 
@@ -130,7 +147,6 @@ Acesso em: 21 out. 2024.
 |  1.3   | 08/12/2024 | Adicionando cronograma da terceira entrega| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 14/12/2024 | Adicionando cronograma da quarta entrega| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.4   | 19/01/2025 | Adicionando cronograma da quinta entrega| [Matheus Barros do Nascimento](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23) |
-
-
+|  1.5   | 01/02/2025 | Adicionando cronograma da sexta entrega| [Letícia Resende](https://github.com/LeticiaResende23)  | [Leandro de Almeida](https://github.com/leomitx10) |
 
 </center>

@@ -59,17 +59,14 @@ sobre o sistema.</p>
 
 <br>
 
-
 <figcaption>Imagem 5: Termos de Uso Parte 5</figcaption>
 <img src="https://github.com/user-attachments/assets/75572de7-61d6-41a7-b585-5c2ca4612f70" width="1000" >
-
-
 
 </center>
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 > <p id="1">1. Aplicativo da Caesb Autoatendimento. Disponível em: 
    [https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR). 
@@ -82,7 +79,6 @@ sobre o sistema.</p>
 
 <br>
 
-
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
@@ -91,7 +87,6 @@ sobre o sistema.</p>
 |  1.1   | 27/10/2024 | Arrumando as fontes das imagens | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
 |  1.2   | 29/10/2024 | Mudando o aplicativo | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 13/11/2024 | Correção pós apresentação |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
-
 
 </center>
 

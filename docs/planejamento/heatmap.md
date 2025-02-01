@@ -11,10 +11,13 @@
 
 <p align="justify">&emsp;&emsp;Logo, através do estudo deste mapa, a equipe então definiu que os melhores horários para reunião seriam entre as 20h até as 23h de segunda a sexta e durante os finais de semana 16h até as 18h, optando para sempre que possível realizá-las através do  Microsoft Teams<a href="#1"><sup>1</sup></a>.</p>
 
-## Referências
+<br>
+
+## Referências Bibliográficas
 
 > <p id="1"> 1. Teams. Disponível em: <https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software>. Acesso em: 26 out. 2024.</p>
 
+<br>
 
 ## Histórico de versão
 

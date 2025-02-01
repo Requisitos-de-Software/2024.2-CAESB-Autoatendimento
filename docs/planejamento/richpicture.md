@@ -93,8 +93,9 @@
 </center>
 
 <center>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6></center>
+<br>
 
-## Referências
+## Referências Bibliográficas
 
 > <p id="1">1. SALES, André Barros. Introducing Rich Pictures. Disponível em:  
 [https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf){:target="_blank"}. 
@@ -105,6 +106,8 @@ Acesso em: 25 de Outubro de 2024;
 [https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf){:target="_blank"}. 
 Acesso em: 25 de Outubro de 2024;
 </p>
+
+<br>
 
 ## Histórico de versão
 

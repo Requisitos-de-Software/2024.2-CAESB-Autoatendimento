@@ -19,19 +19,20 @@
 |![Logo do Filmora](../assets/filmora-logo.png){: style="height:64px;width:64px"}|<a id="f" href="https://filmora.wondershare.com.br/" target="_blank">Filmora</a>|Edição de vídeo|
 |![Logo do Mkdocs](../assets/mkdocs-logo.png){: style="height:64px"} | <a id="g" href="https://www.mkdocs.org/" target="_blank">Mkdocs</a> | Criação do gitPage |
 |![Logo do Draw.io](https://github.com/user-attachments/assets/9072f119-620f-4f8b-822f-8397f35319fc){: style="height:64px"} | <a id="g" href="https://www.drawio.com//" target="_blank">Draw.io</a> | Utilizado para fazer o Rich Picture |
+|![Logo Figma](https://github.com/user-attachments/assets/ce11eb86-3562-44bc-8eb1-f23850293cc8){: style="height:64px"} | <a id="g" href="https://www.figma.com/files/team/1304654790500062596/recents-and-sharing?fuid=1237933267860372986" target="_blank">Figma</a> | Utilizado para fazer os protótipos|
 
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
-
 </center>
 
-## Referências
+<br>
+
+## Referências Bibliográficas
 
 > <p id="1">1. GITHUB. Disponível em: 
    [https://github.com](https://github.com){:target="_blank"}.
    Acesso em: 22 out. 2024.
 </p>
-
 
 
 > <p id="1">2. WHATSAPP. Disponível em: 
@@ -69,6 +70,12 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
    Acesso em: 27 out. 2024.
 </p>
 
+> <p id="1">9. Figma. Disponível em: 
+   [https://www.figma.com/files/team/1304654790500062596/recents-and-sharing?fuid=1237933267860372986](https://github.com/user-attachments/assets/ce11eb86-3562-44bc-8eb1-f23850293cc8){:target="_blank"}.
+   Acesso em: 27 Jan. 2025.
+</p>
+
+<br>
 
 ## Histórico de Versão
 
@@ -79,3 +86,4 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 |  1.2   | 26/10/2024 | Atualização de layout | [Letícia Resende](https://github.com/LeticiaResende23) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
 |  1.3   | 27/10/2024 | Arrumando a fonte da tabela e os links | [Leandro de Almeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.4   | 17/11/2024 | Corrigindo formatações pós apresentações | [Natan Almeida](https://github.com/natanalmeida03)| [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.5   | 01/02/2025 | Adicionando ferramenta utilizada |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |

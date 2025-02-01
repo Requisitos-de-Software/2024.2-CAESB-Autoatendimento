@@ -34,7 +34,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | 01     | O produto atende às expectativas do usuário conforme descrito na etapa de validação? |          | Letícia Resende |  |
 | 02     | A descrição em linguagem natural permitiu que os clientes identificassem possíveis problemas na formulação dos requisitos?         |  | Letícia Resende | |
 | 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto?                     |           | Letícia Resende |  |
-| 04     | A mensagem enviada por e-mail foi estruturada e formal, adequada à natureza técnica do conteúdo?                |           | Letícia Resende |  |
+| 04     | A mensagem enviada por (e-mail ou redes sociais) foi estruturada e formal, adequada à natureza técnica do conteúdo?                |           | Letícia Resende |  |
 | 05     | A comunicação utilizada foi suficiente para alcançar o objetivo de validar o projeto junto aos clientes?                |          | Letícia |  |
 
 <center>
@@ -49,7 +49,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | 01     | O produto atende às expectativas do usuário conforme descrito na etapa de validação? |   Sim       | Letícia Resende | 31/01 versão 1.2  |
 | 02     | A descrição em linguagem natural permitiu que os clientes identificassem possíveis problemas na formulação dos requisitos? | Sim | Letícia Resende |31/01 versão 1.2 |
 | 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto?  |  Sim   | Letícia Resende | 31/01 versão 1.2 |
-| 04     | A mensagem enviada por e-mail foi estruturada e formal, adequada à natureza técnica do conteúdo? |    Sim  | Letícia Resende | 31/01 versão 1.2 |
+| 04     | A mensagem enviada por (e-mail ou redes sociais) foi estruturada e formal, adequada à natureza técnica do conteúdo? |    Sim  | Letícia Resende | 31/01 versão 1.2 |
 | 05     | A comunicação utilizada foi suficiente para alcançar o objetivo de validar o projeto junto aos clientes?  | Sim   | Letícia |31/01 versão 1.2  |
 
 <center>
@@ -63,7 +63,7 @@ Pode ser vista no [YouTube]().</p>
 
 <center>
     <p>Vídeo 01: Verificação da Comprovação Informal</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/y2-191PM_ys?si=QWTKBqPnyYzXqOIN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/Ij-1zbBeW3k?si=fSODC93jgRzsXHgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
@@ -155,4 +155,5 @@ Pode ser vista no [YouTube]().</p>
 | Versão |    Data    |                  Descrição                  |                       Autor                        |                        Revisor                         |
 | :----: | :--------: | :-----------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
 |  1.0   | 31/01/2025 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10)| 
+|  1.1   | 01/02/2025 | Adicionando vídeo de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10)| 
  
