@@ -137,3 +137,4 @@
 |  1.1  |27/01/2025 | Adição do protótipo 2 |[Letícia Resende](https://github.com/LeticiaResende23)  | [ Natan Almeida ](https://github.com/natanalmeida03)|
 |  1.2  |28/01/2025 | video validacao | [ Natan Almeida ](https://github.com/natanalmeida03) | [Letícia Resende](https://github.com/LeticiaResende23)  | 
 |  1.3  |28/01/2025 | Adição do protótipo 3 | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.4  |31/01/2025 | Adição do protótipo 4 | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23) |
