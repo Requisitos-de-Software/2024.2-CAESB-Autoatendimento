@@ -1,11 +1,12 @@
 # Cronograma
 
-## Descrição
+## Introdução
+
 <p align="justify">&emsp;&emsp;O cronograma tem como objetivo organizar todas as tarefas a serem realizadas durante a disciplina de Requisitos de Software. As atividades foram distribuídas de acordo com as etapas em que devem ser executadas. Os cronogramas em andamento serão atualizados conforme necessário ao longo do tempo.</p>
 
 ## Entrega 1 - Planejamento do Projeto
 
-Na Tabela 1, encontra-se o cronograma planejado para todas as atividades da primeira entrega.
+<center>Tabela 01: Cronograma executado para todas as atividades da primeira entrega</center>
 
 
 | Atividade                                      	| Período de desenvolvimento 	| Responsáveis               	| Revisão                  	| Revisores        	|
@@ -33,7 +34,7 @@ Na Tabela 1, encontra-se o cronograma planejado para todas as atividades da prim
 
 ## Entrega 2 - Elicitação
 
-Na Tabela 2, encontra o cronograma planejado para todas as atividades da segunda entrega.
+<center>Tabela 02: Cronograma executado para todas as atividades da segunda entrega</center>
 
 | Atividade                                                                                         	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                  	| Revisores 	|
 |---------------------------------------------------------------------------------------------------	|----------------------------	|-----------------------------------	|--------------------------	|-----------	|
@@ -62,8 +63,7 @@ Na Tabela 2, encontra o cronograma planejado para todas as atividades da segunda
 
 ## Entrega 3 - Modelagem de Requisitos 1
 
-Na Tabela 3, encontra-se o cronograma planejado para todas as atividades da terceira entrega.
-
+<center>Tabela 03: Cronograma executado para todas as atividades da terceira entrega</center>
 | Atividade                                                     	| Período de desenvolvimento 	| Responsáveis     	| Revisão                 	| Revisores        	|
 |---------------------------------------------------------------	|----------------------------	|------------------	|-------------------------	|------------------	|
 |   Modelagem de Requisitos: Cenários                  	| Início:29/11<br>Fim: 03/12    	| Leandro	| Início: 07/11 Fim: 07/11 	| Matheus           	|
@@ -84,7 +84,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 ## Entrega 4 - Modelagem de Requisitos 1.2
 
-Na Tabela 4, encontra-se o cronograma planejado para todas as atividades da quarta entrega.
+<center>Tabela 04: Cronograma executado para todas as atividades da quarta entrega</center>
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -106,7 +106,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 ## Entrega 5 - Pós-Rastreabilidade 
 
-Na Tabela 5, encontra-se o cronograma planejado para todas as atividades da entrega 5.
+<center>Tabela 05: Cronograma executado para todas as atividades da quinta entrega</center>
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -127,7 +127,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 ## Entrega 6 - Análise de Requisitos: Verificação e Validação 
 
-Na Tabela 6, encontra-se o cronograma planejado para todas as atividades da sexta entrega.
+<center>Tabela 06: Cronograma executado para todas as atividades da sexta entrega</center>
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -149,7 +149,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 ## Entrega Final 
 
-Na Tabela 7, encontra-se o cronograma planejado para todas as atividades da última entrega.
+<center>Tabela 07: Cronograma executado para todas as atividades da última entrega</center>
 
 | Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -188,6 +188,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 22/10/2024 | Cronograma Planejado | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.1   | 13/11/2024 | Correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
-|  1.2   | 01/02/2025 | Ajustes no Cronograma | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.2   | 28/12/2024 | Arrumando o titulo das tabelas | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.3   | 01/02/2025 | Ajustes no Cronograma | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
 
 </center>

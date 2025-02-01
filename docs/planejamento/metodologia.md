@@ -22,6 +22,7 @@
 
 ## Histórico de Versão
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 27/10/2024 | Adição da página de metodologia | [Matheus Barros](https://github.com/Ninja-Haiyai)| [João Marques](https://github.com/jmarqueesi)|
+|  1.0   | 27/10/2024 | Adição da página de metodologia | [Matheus Barros](https://github.com/Ninja-Haiyai)  | [Joao Victor Marques](https://github.com/jmarquees)|
+|  1.1   | 28/12/2024 | Padroniza o histórico de versão | [Leandro de Almeida](https://github.com/leomitx10) |[Joao Victor Marques](https://github.com/jmarquees)|
