@@ -196,7 +196,7 @@ Pode ser vista no [YouTube]().</p>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | O Perfil do Usuário possui informação de idade (criança, jovem, adulto, terceira idade  |              | André Barros   |                 |
+| 01     | O Perfil do Usuário possui informação de idade (criança, jovem, adulto, terceira idade)  |              | André Barros   |                 |
 | 02     | O Perfil do Usuário possui informação de experiência (leigo/novato, especialista).     |              | André Barros   |                 |
 | 03     | 	O Perfil do Usuário possui informação de atitudes (tecnófilos, tecnófobos).     |              | André Barros   |                 |
 | 04     | O Perfil do Usuário possui informação de tarefas primárias (compra, venda).               |              | André Barros   |                 |

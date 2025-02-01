@@ -83,6 +83,31 @@
 </center>
 <br>
 
+### Protótipo 4
+
+<p align="justify">&emsp;&emsp; A tabela 4 mostra os requisitos utilizados para o protótipo 4. </p>
+
+| REQUISITO | DESCRIÇÃO |
+| :-------: | :-------: |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ10</a> | O sistema deve possibilitar o adiantamento de processos via aplicativo. |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ11</a> | O usuário deve poder enviar documentos diretamente pelo aplicativo. |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ29</a> | O aplicativo deve permitir que o usuário altere o vencimento da conta. |
+
+<center>
+ Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>
+</center>
+<br>
+
+
+<p align="justify">&emsp;&emsp;Protótipo 4: </p>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/hPSJsejC8w34Cu6EQ04Rxs/Prot%C3%B3tipo-4?node-id=1-131&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
+
+<center>
+ Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>
+</center>
+<br>
+
 ## Validação
 
 ### Validação 1
