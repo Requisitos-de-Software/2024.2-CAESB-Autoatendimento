@@ -9,14 +9,20 @@
 ## Política de Revisão
 <p align="justify">&emsp;&emsp;Para evitar que erros sejam transmitidos para o projeto final, o time decidiu que, a cada nova alteração nos documentos, será designado um revisor para o artefato atualizado. O objetivo é identificar e corrigir possíveis erros, garantindo a qualidade e consistência do material gerado.</p>
 
-## Referências
+<br>
+
+## Referências Bibliográficas
+
 > <p id="1">1. Metodologias ágeis . Disponível em: 
    [https://metodologiaagil.com](https://metodologiaagil.com) 
    Acesso em: 26 out. 2024.
 </p>
 
+<br>
+
 ## Histórico de Versão
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 27/10/2024 | Adição da página de metodologia | Matheus Barros | João Marques|
+|  1.0   | 27/10/2024 | Adição da página de metodologia | [Matheus Barros](https://github.com/Ninja-Haiyai)  | [Joao Victor Marques](https://github.com/jmarquees)|
+|  1.1   | 28/12/2024 | Padroniza o histórico de versão | [Leandro de Almeida](https://github.com/leomitx10) |[Joao Victor Marques](https://github.com/jmarquees)|

@@ -1,11 +1,15 @@
 # Caesb Autoatendimento
 
+<center> 
+    <figcaption>Imagem 1: CAESB Autoatendimento</figcaption>
+</center>
+
 <p align="center">
     <img src="assets/caesblogo.png" width="500">
 </p>
 
-<center> 
-    <figcaption>Imagem 1: CAESB Autoatendimento (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
+<center>
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
 <hr/>
@@ -22,16 +26,20 @@
 
 ## Contribuidores
 
-|                                                                                          **Foto**                                                                                          |         **Nome**         |                       **GitHub**                        |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------: | :-----------------------------------------------------: |
-|    <a href="https://github.com/jmarquees"><img src="https://avatars.githubusercontent.com/u/110431920?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | João Victor Marques |        [jmarquees](https://github.com/jmarquees)        |
-|    <a href="https://github.com/leomitx10"><img src="https://avatars.githubusercontent.com/u/90487905?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;    |   Leandro de Almeida    |       [leomitx10](https://github.com/leomitx10)       |
-|    <a href="https://github.com/LeticiaResende23"><img src="https://avatars.githubusercontent.com/u/89492943?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Leticia Resende |        [LeticiaResende23](https://github.com/LeticiaResende23)        |
-|    <a href="https://github.com/Ninja-Haiyai"><img src="https://avatars.githubusercontent.com/u/73038704?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Matheus Barros |        [Ninja-Haiyai](https://github.com/Ninja-Haiyai)        |
-|    <a href="https://github.com/natanalmeida03"><img src="https://avatars.githubusercontent.com/u/61543235?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Natan da Cruz   |        [natanalmeida03](https://github.com/natanalmeida03)        |
+<center>
+<figcaption>Tabela 1: Membros do grupo</figcaption>
+</center>
+
+|                                                                                          **Foto**                                                                                          |      **Nome**       |                       **GitHub**                        |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------: | :-----------------------------------------------------: |
+|    <a href="https://github.com/jmarquees"><img src="https://avatars.githubusercontent.com/u/110431920?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;    | João Victor Marques |        [jmarquees](https://github.com/jmarquees)        |
+|    <a href="https://github.com/leomitx10"><img src="https://avatars.githubusercontent.com/u/90487905?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Leandro de Almeida  |        [leomitx10](https://github.com/leomitx10)        |
+| <a href="https://github.com/LeticiaResende23"><img src="https://avatars.githubusercontent.com/u/89492943?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp; |   Leticia Resende   | [LeticiaResende23](https://github.com/LeticiaResende23) |
+|   <a href="https://github.com/Ninja-Haiyai"><img src="https://avatars.githubusercontent.com/u/73038704?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;   |   Matheus Barros    |     [Ninja-Haiyai](https://github.com/Ninja-Haiyai)     |
+|  <a href="https://github.com/natanalmeida03"><img src="https://avatars.githubusercontent.com/u/61543235?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;  |    Natan da Cruz    |   [natanalmeida03](https://github.com/natanalmeida03)   |
 
 <center>
-<figcaption>Tabela 1: Membros do grupo (Fonte: ALMEIDA, Leandro. 2024)</figcaption>
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
 <hr/>
@@ -40,7 +48,6 @@
 <a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a>
 </p>
 
-
 </center>
 
 ## Referências
@@ -48,8 +55,9 @@
 </center>
 
 > <p id="1">1. Aplicativo Caesb Autoatendimento. Disponível em: 
-   [https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR){:target="_blank"}. 
-   Acesso em: 21 out. 2024.
+>    [https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&hl=pt_BR){:target="_blank"}. 
+>    Acesso em: 21 out. 2024.
+
 </p>
 
 ---
@@ -58,11 +66,11 @@
 
 <center>
 
-| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
-| :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
-|  1.0   | 21/10/2024 | Criação e inclusão dos membros | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
-|  1.1   | 24/10/2024 | Reorganização do layout | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
-|  1.2   | 29/10/2024 | Mudando o aplicativo | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)  |
-|  1.3   | 16/11/2024 | Correção pós apresentação | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)  |
+| Versão |    Data    |           Descrição            |                     Autor(es)                      |                      Revisor(es)                       |
+| :----: | :--------: | :----------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
+|  1.0   | 21/10/2024 | Criação e inclusão dos membros | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.1   | 24/10/2024 |    Reorganização do layout     | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.2   | 29/10/2024 |      Mudando o aplicativo      | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.3   | 16/11/2024 |   Correção pós apresentação    | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
 
 </center>
