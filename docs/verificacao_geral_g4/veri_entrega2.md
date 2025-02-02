@@ -3,7 +3,7 @@
 ## Introdução
 
 <p align="justify">
-&emsp;&emsp;  Este documento inclui as verificações utilizadas para inspecionar a entrega 2 do projeto <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/" target = "_blank">Caesb Autoatendimento</a>. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.
+&emsp;&emsp;  Este documento inclui as verificações utilizadas para inspecionar a entrega 2 do projeto <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/" target = "_blank">Meu SUS Digital</a>. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.
 </p>
 
 ## Objetivo
@@ -15,7 +15,52 @@
 ## Metodologia
 
 <p align="justify">
-&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/" target = "_blank">Técnicas de Elicitação</a>, <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/introducao/" target = "_blank">Técnicas de Priorização</a> e <a href ="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/" target = "_blank"> itens de desenvolvimento do projeto</a>, bem como do artefato <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/perfil_de_usuario/" target="_blank">Perfil de Usuário</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo Caesb Autoatendimento.</p>
+&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/" target = "_blank">Técnicas de Elicitação</a>, <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/priorizacao/%24100/" target = "_blank">Técnicas de Priorização</a> e <a href ="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/" target = "_blank"> itens de desenvolvimento do projeto</a>, bem como do artefato <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/analise-perfil-usuario/perfil-usuario/" target="_blank">Perfil de Usuário</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo Caesb Autoatendimento.</p>
+
+## Verificação dos Itens do Desenvolvimento do Projeto
+
+<p align="justify">
+&emsp;&emsp;A tabela 05 apresenta a lista de verificação de Itens de Planejamento Geral do Projeto que foi elaborada com base no plano de ensino da disciplina e a tabela 06 apresenta a verificação.
+</p>
+
+<center>Tabela 05: Lista de verificação de Itens do Desenvolvimento do Projeto</center>
+
+| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
+|--------|------------------------------------------------------------------------------------------------|---------------|----------------|-----------------|
+| 01     | O histórico de versão padronizado?                                                             |               | André Barros   |                 |
+| 02     | O(s) autores e o(s) revisores para cada artefato?                                              |               | André Barros   |                 |
+| 03     | Referências bibliográficas e/ou bibliografia em todos os artefatos?                            |               | André Barros   |                 |
+| 04     | As tabelas e imagens possuem legenda e fonte e são chamadas dentro dos textos?                 |               | André Barros   |                 |
+| 05     | Um texto fazendo uma introdução dos artefatos?                                                 |               | André Barros   |                 |
+| 06     | O cronograma executado com quem realizou cada artefato/atividade, com datas de início e fim?   |               | André Barros   |                 |
+| 07     | Ata(s) das reuniões (com data, horário de início e fim, participantes, objetivo, atividades)?  |               | André Barros   |                 |
+| 08     | A gravação da reunião do grupo?                                                                |               | André Barros   |                 |
+| 09     | Vídeo de apresentação na categoria "não listado" no YouTube?                                   |               | André Barros   |                 |
+
+
+<center>
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+<br>
+
+<center>Tabela 06: Verificação dos Itens do Desenvolvimento do Projeto</center>
+
+| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
+|--------|------------------------------------------------------------------------------------------------|---------------|----------------|-----------------|
+| 01     | O histórico de versão padronizado?  |      Não        | André Barros   |      Versão 1.0 25/11           |
+| 02     | O(s) autores e o(s) revisores para cada artefato?     |      Sim         | André Barros   |       Versão 1.0 25/11          |
+| 03     | Referências bibliográficas e/ou bibliografia em todos os artefatos?    |      Sim         | André Barros   |        Versão 1.0 25/11         |
+| 04     | As tabelas e imagens possuem legenda e fonte e são chamadas dentro dos textos?|      Sim         | André Barros   |      Versão 1.0 25/11           |
+| 05     | Um texto fazendo uma introdução dos artefatos?   |       Sim        | André Barros   |       Versão 1.0 25/11          |
+| 06     | O cronograma executado com quem realizou cada artefato/atividade, com datas de início e fim?   |       Sim        | André Barros   |       Versão 1.0 25/11          |
+| 07     | Ata(s) das reuniões (com data, horário de início e fim, participantes, objetivo, atividades)?  |       Sim        | André Barros   |        Versão 1.0 25/11         |
+| 08     | A gravação da reunião do grupo?   |       Sim        | André Barros   |        Versão 1.0 25/11         |
+| 09     | Vídeo de apresentação na categoria "não listado" no YouTube?  |        Sim       | André Barros   |        Versão 1.0 25/11         |
+
+<center>
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+<br>
 
 ## Verificação das Técnicas de Elicitação
 
@@ -25,13 +70,12 @@
 
 <center>Tabela 01: Lista de verificação das Técnicas de Elicitação</center>
 
-| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
-|--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | 	Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?                                                            |              | André Barros   |                 |
-| 02     | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor).                                             |              | André Barros   |                 |
-| 03     | A participação do cliente e/ou persona na elicitação de requisitos?   |              | André Barros   |                 |
-| 04     | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade). |              | André Barros   |                 |
-| 05     | Na técnica de elicitação por observação, é especificado se o observador será passivo ou ativo. |              | Letícia Resende |                 |
+| **ID** | **Descrição**                       | **Avaliação** | **Autor**       | **Observações** |
+|--------|-------------------------------------|--------------|----------------|-----------------|
+| 01     | 	A análise de documentos foi realizada de forma detalhada para identificar requisitos implícitos e complementá-los com outras técnicas de elicitação?    |  | Leandro de Almeida   |                 |
+| 02     | Na técnica de Observação, os desenvolvedores observam diretamente os usuários para identificar de maneira eficiente os requisitos funcionais e não funcionais do sistema?                                             |              | Leandro de Almeida   |              |
+| 03     | O roteiro da entrevista incluiu perguntas abertas e fechadas para obter informações detalhadas e relevantes sobre a experiência do usuário? |              | Leandro de Almeida   |            |
+| 04     | Todos os requisitos levantados foram devidamente documentados, categorizados (RF/RNF) e implementados conforme necessário? |              | Leandro de Almeida |         |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -40,29 +84,16 @@
 
 <center>Tabela 02: Verificação das Técnicas de Elicitação</center>
 
-| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
-|--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | 	Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?                                                            |              | André Barros   |                 |
-| 02     | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor).   |              | André Barros   |                 |
-| 03     | A participação do cliente e/ou persona na elicitação de requisitos?    |              | André Barros   |                 |
-| 04     | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade).  |              | André Barros   |                 |
-| 05     | Na técnica de elicitação por observação, é especificado se o observador será passivo ou ativo.    |              | Letícia Resende   |                 |
+| **ID** | **Descrição**                       | **Avaliação** | **Autor**       | **Observações** |
+|--------|-------------------------------------|--------------|----------------|-----------------|
+| 01     | 	A análise de documentos foi realizada de forma detalhada para identificar requisitos implícitos e complementá-los com outras técnicas de elicitação?    | Sim | Leandro de Almeida   |       Versão 1.5 30/11          |
+| 02     | Na técnica de Observação, os desenvolvedores observam diretamente os usuários para identificar de maneira eficiente os requisitos funcionais e não funcionais do sistema?                                             | Sim             | Leandro de Almeida   |  Versão 1.2 08/12            |
+| 03     | O roteiro da entrevista incluiu perguntas abertas e fechadas para obter informações detalhadas e relevantes sobre a experiência do usuário? |      Sim        | Leandro de Almeida   |    Versão 1.3 07/12        |
+| 04     | Todos os requisitos levantados foram devidamente documentados, categorizados (RF/RNF) e implementados conforme necessário? |   Sim           | Leandro de Almeida |      Versão 1.7 19/01   |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
-<br>
-
-## Link da gravação
-
-Pode ser vista no [YouTube]().</p>
-
-<center>
-    <p>Vídeo 01: Verificação Técnicas de Elicitação</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/y2-191PM_ys?si=QWTKBqPnyYzXqOIN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
-</center>
-
 <br>
 
 ## Verificação das Técnicas de Priorização
@@ -75,11 +106,10 @@ Pode ser vista no [YouTube]().</p>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o cliente e/ou persona do projeto.                                                            |              | André Barros   |                 |
-| 02     | No mínimo duas técnicas de priorização (quanto mais melhor).                                             |              | André Barros   |                 |
-| 03     | A participação do cliente e/ou persona no processo de priorização.                           |              | André Barros   |                 |
-| 04     | A gravação e o(s) registro(s) da atividade de priorização dos requisitos.                |              | André Barros   |                 |
-| 05     | Na First things first os benefícios de cada recurso do cliente/negócio são estimados em uma escala de 1 a 9?                                                |              |  Matheus Barros |                 |
+| 01     | Na técnica $100 mais dólares são gastos nos requisitos mais importantes ou urgentes? | Sim | André Barros   |  |
+| 02     | Na matriz GUT o cálculo de prioridade é ultilizado para definir a prioridade dos requisitos? |  | André Barros   |  |
+| 03     | Na matriz GUT é explicado como o cálculo é feito? |  | André Barros   |  |
+
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -90,81 +120,47 @@ Pode ser vista no [YouTube]().</p>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o cliente e/ou persona do projeto.                                                            |              | André Barros   |                 |
-| 02     | No mínimo duas técnicas de priorização (quanto mais melhor).                                             |              | André Barros   |                 |
-| 03     | A participação do cliente e/ou persona no processo de priorização.                           |              | André Barros   |                 |
-| 04     | A gravação e o(s) registro(s) da atividade de priorização dos requisitos.                |              | André Barros   |                 |
-| 05     | Na First things first os benefícios de cada recurso do cliente/negócio são estimados em uma escala de 1 a 9?                                                |              | Matheus Barros  |                 |
+| 01     | Na técnica $100 mais dólares são gastos nos requisitos mais importantes ou urgentes? | Sim | André Barros   | Versão 1.0 24/11 |
+| 02     | Na matriz GUT o cálculo de prioridade é ultilizado para definir a prioridade dos requisitos? | Sim | André Barros   | Versão 1.1 30/11 |
+| 03     | Na matriz GUT é explicado como o cálculo é feito? | Sim | André Barros   | Versão 1.1 30/11 |
+
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
-<br>
 
-## Link da gravação
-
-Pode ser vista no [YouTube]().</p>
-
-<center>
-    <p>Vídeo 02: Verificação Técnicas de Priorização</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/y2-191PM_ys?si=QWTKBqPnyYzXqOIN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
-</center>
 
 <br>
 
-## Verificação dos Itens do Desenvolvimento do Projeto
+## Verificação Personas
 
 <p align="justify">
-&emsp;&emsp;A tabela 05 apresenta a lista de verificação de Itens de Planejamento Geral do Projeto que foi elaborada com base no plano de ensino da disciplina e a tabela 06 apresenta a verificação.
+&emsp;&emsp;A tabela 07 apresenta a lista de verificação das Perfil de Usuário que foi elaborada com base no plano de ensino da disciplina e a tabela 08 apresenta a verificação.
 </p>
 
-<center>Tabela 05: Lista de verificação de Itens do Desenvolvimento do Projeto</center>
+<center>Tabela 07: Lista de verificação de Personas</center>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | O histórico de versão padronizado?                                                             |              | André Barros   |                 |
-| 02     | O(s) autores e o(s) revisores para cada artefato?                                             |              | André Barros   |                 |
-| 03     | Referências bibliográficas e/ou bibliografia em todos os artefatos?                           |              | André Barros   |                 |
-| 04     | As tabelas e imagens possuem legenda e fonte e são chamadas dentro dos textos?                |              | André Barros   |                 |
-| 05     | Um texto fazendo uma introdução dos artefatos?                                                |              | André Barros   |                 |
-| 06     | O cronograma executado com quem realizou cada artefato/atividade, com datas de início e fim?  |              | André Barros   |                 |
-| 07     | Ata(s) das reuniões (com data, horário de início e fim, participantes, objetivo, atividades)? |              | André Barros   |                 |
-| 08     | A gravação da reunião do grupo?                                                               |              | André Barros   |                 |
-| 09     | Vídeo de apresentação na categoria "não listado" no YouTube?                                  |              | André Barros   |                 |
-
+| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo CAESB Autoatendimento, incluindo personas primárias, secundárias e antipersonas? |              | André Barros   |                 |
+| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? |              | André Barros   |                 |
+| 03     | 	O elenco de personas e a razão da quantidade de personas é justificada?  |              | André Barros   |                 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
 
-<center>Tabela 06: Verificação dos Itens do Desenvolvimento do Projeto</center>
+<center>Tabela 08: Verificação de Personas</center>
 
-| **ID** | **Descrição**     | **Avaliação** | **Autor**      | **Observações** |
-|--------|-------------------|---------------|----------------|-----------------|
-| 01     | O histórico de versão padronizado? |  | André Barros |  |
-| 02     | O(s) autores e o(s) revisores para cada artefato? |  | André Barros |   |
-| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos? |  | André Barros   |  |
-| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos? |  | André Barros |  |
-| 05     | Um texto fazendo uma introdução dos artefatos?|  | André Barros | |
-| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |  | André Barros |  |
-| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).|  | André Barros |  |
-| 08     | A gravação da reunião do grupo. |  | André Barros |  |
-| 09     | Vídeo de apresentação na categoria "não listado" no youtube? |  | André Barros | 
+| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
+|--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
+| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo CAESB Autoatendimento, incluindo personas primárias, secundárias e antipersonas? |    Não   | André Barros   |      --     ||
+| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? |     Não        | André Barros   |   --     |   |
+| 03     | 	O elenco de personas e a razão da quantidade de personas é justificada?  |       Não       | André Barros   |       --     |
+
 
 <center>
-</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
-</center>
-<br>
-
-## Link da gravação
-
-Pode ser vista no [YouTube]().</p>
-
-<center>
-    <p>Vídeo 03: Verificação dos Itens do Planejamento Geral do Projeto</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/y2-191PM_ys?si=QWTKBqPnyYzXqOIN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
@@ -176,15 +172,13 @@ Pode ser vista no [YouTube]().</p>
 &emsp;&emsp;A tabela 07 apresenta a lista de verificação das Perfil de Usuário que foi elaborada com base no plano de ensino da disciplina e a tabela 08 apresenta a verificação.
 </p>
 
-<center>Tabela 07: Lista de verificação do Perfil de Usuário</center>
+<center>Tabela 07: Lista de verificação de Perfil de Usuário</center>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | O Perfil do Usuário possui informação de idade (criança, jovem, adulto, terceira idade etc.)                                                             |              | André Barros   |                 |
-| 02     | O Perfil do Usuário possui informação de experiência (leigo/novato, especialista).                                            |              | André Barros   |                 |
-| 03     | 	O Perfil do Usuário possui informação de atitudes (tecnófilos, tecnófobos).                           |              | André Barros   |                 |
-| 04     | O Perfil do Usuário possui informação de tarefas primárias (compra, venda).               |              | André Barros   |                 |
-| 05     | O Perfil do Usuário é baseado em dados reais coletados.    |              | Leandro de Almeida   |                 |
+| 01     | O perfil de usuário foi elaborado com base em dados coletados por meio de Técnicas de Elicitação, considerando características como idade, experiência, motivações e barreiras? |             | Leandro de Almeida |               |
+| 02     | Apresenta Educação? (grau de instrução, área de formação, cursos realizados, alfabetismo) |           | Leandro de Almeida |               |
+| 03     | 	Foi agrupado os usuários com características semelhantes, seja elas: faixa etária, experiência, atitude e tarefas primárias no sistema? |             | Leandro de Almeida |               |
 
 
 <center>
@@ -192,20 +186,51 @@ Pode ser vista no [YouTube]().</p>
 </center>
 <br>
 
-<center>Tabela 08: Verificação do Perfil de Usuário</center>
+<center>Tabela 08: Verificação de Perfil de Usuário</center>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | O Perfil do Usuário possui informação de idade (criança, jovem, adulto, terceira idade  |              | André Barros   |                 |
-| 02     | O Perfil do Usuário possui informação de experiência (leigo/novato, especialista).     |              | André Barros   |                 |
-| 03     | 	O Perfil do Usuário possui informação de atitudes (tecnófilos, tecnófobos).     |              | André Barros   |                 |
-| 04     | O Perfil do Usuário possui informação de tarefas primárias (compra, venda).               |              | André Barros   |                 |
-| 05     | O Perfil do Usuário é baseado em dados reais coletados.    |              | Leandro de Almeida |                 |
+| 01     | O perfil de usuário foi elaborado com base em dados coletados por meio de Técnicas de Elicitação, considerando características como idade, experiência, motivações e barreiras? |      Sim        | Leandro de Almeida |    Versão 1.0 23/11             |
+| 02     | Apresenta Educação?
+(grau de instrução, área de formação, cursos realizados, alfabetismo) |      Sim       | Leandro de Almeida |        Versão 1.0 23/11         |
+| 03     | 	Foi agrupado os usuários com características semelhantes, seja elas: faixa etária, experiência, atitude e tarefas primárias no sistema? |      Sim        | Leandro de Almeida |        Versão 1.0 23/11         |
+
+<center>
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<br>
+
+## Verificação do Termo de Consentimento
+
+<p align="justify">
+&emsp;&emsp;A tabela 07 apresenta a lista de verificação das Perfil de Usuário que foi elaborada com base no plano de ensino da disciplina e a tabela 08 apresenta a verificação.
+</p>
+
+<center>Tabela 07: Lista de verificação de Perfil de Usuário</center>
+
+| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
+|--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
+| 01     | O termo de consentimento deixa claro que a participação é voluntária, protege os dados dos participantes e especifica o objetivo da pesquisa de forma transparente? |              | Leandro de Almeida |                 |
+| 02     | O termo informa corretamente os participantes sobre como seus dados serão utilizados, garantindo sigilo, anonimato e a possibilidade de desistência a qualquer momento sem penalizações? |              | Leandro de Almeida |                 |
+
+<center>
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+<br>
+
+<center>Tabela 08: Verificação de Perfil de Usuário</center>
+
+| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
+|--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
+| 01     | O termo de consentimento deixa claro que a participação é voluntária, protege os dados dos participantes e especifica o objetivo da pesquisa de forma transparente? | Não | Leandro de Almeida | Versão 1.1 02/11 |
+| 02     | O termo informa corretamente os participantes sobre como seus dados serão utilizados, garantindo sigilo, anonimato e a possibilidade de desistência a qualquer momento sem penalizações? | Não | Leandro de Almeida | Versão 1.1 02/11 |
 
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
 <br>
 
 ## Link da gravação
@@ -259,5 +284,6 @@ Pode ser vista no [YouTube]().</p>
 | **Versão** | **Data**   | **Descrição**                                    | **Autor**                                             | **Revisor**                                          |
 |:----------:|:----------:|:------------------------------------------------:|:-----------------------------------------------------:|:----------------------------------------------------:|
 | 1.0        | 31/01/2025 | Criação do Documento e Lista de Verificação      | [Leandro de Almeida](https://github.com/leomitx10)    | [Letícia Resende](https://github.com/leomitx10)      |
+| 1.1        | 31/01/2025 | Verificação | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/leomitx10) |
 
 </center>
