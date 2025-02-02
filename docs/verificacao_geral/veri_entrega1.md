@@ -84,13 +84,12 @@ Pode ser vista no [YouTube]().</p>
 
 | **ID** | **Descrição**                                                                                     | **Avaliação** | **Autor**            | **Observações** |
 |--------|-------------------------------------------------------------------------------------------------|--------------|---------------------|-----------------|
-| 01     | No artefato “Rich Picture”, há uma legenda explicando os símbolos utilizados no diagrama?       |              | André Barros       |                 |
-| 02     | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato apresentado pelo grupo? |              | André Barros       |                 |
-| 03     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema?                    |              | Leandro de Almeida |                 |
-| 04     | O Rich Picture conta uma história?                                                              |              | Letícia Resende     |                 |
-| 05     | O Rich Picture contém atores?                                                                   |              | Matheus Barros      |                 |
-| 06     | O Rich Picture simula uma ação real do usuário?                                                 |              | Nathan Almeida      |                 |
-| 07     | O Rich Picture possui legenda?                                                                  |              | João Victor         |                 |
+| 01     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema?                    |              | Leandro de Almeida |                 |
+| 02     | O Rich Picture conta uma história?                                                              |              | Letícia Resende     |                 |
+| 03     | O Rich Picture contém atores?                                                                   |              | Matheus Barros      |                 |
+| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema?   |              | Nathan Almeida      |                 |
+| 05     | O Rich Picture possui legenda?                                                                  |              | João Victor         |                 |
+| 06     | O artefato possui os 5 componentes essenciais de um "Rich Picture"? |              | Leandro de Almeida |                 |
 
 
 <center>
@@ -102,14 +101,12 @@ Pode ser vista no [YouTube]().</p>
 
 | **ID** | **Descrição**                                                                                     | **Avaliação** | **Autor**            | **Observações** |
 |--------|-------------------------------------------------------------------------------------------------|--------------|---------------------|-----------------|
-| 01     | No artefato “Rich Picture”, há uma legenda explicando os símbolos utilizados no diagrama?       |              | André Barros       |                 |
-| 02     | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato apresentado pelo grupo? |              | André Barros       |                 |
-| 03     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema?                    |              | Leandro de Almeida |                 |
-| 04     | O Rich Picture conta uma história?                                                              |              | Letícia Resende     |                 |
-| 05     | O Rich Picture contém atores?                                                                   |              | Matheus Barros      |                 |
-| 06     | O Rich Picture simula uma ação real do usuário?                                                 |              | Nathan Almeida      |                 |
-| 07     | O Rich Picture possui legenda?                                                                  |              | João Victor         |                 |
-
+| 01     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema?                    |              | Leandro de Almeida |                 |
+| 02     | O Rich Picture conta uma história?                                                              |              | Letícia Resende     |                 |
+| 03     | O Rich Picture contém atores?                                                                   |              | Matheus Barros      |                 |
+| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema?     |              | Nathan Almeida      |                 |
+| 05     | O Rich Picture possui legenda?                                                                  |              | João Victor         |                 |
+| 06     | O artefato possui os 5 componentes essenciais de um "Rich Picture"? |              | Leandro de Almeida |                 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -138,9 +135,10 @@ Pode ser vista no [YouTube]().</p>
 
 | **ID** | **Descrição**                                                                                                     | **Avaliação** | **Autor**       | **Observações** |
 |--------|-----------------------------------------------------------------------------------------------------------------|--------------|---------------|-----------------|
-| 01     | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante, com as datas de início e fim da entrega dos artefatos e o período de revisão deles? |              | André Barros   |                 |
-| 02     | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa?                     |              | André Barros   |                 |
-| 03     | O cronograma prevê um período de revisão/ajustes nos artefatos devido às considerações dos monitores/professor?  |              | André Barros   |                 |
+| 01     | O cronograma possui todas as atividades de todas as etapas para cada integrante? |              | Leandro de Almeida   |                 |
+| 02     | O cronograma possui datas de início e fim das entrega dos artefatos e com o período da revisão deles?                     |              | Leandro de Almeida   |                 |
+| 03     | Possui o cronograma executado? |              | Leandro de Almeida   |                 |
+| 04     | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa?  |              | Leandro de Almeida   |                 |
 
 
 <center>
@@ -152,9 +150,10 @@ Pode ser vista no [YouTube]().</p>
 
 | **ID** | **Descrição**                                                                                                     | **Avaliação** | **Autor**       | **Observações** |
 |--------|-----------------------------------------------------------------------------------------------------------------|--------------|---------------|-----------------|
-| 01     | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante, com as datas de início e fim da entrega dos artefatos e o período de revisão deles? |              | André Barros   |                 |
-| 02     | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa?                     |              | André Barros   |                 |
-| 03     | O cronograma prevê um período de revisão/ajustes nos artefatos devido às considerações dos monitores/professor?  |              | André Barros   |                 |
+| 01     | O cronograma possui todas as atividades de todas as etapas para cada integrante? |              | Leandro de Almeida   |                 |
+| 02     | O cronograma possui datas de início e fim das entrega dos artefatos e com o período da revisão deles?                     |              | Leandro de Almeida   |                 |
+| 03     | Possui o cronograma executado? |              | Leandro de Almeida   |                 |
+| 04     | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa?  |              | Leandro de Almeida   |                 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -183,7 +182,9 @@ Pode ser vista no [YouTube]().</p>
 
 | **ID** | **Descrição**                                                                                   | **Avaliação** | **Autor**       | **Observações** |
 |--------|-------------------------------------------------------------------------------------------------|--------------|-----------------|-----------------|
-| 01     | Uma página apresentando os integrantes da equipe (com foto), com nome e sem matrícula?         |              | André Barros    |                 |
+| 01     | O artefato apresenta todos os integrantes da equipe com base na planilha disponibilizada no aprender?         |              | Leandro de ALmeida    |                 |
+| 02     | Todos os integrantes possuem foto e nome?         |              | Leandro de ALmeida    |                 |
+| 03     | O artefato possui o nome e o github dos integrantes?        |              | Leandro de ALmeida    |                 |
 
 
 <center>
@@ -195,9 +196,9 @@ Pode ser vista no [YouTube]().</p>
 
 | **ID** | **Descrição**                                                                                   | **Avaliação** | **Autor**       | **Observações** |
 |--------|-------------------------------------------------------------------------------------------------|--------------|-----------------|-----------------|
-| 01     | Uma página apresentando os integrantes da equipe (com foto), com nome e sem matrícula?         |              | André Barros    |                 |
-
-
+| 01     | O artefato apresenta todos os integrantes da equipe com base na planilha disponibilizada no aprender?         |              | Leandro de ALmeida    |                 |
+| 02     | Todos os integrantes possuem foto e nome?         |              | Leandro de ALmeida    |                 |
+| 03     | O artefato possui o nome e o github dos integrantes?        |              | Leandro de ALmeida    |                 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -227,8 +228,10 @@ Pode ser vista no [YouTube]().</p>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|----------------------------------------------------------------------------------------------|--------------|---------------|-----------------|
-| 01     | A motivação e os critérios para a escolha do App foram definidos?                            |              | André Barros   |                 |
-| 02     | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? |              | André Barros   |                 |
+| 01     | O artefato possui os critérios utilizados para escolher o aplicativo?                            |              | Leandro de Almeida |                 |
+| 02     | O artefato possui uma Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? |              | Leandro de Almeida |                 |
+| 03     | O aplicativo selecionado é gratuito? |              | Leandro de Almeida |                 |
+| 04     | O aplicativo selecionado pertence a uma instituição governamental pública ou é assegurado por uma licença de software livre? |              | Leandro de Almeida |                 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -239,9 +242,10 @@ Pode ser vista no [YouTube]().</p>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|----------------------------------------------------------------------------------------------|--------------|---------------|-----------------|
-| 01     | A motivação e os critérios para a escolha do App foram definidos?                            |              | André Barros   |                 |
-| 02     | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? |              | André Barros   |                 |
-
+| 01     | O artefato possui os critérios utilizados para escolher o aplicativo?                            |              | Leandro de Almeida |                 |
+| 02     | O artefato possui uma Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? |              | Leandro de Almeida |                 |
+| 03     | O aplicativo selecionado é gratuito? |              | Leandro de Almeida |                 |
+| 04     | O aplicativo selecionado pertence a uma instituição governamental pública ou é assegurado por uma licença de software livre? |              | Leandro de Almeida |                 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -270,7 +274,9 @@ Pode ser vista no [YouTube]().</p>
 
 | **ID** | **Descrição**     | **Avaliação** | **Autor**      | **Observações** |
 |--------|-------------------|---------------|----------------|-----------------|
-| 01     | Possui opção de contraste de cores? |  | André Barros |  |
+| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolviemnto do projeto? |  | Leandro de Almeida |  |
+| 02     | O artefato possui o nome e a logo de todas as ferramentas? |  | Leandro de Almeida |  |
+| 03     | O artefato possui a finalidade de todas as ferramentas? |  | Leandro de Almeida |  |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -281,7 +287,9 @@ Pode ser vista no [YouTube]().</p>
 
 | **ID** | **Descrição**     | **Avaliação** | **Autor**      | **Observações** |
 |--------|-------------------|---------------|----------------|-----------------|
-| 01     | Possui opção de contraste de cores? |  | André Barros |  |
+| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolviemnto do projeto? |  | Leandro de Almeida |  |
+| 02     | O artefato possui o nome e a logo de todas as ferramentas? |  | Leandro de Almeida |  |
+| 03     | O artefato possui a finalidade de todas as ferramentas? |  | Leandro de Almeida |  |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
