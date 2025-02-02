@@ -17,17 +17,16 @@
 <p align="justify">
 &emsp;&emsp; A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base no plano de ensino da disciplina. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações.
 
-Neste documento, realizou-se a avaliação do artefato do <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/">Comprovação Informal</a> e do artefato <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/">Protótipos</a> que trata das atividades realizdas no desenvolvimento do aplicativo <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Caesb Autoatendimento</a>.
-
+Neste documento, realizou-se a avaliação do artefato do <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/validacao/compro_informal/">Comprovação Informal</a> e do artefato <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/validacao/prototipacao/">Protótipos</a> que trata das atividades realizdas no desenvolvimento do aplicativo <a href="https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento">Caesb Autoatendimento</a>.
 </p>
 
-## Verificação da Comprovação Informal
+## Verificação da Entrega 6
 
 <p align="justify">
-&emsp;&emsp;A tabela 01 apresenta a lista de Verificação da Comprovação Informal  que foram elaboradas com base nas listas de verificação entregue e 02 apresenta a verificação.
+&emsp;&emsp;A tabela 01 apresenta a lista de Verificação da entrega 6 que foram elaboradas com base nas listas de verificação entregue e 02 apresenta a verificação.
 </p>
 
-<center>Tabela 02: Verificação da Comprovação Informal</center>
+<center>Tabela 01: Verificação da Entrega 6</center>
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
@@ -36,13 +35,18 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto?                     |           | Letícia Resende |  |
 | 04     | A mensagem enviada por (e-mail ou redes sociais) foi estruturada e formal, adequada à natureza técnica do conteúdo?                |           | Letícia Resende |  |
 | 05     | A comunicação utilizada foi suficiente para alcançar o objetivo de validar o projeto junto aos clientes?                |          | Letícia |  |
+| 06    | Os ciclos realizados foram suficientes de iteração para garantir a qualidade do produto final?|  | Letícia Resende|  |
+| 07    | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | | Letícia Resende ||
+| 08     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  | Letícia Resende|  |
+| 09     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |    |Letícia Resende|  |
+| 10     | Os protótipos foram validados com usuários reais por meio de entrevistas?  |    | Letícia Resende | |
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 <br>
 
-<center>Tabela 02: Verificação da Comprovação Informal</center>
+<center>Tabela 02: Verificação da Entrega 6</center>
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
@@ -51,6 +55,11 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto?  |  Sim   | Letícia Resende | 31/01 versão 1.2 |
 | 04     | A mensagem enviada por (e-mail ou redes sociais) foi estruturada e formal, adequada à natureza técnica do conteúdo? |    Sim  | Letícia Resende | 31/01 versão 1.2 |
 | 05     | A comunicação utilizada foi suficiente para alcançar o objetivo de validar o projeto junto aos clientes?  | Sim   | Letícia |31/01 versão 1.2  |
+| 06     | Os ciclos realizados foram suficientes de iteração para garantir a qualidade do produto final?|   Sim | Letícia Resende | 31/01 versão 1.4  |
+| 07     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | Sim | Letícia Resende |31/01 versão 1.4 |
+| 08     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  Sim   | Letícia Resende | 31/01 versão 1.4 |
+| 09     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |    Sim  | Letícia Resende | 31/01 versão 1.4 |
+| 10     | Os protótipos foram validados com usuários reais por meio de entrevistas?  | Sim   | Letícia |31/01 versão 1.4  |
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
@@ -62,60 +71,12 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 Pode ser vista no [YouTube]().</p>
 
 <center>
-    <p>Vídeo 01: Verificação da Comprovação Informal</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/Ij-1zbBeW3k?si=fSODC93jgRzsXHgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>Vídeo 01: Verificação da Entrega 6</p>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/SwlNkMwv17k?si=gOABlvIV5BzIfqgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
 <br>
-
-## Verificação do Protótipo de Alta Fidelidade
-
-<p align="justify">
-&emsp;&emsp;A tabela 03 apresenta a lista de Verificação do Prótotipo de Alta Fidelidade que foram elaboradas com base nas listas de verificação entregue e 04 apresenta a verificação.
-</p>
-
-<center>Tabela 03: Verificação do Protótipo de Alta Fidelidade</center>
-
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | Os ciclos realizados foram suficientes de iteração para garantir a qualidade do produto final?|  | Letícia Resende|  |
-| 02     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | | Letícia Resende ||
-| 03     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  | Letícia Resende|  |
-| 04     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |    |Letícia Resende|  |
-| 05     | Os protótipos foram validados com usuários reais por meio de entrevistas?  |    | Letícia Resende | |
-
-
-<center>
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
-</center>
-
-<br>
-<center>Tabela 04: Verificação do Protótipo de Alta Fidelidade</center>
-
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | Os ciclos realizados foram suficientes de iteração para garantir a qualidade do produto final?|   Sim | Letícia Resende | 31/01 versão 1.4  |
-| 02     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | Sim | Letícia Resende |31/01 versão 1.4 |
-| 03     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  Sim   | Letícia Resende | 31/01 versão 1.4 |
-| 04     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |    Sim  | Letícia Resende | 31/01 versão 1.4 |
-| 05     | Os protótipos foram validados com usuários reais por meio de entrevistas?  | Sim   | Letícia |31/01 versão 1.4  |
-
-<center>
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
-</center>
-<br>
-
-## Link da gravação
-
-Pode ser vista no [YouTube]().</p>
-
-<center>
-    <p>Vídeo 02: Verificação do Protótipo de Alta Fidelidade</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/Iicg9ibqTYY?si=gvMcs1v1z0U6HQ83" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
-</center>
-
 
 ## Problemas encontrados
 
