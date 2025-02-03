@@ -69,7 +69,6 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | 02     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  | Letícia Resende|  |
 | 03     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |    |Letícia Resende|  |
 | 04   | Os protótipos foram validados com usuários reais por meio de entrevistas?  |    | Letícia Resende | |
-<center>
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
