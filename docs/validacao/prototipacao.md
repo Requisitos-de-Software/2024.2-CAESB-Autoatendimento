@@ -40,11 +40,13 @@
 <p align="justify">&emsp;&emsp; A tabela 2 mostra os requisitos utilizados para o protótipo 2. </p>
 
 <center>
+
 | REQUISITO | DESCRIÇÃO |
 | :-------: | :-------: |
 |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ01</a>|	O sistema deve ter uma barra de busca. |
 |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ02</a> |	O sistema deve ter as funções mais utilizadas/mais buscadas em uma barra.|
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ03</a> |	O sistema deve permitir acessar/pagar contas passadas. |
+
 </center>
 
 <center>
@@ -65,11 +67,15 @@
 
 <p align="justify">&emsp;&emsp; A tabela 3 mostra os requisitos utilizados para o protótipo 3. </p>
 
+<center>
+
 | REQUISITO | DESCRIÇÃO |
 | :-------: | :-------: |
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ08</a> |	O sistema deve oferecer várias formas de pagamento. |
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ12</a> |O aplicativo deve oferecer notificações para lembrar vencimento de contas e ações pendentes. |
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos"target = "blank">RQ21</a> |	O aplicativo deve permitir agendar atendimento presencial na unidade mais próxima. |
+
+</center>
 
 <center>
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -89,11 +95,15 @@
 
 <p align="justify">&emsp;&emsp; A tabela 4 mostra os requisitos utilizados para o protótipo 4. </p>
 
+<center>
+
 | REQUISITO | DESCRIÇÃO |
 | :-------: | :-------: |
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ10</a> | O sistema deve possibilitar o adiantamento de processos via aplicativo. |
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ11</a> | O usuário deve poder enviar documentos diretamente pelo aplicativo. |
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ29</a> | O aplicativo deve permitir que o usuário altere o vencimento da conta. |
+
+</center>
 
 <center>
  Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>
@@ -114,9 +124,13 @@
 
 <p align="justify">&emsp;&emsp; A tabela 4 mostra os requisitos utilizados para o protótipo 4. </p>
 
+<center>
+
 | REQUISITO | DESCRIÇÃO |
 | :-------: | :-------: |
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ09</a> | O sistema deve permitir a configuração de pagamento mensal recorrente |
+
+</center>
 
 <center>
  Autor(a): <a href="https://github.com/jmarquees" target="_blank">João Marques</a>

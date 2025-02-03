@@ -292,6 +292,8 @@ Pode ser vista no [YouTube]().</p>
 > <p id="3">3. SERRANO, Milene. Requisitos – Aula 13. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em: 03/12/2024.
 <br>
 
+> <p id="4">4.WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013 p.315 Acesso em: 23 nov. 2024 </p>
+<br>
 <center><figcaption>Imagem 1: Foto da Referência 1</figcaption> </center>
 
 <center>
