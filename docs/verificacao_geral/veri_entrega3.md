@@ -40,9 +40,9 @@
 
 | **ID** | **Descrição**  | **Avaliação** | **Autor** | **Observações**    |
 |--------|----------------|---------------|-----------|------------------|
-| 01     | <p align="justify">Os cenários cobrem adequadamente os principais fluxos de interação entre os atores e o sistema?</p>  |  | Matheus Barros | Versão 1.5  01/02/2025 |
-| 02     | <p align="justify">Os cenários foram criados usando uma linguagem acessível e compreensível para todos os envolvidos, evitando ambiguidades?</p>    |  | Matheus Barros | Versão 1.5  01/02/2025 |
-| 03     | <p align="justify">As especificações dos cenários estão claras e detalhadas o suficiente para orientar o desenvolvimento, incluindo todos os elementos necessários e possíveis variações?</p> |  | Letícia Resende | Versão 1.5  01/02/2025 |
+| 01     | <p align="justify">Os cenários cobrem adequadamente os principais fluxos de interação entre os atores e o sistema?</p>  | Sim | Matheus Barros | Versão 1.5  01/02/2025 |
+| 02     | <p align="justify">Os cenários foram criados usando uma linguagem acessível e compreensível para todos os envolvidos, evitando ambiguidades?</p>    | Sim | Matheus Barros | Versão 1.5  01/02/2025 |
+| 03     | <p align="justify">As especificações dos cenários estão claras e detalhadas o suficiente para orientar o desenvolvimento, incluindo todos os elementos necessários e possíveis variações?</p> | Sim | Letícia Resende | Versão 1.5  01/02/2025 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
@@ -58,7 +58,7 @@ A tabela 03 apresenta a lista de verificação dos Casos de Uso que foi elaborad
 
 | **ID** | **Descrição**  | **Avaliação** | **Autor** | **Observações** |
 |--------|----------------|---------------|-----------|-----------------|
-| 01     | Os relacionamentos entre os casos de uso (inclusão, extensão e generalização) estão claramente indicados e seguem a notação padrão UML? | Sim | Matheus Barros | Versão 1.5  01/02/2025 |
+| 01     | Os relacionamentos entre os casos de uso (inclusão, extensão e generalização) estão claramente indicados e seguem a notação padrão UML? |  | Matheus Barros | Versão 1.5  01/02/2025 |
 | 02     | Os casos de uso estão bem descritos, incluindo seus fluxos principais e alternativos? |  | Matheus Barros | Versão 1.5  01/02/2025 |
 | 03     | Os diagramas de caso de uso representam corretamente as interações entre os atores e o sistema? |  | Matheus Barros | Versão 1.5  01/02/2025 |
 
@@ -71,8 +71,8 @@ A tabela 03 apresenta a lista de verificação dos Casos de Uso que foi elaborad
 | **ID** | **Descrição**  | **Avaliação** | **Autor** | **Observações** |
 |--------|----------------|---------------|-----------|-----------------|
 | 01     | Os relacionamentos entre os casos de uso (inclusão, extensão e generalização) estão claramente indicados e seguem a notação padrão UML? | Sim | Matheus Barros | Versão 1.5  01/02/2025 |
-| 02     | Os casos de uso estão bem descritos, incluindo seus fluxos principais e alternativos? |  | Matheus Barros | Versão 1.5  01/02/2025 |
-| 03     | Os diagramas de caso de uso representam corretamente as interações entre os atores e o sistema? |  | Matheus Barros | Versão 1.5  01/02/2025 |
+| 02     | Os casos de uso estão bem descritos, incluindo seus fluxos principais e alternativos? | Sim | Matheus Barros | Versão 1.5  01/02/2025 |
+| 03     | Os diagramas de caso de uso representam corretamente as interações entre os atores e o sistema? | Sim | Matheus Barros | Versão 1.5  01/02/2025 |
 
 **Autor:** [Matheus Barros](https://github.com/Ninja-Haiyai)
 <br>
@@ -87,9 +87,9 @@ A tabela 03 apresenta a lista de verificação dos Casos de Uso que foi elaborad
 
 | **ID** | **Descrição**  | **Avaliação** | **Autor** | **Observações**    |
 |--------|----------------|---------------|-----------|------------------|
-| 01     | 1. Nos léxicos possuem Impacto nas classificações dos léxicos? |  | Letícia Resende | Versão 1.5  01/02/2025 |  
-| 02     | 2. Os léxicos estão atualizados e refletem as mudanças nos requisitos do sistema? |  | Matheus Barros | Versão 1.5  01/02/2025 |
-| 03     | 3. As definições dos léxicos são claras e compreensíveis para todos os stakeholders envolvidos? |  | Matheus Barros | Versão 1.5  01/02/2025 |
+| 01     | Nos léxicos possuem Impacto nas classificações dos léxicos? |  | Letícia Resende | Versão 1.5  01/02/2025 |  
+| 02     | Os léxicos estão atualizados e refletem as mudanças nos requisitos do sistema? |  | Matheus Barros | Versão 1.5  01/02/2025 |
+| 03     | As definições dos léxicos são claras e compreensíveis para todos os stakeholders envolvidos? |  | Matheus Barros | Versão 1.5  01/02/2025 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
@@ -100,9 +100,9 @@ A tabela 03 apresenta a lista de verificação dos Casos de Uso que foi elaborad
 
 | **ID** | **Descrição**  | **Avaliação** | **Autor** | **Observações**    |
 |--------|----------------|---------------|-----------|------------------|
-| 01     | 1. Nos léxicos possuem Impacto nas classificações dos léxicos? |  | Letícia Resende | Versão 1.5  01/02/2025 |  
-| 02     | 2. Os léxicos estão atualizados e refletem as mudanças nos requisitos do sistema? |  | Matheus Barros | Versão 1.5  01/02/2025 |
-| 03     | 3. As definições dos léxicos são claras e compreensíveis para todos os stakeholders envolvidos? |  | Matheus Barros | Versão 1.5  01/02/2025 |
+| 01     |  Nos léxicos possuem Impacto nas classificações dos léxicos? |  Sim | Letícia Resende | Versão 1.5  01/02/2025 |  
+| 02     |  Os léxicos estão atualizados e refletem as mudanças nos requisitos do sistema? | Sim  | Matheus Barros | Versão 1.5  01/02/2025 |
+| 03     |  As definições dos léxicos são claras e compreensíveis para todos os stakeholders envolvidos? | Sim  | Matheus Barros | Versão 1.5  01/02/2025 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
@@ -121,7 +121,7 @@ A tabela 03 apresenta a lista de verificação dos Casos de Uso que foi elaborad
 |--------|----------------|---------------|-----------|------------------|
 | 01     | <p align="justify">O documento especifica claramente os requisitos não funcionais (como desempenho, segurança e usabilidade) juntamente com seus critérios de aceitação?</p> |  | Matheus Barros | Versão 1.5  01/02/2025  |
 | 02     | <p align="justify">O documento define restrições, dependências e premissas que possam impactar a implementação dos requisitos de software?</p> |  | Matheus Barros | Versão 1.5  01/02/2025  |
-| 03     | <p align="justify">O documento especifica requisitos relacionados ao ambiente de uso ou sustentabilidade ambiental?</p> | Não | Leandro de Almeida | Versão 1.3  09/12. |
+| 03     | <p align="justify">O documento especifica requisitos relacionados ao ambiente de uso ou sustentabilidade ambiental?</p> |  | Leandro de Almeida | Versão 1.3  09/12. |
 
 
 <center>
@@ -133,8 +133,8 @@ A tabela 03 apresenta a lista de verificação dos Casos de Uso que foi elaborad
 
 | **ID** | **Descrição**  | **Avaliação** | **Autor** | **Observações**    |
 |--------|----------------|---------------|-----------|------------------|
-| 01     | <p align="justify">O documento especifica claramente os requisitos não funcionais (como desempenho, segurança e usabilidade) juntamente com seus critérios de aceitação?</p> |  | Matheus Barros | Versão 1.5  01/02/2025  |
-| 02     | <p align="justify">O documento define restrições, dependências e premissas que possam impactar a implementação dos requisitos de software?</p> |  | Matheus Barros | Versão 1.5  01/02/2025  |
+| 01     | <p align="justify">O documento especifica claramente os requisitos não funcionais (como desempenho, segurança e usabilidade) juntamente com seus critérios de aceitação?</p> | Sim | Matheus Barros | Versão 1.5  01/02/2025  |
+| 02     | <p align="justify">O documento define restrições, dependências e premissas que possam impactar a implementação dos requisitos de software?</p> | Sim | Matheus Barros | Versão 1.5  01/02/2025  |
 | 03     | <p align="justify">O documento especifica requisitos relacionados ao ambiente de uso ou sustentabilidade ambiental?</p> | Não | Leandro de Almeida | Versão 1.3  09/12. |
 
 <center>
@@ -146,11 +146,11 @@ A tabela 03 apresenta a lista de verificação dos Casos de Uso que foi elaborad
 
 ## Link da gravação
 
-Pode ser vista no [YouTube]().</p>
+Pode ser vista no [YouTube](https://youtu.be/BvSHsR8dLL4?si=Car-hZXddcOMUKZf).</p>
 
 <center>
     <p>Vídeo 01: Verificação dos Itens da Entrega 3 do Projeto</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/y2-191PM_ys?si=QWTKBqPnyYzXqOIN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/BvSHsR8dLL4?si=Car-hZXddcOMUKZf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
 </center>
 
@@ -158,7 +158,7 @@ Pode ser vista no [YouTube]().</p>
 
 ## Problemas encontrados
 
-<p align="justify">&emsp;&emsp;Embora os requisitos não funcionais tenham sido detalhados na história de usuário, o artefato não possui o cartão de especificação.</p>
+<p align="justify">&emsp;&emsp;A entrega 3 está majoritariamente nos conformes, porém deverá ser adicionado uma observação nas especificações suplementares que se refira ao ambiente de uso.</p>
 
 ## Sugestões
 
@@ -179,7 +179,7 @@ Pode ser vista no [YouTube]().</p>
 
 
 > <p id="4">4.WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013 p.315 Acesso em: 23 nov. 2024 </p>
-<br
+<br>
 <center><figcaption>Imagem 1: Foto da Referência 1</figcaption> </center>
 
 <center>
