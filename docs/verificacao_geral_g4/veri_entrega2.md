@@ -177,8 +177,8 @@
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | O termo de consentimento deixa claro que a participação é voluntária, protege os dados dos participantes e especifica o objetivo da pesquisa de forma transparente? | Não | Leandro de Almeida | Versão 1.1 02/11 |
-| 02     | O termo informa corretamente os participantes sobre como seus dados serão utilizados, garantindo sigilo, anonimato e a possibilidade de desistência a qualquer momento sem penalizações? | Não | Leandro de Almeida | Versão 1.1 02/11 |
+| 01     | O termo de consentimento deixa claro que a participação é voluntária, protege os dados dos participantes e especifica o objetivo da pesquisa de forma transparente? | Não | Leandro de Almeida | -- |
+| 02     | O termo informa corretamente os participantes sobre como seus dados serão utilizados, garantindo sigilo, anonimato e a possibilidade de desistência a qualquer momento sem penalizações? | Não | Leandro de Almeida | -- |
 
 
 <center>
@@ -189,11 +189,11 @@
 
 ## Link da gravação
 
-Pode ser vista no [YouTube]().</p>
+Pode ser vista no [YouTube](https://www.youtube.com/embed/uyPXdDhXO_k?si=2GEIL-PNyCZ01aNs).</p>
 
 <center>
     <p>Vídeo 01: Verificação dos artefatos</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/aWBibwy-Ydw?si=3eFnVJA5dTY3XdFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/uyPXdDhXO_k?si=2GEIL-PNyCZ01aNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
@@ -203,11 +203,11 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 
 | **Artefato** | **Inicio**   | 
 |:----------:|:----------:|
-| Técnicas de Elicitação | <a href="https://youtu.be/aWBibwy-Ydw" target="_blank">00:00</a> | 
-| Técnicas de Priorização | <a href="https://youtu.be/aWBibwy-Ydw?t=107" target="_blank">01:47</a> |
-| Personas | <a href="https://youtu.be/aWBibwy-Ydw?t=196" target="_blank">3:16</a> |
-| Perfil de Usuário | <a href="https://youtu.be/aWBibwy-Ydw?t=252" target="_blank">4:12</a> | 
-| Termo de Consentimento | <a href="https://youtu.be/aWBibwy-Ydw?t=308" target="_blank">5:08</a> | 
+| Técnicas de Elicitação | <a href="https://www.youtube.com/watch?v=uyPXdDhXO_k" target="_blank">00:00</a> | 
+| Técnicas de Priorização | <a href="https://youtu.be/uyPXdDhXO_k?t=107" target="_blank">01:47</a> |
+| Personas | <a href="https://youtu.be/uyPXdDhXO_k?t=196" target="_blank">3:16</a> |
+| Perfil de Usuário | <a href="https://youtu.be/uyPXdDhXO_k?t=252" target="_blank">4:12</a> | 
+| Termo de Consentimento | <a href="https://youtu.be/uyPXdDhXO_k?t=308" target="_blank">5:08</a> | 
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 
@@ -217,34 +217,37 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 
 ## Problemas encontrados
 
-<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
+1. O artefato Personas não foi feito.
+
+2. Não foi feito um termo de consentimento.
 
 ## Sugestões
 
-<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
+1. Criar o artefato Personas.
+
+2. Elaborar um termo de consentimento.
 
 <br>
 
 ## Referências Bibliográficas
 
-> <p id="1">1. CARDOSO, Renato. Engenharia dos requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf .Acesso em: 17 de Dez. de 2024.
+> <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63
+   Acesso em: 23 nov. 2024.
 </p>
-
+> <p>2. VASQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. São Paulo: Pearson, 2016. 328 p. ISBN 9788574527901. Disponível em: https://aprender3.unb.br/pluginfile.php/2972448/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf. Acesso em: 24 de Nov. 2024</p>
 <center><figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
- 
-![ref1](../../assets/nfrvvee.png)
+ </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/tec_elic_ref.png?raw=true"></img><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+ > <p id="1">3. S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do Usuário, p. 166. Autopublicação, 2021. ISBN: 978-65-00-19677-1.<center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
+<img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/referencia_veri_perfil_usuario.png?raw=true"></img>
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+<center><figcaption>Imagem 3: Foto da Referência 3</figcaption></center>
+<img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/persona_ref.png?raw=true"></img>
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+> <p id="1">4.WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013 p.315
+   Acesso em: 23 nov. 2024.
+</p><center><figcaption>Imagem 4: Foto da Referência 4</figcaption> </center><center>![alt text](../../assets/priority.png)</center>
 
- <center>
-</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
-</center>
 
-<br>
-
-> <p id="1">1. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 17 de Dez. de 2024.
-
- </p>
- 
-> <p>2. SERRANO, Milene. Requisitos – Aula 17. Disponível em: https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf. Acesso em: 17 de Dez. 2024</p>
 
 
 ## Histórico de Versão

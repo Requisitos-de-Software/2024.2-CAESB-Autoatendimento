@@ -191,7 +191,7 @@
 
 ## Link da gravação
 
-Pode ser vista no [YouTube]().</p>
+Pode ser vista no [YouTube](https://www.youtube.com/embed/I4t4dM06GCY?si=yVzMXvlskikF_K28).</p>
 
 <center>
     <p>Vídeo 01: Verificação dos artefatos</p>
@@ -231,24 +231,22 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 
 ## Referências Bibliográficas
 
-> <p id="1">1. CARDOSO, Renato. Engenharia dos requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf .Acesso em: 17 de Dez. de 2024.
+> <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63
+   Acesso em: 23 nov. 2024.
 </p>
-
+> <p>2. VASQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. São Paulo: Pearson, 2016. 328 p. ISBN 9788574527901. Disponível em: https://aprender3.unb.br/pluginfile.php/2972448/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf. Acesso em: 24 de Nov. 2024</p>
 <center><figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
- 
-![ref1](../../assets/nfrvvee.png)
+ </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/tec_elic_ref.png?raw=true"></img><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+ > <p id="1">3. S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do Usuário, p. 166. Autopublicação, 2021. ISBN: 978-65-00-19677-1.<center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
+<img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/referencia_veri_perfil_usuario.png?raw=true"></img>
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+<center><figcaption>Imagem 3: Foto da Referência 3</figcaption></center>
+<img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/persona_ref.png?raw=true"></img>
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+> <p id="1">4.WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013 p.315
+   Acesso em: 23 nov. 2024.
+</p><center><figcaption>Imagem 4: Foto da Referência 4</figcaption> </center><center>![alt text](../../assets/priority.png)</center>
 
- <center>
-</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
-</center>
-
-<br>
-
-> <p id="1">1. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 17 de Dez. de 2024.
-
- </p>
- 
-> <p>2. SERRANO, Milene. Requisitos – Aula 17. Disponível em: https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf. Acesso em: 17 de Dez. 2024</p>
 
 
 ## Histórico de Versão

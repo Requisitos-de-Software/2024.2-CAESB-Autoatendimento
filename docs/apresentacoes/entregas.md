@@ -39,7 +39,6 @@ A apresentação da entrega 4, pode ser vista no [YouTube](https://www.youtube.c
 Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
-
 ## Entrega 5
 A apresentação da entrega 5, pode ser vista no [YouTube](https://www.youtube.com/watch?v=N1alMrJa-WU).
 
@@ -49,7 +48,14 @@ A apresentação da entrega 5, pode ser vista no [YouTube](https://www.youtube.c
 Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
+## Entrega 6
+A apresentação da entrega 6, pode ser vista no [YouTube](https://www.youtube.com/watch?v=N1alMrJa-WU).
 
+<center>
+<p>Vídeo 06: Gravação da apresentação 5</p>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/ZWJeJOzOVDw?si=ggeoSMXbZL-jen17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Leandro de Almeida</a></h6>
+</center>
 
 ## Histórico de versão
 
@@ -64,5 +70,6 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 |  1.4   | 17/12/2024 | Adiciona a entrega 4 |[Letícia Resende](https://github.com/LeticiaResende23)| [Matheus Barros ](https://github.com/Ninja-Haiyai)|
 |  1.5   | 17/12/2024 | Arruma video entrega 4 |[Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai)|
 |  1.6   | 18/01/2025 | Adiciona a entrega 5 |[Matheus Barros ](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)|
-|  1.7   | 19/01/2025 | Adiciona a entrega 5 |[Matheus Barros ](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)|
+|  1.7   | 24/11/2024 | Adiciona a entrega 6 | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+
 </center>

@@ -196,7 +196,7 @@
 
 ## Link da gravação
 
-Pode ser vista no [YouTube]().</p>
+Pode ser vista no [YouTube](https://www.youtube.com/embed/EHaO6yjx2E0?si=rHvdfsjZmBqgtlG7).</p>
 
 <center>
     <p>Vídeo 01: Verificação dos artefatos</p>
@@ -232,25 +232,14 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 
 ## Referências Bibliográficas
 
-> <p id="1">1. CARDOSO, Renato. Engenharia dos requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf .Acesso em: 17 de Dez. de 2024.
-</p>
-
-<center><figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
- 
-![ref1](../../assets/nfrvvee.png)
-
- <center>
-</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
-</center>
-
-<br>
-
-> <p id="1">1. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 17 de Dez. de 2024.
-
- </p>
- 
-
-> <p>2. SERRANO, Milene. Requisitos – Aula 17. Disponível em: https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf. Acesso em: 17 de Dez. 2024</p>
+> <p id="1">1. BENYON, D. Interação humano-computador. 2. ed. São Paulo: Pearson Universidades, 2011. ISBN 978-85-7936-109-8. 
+> <p id="1">2. APRENDER 3. Introducing Rich Pictures – Rich Picture Drawing Guidelines. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305239. Acesso em: 3 fev. 2025.</p>
+<center><figcaption>Imagem 1: Foto da Referência 1</figcaption>
+<center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center>
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+<center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
+<center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center>
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
 
 
 ## Histórico de Versão
