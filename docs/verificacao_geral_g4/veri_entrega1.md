@@ -15,63 +15,15 @@
 ## Metodologia
 
 <p align="justify">
-&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/" target = "_blank">Itens de Desenvovimento do Projeto</a>, <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/planejamento/apps-avaliados/" target = "_blank">Rich Picture</a>, <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/planejamento/cronograma-planejamento/" target = "_blank">Cronograma</a>, <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/" target = "_blank">Equipe</a>, <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/planejamento/app-selecionado/" target = "_blank">Aplicativo Selecionado</a> e <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/planejamento/ferramentas/" target = "_blank">Ferramentas</a>, que trata das atividades realizadas no desenvolvimento do aplicativo Meu SUS Digital.</p>
-
-## Verificação dos Itens do Desenvolvimento do Projeto
-
-<p align="justify">
-&emsp;&emsp;A tabela 01 apresenta a lista de verificação de Itens de Planejamento Geral do Projeto que foi elaborada com base no plano de ensino da disciplina e a tabela 02 apresenta a verificação.
-</p>
-
-<center>Tabela 01: Lista de verificação de Itens do Desenvolvimento do Projeto</center>
-
-
-| **ID** | **Descrição**     | **Avaliação** | **Autor**      | **Observações** |
-|--------|-------------------|---------------|----------------|-----------------|
-| 01     | O histórico de versão padronizado? |  | André Barros |  |
-| 02     | O(s) autores e o(s) revisores para cada artefato? |  | André Barros |   |
-| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos? |  | André Barros   |  |
-| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos? |  | André Barros |  |
-| 05     | Um texto fazendo uma introdução dos artefatos?|  | André Barros | |
-| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |  | André Barros |  |
-| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).|  | André Barros |  |
-| 08     | A gravação da reunião do grupo. |  | André Barros |  |
-| 09     | Vídeo de apresentação na categoria "não listado" no youtube? |  | André Barros | 
-
-<center>
-</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
-</center>
-<br>
-
-<center>Tabela 02: Verificação dos Itens do Desenvolvimento do Projeto</center>
-
-
-| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
-|--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | O histórico de versão padronizado?     |       Sim       | André Barros   |    Versão 1.0 22/11  |
-| 02     | O(s) autores e o(s) revisores para cada artefato?  |        Sim      | André Barros   |     Versão 1.0 22/11         |
-| 03     | Referências bibliográficas e/ou bibliografia em todos os artefatos? |        Sim      | André Barros   |     Versão 1.0 22/11         |
-| 04     | As tabelas e imagens possuem legenda e fonte e são chamadas dentro dos textos? |        Sim      | André Barros   |     Versão 1.0 22/11         |
-| 05     | Um texto fazendo uma introdução dos artefatos?   |        Sim     | André Barros   |      Versão 1.0 22/11        |
-| 06     | O cronograma executado com quem realizou cada artefato/atividade, com datas de início e fim?  |  Sim     | André Barros   |  Versão 1.0 22/11        |
-| 07     | Ata(s) das reuniões (com data, horário de início e fim, participantes, objetivo, atividades)? |  Sim     | André Barros   |   Versão 1.0 22/11        |
-| 08     | A gravação da reunião do grupo?   |        Sim      | André Barros   |     Versão 1.0 22/11         |
-| 09     | Vídeo de apresentação na categoria "não listado" no YouTube?   |        Sim      | André Barros   |     Versão 1.0 22/11         |
-
-<center>
-</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
-</center>
-<br>
-
-
+&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/planejamento/apps-avaliados/" target = "_blank">Rich Picture</a>, <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/planejamento/cronograma-planejamento/" target = "_blank">Cronograma</a>, <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/" target = "_blank">Equipe</a>, <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/planejamento/app-selecionado/" target = "_blank">Aplicativo Selecionado</a> e <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/planejamento/ferramentas/" target = "_blank">Ferramentas</a>, que trata das atividades realizadas no desenvolvimento do aplicativo Meu SUS Digital.</p>
 
 ## Verificação do Rich Picture
 
 <p align="justify">
-&emsp;&emsp;A tabela 03 apresenta a lista de verificação do Rich Picture que foi elaborada com base no plano de ensino da disciplina e a tabela 04 apresenta a verificação.
+&emsp;&emsp;A tabela 01 apresenta a lista de verificação do Rich Picture que foi elaborada com base no plano de ensino da disciplina e a tabela 02 apresenta a verificação.
 </p>
 
-<center>Tabela 03: Lista de verificação do Rich Picture </center>
+<center>Tabela 01: Lista de verificação do Rich Picture </center>
 
 | **ID** | **Descrição**                                                                                     | **Avaliação** | **Autor**            | **Observações** |
 |--------|-------------------------------------------------------------------------------------------------|--------------|---------------------|-----------------|
@@ -88,7 +40,7 @@
 </center>
 
 <br>
-<center>Tabela 04: Verificação do Rich Picture </center>
+<center>Tabela 02: Verificação do Rich Picture </center>
 
 | **ID** | **Descrição**                                                                                     | **Avaliação** | **Autor**            | **Observações** |
 |--------|-------------------------------------------------------------------------------------------------|--------------|---------------------|-----------------|
@@ -107,10 +59,10 @@
 ## Verificação do Cronograma
 
 <p align="justify">
-&emsp;&emsp;A tabela 05 apresenta a lista de verificação do Cronograma que foi elaborada com base no plano de ensino da disciplina e a tabela 06 apresenta a verificação.
+&emsp;&emsp;A tabela 03 apresenta a lista de verificação do Cronograma que foi elaborada com base no plano de ensino da disciplina e a tabela 04 apresenta a verificação.
 </p>
 
-<center>Tabela 05: Lista de verificação do Cronograma </center>
+<center>Tabela 03: Lista de verificação do Cronograma </center>
 
 
 | **ID** | **Descrição**                                                                                                     | **Avaliação** | **Autor**       | **Observações** |
@@ -125,7 +77,7 @@
 </center>
 
 <br>
-<center>Tabela 06: Verificação do Cronograma </center>
+<center>Tabela 04: Verificação do Cronograma </center>
 
 
 | **ID** | **Descrição**                                                                                                     | **Avaliação** | **Autor**       | **Observações** |
@@ -145,10 +97,10 @@
 ## Verificação da Equipe
 
 <p align="justify">
-&emsp;&emsp;A tabela 07 apresenta a lista de verificação de Equipe que foi elaborada com base no plano de ensino da disciplina e a tabela 08 apresenta a verificação.
+&emsp;&emsp;A tabela 05 apresenta a lista de verificação de Equipe que foi elaborada com base no plano de ensino da disciplina e a tabela 06 apresenta a verificação.
 </p>
 
-<center>Tabela 07: Lista de verificação de Equipe </center>
+<center>Tabela 05: Lista de verificação de Equipe </center>
 
 | **ID** | **Descrição**                                                                                   | **Avaliação** | **Autor**       | **Observações** |
 |--------|-------------------------------------------------------------------------------------------------|--------------|-----------------|-----------------|
@@ -161,7 +113,7 @@
 </center>
 
 <br>
-<center>Tabela 08: Verificação de Equipe </center>
+<center>Tabela 06: Verificação de Equipe </center>
 
 | **ID** | **Descrição**                                                                                   | **Avaliação** | **Autor**       | **Observações** |
 |--------|-------------------------------------------------------------------------------------------------|--------------|-----------------|-----------------|
@@ -177,10 +129,10 @@
 ## Verificação de Aplicativo Selecionado
 
 <p align="justify">
-&emsp;&emsp;A tabela 09 apresenta a lista de verificação do Aplicativo Selecionado que foi elaborada com base no plano de ensino da disciplina e a tabela 10 apresenta a verificação.
+&emsp;&emsp;A tabela 07 apresenta a lista de verificação do Aplicativo Selecionado que foi elaborada com base no plano de ensino da disciplina e a tabela 08 apresenta a verificação.
 </p>
 
-<center>Tabela 09: Lista de verificação do Aplicativo Selecionado </center>
+<center>Tabela 07: Lista de verificação do Aplicativo Selecionado </center>
 
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
@@ -195,7 +147,7 @@
 </center>
 
 <br>
-<center>Tabela 10: Verificação do Aplicativo Selecionado</center>
+<center>Tabela 08: Verificação do Aplicativo Selecionado</center>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|----------------------------------------------------------------------------------------------|--------------|---------------|-----------------|
@@ -213,10 +165,10 @@
 ## Verificação de Ferramentas
 
 <p align="justify">
-&emsp;&emsp;A tabela 11 apresenta a lista de verificação de Ferramentas que foi elaborada com base no plano de ensino da disciplina e a tabela 12 apresenta a verificação.
+&emsp;&emsp;A tabela 09 apresenta a lista de verificação de Ferramentas que foi elaborada com base no plano de ensino da disciplina e a tabela 10 apresenta a verificação.
 </p>
 
-<center>Tabela 11: Lista de verificação de Ferramentas </center>
+<center>Tabela 09: Lista de verificação de Ferramentas </center>
 
 | **ID** | **Descrição**     | **Avaliação** | **Autor**      | **Observações** |
 |--------|-------------------|---------------|----------------|-----------------|
@@ -229,7 +181,7 @@
 </center>
 
 <br>
-<center>Tabela 12: Verificação de Ferramentas</center>
+<center>Tabela 10: Verificação de Ferramentas</center>
 
 | **ID** | **Descrição**     | **Avaliação** | **Autor**      | **Observações** |
 |--------|-------------------|---------------|----------------|-----------------|
@@ -250,6 +202,22 @@ Pode ser vista no [YouTube]().</p>
     <p>Vídeo 01: Verificação dos artefatos</p>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/EHaO6yjx2E0?si=rHvdfsjZmBqgtlG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<center>
+
+Tabela 11: Tempo de início da verificação dos artefatos no vídeo
+
+| **Artefato** | **Inicio**   | 
+|:----------:|:----------:|
+| Rich Picture | 00:00 | 
+| Cronograma | 00:54 |
+| Equipe | 2:13 |
+| Aplicativo Selecionado | 3:13 | 
+| Ferramentas | 4:22 | 
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+
 </center>
 
 ## Problemas encontrados

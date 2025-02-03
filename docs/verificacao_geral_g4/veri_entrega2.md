@@ -15,52 +15,7 @@
 ## Metodologia
 
 <p align="justify">
-&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/" target = "_blank">Técnicas de Elicitação</a>, <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/priorizacao/%24100/" target = "_blank">Técnicas de Priorização</a> e <a href ="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/" target = "_blank"> itens de desenvolvimento do projeto</a>, bem como do artefato <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/analise-perfil-usuario/perfil-usuario/" target="_blank">Perfil de Usuário</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo Caesb Autoatendimento.</p>
-
-## Verificação dos Itens do Desenvolvimento do Projeto
-
-<p align="justify">
-&emsp;&emsp;A tabela 05 apresenta a lista de verificação de Itens de Planejamento Geral do Projeto que foi elaborada com base no plano de ensino da disciplina e a tabela 06 apresenta a verificação.
-</p>
-
-<center>Tabela 05: Lista de verificação de Itens do Desenvolvimento do Projeto</center>
-
-| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
-|--------|------------------------------------------------------------------------------------------------|---------------|----------------|-----------------|
-| 01     | O histórico de versão padronizado?                                                             |               | André Barros   |                 |
-| 02     | O(s) autores e o(s) revisores para cada artefato?                                              |               | André Barros   |                 |
-| 03     | Referências bibliográficas e/ou bibliografia em todos os artefatos?                            |               | André Barros   |                 |
-| 04     | As tabelas e imagens possuem legenda e fonte e são chamadas dentro dos textos?                 |               | André Barros   |                 |
-| 05     | Um texto fazendo uma introdução dos artefatos?                                                 |               | André Barros   |                 |
-| 06     | O cronograma executado com quem realizou cada artefato/atividade, com datas de início e fim?   |               | André Barros   |                 |
-| 07     | Ata(s) das reuniões (com data, horário de início e fim, participantes, objetivo, atividades)?  |               | André Barros   |                 |
-| 08     | A gravação da reunião do grupo?                                                                |               | André Barros   |                 |
-| 09     | Vídeo de apresentação na categoria "não listado" no YouTube?                                   |               | André Barros   |                 |
-
-
-<center>
-</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
-</center>
-<br>
-
-<center>Tabela 06: Verificação dos Itens do Desenvolvimento do Projeto</center>
-
-| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
-|--------|------------------------------------------------------------------------------------------------|---------------|----------------|-----------------|
-| 01     | O histórico de versão padronizado?  |      Não        | André Barros   |      Versão 1.0 25/11           |
-| 02     | O(s) autores e o(s) revisores para cada artefato?     |      Sim         | André Barros   |       Versão 1.0 25/11          |
-| 03     | Referências bibliográficas e/ou bibliografia em todos os artefatos?    |      Sim         | André Barros   |        Versão 1.0 25/11         |
-| 04     | As tabelas e imagens possuem legenda e fonte e são chamadas dentro dos textos?|      Sim         | André Barros   |      Versão 1.0 25/11           |
-| 05     | Um texto fazendo uma introdução dos artefatos?   |       Sim        | André Barros   |       Versão 1.0 25/11          |
-| 06     | O cronograma executado com quem realizou cada artefato/atividade, com datas de início e fim?   |       Sim        | André Barros   |       Versão 1.0 25/11          |
-| 07     | Ata(s) das reuniões (com data, horário de início e fim, participantes, objetivo, atividades)?  |       Sim        | André Barros   |        Versão 1.0 25/11         |
-| 08     | A gravação da reunião do grupo?   |       Sim        | André Barros   |        Versão 1.0 25/11         |
-| 09     | Vídeo de apresentação na categoria "não listado" no YouTube?  |        Sim       | André Barros   |        Versão 1.0 25/11         |
-
-<center>
-</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
-</center>
-<br>
+&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/" target = "_blank">Técnicas de Elicitação</a> e <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/priorizacao/%24100/" target = "_blank">Técnicas de Priorização</a>, bem como do artefato <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/analise-perfil-usuario/perfil-usuario/" target="_blank">Perfil de Usuário</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo Caesb Autoatendimento.</p>
 
 ## Verificação das Técnicas de Elicitação
 
@@ -239,7 +194,7 @@ Pode ser vista no [YouTube]().</p>
 
 <center>
     <p>Vídeo 04: Verificação Perfil de Usuário</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/y2-191PM_ys?si=QWTKBqPnyYzXqOIN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/aWBibwy-Ydw?si=3eFnVJA5dTY3XdFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
