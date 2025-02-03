@@ -104,7 +104,7 @@
 | **ID** | **Descrição**  | **Avaliação** | **Autor** | **Observações**    |
 |--------|----------------|---------------|-----------|------------------|
 | 01     |  Nos léxicos possuem Impacto nas classificações dos léxicos? |  Sim | Letícia Resende | Versão 1.5  01/02/2025 |  
-| 02     |  Os léxicos estão atualizados e refletem as mudanças nos requisitos do sistema? | Sim  | Matheus Barros | Versão 1.5  01/02/2025 |
+| 02     |  Os léxicos estão atualizados e refletem as mudanças nos requisitos do sistema? | Não  | Matheus Barros | Versão 1.5  01/02/2025 |
 | 03     |  As definições dos léxicos são claras e compreensíveis para todos os stakeholders envolvidos? | Sim  | Matheus Barros | Versão 1.5  01/02/2025 |
 
 <center>
@@ -138,7 +138,7 @@
 |--------|----------------|---------------|-----------|------------------|
 | 01     | <p align="justify">O documento especifica claramente os requisitos não funcionais (como desempenho, segurança e usabilidade) juntamente com seus critérios de aceitação?</p> | Sim | Matheus Barros | Versão 1.5  01/02/2025  |
 | 02     | <p align="justify">O documento define restrições, dependências e premissas que possam impactar a implementação dos requisitos de software?</p> | Sim | Matheus Barros | Versão 1.5  01/02/2025  |
-| 03     | <p align="justify">O documento especifica requisitos relacionados ao ambiente de uso ou sustentabilidade ambiental?</p> | Não | Leandro de Almeida | Versão 1.3  09/12. |
+| 03     | <p align="justify">O documento especifica requisitos relacionados ao ambiente de uso ou sustentabilidade ambiental?</p> | Sim | Leandro de Almeida | Versão 1.3  09/12. |
 
 <center>
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
@@ -153,7 +153,7 @@ Pode ser vista no [YouTube](https://youtu.be/BvSHsR8dLL4?si=Car-hZXddcOMUKZf).</
 
 <center>
     <p>Vídeo 01: Verificação dos Itens da Entrega 3 do Projeto</p>
-    <iframe width="760" height="515" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/NTUj2zLlGhw?si=kOkRQ1zRAYSurmH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
 </center>
 
@@ -163,9 +163,9 @@ Tabela 09: Tempo de início da verificação dos artefatos no vídeo
 | **Artefato** | **Inicio**   | 
 |:----------:|:----------:|
 | Cenários | <a href="https://www.youtube.com/watch?v=BvSHsR8dLL4" target="_blank">00:00</a> | 
-| Casos de Uso | <a href="https://youtu.be/BvSHsR8dLL4?si=Y8sSr6bNs2JPcVuY&t=70" target="_blank"></a> |
-| Léxicos | <a href="https://youtu.be/BvSHsR8dLL4?si=d7uUDzm1tZo9ZFGy&t=110" target="_blank"></a> |
-| Especificação Suplementar | <a href="https://youtu.be/BvSHsR8dLL4?si=zh-ps_8ehM_TzvWP&t=145" target="_blank"></a> | 
+| Casos de Uso | <a href="https://youtu.be/NTUj2zLlGhw?si=Gp229vINU8-6ROPG&t=58" target="_blank">00:58</a> |
+| Léxicos | <a href="https://youtu.be/NTUj2zLlGhw?si=8b6pUefavoj8cs9K&t=95" target="_blank">01:35</a> |
+| Especificação Suplementar | <a href="https://youtu.be/NTUj2zLlGhw?si=3ydjreguNPf41n4Y&t=132" target="_blank">2:12</a> | 
 
 </center>
 
