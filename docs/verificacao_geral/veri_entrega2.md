@@ -15,7 +15,7 @@
 ## Metodologia
 
 <p align="justify">
-&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/" target = "_blank">Técnicas de Elicitação</a> e <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/introducao/" target = "_blank">Técnicas de Priorização</a>, bem como do artefato <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/perfil_de_usuario/" target="_blank">Perfil de Usuário</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo Caesb Autoatendimento.</p>
+&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/" target = "_blank">Técnicas de Elicitação</a> e <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/introducao/" target = "_blank">Técnicas de Priorização</a>, bem como do artefato <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/personas/" target = "_blank">Personas</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/perfil_de_usuario/" target="_blank">Perfil de Usuário</a> e <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/termo/">Termo de Consentimento</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo Caesb Autoatendimento.</p>
 
 ## Verificação das Técnicas de Elicitação
 
@@ -63,10 +63,10 @@
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | Os requisitos foram corretamente classificados nas categorias "In" e "Out" da técnica "In or Out"? | Sim | André Barros | Versão 1.3 26/11 |
-| 02     | Os requisitos foram corretamente classificados nas categorias "Must-Have", "Should-Have", "Could-Have" e "Won't Have" utilizando o método MoSCoW? | Sim | André Barros | Versão 1.1 24/11 |
-| 03     | A técnica First Things First considera corretamente os benefícios, prejuízos, custos e riscos para determinar a prioridade dos requisitos? | Sim | André Barros | Versão 1.3 26/11 |
-| 04    | A técnica "First Things First" foi corretamente aplicada para priorização dos requisitos, considerando os critérios de benefício, penalidade, custo e risco, e as pontuações atribuídas a cada requisito? | Sim | André Barros | Versão 1.3 26/11 |
+| 01     | Os requisitos foram corretamente classificados nas categorias "In" e "Out" da técnica "In or Out"? |  | André Barros |  |
+| 02     | Os requisitos foram corretamente classificados nas categorias "Must-Have", "Should-Have", "Could-Have" e "Won't Have" utilizando o método MoSCoW? |  | André Barros | |
+| 03     | A técnica First Things First considera corretamente os benefícios, prejuízos, custos e riscos para determinar a prioridade dos requisitos? |  | André Barros |  |
+| 04    | A técnica "First Things First" foi corretamente aplicada para priorização dos requisitos, considerando os critérios de benefício, penalidade, custo e risco, e as pontuações atribuídas a cada requisito? |  | André Barros |  |
 
 
 <center>
@@ -78,27 +78,24 @@
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | Os requisitos foram corretamente classificados nas categorias "In" e "Out" da técnica "In or Out"? | Sim | André Barros   |  |
-| 02     | Os requisitos foram corretamente classificados nas categorias "Must-Have", "Should-Have", "Could-Have" e "Won't Have" utilizando o método MoSCoW? | Sim | André Barros   |  |
-| 03     | A técnica First Things First considera corretamente os benefícios, prejuízos, custos e riscos para determinar a prioridade dos requisitos? | Sim | André Barros   |  |
-| 04     | A técnica "First Things First" foi corretamente aplicada para priorização dos requisitos, considerando os critérios de benefício, penalidade, custo e risco, e as pontuações atribuídas a cada requisito? | Sim | André Barros |  |
+| 01     | Os requisitos foram corretamente classificados nas categorias "In" e "Out" da técnica "In or Out"? | Sim | André Barros | Versão 1.3 26/11 |
+| 02     | Os requisitos foram corretamente classificados nas categorias "Must-Have", "Should-Have", "Could-Have" e "Won't Have" utilizando o método MoSCoW? | Sim | André Barros | Versão 1.1 24/11 |
+| 03     | A técnica First Things First considera corretamente os benefícios, prejuízos, custos e riscos para determinar a prioridade dos requisitos? | Sim | André Barros | Versão 1.3 26/11 |
+| 04    | A técnica "First Things First" foi corretamente aplicada para priorização dos requisitos, considerando os critérios de benefício, penalidade, custo e risco, e as pontuações atribuídas a cada requisito? | Sim | André Barros | Versão 1.3 26/11 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
-
 <br>
-
-
 
 ## Verificação Personas
 
 <p align="justify">
-&emsp;&emsp;A tabela 07 apresenta a lista de verificação das Perfil de Usuário que foi elaborada com base no plano de ensino da disciplina e a tabela 08 apresenta a verificação.
+&emsp;&emsp;A tabela 05 apresenta a lista de verificação das Perfil de Usuário que foi elaborada com base no plano de ensino da disciplina e a tabela 06 apresenta a verificação.
 </p>
 
-<center>Tabela 07: Lista de verificação de Personas</center>
+<center>Tabela 05: Lista de verificação de Personas</center>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
@@ -111,7 +108,7 @@
 </center>
 <br>
 
-<center>Tabela 08: Verificação de Personas</center>
+<center>Tabela 06: Verificação de Personas</center>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
@@ -148,12 +145,11 @@
 
 <center>Tabela 08: Verificação de Perfil de Usuário</center>
 
-| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
-|--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | O perfil de usuário foi elaborado com base em dados coletados por meio de Técnicas de Elicitação, considerando características como idade, experiência, motivações e barreiras? |      Sim        | Leandro de Almeida |    Versão 1.2 20/11             |
-| 02     | Apresenta Educação?
-(grau de instrução, área de formação, cursos realizados, alfabetismo) |      Não       | Leandro de Almeida |        Versão 1.2 20/11         |
-| 03     | 	Foi agrupado os usuários com características semelhantes, seja elas: faixa etária, experiência, atitude e tarefas primárias no sistema? |      Sim        | Leandro de Almeida |        Versão 1.2 20/11         |
+| **ID** | **Descrição**                                                                                                                                  | **Avaliação** | **Autor**             | **Observações**         |
+|--------|----------------------------------------------------------------------------------------------------------------------------------------------|--------------|----------------------|-------------------------|
+| 01     | O perfil de usuário foi elaborado com base em dados coletados por meio de técnicas de elicitação, considerando características como idade, experiência, motivações e barreiras? | Sim          | Leandro de Almeida   | Versão 1.2 - 20/11      |
+| 02     | Apresenta educação? (grau de instrução, área de formação, cursos realizados, alfabetismo)                                                     | Não          | Leandro de Almeida   | Versão 1.2 - 20/11      |
+| 03     | Os usuários foram agrupados com características semelhantes, sejam elas: faixa etária, experiência, atitude e tarefas primárias no sistema?  | Sim          | Leandro de Almeida   | Versão 1.2 - 20/11      |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -164,10 +160,10 @@
 ## Verificação do Termo de Consentimento
 
 <p align="justify">
-&emsp;&emsp;A tabela 07 apresenta a lista de verificação das Perfil de Usuário que foi elaborada com base no plano de ensino da disciplina e a tabela 08 apresenta a verificação.
+&emsp;&emsp;A tabela 09 apresenta a lista de verificação das Perfil de Usuário que foi elaborada com base no plano de ensino da disciplina e a tabela 10 apresenta a verificação.
 </p>
 
-<center>Tabela 07: Lista de verificação de Perfil de Usuário</center>
+<center>Tabela 09: Lista de verificação de Termo de Consentimento</center>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
@@ -179,7 +175,7 @@
 </center>
 <br>
 
-<center>Tabela 08: Verificação de Perfil de Usuário</center>
+<center>Tabela 10: Verificação de Termo de Consentimento</center>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
@@ -198,20 +194,38 @@
 Pode ser vista no [YouTube]().</p>
 
 <center>
-    <p>Vídeo 04: Verificação Perfil de Usuário</p>
+    <p>Vídeo 01: Verificação dos artefatos</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/I4t4dM06GCY?si=yVzMXvlskikF_K28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
+<center>
+
+Tabela 11: Tempo de início da verificação dos artefatos no vídeo
+
+| **Artefato** | **Inicio**   | 
+|:----------:|:----------:|
+| Técnicas de Elicitação | <a href="https://youtu.be/I4t4dM06GCY" target="_blank">00:00</a> | 
+| Técnicas de Priorização | <a href="https://youtu.be/I4t4dM06GCY?t=130" target="_blank">02:10</a> |
+| Personas | <a href="https://youtu.be/I4t4dM06GCY?t=207" target="_blank">3:27</a> |
+| Perfil de Usuário | <a href="https://youtu.be/I4t4dM06GCY?t=284" target="_blank">4:44</a> | 
+| Termo de Consentimento | <a href="https://youtu.be/I4t4dM06GCY?t=347" target="_blank">5:47</a> | 
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+
+</center>
+
 
 <br>
 
 ## Problemas encontrados
 
-<p align="justify">&emsp;&emsp;Embora os requisitos não funcionais tenham sido detalhados na história de usuário, o artefato não possui o cartão de especificação.</p>
+
+1. No artefato Perfil de Usuário não tem o atributo educação.
 
 ## Sugestões
 
-<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
+1. Acresentar atributo educação no artefato Perfil de Usuário.
 
 <br>
 

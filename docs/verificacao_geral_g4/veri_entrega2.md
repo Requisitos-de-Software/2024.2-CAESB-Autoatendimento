@@ -15,7 +15,7 @@
 ## Metodologia
 
 <p align="justify">
-&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/" target = "_blank">Técnicas de Elicitação</a> e <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/priorizacao/%24100/" target = "_blank">Técnicas de Priorização</a>, bem como do artefato <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/analise-perfil-usuario/perfil-usuario/" target="_blank">Perfil de Usuário</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo Caesb Autoatendimento.</p>
+&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/" target = "_blank">Técnicas de Elicitação</a> e <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/priorizacao/%24100/" target = "_blank">Técnicas de Priorização</a>, bem como do artefato <a href="#" target = "_blank">Personas</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/analise-perfil-usuario/perfil-usuario/" target="_blank">Perfil de Usuário</a> e <a href="#">Termo de Consentimento</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo Meu SUS Digital.</p>
 
 ## Verificação das Técnicas de Elicitação
 
@@ -61,7 +61,7 @@
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | Na técnica $100 mais dólares são gastos nos requisitos mais importantes ou urgentes? | Sim | André Barros   |  |
+| 01     | Na técnica $100 mais dólares são gastos nos requisitos mais importantes ou urgentes? |  | André Barros   |  |
 | 02     | Na matriz GUT o cálculo de prioridade é ultilizado para definir a prioridade dos requisitos? |  | André Barros   |  |
 | 03     | Na matriz GUT é explicado como o cálculo é feito? |  | André Barros   |  |
 
@@ -90,14 +90,14 @@
 ## Verificação Personas
 
 <p align="justify">
-&emsp;&emsp;A tabela 07 apresenta a lista de verificação das Perfil de Usuário que foi elaborada com base no plano de ensino da disciplina e a tabela 08 apresenta a verificação.
+&emsp;&emsp;A tabela 05 apresenta a lista de verificação das Perfil de Usuário que foi elaborada com base no plano de ensino da disciplina e a tabela 06 apresenta a verificação.
 </p>
 
-<center>Tabela 07: Lista de verificação de Personas</center>
+<center>Tabela 05: Lista de verificação de Personas</center>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo CAESB Autoatendimento, incluindo personas primárias, secundárias e antipersonas? |              | André Barros   |                 |
+| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo Meu SUS Digital, incluindo personas primárias, secundárias e antipersonas? |              | André Barros   |                 |
 | 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? |              | André Barros   |                 |
 | 03     | 	O elenco de personas e a razão da quantidade de personas é justificada?  |              | André Barros   |                 |
 
@@ -106,11 +106,11 @@
 </center>
 <br>
 
-<center>Tabela 08: Verificação de Personas</center>
+<center>Tabela 06: Verificação de Personas</center>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo CAESB Autoatendimento, incluindo personas primárias, secundárias e antipersonas? |    Não   | André Barros   |      --     ||
+| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo Meu SUS Digital, incluindo personas primárias, secundárias e antipersonas? |    Não   | André Barros   |      --     ||
 | 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? |     Não        | André Barros   |   --     |   |
 | 03     | 	O elenco de personas e a razão da quantidade de personas é justificada?  |       Não       | André Barros   |       --     |
 
@@ -143,12 +143,11 @@
 
 <center>Tabela 08: Verificação de Perfil de Usuário</center>
 
-| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
-|--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | O perfil de usuário foi elaborado com base em dados coletados por meio de Técnicas de Elicitação, considerando características como idade, experiência, motivações e barreiras? |      Sim        | Leandro de Almeida |    Versão 1.0 23/11             |
-| 02     | Apresenta Educação?
-(grau de instrução, área de formação, cursos realizados, alfabetismo) |      Sim       | Leandro de Almeida |        Versão 1.0 23/11         |
-| 03     | 	Foi agrupado os usuários com características semelhantes, seja elas: faixa etária, experiência, atitude e tarefas primárias no sistema? |      Sim        | Leandro de Almeida |        Versão 1.0 23/11         |
+| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**          | **Observações**         |
+|--------|------------------------------------------------------------------------------------------------|--------------|--------------------|-------------------------|
+| 01     | O perfil de usuário foi elaborado com base em dados coletados por meio de Técnicas de Elicitação, considerando características como idade, experiência, motivações e barreiras? | Sim          | Leandro de Almeida | Versão 1.0 23/11        |
+| 02     | Apresenta Educação? (grau de instrução, área de formação, cursos realizados, alfabetismo)       | Sim          | Leandro de Almeida | Versão 1.0 23/11        |
+| 03     | Foi agrupado os usuários com características semelhantes, seja elas: faixa etária, experiência, atitude e tarefas primárias no sistema? | Sim          | Leandro de Almeida | Versão 1.0 23/11        |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -159,10 +158,10 @@
 ## Verificação do Termo de Consentimento
 
 <p align="justify">
-&emsp;&emsp;A tabela 07 apresenta a lista de verificação das Perfil de Usuário que foi elaborada com base no plano de ensino da disciplina e a tabela 08 apresenta a verificação.
+&emsp;&emsp;A tabela 09 apresenta a lista de verificação das Perfil de Usuário que foi elaborada com base no plano de ensino da disciplina e a tabela 10 apresenta a verificação.
 </p>
 
-<center>Tabela 07: Lista de verificação de Perfil de Usuário</center>
+<center>Tabela 09: Lista de verificação de Termo de Consentimento</center>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
@@ -174,7 +173,7 @@
 </center>
 <br>
 
-<center>Tabela 08: Verificação de Perfil de Usuário</center>
+<center>Tabela 10: Verificação de Termo de Consentimento</center>
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
@@ -193,16 +192,32 @@
 Pode ser vista no [YouTube]().</p>
 
 <center>
-    <p>Vídeo 04: Verificação Perfil de Usuário</p>
+    <p>Vídeo 01: Verificação dos artefatos</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/aWBibwy-Ydw?si=3eFnVJA5dTY3XdFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<center>
+
+Tabela 11: Tempo de início da verificação dos artefatos no vídeo
+
+| **Artefato** | **Inicio**   | 
+|:----------:|:----------:|
+| Técnicas de Elicitação | <a href="https://youtu.be/aWBibwy-Ydw" target="_blank">00:00</a> | 
+| Técnicas de Priorização | <a href="https://youtu.be/aWBibwy-Ydw?t=107" target="_blank">01:47</a> |
+| Personas | <a href="https://youtu.be/aWBibwy-Ydw?t=196" target="_blank">3:16</a> |
+| Perfil de Usuário | <a href="https://youtu.be/aWBibwy-Ydw?t=252" target="_blank">4:12</a> | 
+| Termo de Consentimento | <a href="https://youtu.be/aWBibwy-Ydw?t=308" target="_blank">5:08</a> | 
+
+</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+
 </center>
 
 <br>
 
 ## Problemas encontrados
 
-<p align="justify">&emsp;&emsp;Embora os requisitos não funcionais tenham sido detalhados na história de usuário, o artefato não possui o cartão de especificação.</p>
+<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
 
 ## Sugestões
 

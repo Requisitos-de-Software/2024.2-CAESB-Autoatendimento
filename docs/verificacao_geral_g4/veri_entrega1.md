@@ -210,11 +210,11 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 
 | **Artefato** | **Inicio**   | 
 |:----------:|:----------:|
-| Rich Picture | <a href="https://youtu.be/msW6G8Pm0LI?t=1" target="_blank">00:00</a> | 
-| Cronograma | <a href="https://youtu.be/msW6G8Pm0LI?t=90" target="_blank">01:30</a> |
-| Equipe | <a href="https://youtu.be/msW6G8Pm0LI?t=168" target="_blank">2:48</a> |
-| Aplicativo Selecionado | <a href="https://youtu.be/msW6G8Pm0LI?t=208" target="_blank">3:28</a> | 
-| Ferramentas | <a href="https://youtu.be/msW6G8Pm0LI?t=267" target="_blank">4:27</a> | 
+| Rich Picture | <a href="https://youtu.be/EHaO6yjx2E0" target="_blank">00:00</a> | 
+| Cronograma | <a href="https://youtu.be/EHaO6yjx2E0?t=53" target="_blank">00:53</a> |
+| Equipe | <a href="https://youtu.be/EHaO6yjx2E0?t=135" target="_blank">2:15</a> |
+| Aplicativo Selecionado | <a href="https://youtu.be/EHaO6yjx2E0?t=193" target="_blank">3:13</a> | 
+| Ferramentas | <a href="https://youtu.be/EHaO6yjx2E0?t=263" target="_blank">4:23</a> | 
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 
