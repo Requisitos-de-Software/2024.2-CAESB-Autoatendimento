@@ -157,6 +157,18 @@ Pode ser vista no [YouTube](https://youtu.be/BvSHsR8dLL4?si=Car-hZXddcOMUKZf).</
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
 </center>
 
+<center>
+Tabela 09: Tempo de início da verificação dos artefatos no vídeo
+
+| **Artefato** | **Inicio**   | 
+|:----------:|:----------:|
+| Cenários | <a href="https://www.youtube.com/watch?v=BvSHsR8dLL4" target="_blank">00:00</a> | 
+| Casos de Uso | <a href="https://youtu.be/BvSHsR8dLL4?si=Y8sSr6bNs2JPcVuY&t=70" target="_blank">1:10</a> |
+| Léxicos | <a href="https://youtu.be/BvSHsR8dLL4?si=d7uUDzm1tZo9ZFGy&t=110" target="_blank">1:50</a> |
+| Especificação Suplementar | <a href="https://youtu.be/BvSHsR8dLL4?si=zh-ps_8ehM_TzvWP&t=145" target="_blank">2:25</a> | 
+
+</center>
+
 <br>
 
 ## Problemas encontrados

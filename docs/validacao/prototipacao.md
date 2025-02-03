@@ -162,6 +162,19 @@
 </center>
 <br>
 
+### Validação 2
+
+| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |Horário| **Data** |
+|-------------------|------------------|-------------|-----------------------------|---|-----------|
+| Matheus Barros | Expedito     |   4 min     |    FCTE-UnB     | 12:00 | 03/01/2025|
+
+<center>
+    <p>Vídeo 01: Validação protótipo 3 `1.2`, 4 `1.3` e 5 `1.4` </p>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/EWw0MdIXcVM?si=6FMdpbBZ0Ou_wea0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
+</center>
+<br>
+
 ## Referências Bibliográficas
 
 ><p >Guide to prototyping in Figma. Disponível em: <a href="https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma">https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma</a>. Acesso em: 26 de Janeiro de 2025.</p>
