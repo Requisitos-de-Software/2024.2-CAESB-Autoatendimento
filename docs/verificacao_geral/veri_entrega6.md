@@ -105,6 +105,21 @@ Pode ser vista no [YouTube]().</p>
 
 <br>
 
+<center>
+
+Tabela 05: Tempo de início da verificação dos artefatos no vídeo
+
+| **Artefato** | **Inicio**   | 
+|:----------:|:----------:|
+| Comprovação Informal| <a href="https://www.youtube.com/watch?v=YM3eKs3b2ag&t=32s" target="_blank">00:32</a>  | 
+| Protótipos | <a href="https://www.youtube.com/watch?v=YM3eKs3b2ag&t=119s" target="_blank">01:59</a> |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+
+</center>
+
+<br>
+
 ## Problemas encontrados
 
 <p align="justify">&emsp;&emsp;Embora os requisitos não funcionais tenham sido detalhados na história de usuário, o artefato não possui o cartão de especificação.</p>
@@ -117,7 +132,7 @@ Pode ser vista no [YouTube]().</p>
 
 ## Referências Bibliográficas
 
-> <p id="1">1. CARDOSO, Renato. Engenharia dos requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf .Acesso em: 17 de Dez. de 2024.
+> <p id="1">1. CARDOSO, Renato. Engenharia dos requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf. Acesso em: 31 de Jan. de 2025.
 </p>
 
 <center><figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
@@ -129,14 +144,35 @@ Pode ser vista no [YouTube]().</p>
 </center>
 
 <br>
+> <p id="2">2. SOARES, Larissa. Aprendendo sobre a significância dos testes de protótipo para a garantia da qualidade na engenharia de produtos tecnológicos. Disponível em: https://downloads.editoracientifica.com.br/articles/220308105.pdf. Acesso em: 31 de Jan. de 2025.
+</p>
 
-> <p id="1">1. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 17 de Dez. de 2024.
-
- </p>
+<center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
  
+![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640)
 
-> <p>2. SERRANO, Milene. Requisitos – Aula 17. Disponível em: https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf. Acesso em: 17 de Dez. 2024</p>
+ <center>
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
 
+<br>
+<center><figcaption>Imagem 3: Foto da Referência 3</figcaption></center>
+ 
+![ref2](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8)
+
+ <center>
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
+
+<br>
+
+> <p id="3">3. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 31 de Jan. de 2025.</p>
+ 
+> <p>4. SERRANO, Milene. Requisitos – Aula 17. Disponível em: https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf. Acesso em: 31 de Jan. 2025.</p>
+
+> <p>5. Exemplo de Projeto 2 - VLC Media Player. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 31 de Jan. 2025.</p>
+
+<br>
 
 ## Histórico de Versão
 
@@ -144,4 +180,5 @@ Pode ser vista no [YouTube]().</p>
 | :----: | :--------: | :-----------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
 |  1.0   | 31/01/2025 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10)| 
 |  1.1   | 01/02/2025 | Adicionando vídeo de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10)| 
+|  1.2   | 03/02/2025 | Adicionando tabela que referencia o tempo do vídeo de cada inspeção| [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10)| 
  
