@@ -209,11 +209,11 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 
 | **Artefato** | **Inicio**   | 
 |:----------:|:----------:|
-| Rich Picture | 00:00  | 
-| Cronograma | 1:33 |
-| Equipe | 2:52 |
-| Aplicativo Selecionado | 3:30 | 
-| Ferramentas | 4:28 | 
+| Rich Picture | <a href="https://youtu.be/msW6G8Pm0LI?t=1" target="_blank">00:00</a>  | 
+| Cronograma | <a href="https://youtu.be/msW6G8Pm0LI?t=93" target="_blank">01:33</a> |
+| Equipe | <a href="https://youtu.be/msW6G8Pm0LI?t=172" target="_blank">02:52</a> |
+| Aplicativo Selecionado | <a href="https://youtu.be/msW6G8Pm0LI?t=210" target="_blank">03:30</a> | 
+| Ferramentas | <a href="https://youtu.be/msW6G8Pm0LI?t=260" target="_blank">04:28</a> | 
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 
@@ -221,7 +221,7 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 
 ## Problemas encontrados
 
-<p align="justify">&emsp;&emsp;Embora os requisitos não funcionais tenham sido detalhados na história de usuário, o artefato não possui o cartão de especificação.</p>
+<p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
 
 ## Sugestões
 
