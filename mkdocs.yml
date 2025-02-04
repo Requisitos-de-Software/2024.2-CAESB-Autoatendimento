@@ -82,24 +82,25 @@ nav:
       - Forward-from: pos_rastreabilidade/forwardfrom.md
       - Backward-from: pos_rastreabilidade/backwardfrom.md
       - Matriz de Rastreabilidade: pos_rastreabilidade/matriz.md
-  - Validação:
+  - Verificação e Validação:
       - Comprovação Informal: validacao/compro_informal.md
       - Prototipação: validacao/prototipacao.md
-  - Verificação Geral: 
-      - Nosso Grupo: 
+      - Verificação Geral: 
+        - Nosso Grupo: 
           - Entrega 1: verificacao_geral/veri_entrega1.md
           - Entrega 2: verificacao_geral/veri_entrega2.md
           - Entrega 3: verificacao_geral/veri_entrega3.md
           - Entrega 4: verificacao_geral/veri_entrega4.md
           - Entrega 5: verificacao_geral/veri_entrega5.md
           - Entrega 6: verificacao_geral/veri_entrega6.md
-      - Grupo + 1:
+        - Grupo + 1:
           - Entrega 1: verificacao_geral_g4/veri_entrega1.md
           - Entrega 2: verificacao_geral_g4/veri_entrega2.md
           - Entrega 3: verificacao_geral_g4/veri_entrega3.md
           - Entrega 4: verificacao_geral_g4/
           - Entrega 5: verificacao_geral_g4/veri_entrega5.md
           - Entrega 6: verificacao_geral_g4/veri_entrega6_g4.md
+         
   - Verificação:
       - Grupo 03 (Nosso Grupo):
         - Etapa 1:
