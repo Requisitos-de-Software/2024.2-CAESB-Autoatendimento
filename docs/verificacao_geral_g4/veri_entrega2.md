@@ -15,7 +15,7 @@
 ## Metodologia
 
 <p align="justify">
-&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/" target = "_blank">Técnicas de Elicitação</a> e <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/priorizacao/%24100/" target = "_blank">Técnicas de Priorização</a>, bem como do artefato <a href="#" target = "_blank">Personas</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/analise-perfil-usuario/perfil-usuario/" target="_blank">Perfil de Usuário</a> e <a href="#">Termo de Consentimento</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo Meu SUS Digital.</p>
+&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/" target = "_blank">Técnicas de Elicitação</a> e <a href = "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/priorizacao/%24100/" target = "_blank">Técnicas de Priorização</a>, bem como do artefato <a href="#">Personas</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/analise-perfil-usuario/perfil-usuario/" target="_blank">Perfil de Usuário</a> e <a href="#">Termo de Consentimento</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo Meu SUS Digital.</p>
 
 ## Verificação das Técnicas de Elicitação
 
@@ -61,9 +61,9 @@
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | Na técnica $100 mais dólares são gastos nos requisitos mais importantes ou urgentes? |  | André Barros   |  |
-| 02     | Na matriz GUT o cálculo de prioridade é ultilizado para definir a prioridade dos requisitos? |  | André Barros   |  |
-| 03     | Na matriz GUT é explicado como o cálculo é feito? |  | André Barros   |  |
+| 01     | Na técnica $100 mais dólares são gastos nos requisitos mais importantes ou urgentes? |  | Leandro de Almeida   |  |
+| 02     | Na matriz GUT o cálculo de prioridade é ultilizado para definir a prioridade dos requisitos? |  | Leandro de Almeida   |  |
+| 03     | Na matriz GUT é explicado como o cálculo é feito? |  | Leandro de Almeida   |  |
 
 
 <center>
@@ -75,9 +75,9 @@
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | Na técnica $100 mais dólares são gastos nos requisitos mais importantes ou urgentes? | Sim | André Barros   | Versão 1.0 24/11 |
-| 02     | Na matriz GUT o cálculo de prioridade é ultilizado para definir a prioridade dos requisitos? | Sim | André Barros   | Versão 1.1 30/11 |
-| 03     | Na matriz GUT é explicado como o cálculo é feito? | Sim | André Barros   | Versão 1.1 30/11 |
+| 01     | Na técnica $100 mais dólares são gastos nos requisitos mais importantes ou urgentes? | Sim | Leandro de Almeida   | Versão 1.0 24/11 |
+| 02     | Na matriz GUT o cálculo de prioridade é ultilizado para definir a prioridade dos requisitos? | Sim | Leandro de Almeida   | Versão 1.1 30/11 |
+| 03     | Na matriz GUT é explicado como o cálculo é feito? | Sim | Leandro de Almeida   | Versão 1.1 30/11 |
 
 
 <center>
@@ -97,9 +97,9 @@
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo Meu SUS Digital, incluindo personas primárias, secundárias e antipersonas? |              | André Barros   |                 |
-| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? |              | André Barros   |                 |
-| 03     | 	O elenco de personas e a razão da quantidade de personas é justificada?  |              | André Barros   |                 |
+| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo Meu SUS Digital, incluindo personas primárias, secundárias e antipersonas? |              | Leandro de Almeida   |                 |
+| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? |              | Leandro de Almeida   |                 |
+| 03     | 	O elenco de personas e a razão da quantidade de personas é justificada?  |              | Leandro de Almeida   |                 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -110,9 +110,9 @@
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo Meu SUS Digital, incluindo personas primárias, secundárias e antipersonas? |    Não   | André Barros   |      --     ||
-| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? |     Não        | André Barros   |   --     |   |
-| 03     | 	O elenco de personas e a razão da quantidade de personas é justificada?  |       Não       | André Barros   |       --     |
+| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo Meu SUS Digital, incluindo personas primárias, secundárias e antipersonas? |    Não   | Leandro de Almeida   |      --     ||
+| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? |     Não        | Leandro de Almeida   |   --     |   |
+| 03     | 	O elenco de personas e a razão da quantidade de personas é justificada?  |       Não       | Leandro de Almeida   |       --     |
 
 
 <center>

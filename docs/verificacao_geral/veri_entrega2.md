@@ -15,7 +15,7 @@
 ## Metodologia
 
 <p align="justify">
-&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/" target = "_blank">Técnicas de Elicitação</a> e <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/introducao/" target = "_blank">Técnicas de Priorização</a>, bem como do artefato <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/personas/" target = "_blank">Personas</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/perfil_de_usuario/" target="_blank">Perfil de Usuário</a> e <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/termo/">Termo de Consentimento</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo Caesb Autoatendimento.</p>
+&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/" target = "_blank">Técnicas de Elicitação</a> e <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/introducao/" target = "_blank">Técnicas de Priorização</a>, bem como do artefato <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/personas/" target = "_blank">Personas</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/perfil_de_usuario/" target="_blank">Perfil de Usuário</a> e <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/termo/" target="_blank">Termo de Consentimento</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo Caesb Autoatendimento.</p>
 
 ## Verificação das Técnicas de Elicitação
 
@@ -63,10 +63,10 @@
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | Os requisitos foram corretamente classificados nas categorias "In" e "Out" da técnica "In or Out"? |  | André Barros |  |
-| 02     | Os requisitos foram corretamente classificados nas categorias "Must-Have", "Should-Have", "Could-Have" e "Won't Have" utilizando o método MoSCoW? |  | André Barros | |
-| 03     | A técnica First Things First considera corretamente os benefícios, prejuízos, custos e riscos para determinar a prioridade dos requisitos? |  | André Barros |  |
-| 04    | A técnica "First Things First" foi corretamente aplicada para priorização dos requisitos, considerando os critérios de benefício, penalidade, custo e risco, e as pontuações atribuídas a cada requisito? |  | André Barros |  |
+| 01     | Os requisitos foram corretamente classificados nas categorias "In" e "Out" da técnica "In or Out"? |  | Leandro de Almeida |  |
+| 02     | Os requisitos foram corretamente classificados nas categorias "Must-Have", "Should-Have", "Could-Have" e "Won't Have" utilizando o método MoSCoW? |  | Leandro de Almeida | |
+| 03     | A técnica First Things First considera corretamente os benefícios, prejuízos, custos e riscos para determinar a prioridade dos requisitos? |  | Leandro de Almeida |  |
+| 04    | A técnica "First Things First" foi corretamente aplicada para priorização dos requisitos, considerando os critérios de benefício, penalidade, custo e risco, e as pontuações atribuídas a cada requisito? |  | Leandro de Almeida |  |
 
 
 <center>
@@ -78,10 +78,10 @@
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | Os requisitos foram corretamente classificados nas categorias "In" e "Out" da técnica "In or Out"? | Sim | André Barros | Versão 1.3 26/11 |
-| 02     | Os requisitos foram corretamente classificados nas categorias "Must-Have", "Should-Have", "Could-Have" e "Won't Have" utilizando o método MoSCoW? | Sim | André Barros | Versão 1.1 24/11 |
-| 03     | A técnica First Things First considera corretamente os benefícios, prejuízos, custos e riscos para determinar a prioridade dos requisitos? | Sim | André Barros | Versão 1.3 26/11 |
-| 04    | A técnica "First Things First" foi corretamente aplicada para priorização dos requisitos, considerando os critérios de benefício, penalidade, custo e risco, e as pontuações atribuídas a cada requisito? | Sim | André Barros | Versão 1.3 26/11 |
+| 01     | Os requisitos foram corretamente classificados nas categorias "In" e "Out" da técnica "In or Out"? | Sim | Leandro de Almeida | Versão 1.3 26/11 |
+| 02     | Os requisitos foram corretamente classificados nas categorias "Must-Have", "Should-Have", "Could-Have" e "Won't Have" utilizando o método MoSCoW? | Sim | Leandro de Almeida | Versão 1.1 24/11 |
+| 03     | A técnica First Things First considera corretamente os benefícios, prejuízos, custos e riscos para determinar a prioridade dos requisitos? | Sim | Leandro de Almeida | Versão 1.3 26/11 |
+| 04    | A técnica "First Things First" foi corretamente aplicada para priorização dos requisitos, considerando os critérios de benefício, penalidade, custo e risco, e as pontuações atribuídas a cada requisito? | Sim | Leandro de Almeida | Versão 1.3 26/11 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -99,9 +99,9 @@
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo CAESB Autoatendimento, incluindo personas primárias, secundárias e antipersonas? |              | André Barros   |                 |
-| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? |              | André Barros   |                 |
-| 03     | 	O elenco de personas e a razão da quantidade de personas é justificada?  |              | André Barros   |                 |
+| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo CAESB Autoatendimento, incluindo personas primárias, secundárias e antipersonas? |              | Leandro de Almeida   |                 |
+| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? |              | Leandro de Almeida   |                 |
+| 03     | 	O elenco de personas e a razão da quantidade de personas é justificada?  |              | Leandro de Almeida   |                 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -112,9 +112,9 @@
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo CAESB Autoatendimento, incluindo personas primárias, secundárias e antipersonas? |    Sim          | André Barros   |      Versão 1.0 20/11           |
-| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? |     Sim         | André Barros   |   Versão 1.0 20/11              |
-| 03     | 	O elenco de personas e a razão da quantidade de personas é justificada?  |       Sim       | André Barros   |       Versão 1.0 20/11          |
+| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo CAESB Autoatendimento, incluindo personas primárias, secundárias e antipersonas? |    Sim          | Leandro de Almeida   |      Versão 1.0 20/11           |
+| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? |     Sim         | Leandro de Almeida   |   Versão 1.0 20/11              |
+| 03     | 	O elenco de personas e a razão da quantidade de personas é justificada?  |       Sim       | Leandro de Almeida   |       Versão 1.0 20/11          |
 
 
 <center>

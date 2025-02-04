@@ -46,7 +46,7 @@
 |--------|-------------------------------------------------------------------------------------------------|--------------|---------------------|-----------------|
 | 01     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema? | Sim | Leandro de Almeida | Vesão 1.7 30/11 |
 | 02     | O Rich Picture conta uma história? | Sim | Letícia Resende | Vesão 1.3 30/11 |
-| 03     | O Rich Picture contém atores? | Sim | Matheus Barros |                 |
+| 03     | O Rich Picture contém atores? | Sim | Matheus Barros |     Vesão 1.3 30/11            |
 | 04     | O Rich Picture representa interações relevantes entre os atores e o sistema? | Sim | Nathan Almeida | Vesão 1.3 30/11 |
 | 05     | O Rich Picture possui legenda? | Sim | João Victor |  Vesão 1.3 30/11  |
 | 06     | O artefato possui os 5 componentes essenciais de um "Rich Picture"? |  Sim  | Leandro de Almeida | Vesão 1.3 30/11 |
@@ -172,7 +172,7 @@
 
 | **ID** | **Descrição**     | **Avaliação** | **Autor**      | **Observações** |
 |--------|-------------------|---------------|----------------|-----------------|
-| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolviemnto do projeto? |  | Leandro de Almeida |  |
+| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolvimento do projeto? |  | Leandro de Almeida |  |
 | 02     | O artefato possui o nome e a logo de todas as ferramentas? |  | Leandro de Almeida |  |
 | 03     | O artefato possui a finalidade de todas as ferramentas? |  | Leandro de Almeida |  |
 
@@ -185,7 +185,7 @@
 
 | **ID** | **Descrição**     | **Avaliação** | **Autor**      | **Observações** |
 |--------|-------------------|---------------|----------------|-----------------|
-| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolviemnto do projeto? | Sim | Leandro de Almeida | Versão 1.0 03/11 |
+| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolvimento do projeto? | Sim | Leandro de Almeida | Versão 1.0 03/11 |
 | 02     | O artefato possui o nome e a logo de todas as ferramentas? |Sim  | Leandro de Almeida | Versão 1.0 03/11 |
 | 03     | O artefato possui a finalidade de todas as ferramentas? |Sim  | Leandro de Almeida | Versão 1.0 03/11 |
 
@@ -200,7 +200,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/embed/EHaO6yjx2E0?si=rHvdfsj
 
 <center>
     <p>Vídeo 01: Verificação dos artefatos</p>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/EHaO6yjx2E0?si=rHvdfsjZmBqgtlG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <iframe width="760" height="515" src="https://www.youtube.com/embed/EHaO6yjx2E0?si=rHvdfsjZmBqgtlG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
@@ -235,10 +235,10 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 > <p id="1">1. BENYON, D. Interação humano-computador. 2. ed. São Paulo: Pearson Universidades, 2011. ISBN 978-85-7936-109-8. 
 > <p id="1">2. APRENDER 3. Introducing Rich Pictures – Rich Picture Drawing Guidelines. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305239. Acesso em: 3 fev. 2025.</p>
 <center><figcaption>Imagem 1: Foto da Referência 1</figcaption>
-<center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center>
+<center><img src="https://github.com/leomitx10/leomitx10/blob/main/Captura%20de%20tela%20de%202025-02-03%2019-13-38.png?raw=true"></center>
 <center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
 <center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
-<center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center>
+<center><img src="https://github.com/leomitx10/leomitx10/blob/main/Captura%20de%20tela%20de%202025-02-03%2019-15-12.png?raw=true"></center>
 <center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
 
 
