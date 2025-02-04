@@ -41,7 +41,7 @@ A tabela 01 apresenta a lista de verificação do artefato de Backlog que foi el
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |   Sim       | Joao Victor Marques | 01/02 versão 1.2  |
+| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |   Não       | Joao Victor Marques | 01/02 versão 1.2  |
 | 02     | O backlog do produto foi constantemente revisado e atualizado para refletir mudanças nas necessidades do cliente ou no escopo do projeto? | Sim | Joao Victor Marques |01/02 versão 1.2 |
 | 03     | Todos os itens do backlog têm uma descrição clara e compreensível?   |  Sim   | Joao Victor Marques | 01/02 versão 1.2 |
 
@@ -107,9 +107,9 @@ A tabela 05 apresenta a lista de verificação do artefato do NFR Framework que 
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? |   Sim       | Joao Victor Marques | 01/02 versão 1.2  |
+| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? |   Não       | Joao Victor Marques | 01/02 versão 1.2  |
 | 02     | Os requisitos não funcionais documentados no NFR Framework foram rastreáveis para garantir que sejam implementados e testados adequadamente? | Sim | Joao Victor Marques |01/02 versão 1.2 |
-| 03     | Os NFR Framework foram usados para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade?  |  Sim   | Joao Victor Marques | 01/02 versão 1.2 |
+| 03     | Os NFR Framework foram usados para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade?  |  Não   | Joao Victor Marques | 01/02 versão 1.2 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
