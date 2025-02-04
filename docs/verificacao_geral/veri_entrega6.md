@@ -134,25 +134,10 @@ Tabela 05: Tempo de início da verificação dos artefatos no vídeo
 
 > <p id="1">1. CARDOSO, Renato. Engenharia dos requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf. Acesso em: 31 de Jan. de 2025.
 </p>
-
-<center><figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
- 
- <center>
-![ref1](../../assets/nfrvvee.png)
-</center>
-
- <center>
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
-</center>
-
-<br>
 > <p id="2">2. SOARES, Larissa. Aprendendo sobre a significância dos testes de protótipo para a garantia da qualidade na engenharia de produtos tecnológicos. Disponível em: https://downloads.editoracientifica.com.br/articles/220308105.pdf. Acesso em: 31 de Jan. de 2025.
 </p>
-
 > <p id="3">3. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 31 de Jan. de 2025.</p>
- 
 > <p>4. SERRANO, Milene. Requisitos – Aula 17. Disponível em: https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf. Acesso em: 31 de Jan. 2025.</p>
-
 > <p>5. Exemplo de Projeto 2 - VLC Media Player. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 31 de Jan. 2025.</p>
 
 <br>
