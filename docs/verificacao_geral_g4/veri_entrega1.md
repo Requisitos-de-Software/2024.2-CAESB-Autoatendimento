@@ -28,10 +28,10 @@
 | **ID** | **Descrição**                                                                                     | **Avaliação** | **Autor**            | **Observações** |
 |--------|-------------------------------------------------------------------------------------------------|--------------|---------------------|-----------------|
 | 01     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema?                    |              | Leandro de Almeida |                |
-| 02     | O Rich Picture conta uma história?                                                              |              | Letícia Resende     |                 |
-| 03     | O Rich Picture contém atores?                                                                   |              | Matheus Barros      |                 |
-| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema?   |              | Nathan Almeida      |                 |
-| 05     | O Rich Picture possui legenda?                                                                  |              | João Victor         |                 |
+| 02     | O Rich Picture conta uma história?                                                              |              | Leandro de Almeida |                 |
+| 03     | O Rich Picture contém atores?                                                                   |              | Leandro de Almeida     |                 |
+| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema?   |              | Leandro de Almeida     |                 |
+| 05     | O Rich Picture possui legenda?                                                                  |              | Leandro de Almeida         |                 |
 | 06     | O artefato possui os 5 componentes essenciais de um "Rich Picture"? |              | Leandro de Almeida |                 |
 
 
@@ -45,10 +45,10 @@
 | **ID** | **Descrição**                                                                                     | **Avaliação** | **Autor**            | **Observações** |
 |--------|-------------------------------------------------------------------------------------------------|--------------|---------------------|-----------------|
 | 01     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema? | Sim | Leandro de Almeida | Vesão 1.7 30/11 |
-| 02     | O Rich Picture conta uma história? | Sim | Letícia Resende | Vesão 1.3 30/11 |
-| 03     | O Rich Picture contém atores? | Sim | Matheus Barros |     Vesão 1.3 30/11            |
-| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema? | Sim | Nathan Almeida | Vesão 1.3 30/11 |
-| 05     | O Rich Picture possui legenda? | Sim | João Victor |  Vesão 1.3 30/11  |
+| 02     | O Rich Picture conta uma história? | Sim | Leandro de Almeida | Vesão 1.3 30/11 |
+| 03     | O Rich Picture contém atores? | Sim | Leandro de Almeida|     Vesão 1.3 30/11            |
+| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema? | Sim | Leandro de Almeida| Vesão 1.3 30/11 |
+| 05     | O Rich Picture possui legenda? | Sim | Leandro de Almeida |  Vesão 1.3 30/11  |
 | 06     | O artefato possui os 5 componentes essenciais de um "Rich Picture"? |  Sim  | Leandro de Almeida | Vesão 1.3 30/11 |
 
 <center>
