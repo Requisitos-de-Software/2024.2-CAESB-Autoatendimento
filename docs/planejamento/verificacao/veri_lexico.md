@@ -24,13 +24,13 @@ Neste documento, realizou-se a avaliação do artefato dos <a href="https://requ
 </p>
 <center>Tabela 01: Lista Verificação dos Léxicos</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01   | 1. As especificações dos Léxicos? |  | André Barros    |       |
-| 02   | 2. A definição do usuário nos Léxicos?    |  |   André Barros      |   |
-| 03   | 3. Os léxicos possuem ligações entre si (hiper links)? |  | André Barros |      |  
-| 04   | 4. Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?|  | André Barros |      |  
-| 05   | 5. Nos léxicos possuem Impacto nas classificações dos léxicos?|  | Letícia Resende |      |  
+| **ID** | **Descrição**  | 
+|--------|----------------|
+| 01   | 1. As especificações dos Léxicos? |  
+| 02   | 2. A definição do usuário nos Léxicos?    |  
+| 03   | 3. Os léxicos possuem ligações entre si (hiper links)? | 
+| 04   | 4. Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?| 
+| 05   | 5. Nos léxicos possuem Impacto nas classificações dos léxicos?| 
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -40,13 +40,13 @@ Neste documento, realizou-se a avaliação do artefato dos <a href="https://requ
 
 <center>Tabela 02: Verificação dos Léxicos</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01     | 1. As especificações dos Léxicos?  | Sim | André Barros    | Versão 1.0  06/12.       |
-| 02     | 2. A definição do usuário nos Léxicos?    | Sim  |   André Barros      | Versão 1.0  06/12.          |
-| 03     | 3. Os léxicos possuem ligações entre si (hiper links)?| Sim  |  André Barros  |      Versão 1.0  06/12.      |  
-| 04    |  4. Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?| Sim  | André Barros  |      Versão 1.0  06/12.      |  
-| 05    |  5. Nos léxicos possuem Impacto nas classificações dos léxicos?| Sim  | Letícia Resende |      Versão 1.0  06/12.      |  
+| **ID** | **Descrição**  | **Avaliação** | **Observações**    |
+|--------|----------------|---------------|--|
+| 01     | 1. As especificações dos Léxicos?  | Sim | Versão 1.0  06/12.   |
+| 02     | 2. A definição do usuário nos Léxicos?    | Sim  | Versão 1.0  06/12. |
+| 03     | 3. Os léxicos possuem ligações entre si (hiper links)?| Sim  |  Versão 1.0  06/12.  |  
+| 04    |  4. Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?| Sim  | Versão 1.0  06/12.  |  
+| 05    |  5. Nos léxicos possuem Impacto nas classificações dos léxicos?| Sim  | Versão 1.0  06/12.   |  
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -70,7 +70,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 
 > <p id="1">https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf</p>
@@ -114,8 +114,8 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 06/12/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.1   | 07/12/2024 | Adicionando Vídeo| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
-|  1.2   | 10/12/2024 | Austes pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
-
+|  1.2   | 10/12/2024 | Ajutes pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.3   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 
 
 

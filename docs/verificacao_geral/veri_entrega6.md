@@ -28,13 +28,13 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 <center>Tabela 01: Lista de Verificação da Comprovação Informal</center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   | **Referência**|
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |---------------|
-| 01     | O produto atende às expectativas do usuário conforme descrito na etapa de validação? |          | Letícia Resende |  |![ref1](../../assets/nfrvvee.png) |
-| 02     | A descrição em linguagem natural permitiu que os clientes identificassem possíveis problemas na formulação dos requisitos?         |  | Letícia Resende | | ![ref1](../../assets/nfrvvee.png) |
-| 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto  |  | Letícia Resende |  | ![ref1](../../assets/nfrvvee.png) |
-| 04     | A mensagem enviada por (e-mail ou redes sociais) foi estruturada e formal, adequada à natureza técnica do conteúdo?   |   | Letícia Resende |  | ![ref1](../../assets/nfrvvee.png) |
-| 05     | A comunicação utilizada foi suficiente para alcançar o objetivo de validar o projeto junto aos clientes?    |   | Letícia |  | ![ref1](../../assets/nfrvvee.png) |
+| **ID** | **Descrição**                                              | 
+| ------ | ---------------------------------------------------------- | 
+| 01     | O produto atende às expectativas do usuário conforme descrito na etapa de validação? |  
+| 02     | A descrição em linguagem natural permitiu que os clientes identificassem possíveis problemas na formulação dos requisitos? |  
+| 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto  | 
+| 04     | A mensagem enviada por (e-mail ou redes sociais) foi estruturada e formal, adequada à natureza técnica do conteúdo?  |   
+| 05     | A comunicação utilizada foi suficiente para alcançar o objetivo de validar o projeto junto aos clientes? |   
 
 
 <center>
@@ -44,13 +44,13 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 <center>Tabela 02: Verificação da Comprovação Informal</center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   | **Referências**|
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |----------------|
-| 01     | O produto atende às expectativas do usuário conforme descrito na etapa de validação? |   Sim       | Letícia Resende | 31/01 versão 1.2  | ![ref1](../../assets/nfrvvee.png) |
-| 02     | A descrição em linguagem natural permitiu que os clientes identificassem possíveis problemas na formulação dos requisitos? | Sim | Letícia Resende |31/01 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
-| 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto?  |  Sim   | Letícia Resende | 31/01 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
-| 04     | A mensagem enviada por (e-mail ou redes sociais) foi estruturada e formal, adequada à natureza técnica do conteúdo? |    Sim  | Letícia Resende | 31/01 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
-| 05     | A comunicação utilizada foi suficiente para alcançar o objetivo de validar o projeto junto aos clientes?  | Sim   | Letícia |31/01 versão 1.2  |![ref1](../../assets/nfrvvee.png) |
+| **ID** | **Descrição**                                              | **Avaliação** | **Observações**   |
+| ------ | ---------------------------------------------------------- | ------------- | ------------ | 
+| 01     | O produto atende às expectativas do usuário conforme descrito na etapa de validação? |  Sim   | versão 1.2 31/01   |
+| 02     | A descrição em linguagem natural permitiu que os clientes identificassem possíveis problemas na formulação dos requisitos? | Sim | versão 1.2  31/01 |
+| 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto?  |  Sim   |  versão 1.2  31/01|
+| 04     | A mensagem enviada por (e-mail ou redes sociais) foi estruturada e formal, adequada à natureza técnica do conteúdo? | Sim  |  versão 1.2  31/01 |
+| 05     | A comunicação utilizada foi suficiente para alcançar o objetivo de validar o projeto junto aos clientes?  | Sim   | versão 1.2  31/01  |
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
@@ -65,13 +65,13 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 </p>
 <center>Tabela 03: Lista de verificação dos Protótipos </center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |--------------|
-| 01    | Os ciclos realizados foram suficientes de iteração para garantir a qualidade do produto final?|  | Letícia Resende|  | ![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 02    | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | | Letícia Resende || ![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8)|
-| 03     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  | Letícia Resende|  | ![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8)|
-| 04     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |    |Letícia Resende|  | ![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8)|
-| 05     | Os protótipos foram validados com usuários reais por meio de entrevistas?  |    | Letícia Resende | | ![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8)|
+| **ID** | **Descrição**                                              | 
+| ------ | ---------------------------------------------------------- | 
+| 01    | Os ciclos realizados foram suficientes de iteração para garantir a qualidade do produto final?| 
+| 02    | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | 
+| 03     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  | 
+| 04     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? | 
+| 05     | Os protótipos foram validados com usuários reais por meio de entrevistas?  | 
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
@@ -81,13 +81,13 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 <center>Tabela 04: Verificação dos Protótipos</center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |---------------|
-| 01     | Os ciclos realizados foram suficientes de iteração para garantir a qualidade do produto final?|   Sim | Letícia Resende | 31/01 versão 1.4  | ![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8)|
-| 02     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | Sim | Letícia Resende |31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8)|
-| 03     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  Sim   | Letícia Resende | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8)|
-| 04     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |    Sim  | Letícia Resende | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8)|
-| 05     | Os protótipos foram validados com usuários reais por meio de entrevistas?  | Sim   | Letícia |31/01 versão 1.4  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8)|
+| **ID** | **Descrição**                                              | **Avaliação** |**Observações**   |
+| ------ | ---------------------------------------------------------- | ------------- | ------------ | 
+| 01     | Os ciclos realizados foram suficientes de iteração para garantir a qualidade do produto final?|   Sim | versão 1.4  31/01 |
+| 02     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | Sim |versão 1.4 31/01 |
+| 03     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  Sim   |  versão 1.4 31/01|
+| 04     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |    Sim  | versão 1.4  31/01|
+| 05     | Os protótipos foram validados com usuários reais por meio de entrevistas?  | Sim   |  versão 1.4  31/01|
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>

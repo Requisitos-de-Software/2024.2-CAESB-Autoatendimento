@@ -24,11 +24,11 @@ Neste documento, realizou-se a avaliação do artefato dos <a href="https://requ
 </p>
 <center>Tabela 01: Lista Verificação dos Cenários</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01   | <p align="justify">Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo, Contexto, Atores, Recursos, Exceção e Episódios)?</p>  |  | André Barros    |       |
-| 02   | <p align="justify">As especificações dos cenários para o projeto?</p>    |  |   André Barros      |   |
-| 03   |<p align="justify">As especificações dos cenários estão claras e detalhadas o suficiente para orientar o desenvolvimento, incluindo todos os elementos necessários e possíveis variações?</p> |  | Letícia Resende |      |  
+| **ID** | **Descrição**  | 
+|--------|----------------|
+| 01   | <p align="justify">Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo, Contexto, Atores, Recursos, Exceção e Episódios)?</p>  | 
+| 02   | <p align="justify">As especificações dos cenários para o projeto?</p>    |  
+| 03   |<p align="justify">As especificações dos cenários estão claras e detalhadas o suficiente para orientar o desenvolvimento, incluindo todos os elementos necessários e possíveis variações?</p> | 
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -38,11 +38,11 @@ Neste documento, realizou-se a avaliação do artefato dos <a href="https://requ
 
 <center>Tabela 02: Verificação dos Cenários</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01     | <p align="justify">Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo, Contexto, Atores, Recursos, Exceção e Episódios)?</p>  | Sim | André Barros    | Versão 1.0  06/12.       |
-| 02     | <p align="justify">As especificações dos cenários para o projeto?</p>    | Sim  |   André Barros      | Versão 1.0  06/12.          |
-| 03    |<p align="justify">As especificações dos cenários estão claras e detalhadas o suficiente para orientar o desenvolvimento, incluindo todos os elementos necessários e possíveis variações?</p> | Sim  | Letícia Resende |      Versão 1.0  06/12.      |  
+| **ID** | **Descrição**  | **Avaliação** | **Observações**    |
+|--------|----------------|---------------|--|
+| 01     | <p align="justify">Os cenários possuem os elementos básicos de um cenário (Título, Metas/Objetivo, Contexto, Atores, Recursos, Exceção e Episódios)?</p>  | Sim | Versão 1.0  06/12. |
+| 02     | <p align="justify">As especificações dos cenários para o projeto?</p>    | Sim  |  Versão 1.0  06/12. |
+| 03    |<p align="justify">As especificações dos cenários estão claras e detalhadas o suficiente para orientar o desenvolvimento, incluindo todos os elementos necessários e possíveis variações?</p> | Sim  | Versão 1.0  06/12.  |  
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -66,7 +66,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 
 > <p id="1">1.WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013 p.315
@@ -103,7 +103,9 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 06/12/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.1   | 07/12/2024 | Adicionando Vídeo| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
-|  1.2   | 10/12/2024 | Austes pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.2   | 10/12/2024 | Ajustes pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.3   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
+
 
 
 

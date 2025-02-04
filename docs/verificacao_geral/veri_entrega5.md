@@ -20,18 +20,17 @@
 
 Tabela 01: Lista de verificação Pós-rastreabilidade
 
-| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
-|--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | Todos os requisitos possuem um artefato correspondente na matriz?                               |              | Natan Almeida  | ![matriz](../assets/matriz.png) |
-| 02     | Cada artefato do desenvolvimento está devidamente rastreado na matriz?                         |              | Natan Almeida  | ![matriz](../assets/matriz.png) |
-| 03     | A tabela informa se o requisito foi ou não implementado?                                        |              | Natan Almeida  |                 |
-| 04     | Todos os requisitos possuem rastreamento para os artefatos em que foram utilizados no forward-from? |              | Natan Almeida  | ![pre](../assets/pre.png)       |
-| 05     | As implementações e casos de teste estão vinculados corretamente aos requisitos?               |              | Natan Almeida  | ![1](../assets/1.png)           |
-| 06     | Cada requisito está ligado à sua origem?                                                       |              | Natan Almeida  | ![pos](../assets/pos.png)       |
-| 07     | As fontes dos requisitos estão documentadas e rastreáveis?                                     |              | Natan Almeida  | ![pos](../assets/pos.png)       |
+| **ID** | **Descrição**                                                                                  | 
+|--------|------------------------------------------------------------------------------------------------|
+| 01     | Todos os requisitos possuem um artefato correspondente na matriz?  |
+| 02     | Cada artefato do desenvolvimento está devidamente rastreado na matriz?  |            
+| 03     | A tabela informa se o requisito foi ou não implementado?  |   
+| 04     | Todos os requisitos possuem rastreamento para os artefatos em que foram utilizados no forward-from? |    
+| 05     | As implementações e casos de teste estão vinculados corretamente aos requisitos? |            
+| 06     | Cada requisito está ligado à sua origem?   |            
+| 07     | As fontes dos requisitos estão documentadas e rastreáveis? |     
 
 </center>
-
 
 <center></p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
 
@@ -41,15 +40,15 @@ Tabela 01: Lista de verificação Pós-rastreabilidade
 
 Tabela 02: Verificação do Pós-rastreabilidade
 
-| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
-|--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | Todos os requisitos possuem um artefato correspondente na matriz?                               | sim          | Natan Almeida  | ![matriz](../assets/matriz.png) |
-| 02     | Cada artefato do desenvolvimento está devidamente rastreado na matriz?                         | sim          | Natan Almeida  | ![matriz](../assets/matriz.png) |
-| 03     | A tabela informa se o requisito foi ou não implementado?                                        | sim          | Natan Almeida  |                 |
-| 04     | Todos os requisitos possuem rastreamento para os artefatos em que foram utilizados no forward-from? | sim          | Natan Almeida  | ![pre](../assets/pre.png)       |
-| 05     | As implementações e casos de teste estão vinculados corretamente aos requisitos?               | sim          | Natan Almeida  | ![1](../assets/1.png)           |
-| 06     | Cada requisito está ligado à sua origem?                                                       | sim          | Natan Almeida  | ![pos](../assets/pos.png)       |
-| 07     | As fontes dos requisitos estão documentadas e rastreáveis?                                     | sim          | Natan Almeida  | ![pos](../assets/pos.png)       |
+| **ID** | **Descrição**                                                                                  | **Avaliação** |**Observações** |
+|--------|------------------------------------------------------------------------------------------------|--------------|-----------------|
+| 01     | Todos os requisitos possuem um artefato correspondente na matriz?   | sim   | |
+| 02     | Cada artefato do desenvolvimento está devidamente rastreado na matriz?   | sim |   |
+| 03     | A tabela informa se o requisito foi ou não implementado?   | sim   |     |
+| 04     | Todos os requisitos possuem rastreamento para os artefatos em que foram utilizados no forward-from? | sim|   |
+| 05     | As implementações e casos de teste estão vinculados corretamente aos requisitos?  | sim  |    |
+| 06     | Cada requisito está ligado à sua origem?   | sim |  |
+| 07     | As fontes dos requisitos estão documentadas e rastreáveis?  | sim  |  |
 
 </center>
 

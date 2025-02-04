@@ -26,13 +26,13 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 </p>
 <center>Tabela 01: Lista Verificação do Cronograma</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |  | André Barros    |       |
-| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.    |  |   André Barros      |   |
-| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?|  | André Barros |      |  
-| 04   | Possui um cronograma executado, além do planejado?|  | Letícia Resende |      |  
-| 05   | O cronograma possui revisores?|  | Letícia Resende |      |  
+| **ID** | **Descrição**  |
+|--------|----------------|
+| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |  
+| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.    |  
+| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?|  
+| 04   | Possui um cronograma executado, além do planejado?|  
+| 05   | O cronograma possui revisores?|  
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -40,13 +40,13 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://github.c
 
 <center>Tabela 02: Verificação do Cronograma</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | André Barros    |  versão 1.1  03/01   |
-| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.    | Sim |   André Barros      | versão 1.1  03/01  |
-| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim | André Barros |  versão 1.1  03/01     |  
-| 04   | Possui um cronograma executado, além do planejado?| Sim | Letícia Resende | versão 1.1  03/01      |  
-| 05   | O cronograma possui revisores?| Sim | Letícia Resende |   versão 1.1  03/01    |  
+| **ID** | **Descrição**  | **Avaliação** | **Observações**    |
+|--------|----------------|---------------|--|
+| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim |  versão 1.1  03/01   |
+| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.    | Sim | versão 1.1  03/01  |
+| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim | versão 1.1  03/01 |  
+| 04   | Possui um cronograma executado, além do planejado?| Sim | versão 1.1  03/01 |  
+| 05   | O cronograma possui revisores?| Sim | versão 1.1  03/01 |  
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>

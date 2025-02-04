@@ -24,14 +24,13 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 </p>
 <center>Tabela 01: Lista Verificação do Backlog</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01   | <p align="justify">O backlog possui épicos e temas bem definidos e descritos?</p>  |  | André Barros    |       |
-| 02   | <p align="justify">O backlog possui rastreabilidade?</p>    |  |   Letícia, Natan, Leandro      |   |
-| 03   |<p align="justify">Foi feita a validação do backlog com o PO?</p> |  | Letícia, Natan, Leandro  |      |  
-| 04   |<p align="justify">Durante o processo de validação do backlog, há um registro de quem atuou como PO e quem efetivamente realizou a validação?</p> |  | Letícia, Natan, Leandro |      |  
-| 05   |<p align="justify">O backlog possui features?</p> |  | Letícia, Natan, Leandro  |      |  
-
+| **ID** | **Descrição**  | 
+|--------|----------------|
+| 01   | <p align="justify">O backlog possui épicos e temas bem definidos e descritos?</p>  |  
+| 02   | <p align="justify">O backlog possui rastreabilidade?</p>    |  
+| 03   |<p align="justify">Foi feita a validação do backlog com o PO?</p> |  
+| 04   |<p align="justify">Durante o processo de validação do backlog, há um registro de quem atuou como PO e quem efetivamente realizou a validação?</p> | 
+| 05   |<p align="justify">O backlog possui features?</p> |  
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>,
@@ -41,13 +40,13 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 <center>Tabela 02: Verificação do Backlog</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01   | <p align="justify">O backlog possui épicos e temas bem definidos e descritos?</p>  | Sim | André Barros    |  Versão 1.6 17/12    |
-| 02   | <p align="justify">O backlog possui rastreabilidade?</p>    | Sim |   Letícia, Natan, Leandro       | Versão 1.6 17/12   |
-| 03   |<p align="justify">Foi feita a validação do backlog com o PO?</p> | Sim | Letícia, Natan, Leandro |   Versão 1.6 17/12    |  
-| 04   |<p align="justify">Durante o processo de validação do backlog, há um registro de quem atuou como PO e quem efetivamente realizou a validação?</p> | Sim | Letícia, Natan, Leandro |   Versão 1.6 17/12    |  
-| 05   |<p align="justify">O backlog possui features?</p> | Sim | Letícia, Natan, Leandro |  Versão 1.6 17/12     |  
+| **ID** | **Descrição**  | **Avaliação** | **Observações**    |
+|--------|----------------|---------------|--|
+| 01   | <p align="justify">O backlog possui épicos e temas bem definidos e descritos?</p>  | Sim | Versão 1.6 17/12 |
+| 02   | <p align="justify">O backlog possui rastreabilidade?</p>    | Sim | Versão 1.6 17/12   |
+| 03   |<p align="justify">Foi feita a validação do backlog com o PO?</p> | Sim | Versão 1.6 17/12  |  
+| 04   |<p align="justify">Durante o processo de validação do backlog, há um registro de quem atuou como PO e quem efetivamente realizou a validação?</p> | Sim |  Versão 1.6 17/12  |  
+| 05   |<p align="justify">O backlog possui features?</p> | Sim | Versão 1.6 17/12  |  
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>,
@@ -71,7 +70,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 
 > <p id="1">1. PRESSMAN, Roger S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre: AMGH, 2011. Disponível em: https ://aprender3 .unb .br /pluginfile .php /2972503 /mod_resource /content /3 /Engenharia_de_Software_Uma_Abordagem_Pro .pdf . Acesso em: 17 dez. 2024.
@@ -101,8 +100,8 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 </center>
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>,
-<br>
 </center>
+
 <br>
 
 ## Histórico de Versão
@@ -110,6 +109,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 17/12/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23)<br> [Leandro de Almeida](https://github.com/leomitx10)<br> [Natan Almeida](https://github.com/natanalmeida03)| [Matheus Barros](https://github.com/Ninja-Haiyai) [Joao Victor](https://github.com/jmarquees) |
+|  1.1   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 
 
 

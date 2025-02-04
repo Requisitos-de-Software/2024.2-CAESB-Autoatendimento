@@ -27,24 +27,25 @@
 </p>
 <center>Tabela 01: Lista Verificação da equipe do grupo 4</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01   |Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? |  | André Barros    |       |
-| 02   | O histórico de versão padronizado?    |  |   André Barros      |   |
-| 03   | Na página de equipe, possui uma breve introdução sobre o projeto?|  | Letícia Resende |      |  
+| **ID** | **Descrição**  | 
+|--------|----------------|
+| 01   |Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | 
+| 02   | O histórico de versão padronizado?    |
+| 03   | Na página de equipe, possui uma breve introdução sobre o projeto?|   
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
+<br>
 
 <center>Tabela 02: Verificação da equipe do grupo 4</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01   |Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim | André Barros    |  versão 1.2 03/01    |
-| 02   | O histórico de versão padronizado?    | Sim |   André Barros      |  versão 1.2 03/01  |
-| 03   | Na página de equipe, possui uma breve introdução sobre o projeto?| Sim | Letícia Resende | versão 1.2 03/01  | 
+| **ID** | **Descrição**  | **Avaliação** | **Observações**    | **Referências** |
+|--------|----------------|---------------|--|----------------|
+| 01   |Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim | versão 1.2 03/01  |  |
+| 02   | O histórico de versão padronizado?    | Sim |  versão 1.2 03/01  |  |
+| 03   | Na página de equipe, possui uma breve introdução sobre o projeto?| Sim | versão 1.2 03/01  |  |
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -69,7 +70,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
 
-## Referências
+## Referências Bibliográficas
 
 > <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63
    Acesso em: 07 nov. 2024.
@@ -87,3 +88,4 @@ Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 |  1.1   | 07/11/2024 | Ajuste no Layout |  [Matheus Barros](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23)|
 |  1.2   | 13/11/2024 | Correção pós apresentação |  [Matheus Barros](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23)|
 |  1.3   | 03/01/2025 | Correção da verificação | [Letícia Resende](https://github.com/LeticiaResende23) |[Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.4   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |

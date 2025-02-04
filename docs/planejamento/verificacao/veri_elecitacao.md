@@ -20,20 +20,34 @@ Neste documento, realizou-se a avaliação do artefato <a href="http://127.0.0.1
 
 ## Verificação da Elicitação
 <p align="justify">
-&emsp;&emsp;A tabela 01 apresenta a Lista de Verificação das Técnicas de Elicitação que foi elaborada com base no plano de ensino da disciplina
+&emsp;&emsp;A tabela 01 apresenta a Lista de Verificação das Técnicas de Elicitação que foi elaborada com base no plano de ensino da disciplina e a tabela 02 apresenta a verificação.
 </p>
 
 <center>Tabela 01: Verificação das Técnicas de Elicitação</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01     |Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?  | Sim | André Barros    | Versão 1.0  24/11.       |
-| 02     | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor).    | Sim  |   André Barros      | Versão 1.0  24/11.          |
-| 03     | A participação do cliente e/ou persona na elicitação de requisitos?  | Sim  | André Barros        | Versão 1.0  24/11.   |
-| 04     | A gravação e o(s) registro(s) da elicitação dos requisitos  (pré-rastreabilidade).  | Sim |     André Barros     | Versão 1.0  24/11.   |
-| 05     | Na técnica de elicitação por observação, é especificado se o observador será passivo ou ativo. | Sim  | Letícia Resende |      Versão 1.0  24/11.      |  
+| **ID** | **Descrição**  |
+|--------|----------------|
+| 01     |Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?  | 
+| 02     | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor).    |
+| 03     | A participação do cliente e/ou persona na elicitação de requisitos?  | 
+| 04     | A gravação e o(s) registro(s) da elicitação dos requisitos  (pré-rastreabilidade).  | 
+| 05     | Na técnica de elicitação por observação, é especificado se o observador será passivo ou ativo. | 
 
+<center>
+ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</center>
 
+<br>
+
+<center>Tabela 02 Verificação das Técnicas de Elicitação</center>
+
+| **ID** | **Descrição**  | **Avaliação** |**Observações**    |
+|--------|----------------|---------------|--|
+| 01     |Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?  | Sim | Versão 1.0  24/11. |
+| 02     | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor).    | Sim  |  Versão 1.0  24/11.  |
+| 03     | A participação do cliente e/ou persona na elicitação de requisitos?  | Sim  | Versão 1.0  24/11. |
+| 04     | A gravação e o(s) registro(s) da elicitação dos requisitos  (pré-rastreabilidade).  | Sim |  Versão 1.0  24/11.  |
+| 05     | Na técnica de elicitação por observação, é especificado se o observador será passivo ou ativo. | Sim  | Versão 1.0  24/11. |  
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -76,6 +90,8 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 24/11/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 24/11/2024 | Adiciona imagem na referência | [Leandro de ALmeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) |
+|  1.2   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de ALmeida](https://github.com/leomitx10) |
+
 
 
 

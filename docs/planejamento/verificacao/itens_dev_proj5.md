@@ -24,18 +24,17 @@ Neste documento, realizou-se a avaliação do projeto <a href="https://github.co
 </p>
 <center>Tabela 01: Lista Verificação dos Itens de Desenvolvimento do Projeto</center>
 
-| **ID** | **Descrição**                                                                                       | **Avaliação** | **Autor**      | **Observações**                                |
-|--------|-----------------------------------------------------------------------------------------------------|---------------|----------------|-----------------------------------------------|
-| 01     | O histórico de versão padronizado? |  | André Barros |  |
-| 02     | O(s) autores e o(s) revisores para cada artefato? |  | André Barros |   |
-| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos? |  | André Barros   |  |
-| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos? |  | André Barros |  |
-| 05     | Um texto fazendo uma introdução dos artefatos?|  | André Barros | |
-| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |  | André Barros |  |
-| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).|  | André Barros |  |
-| 08     | A gravação da reunião do grupo. |  | André Barros |  |
-| 09     | Vídeo de apresentação na categoria "não listado" no youtube? |  | André Barros | 
-
+| **ID** | **Descrição**                                                                                       | 
+|--------|-----------------------------------------------------------------------------------------------------|
+| 01     | O histórico de versão padronizado? |  
+| 02     | O(s) autores e o(s) revisores para cada artefato? | 
+| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos? |
+| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos? |  
+| 05     | Um texto fazendo uma introdução dos artefatos?| 
+| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |
+| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).| 
+| 08     | A gravação da reunião do grupo. | 
+| 09     | Vídeo de apresentação na categoria "não listado" no youtube? |  
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -45,17 +44,17 @@ Neste documento, realizou-se a avaliação do projeto <a href="https://github.co
 
 <center>Tabela 02: Verificação dos Itens de Desenvolvimento do Projeto</center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações**|
-|--------|---------------|---------------|-----------|----------------|
-| 01     | O histórico de versão padronizado? |      Sim      | André Barros   |     versão 1.5 18/01                        |
-| 02     | O(s) autores e o(s) revisores para cada artefato?                                        |    Sim        | André Barros   | versão 1.5 18/01                                |
-| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?                                  |     Sim       | André Barros   |  versão 1.5 18/01                              |
-| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos?                           |    Sim        | André Barros   | versão 1.5 18/01                               |
-| 05     | Um texto fazendo uma introdução dos artefatos?                           |  Sim          | André Barros   |  versão 1.5 18/01    
-| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |     Sim       | André Barros   |         versão 1.5 18/01                       |
-| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).                                        |    Sim        | André Barros   |        versão 1.5 18/01                        |
-| 08     | A gravação da reunião do grupo.                                 |      Sim      | André Barros   |      versão 1.5 18/01                          |
-| 09     | Vídeo de apresentação na categoria "não listado" no youtube?                           |      Sim      | André Barros   |   versão 1.5 18/01    
+| **ID** | **Descrição** | **Avaliação** | **Observações**|
+|--------|---------------|---------------|-----------|
+| 01     | O histórico de versão padronizado? | Sim  | versão 1.5 18/01  |
+| 02     | O(s) autores e o(s) revisores para cada artefato?  |  Sim   | versão 1.5 18/01 |
+| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?  |     Sim   | versão 1.5 18/01  |
+| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos?  |    Sim   |  versão 1.5 18/01   |
+| 05     | Um texto fazendo uma introdução dos artefatos?  |  Sim  |  versão 1.5 18/01 |   
+| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |   Sim   | versão 1.5 18/01  |
+| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).  |  Sim  |     versão 1.5 18/01 |
+| 08     | A gravação da reunião do grupo.  |   Sim  | André Barros   | versão 1.5 18/01  |
+| 09     | Vídeo de apresentação na categoria "não listado" no youtube?  |   Sim    |  versão 1.5 18/01  |
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -79,7 +78,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=XmNdvsiydHk).</p>
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 > <p id="1">1. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 24 de Nov. de 2024.
 
@@ -92,6 +91,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=XmNdvsiydHk).</p>
 </center>
 
  <center></p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>
+
 <br>
 
 
@@ -100,6 +100,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=XmNdvsiydHk).</p>
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 18/01/2025 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) e [Leandro de Almeida](https://github.com/leomitx10)<br>| [Matheus Barros](https://github.com/Ninja-Haiyai)|
+|  1.1   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 
 
 

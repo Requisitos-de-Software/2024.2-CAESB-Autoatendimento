@@ -29,32 +29,34 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 <center>Tabela 02: Verificação da NFR Framework</center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | A definição do RNF e as fontes de evidência na literatura? |          | André Barros |  |
-| 02     | O artefato possui cartão de especificação do RNF?          |  | André Barros | |
-| 03     | Os softgoals condizem com o contexto?                      |           | André Barros |  |
-| 04     | Softgoals representam metas bem definidas?                 |           | André Barros |  |
-| 05     | Os impactos foram corretamente propagados?                 |          | André Barros |  |
-| 06     | O artefato possui rastreabilidade para os requisitos não funcionais utilizados?                 |         | Natan, Leandro, Letícia |  |
-| 07     | Os requisitos não-funcionais são verificáveis?             |    | Natan, Leandro, Letícia |  |
+| **ID** | **Descrição**                                              | 
+| ------ | ---------------------------------------------------------- | 
+| 01     | A definição do RNF e as fontes de evidência na literatura? |      
+| 02     | O artefato possui cartão de especificação do RNF?          |  
+| 03     | Os softgoals condizem com o contexto?                      |           
+| 04     | Softgoals representam metas bem definidas?                 |         
+| 05     | Os impactos foram corretamente propagados?                 |       
+| 06     | O artefato possui rastreabilidade para os requisitos não funcionais utilizados?  |
+| 07     | Os requisitos não-funcionais são verificáveis?   |    
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>,
 </center>
 
+<br>
+
 
 <center>Tabela 02: Verificação da NFR Framework</center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | A definição do RNF e as fontes de evidência na literatura? | Sim           | André Barros | Versão 1.5 17/12. |
-| 02     | O artefato possui cartão de especificação do RNF?          | Incompleto  | André Barros | Versão 1.5 17/12. |
-| 03     | Os softgoals condizem com o contexto?                      | Sim           | André Barros | Versão 1.5 17/12. |
-| 04     | Softgoals representam metas bem definidas?                 | Sim           | André Barros | Versão 1.5 17/12. |
-| 05     | Os impactos foram corretamente propagados?                 | Sim           | André Barros | Versão 1.5 17/12. |
-| 06     | O artefato possui rastreabilidade para os requisitos não funcionais utilizados?                 | Sim           | Natan, Leandro, Letícia | Versão 1.5 17/12. |
-| 07     | Os requisitos não-funcionais são verificáveis?             |     Sim     | Natan, Leandro, Letícia | Versão 1.5 17/12. |
+| **ID** | **Descrição**                                              | **Avaliação** | **Observações**   |
+| ------ | ---------------------------------------------------------- | ------------- | ------------ |
+| 01     | A definição do RNF e as fontes de evidência na literatura? | Sim   |  Versão 1.5 17/12. |
+| 02     | O artefato possui cartão de especificação do RNF?          | Incompleto  |  Versão 1.5 17/12. |
+| 03     | Os softgoals condizem com o contexto?                      | Sim       |  Versão 1.5 17/12. |
+| 04     | Softgoals representam metas bem definidas?                 | Sim   |  Versão 1.5 17/12. |
+| 05     | Os impactos foram corretamente propagados?                 | Sim     |  Versão 1.5 17/12. |
+| 06     | O artefato possui rastreabilidade para os requisitos não funcionais utilizados? | Sim   |  Versão 1.5 17/12. |
+| 07     | Os requisitos não-funcionais são verificáveis?             | Sim |  Versão 1.5 17/12. |
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>,
@@ -80,7 +82,7 @@ Pode ser vista no [YouTube]().</p>
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 > <p id="1">1. CARDOSO, Renato. Engenharia dos requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf .Acesso em: 17 de Dez. de 2024.
 </p>
@@ -109,9 +111,11 @@ Pode ser vista no [YouTube]().</p>
 
 > <p>3. SERRANO, Milene. Requisitos – Aula 17. Disponível em: https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf. Acesso em: 17 de Dez. 2024</p>
 
+<br>
 
 ## Histórico de Versão
 
 | Versão |    Data    |                  Descrição                  |                       Autor                        |                        Revisor                         |
 | :----: | :--------: | :-----------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
 |  1.0   | 17/12/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23)<br> [Leandro de Almeida](https://github.com/leomitx10)<br> [Natan Almeida](https://github.com/natanalmeida03)| [Matheus Barros](https://github.com/Ninja-Haiyai) <br> [Joao Victor](https://github.com/jmarquees) |
+|  1.1   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |

@@ -20,8 +20,6 @@
 
 <br>
 
-
-
 ## Revisão do Rich Picture - Moovit 
 
 
@@ -102,13 +100,13 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 
 <p align="justify">&emsp;&emsp;Tabela 03: Verificação Rich Picture - Caesb Autoatendimento.</p>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 7   | Rich Picture possui uma legenda explicando os símbolos utilizados no diagrama?| Sim | André Barros    |  versão 1.6  03/01   |
-| 8   | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo.    | Sim |   André Barros      | versão 1.6  03/01  |
-| 9   | O Rich Picture conta uma história? |Sim |Letícia Resende|  versão 1.6  03/01     |  
-| 10   | Comunica mais ideias do que palavras?| Sim | Letícia Resende | versão 1.6  03/01      |  
-| 11  | O rich picture dá uma ideia do que realmente está acontecendo?| Sim | Letícia Resende |   versão 1.6  03/01    |  
+| **ID** | **Descrição**  | **Avaliação** | **Observações**    |
+|--------|----------------|---------------|--|
+| 7   | Rich Picture possui uma legenda explicando os símbolos utilizados no diagrama?| Sim | versão 1.6  03/01   |
+| 8   | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. | Sim | versão 1.6  03/01  |
+| 9   | O Rich Picture conta uma história? |Sim | versão 1.6  03/01 |  
+| 10   | Comunica mais ideias do que palavras?| Sim |  versão 1.6  03/01  |  
+| 11  | O rich picture dá uma ideia do que realmente está acontecendo?| Sim | versão 1.6  03/01  |  
 
 <center>
 Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>

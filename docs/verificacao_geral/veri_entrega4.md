@@ -24,26 +24,25 @@ A tabela 01 apresenta a lista de verificação do artefato de Backlog que foi el
 
 <center>Tabela 01: Verificação do Backlog</center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |          | Joao Victor Marques |  |
-| 02     | O backlog do produto foi constantemente revisado e atualizado para refletir mudanças nas necessidades do cliente ou no escopo do projeto?         |  | Joao Victor Marques | |
-| 03     | Todos os itens do backlog têm uma descrição clara e compreensível?                     |           | Joao Victor Marques |  |
-
-
+| **ID** | **Descrição**                                              | 
+---------------------------------------------------------- | ------------- | 
+| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |  
+| 02     | O backlog do produto foi constantemente revisado e atualizado para refletir mudanças nas necessidades do cliente ou no escopo do projeto? |
+| 03     | Todos os itens do backlog têm uma descrição clara e compreensível?  |   
 
 <center>
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
+
 <br>
 
 <center>Tabela 02: Verificação do Backlog </center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |   Não       | Joao Victor Marques | 01/02 versão 1.2  |
-| 02     | O backlog do produto foi constantemente revisado e atualizado para refletir mudanças nas necessidades do cliente ou no escopo do projeto? | Sim | Joao Victor Marques |01/02 versão 1.2 |
-| 03     | Todos os itens do backlog têm uma descrição clara e compreensível?   |  Sim   | Joao Victor Marques | 01/02 versão 1.2 |
+| **ID** | **Descrição**                                              | **Avaliação** | **Observações**   |
+| ------ | ---------------------------------------------------------- | ------------- | ------------ | 
+| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |   Não   |  versão 1.2 01/02  |
+| 02     | O backlog do produto foi constantemente revisado e atualizado para refletir mudanças nas necessidades do cliente ou no escopo do projeto? | Sim | versão 1.2  01/02|
+| 03     | Todos os itens do backlog têm uma descrição clara e compreensível?   |  Sim  | versão 1.2 01/02 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
@@ -57,26 +56,25 @@ A tabela 03 apresenta a lista de verificação do artefato das Histórias de Usu
 
 <center>Tabela 03: Histórias de Usuário</center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | As histórias de usuário são claras, concisas e escritas em linguagem que o usuário compreenda, facilitando a comunicação entre stakeholders e a equipe de desenvolvimento?? |          | Joao Victor Marques |  |
-| 02     | As histórias de usuário são pequenas o suficiente para serem concluídas em um único ciclo de desenvolvimento?        |  | Joao Victor Marques | |
-| 03     | Cada história de usuário possui critérios de aceitação claramente definidos?                     |           | Joao Victor Marques |  |
-
-
+| **ID** | **Descrição**                                              | 
+| ------ | ---------------------------------------------------------- | 
+| 01     | As histórias de usuário são claras, concisas e escritas em linguagem que o usuário compreenda, facilitando a comunicação entre stakeholders e a equipe de desenvolvimento?? |  
+| 02     | As histórias de usuário são pequenas o suficiente para serem concluídas em um único ciclo de desenvolvimento?  |  
+| 03     | Cada história de usuário possui critérios de aceitação claramente definidos?  |      
 
 <center>
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
+
 <br>
 
 <center>Tabela 04: Verificação das Histórias de Usuário </center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | As histórias de usuário são claras, concisas e escritas em linguagem que o usuário compreenda, facilitando a comunicação entre stakeholders e a equipe de desenvolvimento? |   Sim       | Joao Victor Marques | 01/02 versão 1.2  |
-| 02     | As histórias de usuário são pequenas o suficiente para serem concluídas em um único ciclo de desenvolvimento? | Sim | Joao Victor Marques |01/02 versão 1.2 |
-| 03     | Cada história de usuário possui critérios de aceitação claramente definidos?  |  Sim   | Joao Victor Marques | 01/02 versão 1.2 |
+| **ID** | **Descrição**                                              | **Avaliação** | **Observações**   |
+| ------ | ---------------------------------------------------------- | ------------- | ------------ | 
+| 01     | As histórias de usuário são claras, concisas e escritas em linguagem que o usuário compreenda, facilitando a comunicação entre stakeholders e a equipe de desenvolvimento? |  Sim |  versão 1.2  01/02 |
+| 02     | As histórias de usuário são pequenas o suficiente para serem concluídas em um único ciclo de desenvolvimento? | Sim | versão 1.2 01/02 |
+| 03     | Cada história de usuário possui critérios de aceitação claramente definidos?  |  Sim  |  versão 1.2 01/02|
 
 <center>
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
@@ -90,26 +88,25 @@ A tabela 05 apresenta a lista de verificação do artefato do NFR Framework que 
 
 <center>Tabela 05: Verificação NFR Framework</center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? |          | Joao Victor Marques |  |
-| 02     | Os requisitos não funcionais documentados no NFR Framework foram rastreáveis para garantir que sejam implementados e testados adequadamente?         |  | Joao Victor Marques | |
-| 03     | Os NFR Framework foram usados para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade?                     |           | Joao Victor Marques |  |
-
-
+| **ID** | **Descrição**                                              | 
+| ------ | ---------------------------------------------------------- | 
+| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? |         
+| 02     | Os requisitos não funcionais documentados no NFR Framework foram rastreáveis para garantir que sejam implementados e testados adequadamente?  |  
+| 03     | Os NFR Framework foram usados para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade? |    
 
 <center>
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
+
 <br>
 
 <center>Tabela 06: Verificação do NFR Framework </center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? |   Não       | Joao Victor Marques | 01/02 versão 1.2  |
-| 02     | Os requisitos não funcionais documentados no NFR Framework foram rastreáveis para garantir que sejam implementados e testados adequadamente? | Sim | Joao Victor Marques |01/02 versão 1.2 |
-| 03     | Os NFR Framework foram usados para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade?  |  Não   | Joao Victor Marques | 01/02 versão 1.2 |
+| **ID** | **Descrição**                                              | **Avaliação** | **Observações**   |
+| ------ | ---------------------------------------------------------- | ------------- | ------------ | 
+| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? |   Não |  versão 1.2 01/02 |
+| 02     | Os requisitos não funcionais documentados no NFR Framework foram rastreáveis para garantir que sejam implementados e testados adequadamente? | Sim |versão 1.2  01/02  |
+| 03     | Os NFR Framework foram usados para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade?  |  Não   |  versão 1.2  01/02  |
 
 <center>
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>

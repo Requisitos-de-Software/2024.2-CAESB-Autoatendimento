@@ -25,18 +25,17 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 </p>
 <center>Tabela 01: Lista de Verificação das Histórias de Usuário</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01 | <p align="justify">Os títulos das histórias de usuário são auto-explicativos?</p>  |  | André Barros    |       |
-| 02 | <p align="justify">O “quem”, “o que” e o “por que” estão definidos na história de usuário?</p>    |  |   André Barros      |   |
-| 03 |<p align="justify">A participação do cliente e/ou persona na validação das histórias de usuário?</p> |  | André Barros  |      |  
-| 04 |<p align="justify">A participação do cliente e/ou persona na elicitação de requisitos?</p> |  | André Barros |      |  
-| 05 |<p align="justify">Todas as histórias de usuários podem ser testadas?</p> |   | André Barros |      |  
-| 06 |<p align="justify">A história possui critérios de aceitação?</p> |   | André Barros |      | 
-| 07 |<p align="justify">As histórias de usuário foram escritas a partir da perspectiva do usuário?</p> |   | Letícia, Natan, Leandro  |      |  
-| 07 |<p align="justify">As histórias são escritas no formato padrão "Eu, como [tipo de usuário], quero [realizar uma ação] para [atingir um objetivo específico]"?</p> |   | Letícia, Natan, Leandro  |      | 
-| 08 |<p align="justify">Cada história descreve uma funcionalidade que deve ser implementada no aplicativo</p> |   | Letícia, Natan, Leandro  |      | 
-
+| **ID** | **Descrição**  | 
+|--------|----------------|
+| 01 | <p align="justify">Os títulos das histórias de usuário são auto-explicativos?</p>  |  
+| 02 | <p align="justify">O “quem”, “o que” e o “por que” estão definidos na história de usuário?</p>    |  
+| 03 |<p align="justify">A participação do cliente e/ou persona na validação das histórias de usuário?</p> |   
+| 04 |<p align="justify">A participação do cliente e/ou persona na elicitação de requisitos?</p> |    
+| 05 |<p align="justify">Todas as histórias de usuários podem ser testadas?</p> |   
+| 06 |<p align="justify">A história possui critérios de aceitação?</p> |   
+| 07 |<p align="justify">As histórias de usuário foram escritas a partir da perspectiva do usuário?</p> |  
+| 07 |<p align="justify">As histórias são escritas no formato padrão "Eu, como [tipo de usuário], quero [realizar uma ação] para [atingir um objetivo específico]"?</p> |   
+| 08 |<p align="justify">Cada história descreve uma funcionalidade que deve ser implementada no aplicativo</p> |  
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -46,17 +45,17 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 
 <center>Tabela 02: Verificação das Histórias de Usuário</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01 | <p align="justify">Os títulos das histórias de usuário são auto-explicativos?</p>  | Incompleto | André Barros    |   Versão 1.4 17/12    |
-| 02 | <p align="justify">O “quem”, “o que” e o “por que” estão definidos na história de usuário?</p>    | Sim |   André Barros      | Versão 1.4 17/12  |
-| 03 |<p align="justify">A participação do cliente e/ou persona na validação das histórias de usuário?</p> | Sim | André Barros  |  Versão 1.4 17/12    |  
-| 04 |<p align="justify">A participação do cliente e/ou persona na elicitação de requisitos?</p> | Sim | André Barros |  Versão 1.4 17/12    |  
-| 05 |<p align="justify">Todas as histórias de usuários podem ser testadas?</p> | Sim  | André Barros |  Versão 1.4 17/12    |  
-| 06 |<p align="justify">A história possui critérios de aceitação?</p> | Sim  | André Barros |   Versão 1.4 17/12   | 
-| 07 |<p align="justify">As histórias de usuário foram escritas a partir da perspectiva do usuário?</p> | Sim  | Letícia, Natan, Leandro  |   Versão 1.4 17/12   |  
-| 07 |<p align="justify">As histórias são escritas no formato padrão "Eu, como [tipo de usuário], quero [realizar uma ação] para [atingir um objetivo específico]"?</p> | Sim  | Letícia, Natan, Leandro  |  Versão 1.4 17/12    | 
-| 08 |<p align="justify">Cada história descreve uma funcionalidade que deve ser implementada no aplicativo</p> | Sim  | Letícia, Natan, Leandro  |  Versão 1.4 17/12    | 
+| **ID** | **Descrição**  | **Avaliação** | **Observações**    |
+|--------|----------------|---------------|--|
+| 01 | <p align="justify">Os títulos das histórias de usuário são auto-explicativos?</p>  | Incompleto | Versão 1.4 17/12  |
+| 02 | <p align="justify">O “quem”, “o que” e o “por que” estão definidos na história de usuário?</p>    | Sim |  Versão 1.4 17/12  |
+| 03 |<p align="justify">A participação do cliente e/ou persona na validação das histórias de usuário?</p> | Sim |  Versão 1.4 17/12    |  
+| 04 |<p align="justify">A participação do cliente e/ou persona na elicitação de requisitos?</p> | Sim |  Versão 1.4 17/12  |  
+| 05 |<p align="justify">Todas as histórias de usuários podem ser testadas?</p> | Sim  |  Versão 1.4 17/12 |  
+| 06 |<p align="justify">A história possui critérios de aceitação?</p> | Sim  |  Versão 1.4 17/12   | 
+| 07 |<p align="justify">As histórias de usuário foram escritas a partir da perspectiva do usuário?</p> | Sim  |   Versão 1.4 17/12  |  
+| 07 |<p align="justify">As histórias são escritas no formato padrão "Eu, como [tipo de usuário], quero [realizar uma ação] para [atingir um objetivo específico]"?</p> | Sim  |  Versão 1.4 17/12    | 
+| 08 |<p align="justify">Cada história descreve uma funcionalidade que deve ser implementada no aplicativo</p> | Sim  | Versão 1.4 17/12  | 
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -79,7 +78,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=uHQJN5MjRW4).</p>
 <p align="justify">1. Mudar alguns títulos para tornar eles mais explicativos sobre o do que se trata a história de usuário.</p>
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 
 > <p id="1">1. UNIVERSIDADE FEDERAL DE SANTA CATARINA. Apresentação sobre história de usuários. Disponível em: https://legado.moodle.ufsc.br/pluginfile.php/4330173/mod_resource/content/1/APRES%20HISTORIA%20DE%20USUARIOS%20PDF.pdf. Acesso em: 17 dez. 2024.
@@ -146,6 +145,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=uHQJN5MjRW4).</p>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 <br>
 </center>
+
 <br>
 
 ## Histórico de Versão
@@ -153,6 +153,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=uHQJN5MjRW4).</p>
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 17/12/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23)<br> [Leandro de Almeida](https://github.com/leomitx10)<br> [Natan Almeida](https://github.com/natanalmeida03)| [Matheus Barros](https://github.com/Ninja-Haiyai) [Joao Victor](https://github.com/jmarquees) |
+|  1.1   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 
 
 

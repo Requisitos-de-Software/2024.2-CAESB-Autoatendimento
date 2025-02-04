@@ -28,27 +28,29 @@
 </p>
 <center>Tabela 01: Lista Verificação do Cronograma do grupo 4</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |  | André Barros    |       |
-| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.    |  |   André Barros      |   |
-| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?|  | André Barros |      |  
-| 04   | Possui um cronograma executado, além do planejado?|  | Letícia Resende |      |  
-| 05   | O cronograma possui revisores?|  | Letícia Resende |      |  
+| **ID** | **Descrição**  | 
+|--------|----------------|
+| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | 
+| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.  | 
+| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?| 
+| 04   | Possui um cronograma executado, além do planejado?| 
+| 05   | O cronograma possui revisores?|  
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
 
+<br>
+
 <center>Tabela 02: Verificação do Cronograma do grupo 4</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
+| **ID** | **Descrição**  | **Avaliação** |**Observações** |**Referências**|
 |--------|----------------|---------------|--|------------------|
-| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | André Barros    |  versão 1.3  03/01   |
-| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.    | Sim |   André Barros      | versão 1.3  03/01  |
-| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim | André Barros |  versão 1.3  03/01     |  
-| 04   | Possui um cronograma executado, além do planejado?| Sim | Letícia Resende | versão 1.3  03/01      |  
-| 05   | O cronograma possui revisores?| Sim | Letícia Resende |   versão 1.3  03/01    |  
+| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | versão 1.3  03/01   |  |
+| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.    | Sim | versão 1.3  03/01  |  |
+| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim | versão 1.3  03/01 |  |
+| 04   | Possui um cronograma executado, além do planejado?| Sim |versão 1.3  03/01  |  |
+| 05   | O cronograma possui revisores?| Sim |  versão 1.3  03/01  |  |
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -79,8 +81,9 @@ Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
 </center>
+<br>
 
-## Referências
+## Referências Bibliográficas
 
 > <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63
    Acesso em: 07 nov. 2024.
@@ -98,6 +101,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 |  1.1   | 07/11/2024 | Ajuste no Layout | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23)|
 |  1.2   | 13/11/2024 | Correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.3   | 03/01/2025 | Correção da verificação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
+|  1.4   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 
 
 

@@ -54,4 +54,4 @@ Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 05/11/2024 | Verificação artefato de equipe |  Matheus Barros | Leandro de Almeida |
+|  1.0   | 05/11/2024 | Verificação artefato de equipe |  [Matheus Barros](https://github.com/Ninja-Haiyai) | [Leandro de Almeida](https://github.com/leomitx10) |
