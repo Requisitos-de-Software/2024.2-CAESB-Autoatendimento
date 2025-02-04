@@ -91,7 +91,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 ## Link da gravação
 
-Pode ser vista no [YouTube]().</p>
+Pode ser vista no [YouTube](https://www.youtube.com/embed/NsuIvPxNtl0?si=hbKehkJg6s7WeATf).</p>
 
 <center>
     <p>Vídeo 01: Verificação dos artefatos</p>
