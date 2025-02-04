@@ -2,21 +2,24 @@
 
 ## Introdução
 
-Este documento inclui as verificações utilizadas para inspecionar a entrega 5 do projeto [Meu SUS Digital](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/). Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.
+<p align="justify">&emsp;&emsp;
+Este documento inclui as verificações utilizadas para inspecionar a entrega 5 do projeto <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/">Meu SUS Digital</a>. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.</p>
 
 ## Objetivo
 
-O objetivo da verificação é garantir que todos os critérios de avaliação foram plenamente atendidos. Para isso, é feita uma análise do conteúdo e da estrutura do artefato, com o intuito de melhorar sua qualidade.
+<p align="justify">&emsp;&emsp; O objetivo da verificação é garantir que todos os critérios de avaliação foram plenamente atendidos. Para isso, é feita uma análise do conteúdo e da estrutura do artefato, com o intuito de melhorar sua qualidade.
+</p>
 
 ## Metodologia
 
-A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feita uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação da Pós-rastreabilidade, que contempla os artefatos [Forward-From](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/pos-rastreabilidade/forward-from/), [Backward-From](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/pos-rastreabilidade/backward-from/), [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/pos-rastreabilidade/matriz-de-rastreabilidade/).
+<p align="justify">&emsp;&emsp; A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feita uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação da Pós-rastreabilidade, que contempla os artefatos <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/pos-rastreabilidade/forward-from/">Fordward-From</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/pos-rastreabilidade/backward-from/">Backward-From</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/pos-rastreabilidade/matriz-de-rastreabilidade/">Matriz de Rastreabilidade</a>.</P>
 
 ## Verificação Pós-rastreabilidade
 
-A tabela 01 apresenta a lista de verificação dos artefatos da Pós-rastreabilidade que foi elaborada com base no plano de ensino da disciplina e a tabela 02 apresenta a verificação.
+<p align="justify">&emsp;&emspA tabela 01 apresenta a lista de verificação dos artefatos da Pós-rastreabilidade que foi elaborada com base no plano de ensino da disciplina e a tabela 02 apresenta a verificação.</p>
 
-**Tabela 01: Lista de verificação Pós-rastreabilidade**
+<center>
+Tabela 01: Lista de verificação Pós-rastreabilidade
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
@@ -28,9 +31,14 @@ A tabela 01 apresenta a lista de verificação dos artefatos da Pós-rastreabili
 | 06     | Cada requisito está ligado à sua origem?                                                       |              | Natan Almeida  | ![pos](../assets/pos.png)       |
 | 07     | As fontes dos requisitos estão documentadas e rastreáveis?                                     |              | Natan Almeida  | ![pos](../assets/pos.png)       |
 
-**Autor(a): [Natan Almeida](https://github.com/natanalmeida03)**
+</center>
 
-**Tabela 02: Verificação do Pós-rastreabilidade**
+<center></p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
+
+<br>
+
+<center>
+Tabela 02: Verificação do Pós-rastreabilidade
 
 | **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
 |--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
@@ -42,15 +50,11 @@ A tabela 01 apresenta a lista de verificação dos artefatos da Pós-rastreabili
 | 06     | Cada requisito está ligado à sua origem?                                                       | sim          | Natan Almeida  | ![pos](../assets/pos.png)       |
 | 07     | As fontes dos requisitos estão documentadas e rastreáveis?                                     | sim          | Natan Almeida  | ![pos](../assets/pos.png)       |
 
-**Autor(a): [Natan Almeida](https://github.com/natanalmeida03)**
+</center>
 
-## Problemas encontrados
+<center></p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
 
-Não foram encontrados problemas.
-
-## Sugestões
-
-Como o artefato está de acordo com o esperado não há sugestões.
+<br>
 
 ## Link da gravação
 
@@ -63,12 +67,39 @@ Pode ser vista no [YouTube]().</p>
 </center>
 
 <br>
+<center>
+
+Tabela 03: Tempo de início da verificação dos artefatos no vídeo
+
+| **Artefato** | **Inicio**   | 
+|:----------:|:----------:|
+| Matriz de Ratreabilidade| <a href="https://www.youtube.com/watch?v=QDA4IyA2zbs&t=31s" target="_blank">00:31</a>  | 
+| Fordward-from| <a href="https://www.youtube.com/watch?v=QDA4IyA2zbs&t=128s" target="_blank">01:28</a> |
+| Backward-from| <a href="https://www.youtube.com/watch?v=QDA4IyA2zbs&t=159s" target="_blank">01:59</a> |
+
+</center>
+
+<center></p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
+
+<br>
+
+## Problemas encontrados
+
+Não foram encontrados problemas.
+
+## Sugestões
+
+Como o artefato está de acordo com o esperado não há sugestões.
+
+<br>
 
 ## Referências Bibliográficas
 
-1. SAYAO, Miriam. Tastreaabilidade de requisitos. Disponível em: https://aprender3.unb.br/pluginfile.php/2972563/mod_resource/content/3/05_20_sayao.pdf. Acesso em: 02 de Fev. de 2025.
-2. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 02 de Fev. de 2025..
-3. POHL, Klaus. Requirements Engineering Fundamentals. Disponível em: https://aprender3.unb.br/pluginfile.php/2972562/mod_resource/content/2/Rastreabilidade.pdf. Acesso em: 02 de Fev. de 2025.
+> <p id="1"> 1.SAYAO, Miriam. Tastreaabilidade de requisitos. Disponível em: https://aprender3.unb.br/pluginfile.php/2972563/mod_resource/content/3/05_20_sayao.pdf. Acesso em: 02 de Fev. de 2025.</p>
+> <p id="2">2. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 02 de Fev. de 2025.</p>
+> <p id="3">3. POHL, Klaus. Requirements Engineering Fundamentals. Disponível em: https://aprender3.unb.br/pluginfile.php/2972562/mod_resource/content/2/Rastreabilidade.pdf. Acesso em: 02 de Fev. de 2025.
+
+<br>
 
 ## Histórico de Versão
 
