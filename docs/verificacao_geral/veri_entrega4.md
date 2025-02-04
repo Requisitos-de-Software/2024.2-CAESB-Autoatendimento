@@ -26,7 +26,7 @@ A tabela 01 apresenta a lista de verificação do artefato de Backlog que foi el
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | As histórias de usuário no backlog devem ser estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |          | Joao Victor Marques |  |
+| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |          | Joao Victor Marques |  |
 | 02     | O backlog do produto foi constantemente revisado e atualizado para refletir mudanças nas necessidades do cliente ou no escopo do projeto?         |  | Joao Victor Marques | |
 | 03     | Todos os itens do backlog têm uma descrição clara e compreensível?                     |           | Joao Victor Marques |  |
 
@@ -41,7 +41,7 @@ A tabela 01 apresenta a lista de verificação do artefato de Backlog que foi el
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | As histórias de usuário no backlog devem ser estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |   Sim       | Joao Victor Marques | 01/02 versão 1.2  |
+| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |   Sim       | Joao Victor Marques | 01/02 versão 1.2  |
 | 02     | O backlog do produto foi constantemente revisado e atualizado para refletir mudanças nas necessidades do cliente ou no escopo do projeto? | Sim | Joao Victor Marques |01/02 versão 1.2 |
 | 03     | Todos os itens do backlog têm uma descrição clara e compreensível?   |  Sim   | Joao Victor Marques | 01/02 versão 1.2 |
 
@@ -93,8 +93,8 @@ A tabela 05 apresenta a lista de verificação do artefato do NFR Framework que 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
 | 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? |          | Joao Victor Marques |  |
-| 02     | Os requisitos não funcionais documentados no NFR Framework devem ser rastreáveis para garantir que sejam implementados e testados adequadamente?         |  | Joao Victor Marques | |
-| 03     | O NFR Framework pode ser usado para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade?                     |           | Joao Victor Marques |  |
+| 02     | Os requisitos não funcionais documentados no NFR Framework foram rastreáveis para garantir que sejam implementados e testados adequadamente?         |  | Joao Victor Marques | |
+| 03     | Os NFR Framework foram usados para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade?                     |           | Joao Victor Marques |  |
 
 
 
@@ -108,8 +108,8 @@ A tabela 05 apresenta a lista de verificação do artefato do NFR Framework que 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
 | 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? |   Sim       | Joao Victor Marques | 01/02 versão 1.2  |
-| 02     | Os requisitos não funcionais documentados no NFR Framework devem ser rastreáveis para garantir que sejam implementados e testados adequadamente? | Sim | Joao Victor Marques |01/02 versão 1.2 |
-| 03     | O NFR Framework pode ser usado para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade?  |  Sim   | Joao Victor Marques | 01/02 versão 1.2 |
+| 02     | Os requisitos não funcionais documentados no NFR Framework foram rastreáveis para garantir que sejam implementados e testados adequadamente? | Sim | Joao Victor Marques |01/02 versão 1.2 |
+| 03     | Os NFR Framework foram usados para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade?  |  Sim   | Joao Victor Marques | 01/02 versão 1.2 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
@@ -128,11 +128,11 @@ Como o artefato está de acordo com o esperado não há sugestões.
 
 ## Link da gravação
 
-Pode ser vista no [YouTube]().</p>
+Pode ser vista no [YouTube](https://youtu.be/9-SKQSE7WKU?si=NuTpLHpPlPkn6e-7).</p>
 
 <center>
-    <p>Vídeo 01: Verificação entrega 4 </p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/QDA4IyA2zbs?si=iEQsqIO76lj5wxX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>Vídeo 01: Verificação Entrega 4 </p>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/9-SKQSE7WKU?si=PhAxwFfZc5bwqtiN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
 
