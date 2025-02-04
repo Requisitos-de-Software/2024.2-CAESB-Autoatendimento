@@ -217,7 +217,6 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 
 </center>
 
-
 <br>
 
 ## Problemas encontrados
@@ -249,7 +248,7 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
    Acesso em: 23 nov. 2024.
 </p><center><figcaption>Imagem 4: Foto da Referência 4</figcaption> </center><center>![alt text](../../assets/priority.png)</center>
 
-
+<br>
 
 ## Histórico de Versão
 

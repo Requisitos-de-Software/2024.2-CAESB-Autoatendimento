@@ -192,7 +192,7 @@
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
-<br>
+
 
 ## Link da gravação
 
@@ -222,6 +222,8 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 
 </center>
 
+<br>
+
 ## Problemas encontrados
 
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
@@ -243,6 +245,7 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 <center><img src="https://github.com/leomitx10/leomitx10/blob/main/Captura%20de%20tela%20de%202025-02-03%2019-15-12.png?raw=true"></center>
 <center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
 
+<br>
 
 ## Histórico de Versão
 

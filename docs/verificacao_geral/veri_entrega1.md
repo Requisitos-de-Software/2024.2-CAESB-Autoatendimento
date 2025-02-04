@@ -221,6 +221,8 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 
 </center>
 
+<br>
+
 ## Problemas encontrados
 
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
@@ -241,6 +243,8 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 <center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
 <center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center>
 <center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+
+<br>
 
 ## Histórico de Versão
 
