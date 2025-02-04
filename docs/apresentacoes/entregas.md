@@ -49,10 +49,10 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 </center>
 
 ## Entrega 6
-A apresentação da entrega 6, pode ser vista no [YouTube](https://www.youtube.com/watch?v=N1alMrJa-WU).
+A apresentação da entrega 6, pode ser vista no [YouTube](https://www.youtube.com/embed/ZWJeJOzOVDw?si=ggeoSMXbZL-jen17).
 
 <center>
-<p>Vídeo 06: Gravação da apresentação 5</p>
+<p>Vídeo 06: Gravação da apresentação 6</p>
 <iframe width="760" height="515" src="https://www.youtube.com/embed/ZWJeJOzOVDw?si=ggeoSMXbZL-jen17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Leandro de Almeida</a></h6>
 </center>
