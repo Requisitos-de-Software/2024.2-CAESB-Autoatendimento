@@ -50,7 +50,7 @@
 
 </center>
 
-## Referências
+## Referências Bibliográficas
 
 </center>
 
@@ -60,7 +60,7 @@
 
 </p>
 
----
+<br>
 
 ## Histórico de versão
 
