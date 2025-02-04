@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;Ao alcançar a etapa de validação, que consiste em confirmar se o produto atende às expectativas do usuário, uma das estratégias adotadas para o projeto foi a comprovação informal. Trata-se de uma descrição em linguagem natural para que os clientes possam identificar possíveis problemas na formulação dos requisitos 1. No caso da Caesb Autoatendimento, entrar em contato com a empresa para obter a validação.</p>
+<p align="justify">&emsp;&emsp;Ao alcançar a etapa de validação, que consiste em confirmar se o produto atende às expectativas do usuário, uma das estratégias adotadas para o projeto foi a comprovação informal. Trata-se de uma descrição em linguagem natural para que os clientes possam identificar possíveis problemas na formulação dos requisitos. No caso da Caesb Autoatendimento, entrar em contato com a empresa para obter a validação.</p>
 
 ## Método de comunicação
 
@@ -46,6 +46,6 @@ Até o momento da entrega do artefato (02/02/2025) não foram obtidas respostas 
 | Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 |  1.0   |26/01/2025 | Criacao do artefato | [Letícia Resende](https://github.com/LeticiaResende23)  | [Leandro de Almeida](https://github.com/leomitx10)|
-|  1.1   |30/01/2025 | Inserção das imagens | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)  | 
+|  1.1   |02/02/2025 | Inserção das imagens | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)  | 
 
 </center>
