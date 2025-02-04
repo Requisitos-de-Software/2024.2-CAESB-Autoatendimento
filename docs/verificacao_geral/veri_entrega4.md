@@ -148,3 +148,4 @@ Pode ser vista no [YouTube]().</p>
 | **Versão** | **Data**   | **Descrição**                                    | **Autor**                                             | **Revisor**                                          |
 |:----------:|:----------:|:------------------------------------------------:|:-----------------------------------------------------:|:----------------------------------------------------:|
 | 1.0        | 02/02/2025 | Criação do Documento e Lista de Verificação      | [Joao Victor Marques](https://github.com/jmarquees)    | [Leandro de Almeida](https://github.com/leomitx10)      |
+| 1.1        | 03/02/2025 | Adição de vídeo de verificação      | [Joao Victor Marques](https://github.com/jmarquees)    | [Leandro de Almeida](https://github.com/leomitx10)      |
