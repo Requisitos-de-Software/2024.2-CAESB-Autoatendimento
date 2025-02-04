@@ -26,7 +26,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 &emsp;&emsp;A tabela 01 apresenta a lista de Verificação da Comprovação Informal do Grupo 04 que foram elaboradas com base nas listas de verificação entregue e 02 apresenta a verificação.
 </p>
 
-<center>Tabela 01: Verificação da Comprovação Informal do Grupo 04</center>
+<center>Tabela 01: Lista de Verificação da Comprovação Informal</center>
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
@@ -40,7 +40,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 </center>
 
 <br>
-<center>Tabela 02: Verificação da Comprovação Informal do Grupo 04 </center>
+<center>Tabela 02: Verificação da Comprovação Informal</center>
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
@@ -61,7 +61,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 &emsp;&emsp;A tabela 03 apresenta a lista de Verificação dos Protótipos do Grupo 04 que foram elaboradas com base nas listas de verificação entregue e 04 apresenta a verificação.
 </p>
 
-<center>Tabela 03: Verificação dos Protótipos do Grupo 04 </center>
+<center>Tabela 03: Lista de verificação dos Protótipos </center>
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
@@ -76,7 +76,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 <br>
 
-<center>Tabela 04: Verificação dos Protótipos do Grupo 04</center>
+<center>Tabela 04: Verificação dos Protótipos</center>
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
@@ -94,7 +94,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 Pode ser vista no [YouTube]().</p>
 
 <center>
-    <p>Vídeo 01: Verificação da Entrega 6 do Grupo 04</p>
+    <p>Vídeo 01: Verificação dos artefatos</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/y2-191PM_ys?si=QWTKBqPnyYzXqOIN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>

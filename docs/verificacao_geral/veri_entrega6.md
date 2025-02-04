@@ -26,7 +26,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 &emsp;&emsp;A tabela 01 apresenta a lista de Verificação da Comprovação Informal que foram elaboradas com base nas listas de verificação entregue e 02 apresenta a verificação.
 </p>
 
-<center>Tabela 01: Verificação da Comprovação Informal</center>
+<center>Tabela 01: Lista de Verificação da Comprovação Informal</center>
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
@@ -63,7 +63,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 <p align="justify">
 &emsp;&emsp;A tabela 03 apresenta a lista de Verificação dos Protótipos que foram elaboradas com base nas listas de verificação entregue e 04 apresenta a verificação.
 </p>
-<center>Tabela 03: Verificação dos Protótipos </center>
+<center>Tabela 03: Lista de verificação dos Protótipos </center>
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
@@ -98,7 +98,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 Pode ser vista no [YouTube]().</p>
 
 <center>
-    <p>Vídeo 01: Verificação da Entrega 6</p>
+    <p>Vídeo 01: Verificação dos artefatos</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/YM3eKs3b2ag?si=ndM-6CIqiBcKZV1h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
@@ -137,7 +137,9 @@ Tabela 05: Tempo de início da verificação dos artefatos no vídeo
 
 <center><figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
  
+ <center>
 ![ref1](../../assets/nfrvvee.png)
+</center>
 
  <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>

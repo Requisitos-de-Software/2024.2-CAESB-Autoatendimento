@@ -201,6 +201,8 @@ Pode ser vista no [YouTube](https://www.youtube.com/embed/I4t4dM06GCY?si=yVzMXvl
 
 <center>
 
+<br>
+
 Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 
 | **Artefato** | **Inicio**   | 
