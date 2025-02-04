@@ -92,9 +92,9 @@ A tabela 05 apresenta a lista de verificação do artefato do NFR Framework que 
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | O produto atende às expectativas do usuário conforme descrito na etapa de validação? |          | Joao Victor Marques |  |
-| 02     | A descrição em linguagem natural permitiu que os clientes identificassem possíveis problemas na formulação dos requisitos?         |  | Joao Victor Marques | |
-| 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto?                     |           | Joao Victor Marques |  |
+| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? |          | Joao Victor Marques |  |
+| 02     | Os requisitos não funcionais documentados no NFR Framework devem ser rastreáveis para garantir que sejam implementados e testados adequadamente?         |  | Joao Victor Marques | |
+| 03     | O NFR Framework pode ser usado para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade?                     |           | Joao Victor Marques |  |
 
 
 
@@ -107,9 +107,9 @@ A tabela 05 apresenta a lista de verificação do artefato do NFR Framework que 
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | O produto atende às expectativas do usuário conforme descrito na etapa de validação? |   Sim       | Joao Victor Marques | 01/02 versão 1.2  |
-| 02     | A descrição em linguagem natural permitiu que os clientes identificassem possíveis problemas na formulação dos requisitos? | Sim | Joao Victor Marques |01/02 versão 1.2 |
-| 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto?  |  Sim   | Joao Victor Marques | 01/02 versão 1.2 |
+| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? |   Sim       | Joao Victor Marques | 01/02 versão 1.2  |
+| 02     | Os requisitos não funcionais documentados no NFR Framework devem ser rastreáveis para garantir que sejam implementados e testados adequadamente? | Sim | Joao Victor Marques |01/02 versão 1.2 |
+| 03     | O NFR Framework pode ser usado para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade?  |  Sim   | Joao Victor Marques | 01/02 versão 1.2 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
@@ -140,8 +140,7 @@ Pode ser vista no [YouTube]().</p>
 
 ## Referências Bibliográficas
 
-> <p id="1">SERRANO, Milene. SERRANO, Maurício. Requisitos – Aula 15 . Disponível em: https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em 02 fev 2025.</p>
-> <p id="2">SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 02 de Fev. de 2025.</p>
+> <p id="1">SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 02 de Fev. de 2025.</p>
 
 
 ## Histórico de Versão
