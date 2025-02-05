@@ -77,7 +77,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 <br>
 </center>
 
-## Referências
+## Referências Bibliográficas
 
 > <p id="1">1. SERRANO, Maurício; DO PRADO LEITE, Julio Cesar Sampaio. A rich traceability model for social interactions. In: Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering. 2011. p. 63
    Acesso em: 04 nov. 2024.

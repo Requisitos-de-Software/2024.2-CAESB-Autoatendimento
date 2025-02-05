@@ -43,9 +43,9 @@
 
 | **ID** | **Descrição**  | **Avaliação** | **Observações**    | **Referências** |
 |--------|----------------|---------------|--|----------------|
-| 01   |Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim | versão 1.2 03/01  |  |
-| 02   | O histórico de versão padronizado?    | Sim |  versão 1.2 03/01  |  |
-| 03   | Na página de equipe, possui uma breve introdução sobre o projeto?| Sim | versão 1.2 03/01  |  |
+| 01   |Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim | versão 1.2 03/01  | ![ref1](../../assets/nfrvvee.png) |
+| 02   | O histórico de versão padronizado?    | Sim |  versão 1.2 03/01  | ![ref1](../../assets/nfrvvee.png) |
+| 03   | Na página de equipe, possui uma breve introdução sobre o projeto?| Sim | versão 1.2 03/01  | ![ref1](../../assets/nfrvvee.png) |
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -69,6 +69,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 ## Sugestões
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
+<br>
 
 ## Referências Bibliográficas
 
@@ -77,7 +78,6 @@ Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 </p>
 
 <br>
-
 
 ## Histórico de versão
 
@@ -89,3 +89,4 @@ Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 |  1.2   | 13/11/2024 | Correção pós apresentação |  [Matheus Barros](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23)|
 |  1.3   | 03/01/2025 | Correção da verificação | [Letícia Resende](https://github.com/LeticiaResende23) |[Matheus Barros](https://github.com/Ninja-Haiyai) |
 |  1.4   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.5   | 05/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |

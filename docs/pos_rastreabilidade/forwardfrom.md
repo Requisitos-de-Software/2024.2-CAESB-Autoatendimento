@@ -250,7 +250,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos">Épico 1 - Gestão de Contas e Pagamentos</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 1 - Segunda Via de Conta</a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us18-segunda-via-de-conta">US18 - Segunda Via de Conta</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us14-segunda-via-de-conta">US14 - Segunda Via de Conta</a> |
 | Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l01-emitir-a-segunda-via-de-conta">L01 - Emitir a Segunda Via de Conta</a> |
 | Casos de uso | --|
 | Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-1-emitir-a-segunda-via-de-conta">Cenário 1 - Emitir a Segunda Via de Conta</a> |
@@ -271,7 +271,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-1-gestao-de-contas-e-pagamentos">Épico 1 - Gestão de Contas e Pagamentos</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 2 - Formas de Pagamento</a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us19-formas-de-pagamento">US19 - Formas de Pagamento.</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us15-formas-de-pagamento">US15 - Formas de Pagamento.</a> |
 | Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#lexico-l17-formas-de-pagamento">L17 - Formas de Pagamento</a> |
 | Casos de uso | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC12 - Formas de Pagamento</a>|
 | Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-17-formas-de-pagamento">Cenário 17 - Formas de Pagamento</a> |
@@ -292,7 +292,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente">Épico 2 - Interatividade e Suporte ao Cliente</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 4 - Envio de Documentos</a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us20-envio-de-documentos">US20 - Envio de Documentos</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us16-envio-de-documentos">US16 - Envio de Documentos</a> |
 | Léxico  | --|
 | Casos de uso | --|
 | Cenários | --|
@@ -313,7 +313,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-2-interatividade-e-suporte-ao-cliente">Épico 2 - Interatividade e Suporte ao Cliente</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 5 - Suporte por Chat</a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us21-chat-ou-atendimento-virtual">US21 - Chat ou Atendimento Virtual</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us17-chat-ou-atendimento-virtual">US17 - Chat ou Atendimento Virtual</a> |
 | Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l08-suporte-de-chat-ou-atendimento">L08 - Suporte de Chat ou Atendimento</a> |
 | Casos de uso |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC08 - Suporte de Chat ou Atendimento</a> |
 | Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-8-suporte-de-chat-ou-atendimento">Cenário 8 - Suporte de Chat ou Atendimento</a>|
@@ -334,7 +334,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-3-sustentabilidade-e-consumo-consciente">Épico 3 - Sustentabilidade e Consumo Consciente</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 6 - Informar Vazamentos</a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us22-informar-vazamento">US22 - Informar Vazamento</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us18-informar-vazamento">US18 - Informar Vazamento</a> |
 | Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l04-informar-vazamento-na-rua">L04 - Informar Vazamento na Rua</a> |
 | Casos de uso |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC04 - Informar Vazamento</a> |
 | Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-4-informar-vazamento-na-rua">Cenário 4 - Informar Vazamento na Rua</a>|
@@ -354,7 +354,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-3-sustentabilidade-e-consumo-consciente">Épico 3 - Sustentabilidade e Consumo Consciente</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 7 - Informações de Falta de Água</a> |
-| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us23-informar-e-visualizar-falta-de-agua">US23 - Informar e Visualizar Falta de Água</a> |
+| História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us19-informar-e-visualizar-falta-de-agua">US19 - Informar e Visualizar Falta de Água</a> |
 | Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l02-informar-falta-dagua">L02 - Informar Falta d'Água</a> |
 | Casos de uso |  <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC02 - Informar Falta d'Água</a> |
 | Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-2-informar-falta-dagua">Cenário 2 - Informar Falta d'Água</a>|
@@ -836,12 +836,13 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 ><p> POHL, Klaus. RUPP, Chris. Requirements Engineering Fundamentals. Disponível em: <a href= https://aprender3.unb.br/pluginfile.php/2972562/mod_resource/content/2/Rastreabilidade.pdf> https://aprender3.unb.br/pluginfile.php/2972562/mod_resource/content/2/Rastreabilidade.pdf </a>. Acesso em 14 de Jan. de 2024.</p>
 
 ><p> Requisitos - Aula 26 - Profa.Milene e Prof.Mauricio. Disponível em: <a href= https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf> https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf </a>. Acesso em 14 de Jan. de 2024.</p>
 
+<br>
 
 ## Histórico de Versão
 
@@ -856,3 +857,4 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 |  1.6   | 22/01/2025 | Correção pós-apresentação | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida ](https://github.com/leomitx10) | 
 |  1.7   | 23/01/2025 | Correção pós-apresentação | [Letícia Resende ](https://github.com/LeticiaResende23) | [Leandro de Almeida ](https://github.com/leomitx10) | 
 |  1.8   | 24/01/2025 | Correção pós-apresentação |[Leandro de Almeida ](https://github.com/leomitx10) | [Letícia Resende ](https://github.com/LeticiaResende23) |  
+|  1.9   | 05/02/2025 | Correção pós-apresentação | [Letícia Resende ](https://github.com/LeticiaResende23) | [Leandro de Almeida ](https://github.com/leomitx10) | 

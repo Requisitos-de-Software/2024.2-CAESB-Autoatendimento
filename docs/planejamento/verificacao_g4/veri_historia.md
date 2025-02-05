@@ -38,7 +38,6 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 | 09     | <p align="justify">A equipe de desenvolvimento consegue entender claramente o que é necessário para implementar a história?</p> |               | Joao Victor Marques             |     |
 | 10     | <p align="justify">A história de usuário agrega valor direto ao produto ou serviço?</p> |               | Joao Victor Marques             |     |
 
-
 <center>
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
@@ -59,8 +58,6 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 | 08     | <p align="justify">Os critérios de aceitação são específicos e mensuráveis, permitindo uma avaliação clara de quando a história está concluída?</p> | Sim           | Matheus Barros             | Versão 1.0 18/12    |
 | 09     | <p align="justify">A equipe de desenvolvimento consegue entender claramente o que é necessário para implementar a história?</p> | Sim           | Joao Victor Marques             | Versão 1.0 18/12    |
 | 10     | <p align="justify">A história de usuário agrega valor direto ao produto ou serviço?</p> | Sim           | Joao Victor Marques             | Versão 1.0 18/12    |
-
-
 
 <center>
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
@@ -83,8 +80,7 @@ Pode ser vista no [YouTube](https://youtu.be/5GoCtVwS9-U).</p>
 <p align="justify">1. Mudar alguns títulos para tornar eles mais explicativos sobre o do que se trata a história de usuário.</p>
 <br>
 
-## Referências
-
+## Referências Bibliográficas
 
 > <p id="1">1. UNIVERSIDADE FEDERAL DE SANTA CATARINA. Apresentação sobre história de usuários. Disponível em: https://legado.moodle.ufsc.br/pluginfile.php/4330173/mod_resource/content/1/APRES%20HISTORIA%20DE%20USUARIOS%20PDF.pdf. Acesso em: 17 dez. 2024.
 </p>
@@ -98,7 +94,7 @@ Pode ser vista no [YouTube](https://youtu.be/5GoCtVwS9-U).</p>
 
 </center>
 <center>
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
 <br>
 </center>
 <br>
@@ -115,8 +111,7 @@ Pode ser vista no [YouTube](https://youtu.be/5GoCtVwS9-U).</p>
 
 </center>
 <center>
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
-<br>
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
 </center>
 <br>
 
@@ -132,7 +127,7 @@ Pode ser vista no [YouTube](https://youtu.be/5GoCtVwS9-U).</p>
 
 </center>
 <center>
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
 <br>
 </center>
 <br>
@@ -148,7 +143,7 @@ Pode ser vista no [YouTube](https://youtu.be/5GoCtVwS9-U).</p>
 
 </center>
 <center>
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</p>Autor(a): </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
 <br>
 </center>
 <br>
@@ -169,6 +164,8 @@ Pode ser vista no [YouTube](https://youtu.be/5GoCtVwS9-U).</p>
 </p>Autor(a): </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
 <br>
 </center>
+
+<br>
 
 ## Histórico de Versão
 

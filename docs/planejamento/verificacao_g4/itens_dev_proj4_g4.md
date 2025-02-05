@@ -82,7 +82,7 @@ Pode ser vista no [YouTube](https://youtu.be/1RBLOcXxffs).</p>
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 > <p id="1">1. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 24 de Nov. de 2024.
 

@@ -177,9 +177,9 @@
 Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>, <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 
 </center>
+<br>
 
-
-## Referências
+## Referências Bibliográficas
 
 ><p id="1">[1] SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: <a href="https://www-di.inf.puc-rio.br/~julio/rastre.pdf">https://www-di.inf.puc-rio.br/~julio/rastre.pdf</a>. Acesso em: 14 de Janeiro de 2025.</p>
 ><p id="2">[2] TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: <a href="http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf">http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf</a>. Acesso em: 14 de Janeiro de 2025.</p>

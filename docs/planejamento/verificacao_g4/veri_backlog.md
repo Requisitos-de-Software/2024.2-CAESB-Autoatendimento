@@ -73,8 +73,7 @@ Pode ser vista no [YouTube](https://youtu.be/prlVsYhev8Q).</p>
 
 <br>
 
-## Referências
-
+## Referências Bibliográficas
 
 > <p id="1">1. PRESSMAN, Roger S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre: AMGH, 2011. Disponível em: https ://aprender3 .unb .br /pluginfile .php /2972503 /mod_resource /content /3 /Engenharia_de_Software_Uma_Abordagem_Pro .pdf . Acesso em: 17 dez. 2024.
 </p>

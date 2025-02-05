@@ -38,9 +38,6 @@ Neste documento, realizou-se a avaliação do artefato <a href="https://requisit
 | 07     | <p align="justify">Os relacionamentos entre os casos de uso (inclusão, extensão e generalização) estão claramente indicados e seguem a notação padrão UML?</p>                                             | Sim           | Matheus Barros   | Versão 1.0  06/12.          |
 | 08     | <p align="justify">Todos os casos de uso se referem a um requisito funcional?</p> | Sim           | Natan Almeida   | Versão 1.5  08/12.          |
 
-
-
-
 <center>
  Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
 </center>
@@ -63,7 +60,7 @@ Pode ser vista no [YouTube](https://youtu.be/EdjAVLEXQPw).</p>
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 > <p id="1">1. SERRANO, Milene. Requisitos – Aula 13. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em: 03/12/2024.
 </p>

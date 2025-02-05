@@ -82,7 +82,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=7u0lnuA5PnA).</p>
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 ><p id="1">[1] SERRANO, Milene. Slides da aula 26. Aula 26 da disciplina Requisitos de Software. Universidade de Brasília, Brasília. Acesso em 17 de janeiro de 2025.</p>
 
@@ -94,6 +94,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=7u0lnuA5PnA).</p>
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
 </center>
 
+<br>
 
 ## Histórico de Versão
 

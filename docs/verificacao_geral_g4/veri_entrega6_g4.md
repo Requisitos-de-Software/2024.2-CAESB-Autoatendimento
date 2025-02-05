@@ -32,8 +32,8 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |---------------|
 | 01     | O produto atende às expectativas do usuário conforme descrito na etapa de validação? |          | Letícia Resende |  |![ref1](../../assets/nfrvvee.png) |
 | 02     | A descrição em linguagem natural permitiu que os clientes identificassem possíveis problemas na formulação dos requisitos?         |  | Letícia Resende | |![ref1](../../assets/nfrvvee.png) |
-| 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto?                     |           | Letícia Resende |  |![ref1](../../assets/nfrvvee.png) |
-| 04     | A mensagem enviada por e-mail foi estruturada e formal, adequada à natureza técnica do conteúdo? | | Letícia Resende |  | ![ref1](../../assets/nfrvvee.png) |
+| 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto?                     |           | Leandro de Almeida |  |![ref1](../../assets/nfrvvee.png) |
+| 04     | A mensagem enviada por e-mail foi estruturada e formal, adequada à natureza técnica do conteúdo? | | Matheus Barros |  | ![ref1](../../assets/nfrvvee.png) |
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
@@ -46,8 +46,8 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |---------------|
 | 01     | O produto atende às expectativas do usuário conforme descrito na etapa de validação? |   Não verificável      | Letícia Resende | 31/01 versão 1.2  |![ref1](../../assets/nfrvvee.png) |
 | 02     | A descrição em linguagem natural permitiu que os clientes identificassem possíveis problemas na formulação dos requisitos? | Não verificável  | Letícia Resende |31/01 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
-| 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto?  |  Não verificável   | Letícia Resende | 31/01 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
-| 04     | A mensagem enviada por e-mail foi estruturada e formal, adequada à natureza técnica do conteúdo? | Não verificável   | Letícia Resende | 31/01 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
+| 03     | Foram utilizados canais adequados (e-mail e redes sociais) para validação e comunicação do projeto?  |  Não verificável   | Leandro de Almeida | 31/01 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
+| 04     | A mensagem enviada por e-mail foi estruturada e formal, adequada à natureza técnica do conteúdo? | Não verificável   | Matheus Barros | 31/01 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
@@ -68,7 +68,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | 01     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | | Letícia Resende ||![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 | 02     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  | Letícia Resende|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 | 03     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |    |Letícia Resende|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 04   | Os protótipos foram validados com usuários reais por meio de entrevistas?  |    | Letícia Resende | |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 04   | Os protótipos foram validados com usuários reais por meio de entrevistas?  |    | Matheus Barros | |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
@@ -83,7 +83,7 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 | 01     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | Sim | Letícia Resende |31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 | 02     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  Sim   | Letícia Resende | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 | 03     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |  Não | Letícia Resende | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 04     | Os protótipos foram validados com usuários reais por meio de entrevistas?  | Sim   | Letícia |31/01 versão 1.4  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 04     | Os protótipos foram validados com usuários reais por meio de entrevistas?  | Sim   | Matheus Barros |31/01 versão 1.4  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 
 
 <center></p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
@@ -149,3 +149,4 @@ Tabela 05: Tempo de início da verificação dos artefatos no vídeo
 | :----: | :--------: | :-----------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
 |  1.0   | 31/01/2025 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10)| 
 |  1.1  | 03/02/2025 | Adicionando tabela que referencia o tempo do vídeo de cada inspeção| [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10)| 
+|  1.2  | 05/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10)| 

@@ -46,11 +46,11 @@
 
 | **ID** | **Descrição**  | **Avaliação** |**Observações** |**Referências**|
 |--------|----------------|---------------|--|------------------|
-| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | versão 1.3  03/01   |  |
-| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.    | Sim | versão 1.3  03/01  |  |
-| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim | versão 1.3  03/01 |  |
-| 04   | Possui um cronograma executado, além do planejado?| Sim |versão 1.3  03/01  |  |
-| 05   | O cronograma possui revisores?| Sim |  versão 1.3  03/01  |  |
+| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | versão 1.3  03/01   | ![ref1](../../assets/nfrvvee.png) |
+| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.    | Sim | versão 1.3  03/01  |![ref1](../../assets/nfrvvee.png)  |
+| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim | versão 1.3  03/01 | ![ref1](../../assets/nfrvvee.png) |
+| 04   | Possui um cronograma executado, além do planejado?| Sim |versão 1.3  03/01  | ![ref1](../../assets/nfrvvee.png) |
+| 05   | O cronograma possui revisores?| Sim |  versão 1.3  03/01  | ![ref1](../../assets/nfrvvee.png) |
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -71,10 +71,8 @@ Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 </center>
 
 
-
 ## Problemas encontrados
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas.</p>
-
 
 
 ## Sugestões
@@ -91,9 +89,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 
 <br>
 
-
 ## Histórico de Versão
-
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
@@ -102,6 +98,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 |  1.2   | 13/11/2024 | Correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.3   | 03/01/2025 | Correção da verificação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.4   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.5   | 05/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 
 
 

@@ -86,7 +86,7 @@ Pode ser vista no [YouTube](https://youtu.be/zxJYTZEa48k).</p>
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 > <p id="1">1. CARDOSO, Renato. Engenharia dos requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf .Acesso em: 17 de Dez. de 2024.
 </p>
@@ -98,7 +98,7 @@ Pode ser vista no [YouTube](https://youtu.be/zxJYTZEa48k).</p>
 </center>
 
  <center>
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>,
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
 </center>
 
 <br>
@@ -112,7 +112,7 @@ Pode ser vista no [YouTube](https://youtu.be/zxJYTZEa48k).</p>
 ![ref2](../../assets/qstNFR.png)
 
  <center>
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>,
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
 </center>
 
 > <p>3. SERRANO, Milene. Requisitos – Aula 17. Disponível em: https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf. Acesso em: 17 de Dez. 2024</p>
@@ -128,6 +128,8 @@ Pode ser vista no [YouTube](https://youtu.be/zxJYTZEa48k).</p>
 <center>
 <p> Autor: (CHUNG et al., 2000). </p>
 </center>
+
+<br>
 
 ## Histórico de Versão
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
