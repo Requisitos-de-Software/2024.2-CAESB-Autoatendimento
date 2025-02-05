@@ -24,6 +24,8 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
+<br>
+
 <center>
     <p>Vídeo 01: Entrevista com o PO</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/PsvCjqgs0CE?si=A2h6if1Q1rd4njr6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -34,7 +36,7 @@
 
 ## US01 - Barra de busca
 
-<center>Tabela 3: Barra de Busca
+<center>Tabela 2: Barra de Busca
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -46,11 +48,12 @@
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
 <br>
 
 ## US02 - Registrar e acompanhar ordens de serviço
 
-<center>Tabela 4: Registrar e acompanhar ordens de serviço
+<center>Tabela 3: Registrar e acompanhar ordens de serviço
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -62,28 +65,12 @@
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
 <br>
 
-## US03 - Conformidade com os padrões de acessibilidade da WCAG
+## US03 - Buscar atendimento pelo protocolo
 
-<center>Tabela 5: Conformidade com os padrões de acessibilidade da WCAG
-
-|       ID               |      Nome       | 
-|------------------------|-----------------|
-|      US03              | 	O aplicativo deve estar em conformidade com os padrões de acessibilidade da WCAG.   |
-|     Descrição          | Eu, como usuário, desejo que o aplicativo esteja em conformidade com os padrões de acessibilidade da última versão da WCAG, para garantir que ele possa ser utilizado por pessoas com diferentes tipos de deficiência. |
-| Critérios de Aceitação | - Todos os elementos de interface devem ser compatíveis com leitores de tela e navegáveis por teclado.<br> - As cores, contrastes, e tamanhos de fontes devem atender aos requisitos mínimos estabelecidos pela WCAG.<br> - Deve haver suporte a textos alternativos para imagens e elementos gráficos não textuais.<br> - O sistema deve evitar elementos que possam causar problemas para pessoas com fotosensibilidade, como animações rápidas ou piscantes.<br> - Deve haver testes realizados para validar conformidade com a última versão da WCAG antes da entrega do produto. |
-|     Prioridade         | Should-Have |
-|     Rastreabilidade    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ35</a> |
-
-</p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
-</center>
-<br>
-
-## US04 - Buscar atendimento pelo protocolo
-
-<center>Tabela 6: Buscar atendimento pelo protocolo
-
+<center>Tabela 4: Buscar atendimento pelo protocolo
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -95,12 +82,12 @@
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
 <br>
 
-## US05 - Alterar o vencimento da conta
+## US04 - Alterar o vencimento da conta
 
-<center>Tabela 7: Alterar vencimento de conta
-
+<center>Tabela 5: Alterar vencimento de conta
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -112,11 +99,12 @@
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
 <br>
 
-## US06 - Exibir pequenas descrições ao lado dos serviços
+## US05 - Exibir pequenas descrições ao lado dos serviços
 
-<center>Tabela 8: Descrições de serviços
+<center>Tabela 6: Descrições de serviços
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -128,11 +116,12 @@
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
 <br>
 
-## US07 - Adiantamento de processos via aplicativo
+## US06 - Adiantamento de processos via aplicativo
 
-<center>Tabela 9: Adiantamento de processos via aplicativo
+<center>Tabela 7: Adiantamento de processos via aplicativo
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -147,9 +136,9 @@
 
 <br>
 
-## US08 - Filtrar atendimentos por ano, mês e status
+## US07 - Filtrar atendimentos por ano, mês e status
 
-<center>Tabela 10: Filtrar atendimentos por ano, mês e status
+<center>Tabela 8: Filtrar atendimentos por ano, mês e status
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -164,9 +153,9 @@
 
 <br>
 
-## US09 - Permitir pagamento mensal recorrente
+## US08 - Permitir pagamento mensal recorrente
 
-<center>Tabela 11: Permitir pagamento mensal recorrente
+<center>Tabela 9: Permitir pagamento mensal recorrente
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -181,9 +170,9 @@
 
 <br>
 
-## US10 - Atualizar seus dados cadastrais pelo app
+## US09 - Atualizar seus dados cadastrais pelo app
 
-<center>Tabela 12: Atualizar seus dados cadastrais pelo app
+<center>Tabela 10: Atualizar seus dados cadastrais pelo app
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -198,9 +187,9 @@
 
 <br>
 
-## US11 - Notificar o usuário para lembrar vencimento de contas e ações pendentes.
+## US10 - Notificar o usuário para lembrar vencimento de contas e ações pendentes.
 
-<center>Tabela 13: Notificar o usuário para lembrar vencimento de contas e ações pendentes.
+<center>Tabela 11: Notificar o usuário para lembrar vencimento de contas e ações pendentes.
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -215,9 +204,9 @@
 
 <br>
 
-## US12 - Permitir ao usuário informar vazamentos na rua ou no hidrômetro
+## US11 - Permitir ao usuário informar vazamentos na rua ou no hidrômetro
 
-<center>Tabela 14: Permitir ao usuário informar vazamentos na rua ou no hidrômetro
+<center>Tabela 12: Permitir ao usuário informar vazamentos na rua ou no hidrômetro
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -232,9 +221,9 @@
 
 <br>
 
-## US13 - Permitir ao usuário agendar atendimento presencial na unidade mais próxima
+## US12 - Permitir ao usuário agendar atendimento presencial na unidade mais próxima
 
-<center>Tabela 15: Permitir ao usuário agendar atendimento presencial na unidade mais próxima
+<center>Tabela 13: Permitir ao usuário agendar atendimento presencial na unidade mais próxima
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -249,9 +238,9 @@
 
 <br>
 
-## US17 -  Barra de Funções Mais Utilizadas.
+## US13 -  Barra de Funções Mais Utilizadas.
 
-<center>Tabela 19:  Barra de Funções Mais Utilizadas
+<center>Tabela 14:  Barra de Funções Mais Utilizadas
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -266,9 +255,9 @@
 
 <br>
 
-## US18 - Segunda Via de Conta.
+## US14 - Segunda Via de Conta.
 
-<center>Tabela 20:  Segunda Via de Conta.
+<center>Tabela 15:  Segunda Via de Conta.
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -283,9 +272,9 @@
 
 <br>
 
-## US19 - Formas de Pagamento.
+## US15 - Formas de Pagamento.
 
-<center>Tabela 21: Formas de Pagamento.
+<center>Tabela 16: Formas de Pagamento.
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -300,9 +289,9 @@
 
 <br>
 
-## US20 - Envio de Documentos.
+## US16 - Envio de Documentos.
 
-<center>Tabela 22: Envio de Documentos.
+<center>Tabela 17: Envio de Documentos.
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -317,10 +306,9 @@
 
 <br>
 
+## US17 - Chat ou Atendimento Virtual.
 
-## US21 - Chat ou Atendimento Virtual.
-
-<center>Tabela 23: Chat ou Atendimento Virtual.
+<center>Tabela 18: Chat ou Atendimento Virtual.
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -335,9 +323,9 @@
 
 <br>
 
-## US22 - Informar Vazamento.
+## US18 - Informar Vazamento.
 
-<center>Tabela 24: Informar Vazamento.
+<center>Tabela 19: Informar Vazamento.
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -352,9 +340,9 @@
 
 <br>
 
-## US23 - Informar e Visualizar Falta de Água.
+## US19 - Informar e Visualizar Falta de Água.
 
-<center>Tabela 25: Informar e Visualizar Falta de Água.
+<center>Tabela 20: Informar e Visualizar Falta de Água.
 
 |       ID               |      Nome       | 
 |------------------------|-----------------|
@@ -367,11 +355,10 @@
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
-
 <br>
 
-## US25 - Acesso/Pagamento de Contas Passadas.
-<center>Tabela 27: Acesso/Pagamento de Contas Passadas.
+## US20 - Acesso/Pagamento de Contas Passadas.
+<center>Tabela 21: Acesso/Pagamento de Contas Passadas.
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
@@ -385,8 +372,8 @@
 
 <br>
 
-## US26 - Consulta de Consumo.
-<center>Tabela 28: Consulta de Consumo.
+## US21 - Consulta de Consumo.
+<center>Tabela 22: Consulta de Consumo.
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
@@ -400,8 +387,8 @@
 
 <br>
 
-## US27 - Bloqueio/Reativação/Solicitação de Reparo.
-<center>Tabela 29: Bloqueio/Reativação/Solicitação de Reparo.
+## US22 - Bloqueio/Reativação/Solicitação de Reparo.
+<center>Tabela 23: Bloqueio/Reativação/Solicitação de Reparo.
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
@@ -415,8 +402,8 @@
 
 <br>
 
-## US28 - Correção de Erros.
-<center>Tabela 30: Correção de Erros.
+## US23 - Correção de Erros.
+<center>Tabela 24: Correção de Erros.
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
@@ -430,8 +417,8 @@
 
 <br>
 
-## US29 - Simulação de Tarifa.
-<center>Tabela 31: Simulação de Tarifa.
+## US24 - Simulação de Tarifa.
+<center>Tabela 25: Simulação de Tarifa.
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
@@ -445,8 +432,8 @@
 
 <br>
 
-## US30 - Dicas de Consumo Consciente.
-<center>Tabela 32: Dicas de Consumo Consciente.
+## US25 - Dicas de Consumo Consciente.
+<center>Tabela 26: Dicas de Consumo Consciente.
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
@@ -460,8 +447,8 @@
 
 <br>
 
-## US31 - Alertas sobre Manutenção Programada.
-<center>Tabela 33: Alertas sobre Manutenção Programada.
+## US26 - Alertas sobre Manutenção Programada.
+<center>Tabela 27: Alertas sobre Manutenção Programada.
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
@@ -475,8 +462,8 @@
 
 <br>
 
-## US32 - Alteração na Titularidade da Conta.
-<center>Tabela 34: Alteração na Titularidade da Conta.
+## US27 - Alteração na Titularidade da Conta.
+<center>Tabela 28: Alteração na Titularidade da Conta.
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
@@ -490,8 +477,8 @@
 
 <br>
 
-## US33 - Escolher imóvel desejado.
-<center>Tabela 35: Escolher imóvel desejado.
+## US28 - Escolher imóvel desejado.
+<center>Tabela 29: Escolher imóvel desejado.
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
@@ -505,8 +492,8 @@
 
 <br>
 
-## US34 - Reconhecimento automático de imóveis.
-<center>Tabela 36: Reconhecimento automático de imóveis.
+## US29 - Reconhecimento automático de imóveis.
+<center>Tabela 30: Reconhecimento automático de imóveis.
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
@@ -520,8 +507,8 @@
 
 <br>
 
-## US35 - Consideração do número de pessoas no imóvel.
-<center>Tabela 37: Consideração do número de pessoas no imóvel.
+## US30 - Consideração do número de pessoas no imóvel.
+<center>Tabela 31: Consideração do número de pessoas no imóvel.
 
 | ID                     | Nome                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
@@ -535,81 +522,8 @@
 
 <br>
 
-## US36 - Compatibilidade com Android e iOS.
-<center>Tabela 38: Compatibilidade com Android e iOS.
 
-| ID                     | Nome                                                                                        |
-| ---------------------- | ------------------------------------------------------------------------------------------- |
-| US36                   | O aplicativo deve ser compatível com as versões mais recentes do Android e iOS.                     |
-| Descrição              | Eu, como usuário, quero que o aplicativo seja compatível com as versões mais recentes do Android e iOS, para garantir que o aplicativo funcione corretamente em meu dispositivo e aproveite os recursos mais recentes desses sistemas operacionais. |
-| Critérios de Aceitação | - O aplicativo deve ser otimizado para oferecer boa performance e compatibilidade com as funcionalidades dessas versões, como novos recursos, APIs e melhorias de segurança.   <br> - Caso o usuário esteja utilizando uma versão anterior do sistema operacional, o aplicativo deve notificar que pode haver limitações de compatibilidade ou funcionalidades.    <br> - O aplicativo deve ser capaz de realizar atualizações futuras para manter a compatibilidade com novas versões do Android e iOS.   |
-| Prioridade             | Must-Have                                                                                 |
-| Rastreabilidade        | [RQ33](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
-
-</p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
-
-<br>
-
-## US37 - Interface intuitiva e organizada.
-<center>Tabela 39: Interface intuitiva e organizada.
-
-| ID                     | Nome                                                                                        |
-| ---------------------- | ------------------------------------------------------------------------------------------- |
-| US37                   | O aplicativo deve ter uma interface intuitiva, organizada e fácil de usar.                     |
-| Descrição              | Eu, como usuário, quero que o aplicativo tenha uma interface intuitiva, organizada e fácil de usar, para que eu possa navegar facilmente pelas funcionalidades e realizar minhas tarefas sem dificuldade. |
-| Critérios de Aceitação | - O aplicativo deve ter uma navegação simples e clara, com menus e botões visíveis e de fácil acesso.   <br> - As funcionalidades mais importantes devem ser facilmente acessíveis a partir da tela inicial, sem a necessidade de muitas etapas.   <br> - A interface deve ser limpa, sem sobrecarga de informações, utilizando ícones e textos explicativos para facilitar o entendimento.   <br> - O design deve ser responsivo e adaptável, funcionando bem em diferentes tamanhos de tela e dispositivos.   <br> - O aplicativo deve ser testado com usuários para garantir que a interface é compreendida e fácil de usar por um público amplo, incluindo pessoas com pouca experiência tecnológica. |
-| Prioridade             | Should-Have                                                                                 |
-| Rastreabilidade        | [RQ36](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
-
-</p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
-
-<br>
-
-## US38 - Minimização do número de cliques necessários para interações.
-<center>Tabela 40: Minimização do número de cliques necessários para interações.
-
-| ID                     | Nome                                                                                        |
-| ---------------------- | ------------------------------------------------------------------------------------------- |
-| US38                   | O sistema deve minimizar o número de cliques necessários para interações.                    |
-| Descrição              | Eu, como usuário, quero que o sistema minimize o número de cliques necessários para realizar as interações, para que eu possa completar minhas tarefas de maneira rápida e eficiente, sem perder tempo em ações desnecessárias. |
-| Critérios de Aceitação | - O sistema deve ser projetado para que as interações mais comuns ou críticas sejam acessíveis com o menor número possível de cliques.    <br> - O fluxo de navegação deve ser otimizado, garantindo que o usuário não precise percorrer várias telas ou menus para realizar uma ação simples.   <br> - O sistema deve usar opções como seleções automáticas, sugestões e menus suspensos para reduzir a necessidade de cliques repetitivos. |
-| Prioridade             | Should-Have                                                                                 |
-| Rastreabilidade        | [RQ37](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
-
-</p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
-
-<br>
-
-## US39 - Suporte offline.
-<center>Tabela 41: Suporte offline.
-
-| ID                     | Nome                                                                                        |
-| ---------------------- | ------------------------------------------------------------------------------------------- |
-| US39                   | O aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas.   |
-| Descrição              | Eu, como usuário, quero que o aplicativo permita o suporte offline para funcionalidades básicas, como a visualização de contas armazenadas, para que eu possa acessar essas informações mesmo quando não estiver conectado à internet. |
-| Critérios de Aceitação | - O aplicativo deve armazenar localmente informações como contas, faturas e histórico de consumo, permitindo que o usuário acesse esses dados offline.     <br> - O usuário deve ser capaz de visualizar as contas e faturas salvas no dispositivo sem precisar de uma conexão com a internet.    <br> - Quando a conexão for restabelecida, o aplicativo deve sincronizar automaticamente os dados armazenados localmente com o servidor, atualizando informações como status de pagamento e novos débitos. <br> - O aplicativo deve informar ao usuário quando estiver no modo offline e quando os dados não estiverem atualizados devido à falta de conexão. |
-| Prioridade             | Must-Have                                                                                 |
-| Rastreabilidade        | [RQ39](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
-
-</p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
-
-<br>
-
-## US40 - Tempos de resposta inferiores a 2 segundos para funcionalidades.
-<center>Tabela 42: Tempos de resposta inferiores a 2 segundos para funcionalidades.
-
-| ID                     | Nome                                                                                        |
-| ---------------------- | ------------------------------------------------------------------------------------------- |
-| US40                   | O aplicativo deve ter tempos de resposta inferiores a 2 segundos para a maioria das funcionalidades.   |
-| Descrição              | Eu, como usuário, quero que o aplicativo tenha tempos de resposta inferiores a 2 segundos para a maioria das funcionalidades, para que eu possa realizar minhas tarefas de maneira rápida e eficiente.  |
-| Critérios de Aceitação | - O tempo de resposta do aplicativo para ações como abrir telas, consultar contas, e exibir informações deve ser inferior a 2 segundos na maioria das situações.   <br> - O aplicativo deve ser otimizado para garantir um desempenho ágil, evitando delays significativos durante a navegação ou ao acessar dados.   <br> - Caso uma funcionalidade demore mais de 2 segundos para ser carregada, o aplicativo deve informar ao usuário que está processando a ação (ex: uma animação de carregamento ou uma mensagem de "aguarde").   <br> - O design deve ser responsivo e adaptável, funcionando bem em diferentes tamanhos de tela e dispositivos.   <br> - O desempenho do aplicativo deve ser testado em diferentes dispositivos para garantir que o tempo de resposta seja mantido abaixo de 2 segundos, especialmente nas funcionalidades mais utilizadas. |
-| Prioridade             | Must-Have                                                                                 |
-| Rastreabilidade        | [RQ40](https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos) |
-
-</p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a></center>
-
-
-## Referências
+## Referências Bibliográficas
 
 > <p id="1">SERRANO, Milene. SERRANO, Maurício. Requisitos – Aula 15 . Disponível em: https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf . Acesso em 12 dez 2024.</p>
 
@@ -624,3 +538,4 @@
 |  1.2   | 14/12/2024 | Adição de historias de usuario | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 15/12/2024 | Adição das historias de usuario 25 até 32| [Matheus Barros](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.4   | 17/12/2024 | Adição das historias de usuario 33 a 40| [Joao Victor Marques](https://github.com/jmarquees)| [Leandro de Almeida](https://github.com/leomitx10)|
+|  1.5   | 05/02/2025 | correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
