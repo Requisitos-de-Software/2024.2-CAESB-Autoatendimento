@@ -21,7 +21,6 @@ Os requisitos levantados durante a análise de documentos, identificados com 'AD
 <center>
 <figcaption>Tabela 01 - Requisitos </figcaption>
 
-
 | Rastreabilidade   | Descrição                                                          | Categoria |
 | :-: | :-------------------------------------------------------------------: | :-------: 
 | ADD01| O usuário deve poder enviar documentos diretamente pelo aplicativo. | RF |
@@ -39,12 +38,10 @@ Os requisitos levantados durante a análise de documentos, identificados com 'AD
 | ADD13| O aplicativo deve estar em conformidade com padrões de acessibilidade, como WCAG.| RNF |
 | ADD14| O aplicativo deve permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas.| RNF |
 
-
 Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letícia Resende</a>
 </center>
 
 <br>
-
 
 <center>
 <figcaption>Tabela 01 - Requisitos Implementados </figcaption>
@@ -69,12 +66,11 @@ Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letí
 | ADD29| O aplicativo deve exibir informações em tempo real sobre interrupções no fornecimento de água.| RF | Sim |
 | ADD30| O aplicativo deve oferecer estatísticas de consumo mensal para ajudar o usuário a monitorar o uso de água.| RF | Sim |
 
-
-
 Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letícia Resende</a>
 </center>
+<br>
 
-## Referências
+## Referências Bibliográficas
 
 > <p>1. VAZQUEZ, Carlos Eduardo; SIQUEIRA, Guilherme. Engenharia de requisitos. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972448/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf>. Acesso em: 23 nov. 2024.</p>
 > <p>2.WIEGERS, Karl; BEATTY, Joy. Software requirements. 3. ed. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972451/mod_resource/content/1/Elicitacao%20de%20Req.pdf>. Acesso em: 23 nov. 2024.

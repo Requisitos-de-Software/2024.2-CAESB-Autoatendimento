@@ -104,7 +104,7 @@ As colunas incluídas na matriz de rastreabilidade são as seguintes:
 ## Histórico de versão
 
 
-| Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
+| Versão | Data       | Descrição                | Autor(es)                                       | Revisor(es)                                      |
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 |  1.0   | 14/01/2025 | Criação do artefato e adição dos requisitos |[Letícia Resende ](https://github.com/LeticiaResende23)   | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.1   | 16/01/2025 | Adição de novos requisitos |[Natan Almeida ](https://github.com/natanalmeida03)   | [Letícia Resende ](https://github.com/LeticiaResende23) |

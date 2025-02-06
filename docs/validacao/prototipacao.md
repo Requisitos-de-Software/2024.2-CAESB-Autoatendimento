@@ -123,11 +123,12 @@
 
 ><p >Guide to prototyping in Figma. Disponível em: <a href="https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma">https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma</a>. Acesso em: 26 de Janeiro de 2025.</p>
 
+<br>
 
 ## Histórico de versão
 
 
-| Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
+| Versão | Data       | Descrição                | Autor (es)                                      | Revisor(es)                                      |
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 |  1.0   |26/01/2025 | Criacao do artefato |[ Natan Almeida ](https://github.com/natanalmeida03)   | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.1  |27/01/2025 | Adição do protótipo 2 |[Letícia Resende](https://github.com/LeticiaResende23)  | [ Natan Almeida ](https://github.com/natanalmeida03)|

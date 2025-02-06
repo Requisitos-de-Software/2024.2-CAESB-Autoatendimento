@@ -285,13 +285,14 @@
 </center>
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 > <p id="1">[1] Chung, Lawrence; A. Nixon, Brian; Mylopoulos, John. Non-Functional Requirements in Software Engineering. Acesso em 13 de Dezembro de 2024.</p>
 > <p id="2">[2] SILVA, R. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Tese (Mestrado em Engenharia de Software) - Centro de Informática, Universidade Federal de Pernambuco. Recife, p. 155. 2019. Acesso em: 13 de Dezembro de 2022
 > <p id="3"> [3]NIELSEN, Jakob. Usability Engineering. San Francisco: Morgan Kaufmann, 1994.
 > <p id="4">[4] Sommerville, I. (2011). Engenharia de Software (9ª Edição). Acesso em 14 de Dezembro de 2024.
 </p>
+<br>
 
 ## Histórico de versão
 

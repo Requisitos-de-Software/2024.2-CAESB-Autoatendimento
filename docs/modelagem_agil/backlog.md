@@ -33,14 +33,14 @@
 
 | Feature                     | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |-----------------------------|------------------------------------------------------------|-------------|-----------------------|
-| Feature 1 - Segunda Via de Conta | US18 - Emitir e visualizar segunda via de conta              | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ04 </a>                   |
-| Feature 2 - Formas de Pagamento  | US19 - Oferecer múltiplas formas de pagamento                | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ08 </a>                 |
-| Feature 2 - Formas de Pagamento  | US09 - Permitir pagamento mensal recorrente | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ09 </a> |
-| Feature 12 - Atualizar Dados Cadastrais | US10 - Permitir ao usuário atualizar seus dados cadastrais pelo app | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ20 </a> | 
-| Feature 21 - Alteração do Vencimento da Conta | US05 - Alterar o vencimento da conta | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ29</a> | 
-| Feature 25 - Acesso/Pagamento de Contas Passadas | US25 - O sistema deve permitir acessar/pagar contas passadas | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ03</a> |
-| Feature 26 - Consulta de Consumo | US26 - O sistema deve permitir consultar consumo | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ05</a> |
-| Feature 29 - Simulação de Tarifa  | US29 - O sistema deve permitir a simulação da Tarifa | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ18</a> |
+| Feature 1 - Segunda Via de Conta |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us14-segunda-via-de-conta">US14 - Emitir e visualizar segunda via de conta </a>     | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ04 </a>                   |
+| Feature 2 - Formas de Pagamento  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us15-formas-de-pagamento">US15 - Oferecer múltiplas formas de pagamento </a>  | Out    | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ08 </a>                 |
+| Feature 2 - Formas de Pagamento  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us08-permitir-pagamento-mensal-recorrente">US08 - Permitir pagamento mensal recorrente </a> | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ09 </a> |
+| Feature 3 - Atualizar Dados Cadastrais | US10 - Permitir ao usuário atualizar seus dados cadastrais pelo app | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ20 </a> | 
+| Feature 4 - Alteração do Vencimento da Conta | US05 - Alterar o vencimento da conta | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ29</a> | 
+| Feature 5 - Acesso/Pagamento de Contas Passadas | US25 - O sistema deve permitir acessar/pagar contas passadas | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ03</a> |
+| Feature 6 - Consulta de Consumo | US26 - O sistema deve permitir consultar consumo | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ05</a> |
+| Feature 7 - Simulação de Tarifa  | US29 - O sistema deve permitir a simulação da Tarifa | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ18</a> |
 
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a> 
@@ -53,14 +53,14 @@
 
 | Feature                     | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |-----------------------------|------------------------------------------------------------|-------------|-----------------------|
-| Feature 3 - Barra de Funções | US17 - Visualizar funções mais utilizadas em uma barra      | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ02 </a>                    |
-| Feature 4 - Envio de Documentos | US20 - Enviar documentos pelo aplicativo                    | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ11 </a>                  |
-| Feature 5 - Suporte por Chat  | US21 - Resolver dúvidas pelo chat                           | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ13</a>   |
-| Feature 9 - Notificação de Vencimento | US11 - Notificar o usuário para lembrar vencimento de contas e ações pendentes. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ12</a> |
-| Feature 17 - Barra de Busca | US01 - Barra de busca. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ01</a> |
-| Feature 20 - Busca de Atendimento por Protocolo | US04 - Buscar atendimento pelo protocolo. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ30</a> 
-| Feature 27 - Correção de Dados | US28 - Permitir ao usuário corrigir erros retornando à tela anterior e atualizando os dados. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ16</a> |
-| Feature 28 - Alertas de Manutenção | US31 - Disponibilizar alertas sobre manutenção programada. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ24</a> |
+| Feature 8 - Barra de Funções |<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us13-barra-de-funcoes-mais-utilizadas">US13 - Visualizar funções mais utilizadas em uma barra </a>   | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ02 </a>                    |
+| Feature 9 - Envio de Documentos | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us16-envio-de-documentos">US16 - Enviar documentos pelo aplicativo  </a> | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ11 </a>                  |
+| Feature 10 - Suporte por Chat  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us17-chat-ou-atendimento-virtual">US17 - Resolver dúvidas pelo chat  </a> | Out         | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ13</a>   |
+| Feature 11 - Notificação de Vencimento | US11 - Notificar o usuário para lembrar vencimento de contas e ações pendentes. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ12</a> |
+| Feature 12 - Barra de Busca | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us01-barra-de-busca">US01 - Barra de busca </a> | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ01</a> |
+| Feature 13 - Busca de Atendimento por Protocolo | US04 - Buscar atendimento pelo protocolo. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ30</a> 
+| Feature 14 - Correção de Dados | US28 - Permitir ao usuário corrigir erros retornando à tela anterior e atualizando os dados. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ16</a> |
+| Feature 15 - Alertas de Manutenção | US31 - Disponibilizar alertas sobre manutenção programada. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ24</a> |
 
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a> 
@@ -73,11 +73,11 @@
 
 | Feature                          | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |----------------------------------|------------------------------------------------------------|-------------|-----------------------|
-| Feature 6 - Informar Vazamentos  | US22 - Mostrar apenas mapa das áreas atendidas pela Caesb   | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ14 </a>                   |
-| Feature 7 - Informações de Falta de Água | US23 - Informar e visualizar falta de água                  | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ15 </a> |
-| Feature 6 - Informar Vazamentos | US12 - Permitir ao usuário informar vazamentos na rua ou no hidrômetro | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ19 </a> |    
-| Feature 30 - Dicas de Consumo Consciente | US30 - Exibir dicas de consumo consciente e economia de água | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ22</a> |
-| Feature 35 - Consideração do número de pessoas no imóvel | US35 - Considerar o número de pessoas no imóvel para calcular a média do consumo. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ28</a> |
+| Feature 16 - Informar Vazamentos  | US22 - Mostrar apenas mapa das áreas atendidas pela Caesb   | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ14 </a>                   |
+| Feature 17 - Informações de Falta de Água | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us19-informar-e-visualizar-falta-de-agua">US19 - Informar e visualizar falta de água   </a> | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ15 </a> |
+| Feature 18 - Informar Vazamentos | US12 - Permitir ao usuário informar vazamentos na rua ou no hidrômetro | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ19 </a> |    
+| Feature 19 - Dicas de Consumo Consciente | US30 - Exibir dicas de consumo consciente e economia de água | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ22</a> |
+| Feature 20 - Consideração do número de pessoas no imóvel | US35 - Considerar o número de pessoas no imóvel para calcular a média do consumo. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ28</a> |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>, <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a> 
 </center>
@@ -90,12 +90,12 @@
 
 | Feature                          | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
 |----------------------------------|------------------------------------------------------------|-------------|-----------------------|
-| Feature 13 - Agendar Atendimento Presencial | US13 - Permitir ao usuário agendar atendimento presencial na unidade mais próxima. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ21 </a> |  
-| Feature 18 - Registro e Acompanhamento de Ordens de Serviço | US02 - Registrar e acompanhar ordens de serviço. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ23</a> |
+| Feature 21 - Agendar Atendimento Presencial | US13 - Permitir ao usuário agendar atendimento presencial na unidade mais próxima. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ21 </a> |  
+| Feature 22 - Registro e Acompanhamento de Ordens de Serviço | US02 - Registrar e acompanhar ordens de serviço. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ23</a> |
 | Feature 23 - Adiantamento de Processos | US07 - Adiantamento de processos via aplicativo | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ10</a> |
 | Feature 24 - Filtros para Consultar Atendimentos | US08 - Filtrar atendimentos por ano, mês e status | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ17</a> |
-| Feature 31 - Bloqueio e Reativação de Conta | US27 - Permitir bloqueio, reativação ou solicitação de reparo | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ06</a> |
-| Feature 32 - Alteração de Titularidade | US32 - Permitir ao usuário solicitar alteração na titularidade da conta | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ25</a> |
+| Feature 25 - Bloqueio e Reativação de Conta | US27 - Permitir bloqueio, reativação ou solicitação de reparo | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ06</a> |
+| Feature 26 - Alteração de Titularidade | US32 - Permitir ao usuário solicitar alteração na titularidade da conta | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ25</a> |
 
 
 </p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
@@ -108,48 +108,15 @@
 <font size="3"><p style="text-align: center">Tabela 6: Product Backlog Elaborado com o Product Owner </p></font>
 
 | Feature                          | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
-|----------------------------------|------------------------------------------------------------|-------------|-----------------------|
-| Feature 14 - Tutorial Inicial  | US14 - Incluir um tutorial inicial para ajudar novos usuários a se familiarizarem. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ31 </a> |
-| Feature 15 - Suporte a Múltiplos Idiomas  | US15 - Oferecer suporte a múltiplos idiomas para atender usuários diversificados. | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ32 </a> |
-| Feature 16 - Responsividade  | US16 - Adaptar a diferentes tamanhos de tela. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ38 </a> |     
-| Feature 19 - Conformidade com Padrões de Acessibilidade | US03 - Conformidade com os padrões de acessibilidade da WCAG. | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ35 </a> |   
-| Feature 22 - Exibição de Estado Atual dos Serviços | US06 - Exibir pequenas descrições ao lado dos serviços | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ07 </a> |   
-| Feature 33 - Escolher imóvel desejado  | US33 - Permitir que o usuário escolha o imóvel desejado.  | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ26</a> |
-| Feature 34 - Reconhecimento automático de imóveis  | US34 - Reconhecer automaticamente os imóveis associados ao cliente da Caesb.  | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ27</a> |
-| Feature 36 - Compatibilidade com Android e iOS  | US36 - Ser compatível com as versões mais recentes do Android e iOS.  | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ33</a> |
-| Feature 37 - Interface intuitiva e organizada  | US37 - Ter uma interface intuitiva, organizada e fácil de usar.  | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ36</a> |
-| Feature 38 - Minimizar número de cliques  | US38 - Minimizar o número de cliques necessários para interações.  | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ37</a> |
+|----------------------------------|------------------------------------------------------------|-------------|-----------------------|   
+| Feature 27 - Exibição de Estado Atual dos Serviços | US06 - Exibir pequenas descrições ao lado dos serviços | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ07 </a> |   
+| Feature 28 - Escolher imóvel desejado  | US33 - Permitir que o usuário escolha o imóvel desejado.  | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ26</a> |
+| Feature 29 - Reconhecimento automático de imóveis  | US34 - Reconhecer automaticamente os imóveis associados ao cliente da Caesb.  | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ27</a> |
 
 </p>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>, <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
 
 <br>
-
-## Épico 6: Desempenho e Funcionalidades Offline
-<center>
-<font size="3"><p style="text-align: center">Tabela 7: Product Backlog Elaborado com o Product Owner </p></font>
-
-| Feature                     | História de Usuário                                         | Priorização | Rastreabilidade (ID) |
-|-----------------------------|------------------------------------------------------------|-------------|-----------------------|
-| Feature 39 - Suporte offline  | US39 - Permitir suporte offline para funcionalidades básicas, como visualização de contas armazenadas.  | In | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ39</a> |
-| Feature 40 - Tempo de resposta inferior a 2 segundos  | US40 - Ter tempos de resposta inferiores a 2 segundos para a maioria das funcionalidades.  | Out | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ40</a> |
-
-
-</p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
-
-</center>
-
-<br>
-
-## Épico 7 - Segurança e Privacidade
-<center>
-<font size="3"><p style="text-align: center">Tabela 8: Product Backlog Elaborado com o Product Owner </p></font>
-
-| Feature                | História de Usuário                           | Priorização | Rastreabilidade (ID) |
-|------------------------|----------------------------------------------|-------------|-----------------------|
-| Feature 8 - Segurança de Dados | US24 - Garantir segurança dos dados do usuário | In          | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ34 </a> |
-
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
 
 ## Temas
 Analisando as histórias de usuário, foi possível organizá-las inicialmente em 5 grandes temas.
@@ -158,7 +125,7 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 <p> 2. Interatividade e Suporte ao Cliente</p>
 <p> 3. Sustentabilidade e Consumo Consciente</p>
 <p> 4. Serviços de Atendimento</p>
-<p> 5. Funcionalidades Extras</p>
+<p> 5. Interface e Usabilidade</p>
 
 ## Features
 <p align="justify">&emsp;&emsp;Após a definição de um épico, são criadas as características, que consistem em especificamente sucintas das capacidades do produto para alcançar os objetivos dos usuários. Elas representam funcionalidades com um grau de abstração mais elevado do que as histórias do usuário. As features estão especificadas na tabela 8.</p>
@@ -177,73 +144,76 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 <!-- epico 1 -->
 <tr>
 <td rowspan="7" style="vertical-align: middle; font-weight: bold;">Épico 1 - Gestão de Contas e Pagamentos</td>
-<td>Feature 1 - Segunda Via de Conta</td>
+<td>Feature 1 - Segunda Via de Conta </td>
 </tr>
 <tr>
 <td>Feature 2 - Formas de Pagamento</td>
 </tr>
 <tr>
-<td>Feature 12 - Atualizar Dados Cadastrais</td>
+<td>Feature 3 - Atualizar Dados Cadastrais</td>
 </tr>
 <tr>
-<td>Feature 21 - Alteração do Vencimento da Conta</td>
+<td>Feature 4 - Alteração do Vencimento da Conta</td>
 </tr>
 <tr>
-<td>Feature 25 - Acesso/Pagamento de Contas Passadas</td>
+<td>Feature 5 - Acesso/Pagamento de Contas Passadas</td>
 </tr>
 <tr>
-<td>Feature 26 - Consulta de Consumo</td>
+<td>Feature 6 - Consulta de Consumo</td>
 </tr>
 <tr>
-<td>Feature 29 - Simulação de Tarifa</td>
+<td>Feature 7 - Simulação de Tarifa</td>
 </tr>
 <!-- epico 2 -->
 <tr>
 <td rowspan="8" style="vertical-align: middle; font-weight: bold;">Épico 2 - Interatividade e Suporte ao Cliente</td>
-<td>Feature 3 - Barra de Funções</td>
+<td>Feature 8 - Barra de Funções</td>
 </tr>
 <tr>
-<td>Feature 4 - Envio de Documentos</td>
+<td>Feature 9 - Envio de Documentos</td>
 </tr>
 <tr>
-<td>Feature 5 - Suporte por Chat</td>
+<td>Feature 10 - Suporte por Chat</td>
 </tr>
 <tr>
-<td>Feature 9 - Notificação de Vencimento</td>
+<td>Feature 11 - Notificação de Vencimento</td>
 </tr>
 <tr>
-<td>Feature 17 - Barra de Busca</td>
+<td>Feature 12 - Barra de Busca</td>
 </tr>
 <tr>
-<td>Feature 20 - Busca de Atendimento por Protocolo</td>
+<td>Feature 13 - Busca de Atendimento por Protocolo</td>
 </tr>
 <tr>
-<td>Feature 27 - Correção de Dados</td>
+<td>Feature 14 - Correção de Dados</td>
 </tr>
 <tr>
-<td>Feature 28 - Alertas de Manutenção</td>
+<td>Feature 15 - Alertas de Manutenção</td>
 </tr>
 <!-- epico 3 -->
 <tr>
 <td rowspan="4" style="vertical-align: middle; font-weight: bold;">Épico 3 - Sustentabilidade e Consumo Consciente</td>
-<td>Feature 6 - Informar Vazamentos</td>
+<td>Feature 16 - Informar Vazamentos</td>
 </tr>
 <tr>
-<td>Feature 7 - Informações de Falta de Água</td>
+<td>Feature 17 - Informações de Falta de Água</td>
 </tr>
 <tr>
-<td>Feature 30 - Dicas de Consumo Consciente</td>
+<td>Feature 18 - Informar Vazamentos</td>
 </tr>
 <tr>
-<td>Feature 35 - Consideração do número de pessoas no imóvel</td>
+<td>Feature 19 - Dicas de Consumo Consciente</td>
+</tr>
+<tr>
+<td>Feature 20 - Consideração do número de pessoas no imóvel</td>
 </tr>
 <!-- epico 4 -->
 <tr>
 <td rowspan="6" style="vertical-align: middle; font-weight: bold;">Épico 4: Serviços de Atendimento</td>
-<td>Feature 13 - Agendar Atendimento Presencial</td>
+<td>Feature 21 - Agendar Atendimento Presencial</td>
 </tr>
 <tr>
-<td>Feature 18 - Registro e Acompanhamento de Ordens de Serviço</td>
+<td>Feature 22 - Registro e Acompanhamento de Ordens de Serviço</td>
 </tr>
 <tr>
 <td>Feature 23 - Adiantamento de Processos</td>
@@ -252,60 +222,30 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 <td>Feature 24 - Filtros para Consultar Atendimentos</td>
 </tr>
 <tr>
-<td>Feature 31 - Bloqueio e Reativação de Conta</td>
+<td>Feature 25 - Bloqueio e Reativação de Conta</td>
 </tr>
 <tr>
-<td>Feature 32 - Alteração de Titularidade</td>
+<td>Feature 26 - Alteração de Titularidade</td>
 </tr>
 <!-- epico 5 -->
 <td rowspan="10" style="vertical-align: middle; font-weight: bold;">Épico 5: Interface e Usabilidade</td>
-<td>Feature 14 - Tutorial Inicial</td>
+<td>Feature 27 - Exibição de Estado Atual dos Serviços</td>
 </tr>
 <tr>
-<td>Feature 15 - Suporte a Múltiplos Idiomas</td>
+<td>Feature 28 - Escolher Imóvel Desejado</td>
 </tr>
 <tr>
-<td>Feature 16 - Responsividade</td>
-</tr>
-<tr>
-<td>Feature 19 - Conformidade com Padrões de Acessibilidade</td>
-</tr>
-<tr>
-<td>Feature 22 - Exibição de Estado Atual dos Serviços</td>
-</tr>
-<tr>
-<td>Feature 33 - Escolher Imóvel Desejado</td>
-</tr>
-<tr>
-<td>Feature 34 - Reconhecimento Automático de Imóveis</td>
-</tr>
-<tr>
-<td>Feature 36 - Compatibilidade com Android e iOS</td>
-</tr>
-<tr>
-<td>Feature 37 - Interface Intuitiva e Organizada</td>
-</tr>
-<tr>
-<td>Feature 38 - Minimizar Número de Cliques</td>
-</tr>
-<!-- epico 6 -->
-<td rowspan="2" style="vertical-align: middle; font-weight: bold;">Épico 6: Desempenho e Funcionalidades Offline</td>
-<td>Feature 39 - Suporte Offline</td>
-</tr>
-<tr>
-<td>Feature 40 - Tempo de Resposta Inferior a 2 Segundos</td>
-</tr>
-<!-- epico 7 -->
-<td rowspan="1" style="vertical-align: middle; font-weight: bold;">Épico 7 - Segurança e Privacidade</td>
-<td>Feature 8 - Segurança de Dados</td>
+<td>Feature 29 - Reconhecimento Automático de Imóveis</td>
 </tr>
 </tbody>
 </table>
 
-
 </center>
 
+<br>
+
 ## Histórias de Usuário
+
 <p align="justify">&emsp;&emsp;As <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/">Histórias de Usuário</a> refinam ainda mais as características e serão aprofundadas na seção dedicada a elas. Elas são propostas como objetivas objetivas e de alto nível de uma funcionalidade desejada do ponto de vista do cliente. Geralmente, seguem o formato: "Eu, como .., quero ..para ...</p>
 
 ## Épicos
@@ -329,18 +269,12 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 - <p align="justify">Descrição: Este épico aborda as funcionalidades de atendimento direto e solicitação de serviços. Envolve requisitos de registro e envio de ordens de serviço, agendamento de atendimentos presenciais, alteração de titularidade de conta, filtro de atendimentos e solicitações de reparos.</p>
 
 ### Épico 5: Interface e Usabilidade
-- Requisitos relacionados:<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ07, RQ26, RQ27, RQ31, RQ32, RQ33, RQ35, RQ36, RQ37, RQ38</a>    
+- Requisitos relacionados:<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ07, RQ26, RQ27</a>    
 - <p align="justify">Descrição: Este épico abrange a interface e a experiência do usuário. Inclui funcionalidades como pequenas normas para indicar o estado dos serviços, tutorial inicial para novos usuários, suporte a vários idiomas, conformidade com padrões de acessibilidade, interface intuitiva e suporte a diferentes tamanhos de tela.</p>
 
-### Épico 6: Desempenho e Funcionalidades Offline
-- Requisitos relacionados:<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank"> RQ39, RQ40</a> 
-- <p align="justify">Descrição: Este épico trata do desempenho do aplicativo e da disponibilidade de funcionalidades offline. Envolva requisitos como tempos de resposta inferiores a 2 segundos e suporte offline para visualização de contas armazenadas.</p>
+<br>
 
-### Épico 7: Segurança e Privacidade
-- Requisitos relacionados: <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#requisitos" target="_blank">RQ34</a> 
-- <p align="justify">Descrição: Este épico aborda a segurança e privacidade no uso do aplicativo. Inclui requisitos de proteção de dados dos usuários e conformidade com padrões de acessibilidade para garantir o uso seguro e inclusivo.</p>
-
-## Referências
+## Referências Bibliográficas
 
 > <p id="1">SERRANO, Milene. SERRANO, Maurício. Requisitos – Aula 15 . Disponível em: https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf . Acesso em 12 dez 2024.</p>
 > <p id="2">O que é backlog do produto Scrum e como fazer um . Disponível em: https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto . Acesso em 12 dez 2024.</p>
@@ -360,6 +294,7 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 |  1.4   | 14/12/2024 | Adiciona as features 17 a 24 | [Leandro de Almeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) | 
 |  1.5   | 14/12/2024 | Adiciona as features 25 a 32 | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Natan Almeida](https://github.com/natanalmeida03) | 
 |  1.6   | 17/12/2024 | Adiciona as features 33 a 40 | [Joao Victor](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) | 
+|  1.5   | 05/02/2025 | correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
 </center>
 
 

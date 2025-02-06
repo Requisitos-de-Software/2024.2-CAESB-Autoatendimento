@@ -99,7 +99,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 ## Histórico de Versão
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| Versão |    Data    |      Descrição       |  Autor(es)  | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 06/12/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.1   | 07/12/2024 | Adicionando Vídeo| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |

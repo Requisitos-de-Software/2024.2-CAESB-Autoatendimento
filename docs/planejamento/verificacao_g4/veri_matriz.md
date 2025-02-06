@@ -87,7 +87,7 @@ Pode ser vista no [YouTube]().</p>
 
 ## Histórico de Versão
 
-| Versão |    Data    |                  Descrição                  |                       Autor                        |                        Revisor                         |
+| Versão |    Data    |                  Descrição                  |                       Autor(es)                        |                        Revisor(es)                         |
 | :----: | :--------: | :-----------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
 |  1.0   | 20/01/2025 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) |[Natan Almeida](https://github.com/natanalmeida03)|
 |  1.1   | 05/02/2025 |correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23) |[Natan Almeida](https://github.com/natanalmeida03)|

@@ -77,16 +77,16 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
    Acesso em: 23 nov. 2024.
 </p>
  > <p id="2">2. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 24 de Nov. de 2024.<center><figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
- </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/tec_eli_ref.png?raw=true"></img><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+ </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/tec_eli_ref.png?raw=true"></img><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>
 > <p>3. VASQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. São Paulo: Pearson, 2016. 328 p. ISBN 9788574527901. Disponível em: https://aprender3.unb.br/pluginfile.php/2972448/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf. Acesso em: 24 de Nov. 2024</p>
 <center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
- </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/tec_elic_ref.png?raw=true"></img><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+ </p><img src = "https://github.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/blob/main/docs/assets/tec_elic_ref.png?raw=true"></img><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>
 
 <br>
 
 ## Histórico de Versão
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| Versão |    Data    |      Descrição       |  Autor(es)  | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 24/11/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 24/11/2024 | Adiciona imagem na referência | [Leandro de ALmeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) |

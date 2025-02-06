@@ -25,36 +25,36 @@ A Figura 1 a seguir contém a priorização dos Requisitos elicitados. Nem todos
 
 | Requisito | Benefício Relativo | Penalidade Relativa | Valor Total | Valor (%) | Custo Relativo | Custo (%) | Risco Relativo | Risco (%) | Prioridade |
 |-----------|---------------------|---------------------|-------------|-----------|----------------|-----------|----------------|-----------|------------|
-| ADD01     | 9                   | 8                   | 17          | 4.91      | 4              | 2.34      | 3              | 2.14      | 2.43       |
-| ADD26     | 9                   | 9                   | 18          | 5.20      | 5              | 2.92      | 3              | 2.14      | 2.25       |
-| ADD05     | 8                   | 7                   | 15          | 4.34      | 4              | 2.34      | 3              | 2.14      | 2.14       |
-| INT13     | 8                   | 8                   | 16          | 4.62      | 5              | 2.92      | 3              | 2.14      | 2.00       |
-| ADD14     | 9                   | 9                   | 18          | 5.20      | 6              | 3.51      | 4              | 2.86      | 1.80       |
-| ADD09     | 7                   | 7                   | 14          | 4.05      | 5              | 2.92      | 3              | 2.14      | 1.75       |
-| INT06     | 7                   | 6                   | 13          | 3.76      | 5              | 2.92      | 3              | 2.14      | 1.63       |
-| INT15     | 6                   | 6                   | 12          | 3.47      | 4              | 2.34      | 3              | 2.14      | 1.50       |
-| ADD23     | 7                   | 5                   | 12          | 3.47      | 5              | 2.92      | 4              | 2.86      | 1.33       |
-| ADD03     | 6                   | 5                   | 11          | 3.19      | 5              | 2.92      | 4              | 2.86      | 1.22       |
-| INT11     | 6                   | 5                   | 11          | 3.19      | 5              | 2.92      | 4              | 2.86      | 1.22       |
-| ADD29     | 7                   | 5                   | 12          | 3.47      | 6              | 3.51      | 4              | 2.86      | 1.20       |
-| INT21     | 9                   | 9                   | 18          | 5.20      | 7              | 4.10      | 6              | 4.29      | 1.15       |
-| ADD06     | 6                   | 5                   | 11          | 3.19      | 5              | 2.92      | 5              | 3.57      | 1.10       |
-| INT03     | 6                   | 4                   | 10          | 2.89      | 5              | 2.92      | 5              | 3.57      | 1.00       |
-| ADD04     | 6                   | 4                   | 10          | 2.89      | 5              | 2.92      | 5              | 3.57      | 1.00       |
-| ADD27     | 7                   | 4                   | 11          | 3.19      | 6              | 3.51      | 5              | 3.57      | 0.96       |
-| INT16     | 6                   | 4                   | 10          | 2.89      | 5              | 2.92      | 5              | 3.57      | 0.91       |
-| INT01     | 6                   | 4                   | 10          | 2.89      | 6              | 3.51      | 4              | 2.86      | 0.91       |
-| ADD08     | 6                   | 4                   | 10          | 2.89      | 6              | 3.51      | 5              | 3.57      | 0.83       |
-| INT17     | 5                   | 4                   | 9           | 2.60      | 6              | 3.51      | 5              | 3.57      | 0.79       |
-| INT14     | 5                   | 4                   | 9           | 2.60      | 6              | 3.51      | 5              | 3.57      | 0.79       |
-| ADD22     | 5                   | 4                   | 9           | 2.60      | 6              | 3.51      | 5              | 3.57      | 0.79       |
-| INT22     | 5                   | 5                   | 10          | 2.89      | 7              | 4.10      | 6              | 4.29      | 0.72       |
-| INT24     | 5                   | 5                   | 10          | 2.89      | 7              | 4.10      | 6              | 4.29      | 0.72       |
-| ADD12     | 5                   | 4                   | 9           | 2.60      | 7              | 4.10      | 6              | 4.29      | 0.68       |
-| INT19     | 4                   | 4                   | 8           | 2.31      | 6              | 3.51      | 6              | 4.29      | 0.62       |
-| ADD13     | 5                   | 4                   | 9           | 2.60      | 8              | 4.68      | 6              | 4.29      | 0.60       |
-| ADD07     | 4                   | 3                   | 7           | 2.02      | 6              | 3.51      | 6              | 4.29      | 0.54       |
-| ADD02     | 2                   | 4                   | 6           | 1.73      | 8              | 4.68      | 8              | 5.71      | 0.38       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD01</a>     | 9                   | 8                   | 17          | 4.91      | 4              | 2.34      | 3              | 2.14      | 2.43       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD26</a>    | 9                   | 9                   | 18          | 5.20      | 5              | 2.92      | 3              | 2.14      | 2.25       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD05</a>     | 8                   | 7                   | 15          | 4.34      | 4              | 2.34      | 3              | 2.14      | 2.14       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT13</a>     | 8                   | 8                   | 16          | 4.62      | 5              | 2.92      | 3              | 2.14      | 2.00       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD14</a>    | 9                   | 9                   | 18          | 5.20      | 6              | 3.51      | 4              | 2.86      | 1.80       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD09</a>  | 7                   | 7                   | 14          | 4.05      | 5              | 2.92      | 3              | 2.14      | 1.75       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT06</a>      | 7                   | 6                   | 13          | 3.76      | 5              | 2.92      | 3              | 2.14      | 1.63       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT15</a>      | 6                   | 6                   | 12          | 3.47      | 4              | 2.34      | 3              | 2.14      | 1.50       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD23</a>     | 7                   | 5                   | 12          | 3.47      | 5              | 2.92      | 4              | 2.86      | 1.33       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD03</a>     | 6                   | 5                   | 11          | 3.19      | 5              | 2.92      | 4              | 2.86      | 1.22       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT11</a>      | 6                   | 5                   | 11          | 3.19      | 5              | 2.92      | 4              | 2.86      | 1.22       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD29</a>    | 7                   | 5                   | 12          | 3.47      | 6              | 3.51      | 4              | 2.86      | 1.20       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT21</a>     | 9                   | 9                   | 18          | 5.20      | 7              | 4.10      | 6              | 4.29      | 1.15       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD06</a>    | 6                   | 5                   | 11          | 3.19      | 5              | 2.92      | 5              | 3.57      | 1.10       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT03</a>    | 6                   | 4                   | 10          | 2.89      | 5              | 2.92      | 5              | 3.57      | 1.00       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD04</a>    | 6                   | 4                   | 10          | 2.89      | 5              | 2.92      | 5              | 3.57      | 1.00       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD27</a>    | 7                   | 4                   | 11          | 3.19      | 6              | 3.51      | 5              | 3.57      | 0.96       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT16</a>      | 6                   | 4                   | 10          | 2.89      | 5              | 2.92      | 5              | 3.57      | 0.91       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT01</a>      | 6                   | 4                   | 10          | 2.89      | 6              | 3.51      | 4              | 2.86      | 0.91       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD08</a>    | 6                   | 4                   | 10          | 2.89      | 6              | 3.51      | 5              | 3.57      | 0.83       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT17</a>     | 5                   | 4                   | 9           | 2.60      | 6              | 3.51      | 5              | 3.57      | 0.79       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT14</a>     | 5                   | 4                   | 9           | 2.60      | 6              | 3.51      | 5              | 3.57      | 0.79       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD22</a>    | 5                   | 4                   | 9           | 2.60      | 6              | 3.51      | 5              | 3.57      | 0.79       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT22</a>     | 5                   | 5                   | 10          | 2.89      | 7              | 4.10      | 6              | 4.29      | 0.72       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT24</a>     | 5                   | 5                   | 10          | 2.89      | 7              | 4.10      | 6              | 4.29      | 0.72       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD12</a>    | 5                   | 4                   | 9           | 2.60      | 7              | 4.10      | 6              | 4.29      | 0.68       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT19</a>     | 4                   | 4                   | 8           | 2.31      | 6              | 3.51      | 6              | 4.29      | 0.62       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD13</a>   | 5                   | 4                   | 9           | 2.60      | 8              | 4.68      | 6              | 4.29      | 0.60       |
+|<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD07</a>    | 4                   | 3                   | 7           | 2.02      | 6              | 3.51      | 6              | 4.29      | 0.54       |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD02</a>    | 2                   | 4                   | 6           | 1.73      | 8              | 4.68      | 8              | 5.71      | 0.38       |
 
 Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letícia Resende</a>
 </center>
@@ -66,7 +66,7 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=9oeguWDZlk4" target="
 <center>
 <p>Vídeo 01: Gravação da entrevista de priorização</p>
 <iframe width="760" height="515" src="https://www.youtube.com/embed/V7UapC74zJw?si=lsAxrWglnbdzl-r5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<h6>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
 <br>
@@ -87,7 +87,7 @@ Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letí
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 > <p>1. MILENE, Profa.; MAURÍCIO, Prof. Elicitação de requisitos: técnicas - priorização. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>
 Acesso em: 23 nov. 2024.</P>
@@ -104,3 +104,4 @@ Acesso em: 23 nov. 2024.</p>
 |  1.1   | 23/11/2024 | Adicionando priorização |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
 |  1.2  | 23/11/2024 | Adicionando vídeo |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
 |  1.3   | 26/11/2024 | Adicionando cronograma |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
+|  1.4  | 05/02/2025 | correção pós apresentação |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |

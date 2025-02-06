@@ -144,7 +144,7 @@ Tabela 05: Tempo de início da verificação dos artefatos no vídeo
 
 ## Histórico de Versão
 
-| Versão |    Data    |                  Descrição                  |                       Autor                        |                        Revisor                         |
+| Versão |    Data    |                  Descrição                  |                       Autor(es)                        |                        Revisor(es)                         |
 | :----: | :--------: | :-----------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
 |  1.0   | 31/01/2025 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10)| 
 |  1.1   | 01/02/2025 | Adicionando vídeo de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10)| 

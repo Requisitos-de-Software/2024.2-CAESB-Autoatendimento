@@ -438,11 +438,13 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 <br>
 
 
-## Referências
+## Referências Bibliográficas
+
 > 1. <p style="word-wrap: break-word; overflow-wrap: break-word;">Especificacao de Caso de Uso. Disponível em: https://aprender3.unb.br/pluginfile.php/2972484/mod_resource/content/3/SiglaProjeto_EspecificacaoCasoUso.pdf. Acesso em: 0 dec. 2024.</p> 
 > 2. <p style="word-wrap: break-word; overflow-wrap: break-word;"> Casos de Uso. Disponível em: https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf. Acesso em: 05 dec. 2024.</p> 
 > 3. <p style="word-wrap: break-word; overflow-wrap: break-word;"> Projeto como exemplo. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/. Acesso em: 05 dec. 2024.</p> 
 > 4. <p style="word-wrap: break-word; overflow-wrap: break-word;"> Ferramenta utilizada para o diagrama de caso de uso: Lucidchart . Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml. Acesso em: 05 dec. 2024.</p> 
+
 <br>
 
 ## Histórico de versão

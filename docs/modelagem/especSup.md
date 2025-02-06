@@ -162,8 +162,11 @@ Divulgação de atualização | O aplicativo deve disponibilizar alertas de suas
 </p>Autor(a): <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a></center> 
 <br>
 
-## Referências
+## Referências Bibliográficas
+
 > <p style="word-wrap: break-word; overflow-wrap: break-word;">Especificacao Suplementar. Disponível em: https://aprender3.unb.br/pluginfile.php/2972491/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf .Acesso em: 03 dec. 2024.</p> 
+
+<br>
 
 ## Histórico de versão
 

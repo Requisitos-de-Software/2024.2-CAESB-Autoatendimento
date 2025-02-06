@@ -106,7 +106,7 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 
 ## Histórico de Versão
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| Versão |    Data    |      Descrição       |  Autor(es)  | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 17/12/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23)<br> [Leandro de Almeida](https://github.com/leomitx10)<br> [Natan Almeida](https://github.com/natanalmeida03)| [Matheus Barros](https://github.com/Ninja-Haiyai) [Joao Victor](https://github.com/jmarquees) |
 |  1.1   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |

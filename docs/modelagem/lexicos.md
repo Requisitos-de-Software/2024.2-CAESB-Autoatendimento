@@ -339,7 +339,8 @@
 
 <br>
 
-## Referências
+## Referências Bibliográficas
+
 > <p id="1">1. SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf. Acesso em: 03/12/2024.
 </p>
 

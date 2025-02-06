@@ -64,6 +64,7 @@
 ## Entrega 3 - Modelagem de Requisitos 1
 
 <center>Tabela 03: Cronograma executado para todas as atividades da terceira entrega</center>
+
 | Atividade                                                     	| Período de desenvolvimento 	| Responsáveis     	| Revisão                 	| Revisores        	|
 |---------------------------------------------------------------	|----------------------------	|------------------	|-------------------------	|------------------	|
 |   Modelagem de Requisitos: Cenários                  	| Início:29/11<br>Fim: 03/12    	| Leandro	| Início: 07/11 Fim: 07/11 	| Matheus           	|

@@ -92,7 +92,7 @@ Pode ser vista no [YouTube]().</p>
 ![ref1](../../assets/nfrvvee.png)
 
  <center>
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>,
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
 <br>
@@ -106,7 +106,7 @@ Pode ser vista no [YouTube]().</p>
 ![ref2](../../assets/qstNFR.png)
 
  <center>
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>,
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
 > <p>3. SERRANO, Milene. Requisitos – Aula 17. Disponível em: https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf. Acesso em: 17 de Dez. 2024</p>
@@ -115,7 +115,7 @@ Pode ser vista no [YouTube]().</p>
 
 ## Histórico de Versão
 
-| Versão |    Data    |                  Descrição                  |                       Autor                        |                        Revisor                         |
+| Versão |    Data    |                  Descrição                  |                       Autor(es)                        |                        Revisor(es)                         |
 | :----: | :--------: | :-----------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
 |  1.0   | 17/12/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23)<br> [Leandro de Almeida](https://github.com/leomitx10)<br> [Natan Almeida](https://github.com/natanalmeida03)| [Matheus Barros](https://github.com/Ninja-Haiyai) <br> [Joao Victor](https://github.com/jmarquees) |
 |  1.1   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |

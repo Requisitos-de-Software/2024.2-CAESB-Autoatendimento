@@ -77,7 +77,7 @@ Pode ser vista no [YouTube]().</p>
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 ><p id="1">[1] SERRANO, Milene. Slides da aula 26. Aula 26 da disciplina Requisitos de Software. Universidade de Brasília, Brasília. Acesso em 17 de janeiro de 2025.</p>
 
@@ -111,7 +111,7 @@ Pode ser vista no [YouTube]().</p>
 
 ## Histórico de Versão
 
-| Versão |    Data    |                  Descrição                  |                       Autor                        |                        Revisor                         |
+| Versão |    Data    |                  Descrição                  |                       Autor(es)                        |                        Revisor(es)                         |
 | :----: | :--------: | :-----------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
 |  1.0   | 17/01/2025 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23)| [Matheus Barros](https://github.com/Ninja-Haiyai) |
 |  1.1   | 23/01/2025 | Correção pós - apresentação | [Letícia Resende](https://github.com/LeticiaResende23)| [Matheus Barros](https://github.com/Ninja-Haiyai) |

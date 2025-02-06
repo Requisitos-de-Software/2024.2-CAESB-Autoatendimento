@@ -74,8 +74,9 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 ## Sugestões
 <p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
 
-<br>
 </center>
+
+<br>
 
 ## Referências Bibliográficas
 
@@ -88,7 +89,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 ## Histórico de Versão
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| Versão |    Data    |      Descrição       |  Autor(es)  | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 04/11/2024 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.1   | 06/11/2024 | Adicionando vídeo da verificação | [Letícia Resende](https://github.com/LeticiaResende23)|[Leandro de Almeida](https://github.com/leomitx10)|

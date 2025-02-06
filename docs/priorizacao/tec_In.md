@@ -24,36 +24,36 @@
 
 | Rastreabilidade   | Descrição                                                         | Prioridade |
 | :-: | :-------------------------------------------------------------------: | :-------: |
-| ADD01| Permitir a revisão de contas diretamente pelo aplicativo. | In |
-| ADD03 |O aplicativo deve permitir que o usuário realize a auto leitura do hidrômetro. | In  |
-| ADD05| O aplicativo deve permitir que o usuário solicite desobstrução de esgoto e acompanhe os atendimentos. | In |
-| ADD09| O aplicativo deve incluir suporte a chat ou atendimento virtual para resolver dúvidas dos usuários.  | In  |
-| ADD10 | O aplicativo deve ser compatível com sistemas operacionais Android e iOS.   |  In  |
-| ADD14| O aplicativo deve minimizar riscos de vulnerabilidades e proteger contra ataques conhecidos.  | In |
-| ADD24 |O aplicativo deve implementar autenticação multifator para aumentar a segurança do acesso.| In |
-| INT01 |O aplicativo deve permitir ao usuário informar vazamentos na rua ou no hidrômetro.   | In |
-| INT03 |O aplicativo deve permitir consulta ao histórico de consumo mensal. | In |
-| INT06 |O aplicativo deve permitir que o usuário informe falta d'Água. | In |
-| INT13 |O aplicativo deve disponibilizar a opção de cadastro em débito automático. | In |
-| INT15| O aplicativo deve permitir agendar atendimento presencial na unidade mais próxima.| In |
-| INT21	|O sistema deve garantir a segurança dos dados do usuário, com criptografia de ponta a ponta. |In|
-| INT26| O design do aplicativo deve seguir as diretrizes de acessibilidade (WCAG 2.1).| In |
-| OBS1|  O aplicativo deve permitir que o usuário escolha o imóvel desejado.	| In  |
-| OBS2|  O aplicativo deve permitir que o usuário selecione o ano ou mês da segunda via da conta. | In |
-| OBS3 | O aplicativo deve permitir que o usuário escolha visualizar a segunda via de contas pendentes. | In |
-| OBS5|	 O aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo. | In |
-| OBS7|  O aplicativo deve permitir que o usuário informe o vazamento em uma rua. | In |
-| OBS16 |O aplicativo deve ser compatível com as plataformas Android e iPhone. |In|
-| OBS19 | O aplicativo deve permitir que o usuário realize tarefas principais em no máximo 3 cliques.|In|
-| ADD02 |Possibilitar a alteração de titularidade e vencimento de contas. | Out|
-| ADD07 |O usuário deve poder enviar documentos diretamente pelo aplicativo. | Out|
-| ADD08| O aplicativo deve oferecer notificações para lembrar vencimento de contas e ações pendentes.| Out |
-| ADD12| O aplicativo deve oferecer suporte a múltiplos idiomas para atender usuários diversificados.| Out |
-| ADD18| O aplicativo deve passar por testes de desempenho para assegurar eficiência em dispositivos diversos. | Out |
-| ADD20| O aplicativo deve garantir que os dados dos usuários sejam tratados com respeito à privacidade.| Out |
-| INT02 |O usuário deve poder emitir boleto para pagar a conta de água.| Out  |
-| INT12 |O usuário deve poder consultar e pagar débitos anteriores. | Out |
-| INT18| O aplicativo deve disponibilizar alertas sobre manutenção programada.| Out |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD01</a>|  Permitir a revisão de contas diretamente pelo aplicativo. | In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD03</a> | O aplicativo deve permitir que o usuário realize a auto leitura do hidrômetro. | In  |
+|<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD05</a> |  O aplicativo deve permitir que o usuário solicite desobstrução de esgoto e acompanhe os atendimentos. | In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos"> ADD09 </a> | O aplicativo deve incluir suporte a chat ou atendimento virtual para resolver dúvidas dos usuários.  | In  |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD10</a> | O aplicativo deve ser compatível com sistemas operacionais Android e iOS.   |  In  |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD14</a>| O aplicativo deve minimizar riscos de vulnerabilidades e proteger contra ataques conhecidos.  | In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD24</a> |O aplicativo deve implementar autenticação multifator para aumentar a segurança do acesso.| In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT01</a> |O aplicativo deve permitir ao usuário informar vazamentos na rua ou no hidrômetro.   | In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT03</a>  |O aplicativo deve permitir consulta ao histórico de consumo mensal. | In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT06</a> |O aplicativo deve permitir que o usuário informe falta d'Água. | In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT13</a> |O aplicativo deve disponibilizar a opção de cadastro em débito automático. | In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT15</a> | O aplicativo deve permitir agendar atendimento presencial na unidade mais próxima.| In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT21</a> |O sistema deve garantir a segurança dos dados do usuário, com criptografia de ponta a ponta. |In|
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT26</a> | O design do aplicativo deve seguir as diretrizes de acessibilidade (WCAG 2.1).| In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/#requisitos">OBS01</a>|  O aplicativo deve permitir que o usuário escolha o imóvel desejado.	| In  |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/#requisitos">OBS02</a>| O aplicativo deve permitir que o usuário selecione o ano ou mês da segunda via da conta. | In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/#requisitos">OBS03</a>| O aplicativo deve permitir que o usuário escolha visualizar a segunda via de contas pendentes. | In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/#requisitos">OBS05</a>|	 O aplicativo deve considerar o número de pessoas no imóvel para calcular a média do consumo. | In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/#requisitos">OBS07</a>|  O aplicativo deve permitir que o usuário informe o vazamento em uma rua. | In |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/#requisitos">OBS16</a>| O aplicativo deve ser compatível com as plataformas Android e iPhone. |In|
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/#requisitos">OBS19</a>|  O aplicativo deve permitir que o usuário realize tarefas principais em no máximo 3 cliques.|In|
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD02</a> |Possibilitar a alteração de titularidade e vencimento de contas. | Out|
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD07</a>|O usuário deve poder enviar documentos diretamente pelo aplicativo. | Out|
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD08</a>| O aplicativo deve oferecer notificações para lembrar vencimento de contas e ações pendentes.| Out |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD12</a>| O aplicativo deve oferecer suporte a múltiplos idiomas para atender usuários diversificados.| Out |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD18</a>| O aplicativo deve passar por testes de desempenho para assegurar eficiência em dispositivos diversos. | Out |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/#requisitos">ADD20</a>| O aplicativo deve garantir que os dados dos usuários sejam tratados com respeito à privacidade.| Out |
+|<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT02</a> |O usuário deve poder emitir boleto para pagar a conta de água.| Out  |
+| <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT12</a>  |O usuário deve poder consultar e pagar débitos anteriores. | Out |
+|<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">INT18</a> | O aplicativo deve disponibilizar alertas sobre manutenção programada.| Out |
 
 Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letícia Resende</a>
 </center>
@@ -66,7 +66,7 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=9oeguWDZlk4" target="
 <center>
 <p>Vídeo 01: Gravação da entrevista de priorização</p>
 <iframe width="760" height="515" src="https://www.youtube.com/embed/RJ1eivBII04?si=GC18kMx3CVTFntKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<h6>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</p> Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
 <br>
@@ -82,7 +82,10 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=9oeguWDZlk4" target="
 Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letícia Resende</a>
 </center>
 
-## Referências
+<br>
+
+## Referências Bibliográficas
+
 > <p>1. MILENE, Profa.; MAURÍCIO, Prof. Elicitação de requisitos: técnicas - priorização. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>
 Acesso em: 23 nov. 2024.</P>
 > <p> 2. https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/in_or_out
@@ -98,6 +101,8 @@ Acesso em: 23 nov. 2024.</p>
 |  1.1   | 23/11/2024 | Adicionando Priorização |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
 |  1.2  | 23/11/2024 | Adicionando vídeo |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
 |  1.3  | 26/11/2024 | Adicionando cronograma |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.4  | 05/02/2025 | correção pós apresentação |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
+
 
 
 

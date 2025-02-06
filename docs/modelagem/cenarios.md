@@ -356,7 +356,9 @@ Tabela 14: Correção de Erros
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>
 </center>
 
-## Bibliografia
+<br>
+
+## Referência Bibliográfica
 
 > <p id="1"> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.</p>

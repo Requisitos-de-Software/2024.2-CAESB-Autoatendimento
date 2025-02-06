@@ -97,7 +97,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/watch?v=XmNdvsiydHk).</p>
 
 ## Histórico de Versão
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| Versão |    Data    |      Descrição       |  Autor(es)  | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 18/01/2025 | Criação do Documento e Lista de Verificação | [Letícia Resende](https://github.com/LeticiaResende23) e [Leandro de Almeida](https://github.com/leomitx10)<br>| [Matheus Barros](https://github.com/Ninja-Haiyai)|
 |  1.1   | 04/02/2025 | correção pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10) |
