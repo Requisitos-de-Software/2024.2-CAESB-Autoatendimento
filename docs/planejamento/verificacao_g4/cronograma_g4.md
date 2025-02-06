@@ -24,17 +24,17 @@
 ## Verificação Cronograma
 
 <p align="justify">
-&emsp;&emsp;A tabela 01 apresenta a lista de  Verificação do Cronograma que foi elaborada com base no plano de ensino da disciplina e 02 apresenta a verificação.
-</p>
+&emsp;&emsp;A tabela 01 apresenta a lista de  Verificação do Cronograma que foi elaborada com base no plano de ensino da disciplina e 02 apresenta a verificação.</p>
+<br>
 <center>Tabela 01: Lista Verificação do Cronograma do grupo 4</center>
 
-| **ID** | **Descrição**  | 
-|--------|----------------|
-| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | 
-| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.  | 
-| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?| 
-| 04   | Possui um cronograma executado, além do planejado?| 
-| 05   | O cronograma possui revisores?|  
+| **ID** | **Descrição**  | **Avaliação**|**Autor**|**Observação**|**Referências**|
+|--------|----------------|--------------|-------------|----------------|---------|
+| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | | André Barros|  |  ![ref1](../../assets/nfrvvee.png)  ![ref2](https://github.com/user-attachments/assets/96fc5f0f-0618-4e85-b195-4ea0800caddc)|
+| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.  | | André Barros| |  ![ref1](../../assets/nfrvvee.png)  ![ref2](https://github.com/user-attachments/assets/96fc5f0f-0618-4e85-b195-4ea0800caddc)|
+| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?| | André Barros| | ![ref1](../../assets/nfrvvee.png)  ![ref2](https://github.com/user-attachments/assets/96fc5f0f-0618-4e85-b195-4ea0800caddc) |
+| 04   | Possui um cronograma executado, além do planejado?| | Letícia Resende |  | ![ref1](../../assets/nfrvvee.png)|
+| 05   | O cronograma possui revisores?|  | Letícia Resende |   | ![ref1](../../assets/nfrvvee.png)|
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -44,17 +44,18 @@
 
 <center>Tabela 02: Verificação do Cronograma do grupo 4</center>
 
-| **ID** | **Descrição**  | **Avaliação** |**Observações** |**Referências**|
-|--------|----------------|---------------|--|------------------|
-| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | versão 1.3  03/01   | ![ref1](../../assets/nfrvvee.png) |
-| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.    | Sim | versão 1.3  03/01  |![ref1](../../assets/nfrvvee.png)  |
-| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim | versão 1.3  03/01 | ![ref1](../../assets/nfrvvee.png) |
-| 04   | Possui um cronograma executado, além do planejado?| Sim |versão 1.3  03/01  | ![ref1](../../assets/nfrvvee.png) |
-| 05   | O cronograma possui revisores?| Sim |  versão 1.3  03/01  | ![ref1](../../assets/nfrvvee.png) |
+| **ID** | **Descrição**  | **Avaliação** |**Autor**|**Observações** |**Referências**|
+|--------|----------------|---------------|--|------------------|-----------------|
+| 01   | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | André Barros | versão 1.3  03/01   | ![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/96fc5f0f-0618-4e85-b195-4ea0800caddc)|
+| 02   | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa. | Sim | André Barros | versão 1.3  03/01  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/96fc5f0f-0618-4e85-b195-4ea0800caddc) |
+| 03   | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim | André Barros | versão 1.3  03/01 | ![ref1](../../assets/nfrvvee.png)  ![ref2](https://github.com/user-attachments/assets/96fc5f0f-0618-4e85-b195-4ea0800caddc)|
+| 04   | Possui um cronograma executado, além do planejado?| Sim |Letícia Resende | versão 1.3  03/01  | ![ref1](../../assets/nfrvvee.png) |
+| 05   | O cronograma possui revisores?| Sim |Letícia Resende| versão 1.3  03/01  | ![ref1](../../assets/nfrvvee.png) |
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
+<br>
 
 ## Link da gravação - Verificação do Cronograma
 Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>
@@ -91,7 +92,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23">Letícia Resende</a>
 
 ## Histórico de Versão
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| Versão |    Data    |      Descrição       |  Autor(es)  | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 07/11/2024 | Criação do Documento, Lista de Verificação e vídeo| [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.1   | 07/11/2024 | Ajuste no Layout | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23)|

@@ -98,8 +98,9 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 Pode ser vista no [YouTube](https://www.youtube.com/embed/YM3eKs3b2ag?si=ndM-6CIqiBcKZV1h).</p>
 
 <center>
-    <p>Vídeo 01: Verificação dos artefatos</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/YM3eKs3b2ag?si=ndM-6CIqiBcKZV1h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>Vídeo 01: Verificação dos artefatos da entrega 6</p>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/lPmyssVvVJQ?si=QZddPH6Nn4FhmjjV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
@@ -107,12 +108,12 @@ Pode ser vista no [YouTube](https://www.youtube.com/embed/YM3eKs3b2ag?si=ndM-6CI
 
 <center>
 
-Tabela 05: Tempo de início da verificação dos artefatos no vídeo
+Tabela 05: Tempo de início da verificação dos artefatos no vídeo da entrega 6
 
 | **Artefato** | **Inicio**   | 
 |:----------:|:----------:|
-| Comprovação Informal| <a href="https://www.youtube.com/watch?v=YM3eKs3b2ag&t=32s" target="_blank">00:32</a>  | 
-| Protótipos | <a href="https://www.youtube.com/watch?v=YM3eKs3b2ag&t=119s" target="_blank">01:59</a> |
+| Comprovação Informal| <a href="https://www.youtube.com/watch?v=lPmyssVvVJQ&t=21s" target="_blank">00:21</a>  | 
+| Protótipos | <a href="https://www.youtube.com/watch?v=lPmyssVvVJQ&t=100s" target="_blank">01:40</a> |
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 

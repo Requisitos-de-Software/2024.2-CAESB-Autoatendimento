@@ -27,11 +27,11 @@
 </p>
 <center>Tabela 01: Lista Verificação da equipe do grupo 4</center>
 
-| **ID** | **Descrição**  | 
-|--------|----------------|
-| 01   |Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | 
-| 02   | O histórico de versão padronizado?    |
-| 03   | Na página de equipe, possui uma breve introdução sobre o projeto?|   
+| **ID** | **Descrição**  |**Avaliação**|**Autor**| **Observação**|**Referências**|
+|--------|----------------|-------------|---------|---------------|---------------|
+| 01   |Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | | André Barros | | ![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/c3d0957e-1071-4c0e-942b-81bcab4d888b) |
+| 02   | O histórico de versão padronizado? | | André Barros | | ![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/328ea018-6cd7-40fb-81c7-6a6d47483e4a) |
+| 03   | Na página de equipe, possui uma breve introdução sobre o projeto?| | Letícia Resende |  | ![ref1](../../assets/nfrvvee.png)|
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
@@ -41,15 +41,16 @@
 
 <center>Tabela 02: Verificação da equipe do grupo 4</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Observações**    | **Referências** |
-|--------|----------------|---------------|--|----------------|
-| 01   |Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim | versão 1.2 03/01  | ![ref1](../../assets/nfrvvee.png) |
-| 02   | O histórico de versão padronizado?    | Sim |  versão 1.2 03/01  | ![ref1](../../assets/nfrvvee.png) |
-| 03   | Na página de equipe, possui uma breve introdução sobre o projeto?| Sim | versão 1.2 03/01  | ![ref1](../../assets/nfrvvee.png) |
+| **ID** | **Descrição**  | **Avaliação** |**Autor**| **Observações** | **Referências** |
+|--------|----------------|---------------|--|----------------|-----------------------|
+| 01   |Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | Sim | André Barros| versão 1.2 03/01  | ![ref1](../../assets/nfrvvee.png)  ![ref2](https://github.com/user-attachments/assets/c3d0957e-1071-4c0e-942b-81bcab4d888b)|
+| 02   | O histórico de versão padronizado?    | Sim | André Barros | versão 1.2 03/01  | ![ref1](../../assets/nfrvvee.png)  ![ref2](https://github.com/user-attachments/assets/328ea018-6cd7-40fb-81c7-6a6d47483e4a)|
+| 03   | Na página de equipe, possui uma breve introdução sobre o projeto?| Sim | Letícia Resende | versão 1.2 03/01  | ![ref1](../../assets/nfrvvee.png) |
 
 <center>
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
+<br>
 
 ## Link da gravação
 Pode ser vista no [YouTube](https://youtu.be/oiR9VLdVYHI).</p>

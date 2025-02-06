@@ -53,9 +53,12 @@
 
 ### Protótipo 2
 
+<center>
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/g4t2yX9pGDxetua6RahZfy/Untitled?node-id=1-131&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
 
-<center>
+<img src="https://github.com/user-attachments/assets/34be2ebc-fc3a-4150-8fc3-fce0693addf4" style="height:400px;"> <img src="https://github.com/user-attachments/assets/75b123b0-657f-4bfe-931f-7fc680ebdf7c" style="height:400px;"> <img src="https://github.com/user-attachments/assets/1984f487-4e23-4126-ba3b-1c9dfe7ac255" style="height:400px;"> <img src="https://github.com/user-attachments/assets/4d870d84-481c-4805-9e1e-91cba6db01d2" style="height:400px;"> <img src="https://github.com/user-attachments/assets/b798793b-a6ef-4700-b87a-97e7d00c3780" style="height:400px;">
+
  Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
@@ -95,20 +98,21 @@
 
 ### Validação 1
 
-| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |Horário| **Data** |
+| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |**Horário**| **Data** |
 |-------------------|------------------|-------------|-----------------------------|---|-----------|
-| Natan Almeida | Paulo Lamounier    |   4 min     |    FCTE-UnB     | 16:00 | 28/01/2025|
+| Letícia Resende | Sue Ellen Suzana  |   2:25 min    |    Samambaia Sul     | 12:11 | 06/02/2025|
 
 <center>
-    <p>Vídeo 01: Validação protótipo 1 </p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/W9JmcavSni4?si=ev5IRNjKxKimbSEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+    <p>Vídeo 01: Validação protótipo 2 </p>
+   <iframe width="760" height="515" src="https://www.youtube.com/embed/w4fYVfypPDE?si=BJgKp7qDhmcDShqF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
+
 <br>
 
 ### Validação 2
 
-| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |Horário| **Data** |
+| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |**Horário**| **Data** |
 |-------------------|------------------|-------------|-----------------------------|---|-----------|
 | Matheus Barros | Expedito     |   4 min     |    FCTE-UnB     | 12:00 | 03/01/2025|
 
@@ -119,11 +123,26 @@
 </center>
 <br>
 
+### Validação 3
+
+| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |**Horário**| **Data** |
+|-------------------|------------------|-------------|-----------------------------|---|-----------|
+| Natan Almeida | Paulo Lamounier    |   4 min     |    FCTE-UnB     | 16:00 | 28/01/2025|
+
+<center>
+    <p>Vídeo 01: Validação protótipo 1 </p>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/W9JmcavSni4?si=ev5IRNjKxKimbSEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+</center>
+
+<br>
+
 ## Referências Bibliográficas
 
 ><p >Guide to prototyping in Figma. Disponível em: <a href="https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma">https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma</a>. Acesso em: 26 de Janeiro de 2025.</p>
 
 <br>
+
 
 ## Histórico de versão
 
@@ -136,3 +155,5 @@
 |  1.3  |28/01/2025 | Adição do protótipo 3 | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
 |  1.4  |31/01/2025 | Adição do protótipo 4 | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23) |
 |  1.5  |04/02/2025 | Correção pós apresentação|  [Letícia Resende](https://github.com/LeticiaResende23) | [Matheus Barros](https://github.com/Ninja-Haiyai)|
+|  1.6  |06/02/2025 | adicionando fotos dos protótipos|  [Letícia Resende](https://github.com/LeticiaResende23) | [Matheus Barros](https://github.com/Ninja-Haiyai)|
+
