@@ -135,6 +135,21 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 
 <br>
 
+<center>Tabela 07: Cronograma executado para todas as atividades da última entrega</center>
+
+| Atividade                                                            	| Período de desenvolvimento 	| Responsáveis                      	| Revisão                 	| Revisores        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Desenvolvimento do projeto final (correção e complemento) 	| Início: 04/02<br>Fim: 10/02    	| João Victor, Leandro, Letícia, Matheus, Natan                             	| Início: 07/02 Fim: 10/02 	| Natan e João Victor  	|
+|   Inspeção	| Início: 07/02<br>Fim: 10/02	|   Letícia	| Início: 09/02<br>Fim: 09/02 	|    Leandro 	|
+|   vericação	| Início: 07/02<br>Fim: 10/02	| João Victor, Leandro, Letícia, Matheus, Natan	| Início: 09/02<br>Fim: 09/02 	|  João Victor, Leandro, Letícia, Matheus, Natan	|
+|   Gravação da Apresentação e Entrega         	| Início: 09/02<br>Fim: 09/02    	|João Victor, Leandro, Letícia, Matheus, Natan    | Início: 09/02 Fim: 10/02 	|João Victor, Leandro, Letícia, Matheus, Natan                                  	|
+
+<center>
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+</center>
+
+<br>
+
 ## Referências Bibliográficas
 
 > <p id="1">1. SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. Aprender 3. Distrito Federal, 2016. Disponível em:  
@@ -146,7 +161,7 @@ Acesso em: 21 out. 2024.
 
 ## Histórico de versão
 
-<center>
+
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
@@ -157,6 +172,5 @@ Acesso em: 21 out. 2024.
 |  1.4   | 27/12/2024 | Adicionando a introdução e arrumando o titulo das tabelas | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
 |  1.6   | 19/01/2025 | Adicionando cronograma da quinta entrega| [Matheus Barros do Nascimento](https://github.com/Ninja-Haiyai) | [Letícia Resende](https://github.com/LeticiaResende23) |
 |  1.7   | 01/02/2025 | Adicionando cronograma da sexta entrega| [Letícia Resende](https://github.com/LeticiaResende23)  | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.8   | 07/02/2025 | Adicionando cronograma da última entrega| [Letícia Resende](https://github.com/LeticiaResende23)  | [Leandro de Almeida](https://github.com/leomitx10) |
 
-
-</center>
