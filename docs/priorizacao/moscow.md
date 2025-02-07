@@ -90,7 +90,7 @@ Assista a gravação no youtube clicando [aqui](https://youtu.be/Liy4I_H0ycE).
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 > <p>1. MILENE, Profa.; MAURÍCIO, Prof. Elicitação de requisitos: técnicas - priorização. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>
 Acesso em: 23 nov. 2024.</P>
