@@ -27,6 +27,8 @@ Tabela 1 - Planejado
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>23/10/2024</b></td><td>Fim: <b>27/10/2024</b></td>
+</tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/">Home</a></td>
 <td style="text-align:center">Introdução sobre o projeto e membros da equipe.</td>
 <td style="text-align:center"><a href="https://github.com/leomitx10">Leandro de Almeida</a></td>
@@ -59,21 +61,24 @@ Tabela 1 - Planejado
 <td style="text-align:center"><a href="https://github.com/jmarquees">João Victor</a></td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
-<td style="text-align:center">Inspeção do artefato</td>
-<td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
-<td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
-</tr>
-<tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao_g4/aplicativo_escolhido/">Verificação</a></td>
-<td style="text-align:center">Verificação do Grupo + 1</td>
-<td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
-<td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
-<tr>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>25/10/2024</b></td><td>Fim: <b>29/10/2024</b></td>
 </tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/richpicture/">Rich Picture</a></td>
 <td style="text-align:center">Ferramenta visual para expressar ideias e analisar problemas.</td>
+<td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+<td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
+<td style="text-align:center">Inspeção do artefato</td>
+<td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+<td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+<tr>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao_g4/aplicativo_escolhido/">Verificação</a></td>
+<td style="text-align:center">Verificação do Grupo + 1</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
 </tr>
@@ -115,6 +120,9 @@ Tabela 2 - Executado
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>20/10/2024</b></td><td>Fim: <b>27/10/2024</b></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/">Home</a></td>
 <td style="text-align:center">Introdução sobre o projeto e membros da equipe.</td>
 <td style="text-align:center"><a href="https://github.com/leomitx10">Leandro de Almeida</a></td>
@@ -147,21 +155,24 @@ Tabela 2 - Executado
 <td style="text-align:center"><a href="https://github.com/jmarquees">João Victor</a></td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>04/11/2024</b></td><td>Fim: <b>06/11/2024</b></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/richpicture/">Rich Picture</a></td>
+<td style="text-align:center">Ferramenta visual para expressar ideias e analisar problemas</td>
+<td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+<td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href=" https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
 <td style="text-align:center">Inspeção do artefato</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+<tr>
 </tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao_g4/aplicativo_escolhido/">Verificação</a></td>
 <td style="text-align:center">Verificação do Grupo + 1</td>
-<td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
-<td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
-<tr>
-</tr>
-<tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/richpicture/">Rich Picture</a></td>
-<td style="text-align:center">Ferramenta visual para expressar ideias e analisar problemas.</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
 </tr>
@@ -213,6 +224,9 @@ Tabela 03 - Planejato
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>31/10/2024</b></td><td>Fim: <b>25/11/2024</b></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/personas/">Personas</a> e <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/perfil_de_usuario/"> Perfil de usuário</a></td>
 <td style="text-align:center">criação de personas e pesquisa perfis de usuários.</td>
 <td style="text-align:center"><a href="https://github.com/leomitx10">Leandro de Almeida</a></td>
@@ -257,6 +271,8 @@ Tabela 03 - Planejato
 <td style="text-align:center"><a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></td>
 </tr>
 <tr>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>24/11/2024</b></td><td>Fim: <b>25/11/2024</b></td>
+</tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
 <td style="text-align:center">Inspeção do artefato</td>
@@ -308,6 +324,9 @@ Tabela 04 - Executado
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>18/11/2024</b></td><td>Fim: <b>23/11/2024</b></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/personas/">Personas</a> e <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/perfil_de_usuario/">Perfil de usuário</a></td>
 <td style="text-align:center">criação de personas e pesquisa perfis de usuários.</td>
 <td style="text-align:center"><a href="https://github.com/leomitx10">Leandro de Almeida</a></td>
@@ -352,6 +371,8 @@ Tabela 04 - Executado
 <td style="text-align:center"><a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></td>
 </tr>
 <tr>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>23/11/2024</b></td><td>Fim: <b>24/11/2024</b></td>
+</tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
 <td style="text-align:center">Inspeção do artefato</td>
@@ -411,6 +432,9 @@ Tabela 05 - Planejato
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>29/11/2024</b></td><td>Fim: <b>08/12/2024</b></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/">Cenários</a></td>
 <td style="text-align:center">Modelagem de Requisitos: Cenários</td>
 <td style="text-align:center"><a href="https://github.com/leomitx10">Leandro de Almeida</a></td>
@@ -435,6 +459,8 @@ Tabela 05 - Planejato
 <td style="text-align:center"><a href="https://github.com/leomitx10">Leandro de Almeida</a></td>
 </tr>
 <tr>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>07/12/2024</b></td><td>Fim: <b>09/12/2024</b></td>
+</tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
 <td style="text-align:center">Inspeção do artefato</td>
@@ -486,6 +512,9 @@ Tabela 06 - Executado
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>29/11/2024</b></td><td>Fim: <b>08/12/2024</b></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/">Cenários</a></td>
 <td style="text-align:center">Modelagem de Requisitos: Cenários</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
@@ -510,6 +539,8 @@ Tabela 06 - Executado
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
 </tr>
 <tr>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>07/12/2024</b></td><td>Fim: <b>09/12/2024</b></td>
+</tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
 <td style="text-align:center">Inspeção do artefato</td>
@@ -569,6 +600,9 @@ Tabela 07 - Planejato
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>12/12/2024</b></td><td>Fim: <b>14/12/2024</b></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/">NFR Framework</a></td>
 <td style="text-align:center">Modelagem de Requisitos - Ágil: NFR Framework</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
@@ -585,6 +619,9 @@ Tabela 07 - Planejato
 <td style="text-align:center">Modelagem de Requisitos - Ágil: Histórias de Usuário</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>13/12/2024</b></td><td>Fim: <b>16/12/2024</b></td>
 </tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
@@ -637,6 +674,9 @@ Tabela 08 - Executado
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>12/12/2024</b></td><td>Fim: <b>14/12/2024</b></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/">NFR Framework</a></td>
 <td style="text-align:center">Modelagem de Requisitos - Ágil: NFR Framework</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
@@ -653,6 +693,9 @@ Tabela 08 - Executado
 <td style="text-align:center">Modelagem de Requisitos - Ágil: Histórias de Usuário</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>13/12/2024</b></td><td>Fim: <b>16/12/2024</b></td>
 </tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
@@ -713,6 +756,9 @@ Tabela 09 - Planejato
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>03/01/2025</b></td><td>Fim: <b>19/01/2025</b></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/">Backward-form</a></td>
 <td style="text-align:center">Pós-rastreabilidade: Backward-form</td>
 <td style="text-align:center"><a href="https://github.com/leomitx10">Leandro de Almeida</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
@@ -729,6 +775,9 @@ Tabela 09 - Planejato
 <td style="text-align:center">Matriz de Rastreabilidade</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a></td>
 <td style="text-align:center"><a href="https://github.com/leomitx10">Leandro de Almeida</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>18/01/2025</b></td><td>Fim: <b>20/01/2025</b></td>
 </tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
@@ -781,6 +830,9 @@ Tabela 10 - Executado
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>03/01/2025</b></td><td>Fim: <b>10/01/2025</b></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/">Backward-form</a></td>
 <td style="text-align:center">Pós-rastreabilidade: Backward-form</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
@@ -797,6 +849,9 @@ Tabela 10 - Executado
 <td style="text-align:center">Matriz de Rastreabilidade</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>18/01/2025</b></td><td>Fim: <b>19/01/2025</b></td>
 </tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
@@ -857,6 +912,9 @@ Tabela 11 - Planejato
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>20/12/2024</b></td><td>Fim: <b>21/01/2025</b></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/validacao/compro_informal/">Verificação</a></td>
 <td style="text-align:center">Verificação por inspeção de todos os artefatos</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
@@ -867,6 +925,9 @@ Tabela 11 - Planejato
 <td style="text-align:center">Validação: Prototipação e Comprovação Informal</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>25/01/2025</b></td><td>Fim: <b>29/01/2025</b></td>
 </tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
@@ -919,6 +980,9 @@ Tabela 12 - Executado
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>26/01/2025</b></td><td>Fim: <b>03/02/2025</b></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/verificacao_geral/veri_entrega1/">Verificação</a></td>
 <td style="text-align:center">Verificação por inspeção de todos os artefatos</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
@@ -929,6 +993,9 @@ Tabela 12 - Executado
 <td style="text-align:center">Validação: Prototipação e Comprovação Informal</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>29/01/2025</b></td><td>Fim: <b>03/02/2025</b></td>
 </tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
@@ -989,10 +1056,16 @@ Tabela 13 - Planejato
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>31/01/2025</b></td><td>Fim: <b>05/02/2025</b></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/">Desenvolvimento do projeto final</a></td>
 <td style="text-align:center">Desenvolvimento do projeto final (correção e complemento)</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>08/02/2025</b></td><td>Fim: <b>10/02/2025</b></td>
 </tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
@@ -1032,10 +1105,16 @@ Tabela 14 - Executado
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center"><strong>Execução</strong></td><td>Início: <b>04/02/2025</b></td><td>Fim: <b>07/02/2025</b></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/">Desenvolvimento do projeto final</a></td>
 <td style="text-align:center">Desenvolvimento do projeto final (correção e complemento)</td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
 <td style="text-align:center"><a href="https://github.com/LeticiaResende23">Letícia Resende</a>, <a href="https://github.com/leomitx10">Leandro de Almeida</a>, <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>, <a href="https://github.com/jmarquees">João Victor</a> e <a href="https://github.com/natanalmeida03">Natan Almeida</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>Revisão</strong></td><td>Início: <b>07/02/2025</b></td><td>Fim: <b>10/02/2025</b></td>
 </tr>
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/verificacao/equipe/">Inspeção</a></td>
