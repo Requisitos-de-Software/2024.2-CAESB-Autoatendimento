@@ -46,7 +46,9 @@ Os requisitos levantados durante a análise de documentos, identificados com 'OB
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> e <a href = "https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
 </center>
 
-## Bibliografia
+<br>
+
+## Referências Bibliográficas
 
 > <p>1. VASQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. São Paulo: Pearson, 2016. 328 p. ISBN 9788574527901. Disponível em: https://aprender3.unb.br/pluginfile.php/2972448/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf. Acesso em: 22 de Nov. 2024</p>
 
@@ -60,6 +62,6 @@ Os requisitos levantados durante a análise de documentos, identificados com 'OB
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 22/11/2024 | Adicionando introdução e requisitos | [Leandro de Almeida](https://github.com/leomitx10) e [Joao Victor Marques](https://github.com/jmarquees)|[Letícia Resende](https://github.com/LeticiaResende23)  |
 |  1.1   | 22/11/2024 | Padronizando a tabela | [Leandro de Almeida](https://github.com/leomitx10) | [Joao Victor Marques](https://github.com/jmarquees) |
-
+|  1.2   | 08/02/2025 | Correção do histórico de versão e das referências bibliográficas | [Leandro de Almeida](https://github.com/leomitx10) | [Joao Victor Marques](https://github.com/jmarquees) |
 
 </center>

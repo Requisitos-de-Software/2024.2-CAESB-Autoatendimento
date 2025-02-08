@@ -13,6 +13,8 @@ Os requisitos levantados durante a análise de documentos, identificados com 'IN
 
 - RNF: Requisitos Não-Funcionais - Descrevem os atributos que o software deve ter, como desempenho, segurança e usabilidade, mas não descrevem o comportamento do software em si.
 
+<br>
+
 <center>
 <figcaption>Tabela 01 - Requisitos </figcaption>
 
@@ -62,8 +64,13 @@ Acesso em: 23 nov. 2024.</P>
 
 ## Histórico de Versão
 
+<center>
+
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 19/11/2024 | Criação do artefato |[Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
 |  1.1   | 22/11/2024 | Adição de novos requisitos |[Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
 |  1.2   | 27/11/2024 | Alterações pós apresentacões |[Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.3   | 08/02/2025 | Correção do histórico de versão | [Leandro de Almeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) | 
+
+</center>

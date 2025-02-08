@@ -24,7 +24,7 @@ Data:
 
 <br>
 
-## Referências
+## Referências Bibliográficas 
 
 > <p id="1"> 1. Aspectos Éticos Bilheteria digital. Disponível em: https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/aspectos-eticos.md. Acesso em: 13/10/2023</p>
 
@@ -37,6 +37,6 @@ Data:
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 22/11/2024 | Adicionando introdução e requisitos | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)  |
-
+|  1.1   | 08/02/2025 | Correção das referências bibliográficas | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)  |
 
 </center>

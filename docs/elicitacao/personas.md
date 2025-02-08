@@ -11,6 +11,10 @@
 
 As tabelas de 1 a 4 apresentam o elenco de personas:
 
+<br>
+
+## Persona 1 - Lucas
+
 <center>Tabela 01: Persona 01</center>
 
 |</p><figure markdown>![Persona 1](../assets/lucas.jpeg)                           |
@@ -28,6 +32,10 @@ As tabelas de 1 a 4 apresentam o elenco de personas:
 <center>
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
+<br>
+
+## Persona 2 - Mariana
 
 <center>Tabela 02: Persona 02</center>
 
@@ -47,6 +55,10 @@ As tabelas de 1 a 4 apresentam o elenco de personas:
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
+<br>
+
+## Persona 3 - Roberto
+
 <center>Tabela 03: Persona 03</center>
 
 |</p><figure markdown>![Persona 3](../assets/roberto.jpeg)                           |
@@ -64,6 +76,10 @@ As tabelas de 1 a 4 apresentam o elenco de personas:
 <center>
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
+<br>
+
+## Persona 4 - Beatriz
 
 <center>Tabela 04: Persona 04</center>
 
@@ -83,7 +99,9 @@ As tabelas de 1 a 4 apresentam o elenco de personas:
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
-## Referências
+<br>
+
+## Referências Bibliográficas
 
 > <p id="1">1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.</p>
@@ -97,8 +115,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 20/11/2024 | Criação das personas | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.1   | 08/02/2025 | Adição de título em cada tabela | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
+
 
 </center>
-
-
-

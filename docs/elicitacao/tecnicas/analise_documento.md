@@ -79,12 +79,15 @@ Autor(a): <a href="https://github.com/LeticiaResende233" target = "_blank">Letí
 
 ## Histórico de Versão
 
+<center>
+
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 21/11/2024 | Criação do artefato |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
-|  1.1   | 26/11/2024 | Adicionando Tabela de Implementados |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.1   | 26/11/2024 | Adicionando tabela de implementados |[Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.2   | 08/02/2025 | Correção do histórico de versão | [Leandro de Almeida](https://github.com/leomitx10)  | [Letícia Resende](https://github.com/LeticiaResende23) | 
 
-
+</center>
 
 
 

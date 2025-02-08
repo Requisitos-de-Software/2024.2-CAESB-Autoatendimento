@@ -35,8 +35,9 @@
 <center>
     <figcaption>Imagem 3: Rich Picture - Caesb Autoatendimento</figcaption>
     <img src=https://github.com/Requisitos-de-Software/2024.2-BRB-Mobilidade/blob/Entrega_1/docs/assets/rich_pictures_caesb.png?raw=true width="100%">
-     Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
+     
 </center>
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
 
 <br>
 
@@ -68,14 +69,17 @@
 <center>
     <figcaption>Imagem 7: Rich Picture - Moovit</figcaption>
     ![Rich picture moovit](../assets/rich_picture_moovit.jpg)
-    Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+    
 </center>
+
+<center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
 
 <center>
     <figcaption>Imagem 8: Legenda do Rich Picture - Moovit</figcaption>
     ![Legenda Rich picture moovit](../assets/legenda_rich_picture_moovit.png)
-    <center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a><center>
 </center>
+
+<center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
 
 ## Carteira de Trabalho Digital
 
@@ -84,8 +88,9 @@
 <center>
     <figcaption>Imagem 9: Rich Picture (Fonte: MARQUES Joao. 2024)</figcaption>
     ![Rich picture Carteira de Trabalho Digital](../assets/rich_picture_carteira.png)
-    <center>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6></center>
 </center>
+
+<center>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6></center>
 
 <center>
     <figcaption>Imagem 10: Legenda do Rich Picture (Fonte: MARQUES, Joao. 2024)</figcaption>
@@ -121,6 +126,7 @@ Acesso em: 25 de Outubro de 2024;
 |  1.5   | 13/11/2024 | Correção pós apresentação  | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
 |  1.6   | 17/11/2024 | Correção pós apresentação  | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
 |  1.7   | 22/11/2024 | Correção pós apresentação  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.8   | 08/02/2025 | Correção dos autores das tabelas  | [Leandro de Almeida](https://github.com/leomitx10)  | [Joao Victor Marques](https://github.com/jmarquees) | 
 
 
 

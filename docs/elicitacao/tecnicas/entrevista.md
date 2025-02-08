@@ -36,8 +36,10 @@ Os requisitos levantados durante a análise de documentos, identificados com 'EN
 | ENT10 | A interface visual deve ser reorganizada, separando serviços e consultas.                          | RNF       |
 
 <center>
- Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
+<br>
 
 ## Entrevista
 
@@ -46,11 +48,13 @@ Assista a gravação no youtube clicando [aqui](https://youtu.be/vk3dgJMiqKs).
 <center>
     <p>Vídeo 01: Gravação da entrevista</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/vk3dgJMiqKs?si=iFfTXPprBCjxzaxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>
 
 <center>
+
+<br>
 
 <p>Tabela 02: Dados da Entrevista</p>
 
@@ -61,6 +65,8 @@ Assista a gravação no youtube clicando [aqui](https://youtu.be/vk3dgJMiqKs).
 
  Autor: <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
+
+<br>
 
 ## Questões e Respostas  
 
@@ -118,7 +124,9 @@ Resposta: Poluída. Separaria serviços e consultas cada um em uma tela.
 **Questão 19: Você já precisou de suporte técnico ao usar o aplicativo? Como foi essa experiência?**  
 Resposta: Não.
 
-## Referências
+<br>
+
+## Referências Bibliográficas
 
 > <p>1. VASQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. São Paulo: Pearson, 2016. 328 p. ISBN 9788574527901. Disponível em: https://aprender3.unb.br/pluginfile.php/2972448/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf. Acesso em: 22 de Nov. 2024</p>
 
@@ -131,5 +139,6 @@ Resposta: Não.
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 22/11/2024 | Adicionando introdução, metodologia e questões | [Leandro de Almeida](https://github.com/leomitx10) | [Joao Victor Marques](https://github.com/jmarquees) |
+|  1.1   | 08/02/2025 | Correção das referências bibliográficas  | [Leandro de Almeida](https://github.com/leomitx10) | [Joao Victor Marques](https://github.com/jmarquees) |
 
 </center>

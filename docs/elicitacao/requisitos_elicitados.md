@@ -24,6 +24,8 @@ Legenda:
 - ISx: Requisito nºx elicitado pela <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/#requisitos">introspecção</a>
 - OBSx: Requisito nºx elicitado pela <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/#requisitos">observação</a>
 
+<br>
+
 ## Requisitos
 
 <center>
@@ -75,9 +77,16 @@ Legenda:
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 </center>
 
+<br>
+
 ## Histórico de Versão
+
+<center>
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 12/12/2024 | Criação do artefato |[Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
 |  1.1   | 14/12/2024 | Adição de rastreabilidade |[Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.2   | 08/02/2025 | Correção do histórico de versão | [Leandro de Almeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) | 
+
+<center>
