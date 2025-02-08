@@ -377,7 +377,7 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 <center>
 <font size="3"><p style="text-align: center">Tabela 14: Filtro de Atendimentos </p></font>
 
-| UC10 | Informações |
+| UC13 | Informações |
 | ----- | ---------- |
 | Descrição |O sistema permite que o usuário filtre os atendimentos cadastrados por ano, mês e status (finalizado ou em andamento). |
 | Ator | Usuário |
@@ -398,7 +398,7 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 <center>
 <font size="3"><p style="text-align: center">Tabela 15: Simulação de Tarifas </p></font>
 
-| UC11 | Informações |
+| UC14 | Informações |
 | ----- | ---------- |
 | Descrição | O sistema permite que o usuário realize a simulação de tarifas diretamente no aplicativo, sem redirecionamento para o site da Caesb. |
 | Ator | Usuário |
@@ -419,7 +419,7 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 <center>
 <font size="3"><p style="text-align: center">Tabela 16: Formas de Pagamento </p></font>
 
-| UC12 | Informações |
+| UC15 | Informações |
 | ----- | ---------- |
 | Descrição | O sistema permite que o usuário escolha entre diferentes formas de pagamento ao realizar uma transação. |
 | Ator | Usuário |
@@ -437,7 +437,6 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 
 <br>
 
-
 ## Referências Bibliográficas
 
 > 1. <p style="word-wrap: break-word; overflow-wrap: break-word;">Especificacao de Caso de Uso. Disponível em: https://aprender3.unb.br/pluginfile.php/2972484/mod_resource/content/3/SiglaProjeto_EspecificacaoCasoUso.pdf. Acesso em: 0 dec. 2024.</p> 
@@ -449,11 +448,16 @@ As tabelas de 3 a 10 mostram a especialização dos casos de uso.
 
 ## Histórico de versão
 
+<center>
+
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 02/12/2024 | Criação do artefato | [Letícia Resende](https://github.com/LeticiaResende23) |[Natan Almeida](https://github.com/natanalmeida03) |
 |  1.1   | 05/12/2024 | Inclusão da especificação do caso de uso| [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
 |  1.2   | 10/12/2024 | Ajustes pós apresentação| [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 11/12/2024 | Adição de novos requisitos| [Natan Almeida](https://github.com/natanalmeida03) |[Letícia Resende](https://github.com/LeticiaResende23) |
-|  1.3   | 11/12/2024 | Inclusão de casos de uso| [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.4   | 11/12/2024 | Inclusão de casos de uso| [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.5   | 08/02/2025 | Correção da numeração dos casos de uso | [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
 
+
+</center>

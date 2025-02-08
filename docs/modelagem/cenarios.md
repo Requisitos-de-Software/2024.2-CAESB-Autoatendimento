@@ -1,10 +1,12 @@
 # Cenários
 
 ## Introdução
-<p align="justify">&emsp;&emsp;Cenários são narrativas detalhadas que descrevem como os usuários interagem com uma aplicação ou sistema, ajudando a capturar requisitos e compreender o comportamento dos usuários. Cada cenário apresenta um ator principal com um objetivo, cujas ações e eventos são descritos de forma sequencial. Os cenários desenvolvidos estão organizados nas tabelas de 1 a 9.</p>
+<p align="justify">&emsp;&emsp;Cenários são narrativas detalhadas que descrevem como os usuários interagem com uma aplicação ou sistema, ajudando a capturar requisitos e compreender o comportamento dos usuários. Cada cenário apresenta um ator principal com um objetivo, cujas ações e eventos são descritos de forma sequencial. Os cenários desenvolvidos estão organizados nas tabelas de 1 a 19.</p>
 
 ## Metodologia
 <p align="justify">&emsp;&emsp;Os cenários neste documento serão apresentados em formato de texto estruturado, usando linguagem natural semi-estruturada para facilitar o entendimento e a validação dos requisitos pelo cliente. Cada cenário foi feito com base nos requisitos coletados na fase da elicitação.</p>
+
+<br>
 
 ## Cenário 1: Emitir a Segunda Via de Conta 
 <center>Tabela 1: Segunda Via de Conta 
@@ -21,6 +23,8 @@
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
+<br>
 
 ## Cenário 2: Informar Falta d'Água
 
@@ -39,6 +43,8 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
+<br>
+
 ## Cenário 3: Auto Leitura do Hidrômetro
 
 <center>Tabela 3: Auto Leitura do Hidrômetro
@@ -55,6 +61,8 @@
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
+<br>
 
 ## Cenário 4: Informar Vazamento na Rua
 
@@ -73,6 +81,8 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
+<br>
+
 ## Cenário 5: Consultar Histórico de Consumo
 
 <center>Tabela 5: Consultar Histórico de Consumo
@@ -89,6 +99,8 @@
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
+<br>
 
 ## Cenário 6: Alterar Titularidade e Vencimento
 
@@ -107,6 +119,8 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
+<br>
+
 ## Cenário 7: Agenda Atendimento Presencial
 
 <center>Tabela 7: Agenda Atendimento Presencial
@@ -124,6 +138,8 @@
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
+<br>
+
 ## Cenário 8: Suporte de Chat ou Atendimento
 
 <center>Tabela 8: Suporte de Chat ou Atendimento
@@ -140,6 +156,8 @@
 
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
+<br>
 
 ## Cenário 9: Notificações de Vencimento
 
@@ -160,21 +178,6 @@
 
 <br>
 
-## Requisitos Utilizados
-
-<center>
-<font size="3"><p style="text-align: center">Tabela 10: Informa os Requisitos utilizados no caso de uso 1. </p></font>
-
-| Id | Descrição | Implementado |
-| ----- | ---------- | -------------- |
-| INT13 | O aplicativo deve disponibilizar a opção de cadastro em débito automático. | Não |
-| OBS1 |  O aplicativo deve permitir que o usuário escolha o imóvel desejado. | Não |
-| OBS2 |  O aplicativo deve permitir que o usuário selecione o ano ou mês da segunda via da conta.| Não |
-| INT02 | O usuário deve poder emitir boleto para pagar a conta de água. | Não |
-
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
-</center>
-
 ## Cenário 10: Cadastro em Débito Automático
 
 <center>Tabela 11: Cadastro em Débito Automático
@@ -191,6 +194,8 @@
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
+
+<br>
 
 ## Cenário 11: Seleção de Imóvel para Segunda Via da Conta
 
@@ -209,6 +214,8 @@
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
+<br>
+
 ## Cenário 12: Consulta de Segunda Via por Ano ou Mês
 
 <center>Tabela 13: Consulta de Segunda Via por Ano ou Mês
@@ -225,6 +232,8 @@
 
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
+
+<br>
 
 ## Cenário 13: Emissão de Boleto para Pagamento da Conta
 
@@ -336,7 +345,7 @@ Tabela 13: Bloqueio/Reativação/Solicitação de Reparo
 </p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>
 </center>
 
----
+<br>
 
 ## Cenário 19: Correção de Erros
 
@@ -358,7 +367,7 @@ Tabela 14: Correção de Erros
 
 <br>
 
-## Referência Bibliográfica
+## Referências Bibliográficas
 
 > <p id="1"> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.</p>
@@ -375,5 +384,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 |  1.1   | 10/12/2024 | Adicionando cenários | [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10) |
 |  1.2   | 11/12/2024 | Adicionando cenários | [Natan Almeida](https://github.com/natanalmeida03) |[Leandro de Almeida](https://github.com/leomitx10) |
 |  1.3   | 15/12/2024 | Adicionando cenários | [Matheus Barros](https://github.com/Ninja-Haiyai) |[Leandro de Almeida](https://github.com/leomitx10) |
+|  1.4   | 08/02/2025 | Correção dos cenários |[Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
 
 </center>

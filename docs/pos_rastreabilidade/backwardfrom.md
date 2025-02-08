@@ -30,38 +30,31 @@
 
 </p>&emsp;&emsp;A tabela abaixo contém as abreviações das técnicas de elicitação referenciadas.</p>  
 
-<center>
-
-| **Sigla** | **Técnica de Elicitação**      |
-|-----------|--------------------------------|
-| Análide de Documentos | ADD |
-| OBS        | Observação     |
-| B          | Brainstorm                    |
-| INT        | Introspecção                  |
-| ENT        | Entrevista                    |
-
-</center>
-
-## Modelagem
-
-</p>&emsp;&emsp;A tabela abaixo contém as abreviações das técnicas de modelagem referenciadas.</p>  
+<br>
 
 <center>
 
-| **Sigla** | **Modelagem**                |
-|-----------|------------------------------|
-| CN        | Cenário                      |
-| RP        | Rich Picture                 |
-| L        | Léxico                       |
-| UC        | Caso de Uso                  |
-| ES        | Especificação Suplementar    |
-| NFR       | Non-Functional Requirements    |
+Tabela 01: Abreviações das técnicas de elicitação
+
+|  **Sigla** | **Técnica de Elicitação**      |
+|------------|--------------------------------|
+|     ADD    | Análide de Documentos          |
+| OBS        | Observação                     |
+| B          | Brainstorm                     |
+| INT        | Introspecção                   |
+| ENT        | Entrevista                     |
+
+<center>
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> e <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
+</center>
 
 </center>
+
+<br>
 
 ## Requisitos Funcionais
 
-<center>Tabela 01: Requisitos Funcionais</center>
+<center>Tabela 02: Requisitos Funcionais</center>
 
 |  ID  |        DESCRIÇÃO          | RASTREABILIDADE | CATEGORIA | IMPLEMENTADO |
 | :--: | :-----------------------: | :-------------: | :-------: | :----------: |
@@ -99,11 +92,12 @@
 <center>
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida e Matheus Barros<a href="https://github.com/Ninja-Haiyai" target = "_blank"></a></h6>
 </center>
+
 <br>
 
 ## Requisitos Não Funcionais
 
-<center>Tabela 02: Requisitos Não Funcionais</center>
+<center>Tabela 03: Requisitos Não Funcionais</center>
 
 |  ID  |        DESCRIÇÃO          | RASTREABILIDADE | CATEGORIA | IMPLEMENTADO |
 | :--: | :-----------------------: | :-------------: | :-------: | :----------: |
@@ -122,12 +116,16 @@
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida e Matheus Barros<a href="https://github.com/Ninja-Haiyai" target = "_blank"></a></h6>
 </center>
 
+<br>
+
 ## Elos
 
 <p align="justify">&emsp;&emsp;Nessa parte iremos abordar as conexões entre os requisitos que foram mostrados anteriormente nas tabelas 1 e 2, para tal iremos utilizar a metodologia anteriormente apresentada para que possamos classificar os requisitos em qual tipo de elo eles são:</p>
 
-<center>Tabela 03: Requisitos Não Funcionais</center>
 <br>
+
+<center>Tabela 04: Requisitos Não Funcionais</center>
+
 
 | ID    | Requisitos | Tipo de elo  | Descrição do elo                                                                                  | Implementado  | Versionamento |
 |-------|------------|--------------|--------------------------------------------------------------------------------------------------| ---|----------|
@@ -174,9 +172,10 @@
 
 
 <center>
-Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>, <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
+Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros</a>, <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> e <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 
 </center>
+
 <br>
 
 ## Referências Bibliográficas
@@ -188,9 +187,10 @@ Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros<
 
 ## Histórico de versão
 
+<center>
 
-| Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
-| ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
+| ------ | ---------- | -------------------- | --------------------- | ------------------- |
 |  1.0   | 14/01/2025 | Escrita da introdução e metodologia |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.1   | 14/01/2025 | Adição dos Elos 1 - 8 |[Matheus Barros ](https://github.com/Ninja-Haiyai)   | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.2   | 16/01/2025 | Adição dos Elos 9 - 16 |[Letícia Resende ](https://github.com/LeticiaResende23)  | [Matheus Barros ](https://github.com/Ninja-Haiyai)|
@@ -199,3 +199,6 @@ Autor: <a href="https://github.com/Ninja-Haiyai" target="_blank">Matheus Barros<
 |  1.5   | 19/01/2025 | Adição da rastreabilidade dos Elos 33 - 40 |[Joao Victor Marques ](https://github.com/jmarquees)   | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.6   | 23/01/2025 | Correção pós - apresentação| [Letícia Resende ](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.7   | 23/01/2025 | Correção pós - apresentação| [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende ](https://github.com/LeticiaResende23) |
+|  1.8   | 08/02/2025 | Remoção da tabela de modelagem | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+
+</center>
