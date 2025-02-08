@@ -81,6 +81,8 @@ sobre o sistema.</p>
 
 ## Histórico de versão
 
+<center>
+
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 22/10/2024 | Adição do aplicativo escolhido | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10)  |

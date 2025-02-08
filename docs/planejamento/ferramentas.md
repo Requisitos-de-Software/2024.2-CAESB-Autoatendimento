@@ -79,6 +79,8 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 
 ## Histórico de Versão
 
+<center>
+
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 22/10/2024 | Adição das ferramentas do projeto |[Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
@@ -87,3 +89,5 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 |  1.3   | 27/10/2024 | Arrumando a fonte da tabela e os links | [Leandro de Almeida](https://github.com/leomitx10) | [Natan Almeida](https://github.com/natanalmeida03) |
 |  1.4   | 17/11/2024 | Corrigindo formatações pós apresentações | [Natan Almeida](https://github.com/natanalmeida03)| [Leandro de Almeida](https://github.com/leomitx10)  |
 |  1.5   | 01/02/2025 | Adicionando ferramenta utilizada |[Letícia Resende](https://github.com/LeticiaResende23) | [Natan Almeida](https://github.com/natanalmeida03)  |
+
+</center>

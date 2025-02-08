@@ -74,7 +74,7 @@
 <center>
     <figcaption>Imagem 8: Legenda do Rich Picture - Moovit</figcaption>
     ![Legenda Rich picture moovit](../assets/legenda_rich_picture_moovit.png)
-    Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+    <center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a><center>
 </center>
 
 ## Carteira de Trabalho Digital
@@ -84,7 +84,7 @@
 <center>
     <figcaption>Imagem 9: Rich Picture (Fonte: MARQUES Joao. 2024)</figcaption>
     ![Rich picture Carteira de Trabalho Digital](../assets/rich_picture_carteira.png)
-    Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
+    <center>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6></center>
 </center>
 
 <center>
