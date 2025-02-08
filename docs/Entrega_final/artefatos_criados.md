@@ -168,7 +168,7 @@ Tabela 2 - Artefatos da etapa 02
 <tr>
 <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/observacao/">Observação para elicitação de requisitos</a></td>
 <td style="text-align:center">Observação para elicitação de requisitos</td>
-<td style="text-align:center">a href="https://github.com/leomitx10">Leandro de Almeida</a> e <a href="https://github.com/jmarquees">João Victor</a></td>
+<td style="text-align:center"><a href="https://github.com/leomitx10">Leandro de Almeida</a> e <a href="https://github.com/jmarquees">João Victor</a></td>
 <td style="text-align:center"><a href="https://github.com/Ninja-Haiyai">Matheus Barros</a></td>
 </tr>
 <tr>
