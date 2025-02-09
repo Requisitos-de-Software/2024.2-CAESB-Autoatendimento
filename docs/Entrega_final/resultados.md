@@ -1,5 +1,4 @@
 # Resultados Alcançados
-<br>
 
 ## Introdução
 

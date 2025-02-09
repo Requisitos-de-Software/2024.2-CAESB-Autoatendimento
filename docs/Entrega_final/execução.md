@@ -15,3 +15,15 @@
 |                        | **Grupo +1** | <a href="#">Entrega 1</a>, <a href="#">Entrega 2</a>, <a href="#">Entrega 3</a>, <a href="#">Entrega 4</a>, <a href="#">Entrega 5</a>, <a href="#">Entrega 6</a> |
 | **Validação**          | Processo de análise dos requisitos pela comprovação de se eles estão de acordo com o que os stakeholders requisitaram em um ambiente real de uso. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/validacao/compro_informal/">Comprovação Informal</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/validacao/prototipacao/">Prototipação</a> |
 | **Pós-rastreabilidade** | Ligação dos requisitos aos artefatos criados ao longo da execução do projeto. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/matriz/">Matriz Geral</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/">Backward-from</a>,<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/forwardfrom/"> Forward-from</a> |
+
+<center>
+Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
+</center>
+
+<br>
+
+## Histórico de versão
+
+| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
+| :----: | :--------: | :------------------: | :-----: | :-----: |
+|  1.0   | 09/02/2025 | Criação do documento | [Matheus Barros](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)  |

@@ -1,5 +1,4 @@
 # Considerações Finais
-<br>
 
 ## Introdução
 
@@ -19,11 +18,11 @@
 
 <p align="justify">
 &emsp;&emsp; Em um geral a dificuldade principal que eu encarei foi a agenda de entregas da disciplina, eram muitas entregas para se conciliar com outras matérias e muitas das entregas exigiam uma reunião presencial com o cliente, porém mesmo que tenha sido complicado essa gerência de horários, acredito que essa experiência das entrevistas tenha agregado bastante no meu aprendizado, gostei de como foram ministradas as aulas e a maneira que elas eram pareadas com a etapa do trabalho. 
-
+</p>
 <br>
 
-## Histórico de Versão
+## Histórico de versão
 
-| Versão |    Data    |                  Descrição                  |                       Autor(es)                        |                        Revisor(es)                         |
-| :----: | :--------: | :-----------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
-|  1.0   | 09/02/2025 | Criação do Documento | [Matheus Barros](https://github.com/Ninja-Haiyai) |[Leandro de Almeida](https://github.com/leomitx10)| 
+| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
+| :----: | :--------: | :------------------: | :-----: | :-----: |
+|  1.0   | 09/02/2025 | Criação do documento | [Matheus Barros](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)  |
