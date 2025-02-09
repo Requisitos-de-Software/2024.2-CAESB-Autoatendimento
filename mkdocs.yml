@@ -164,18 +164,16 @@ nav:
           - Itens de desenvolvimento do projeto: planejamento/verificacao_g4/itens_dev_proj5.md
           - Backward-from: planejamento/verificacao_g4/veri_backwardfrom.md
           - Matriz de Rastreabilidade: planejamento/verificacao_g4/veri_matriz.md
-<<<<<<< Updated upstream
 
   - Entrega Final:
       - Aplicativo Selecionado: Entrega_final/ap_selecionado.md
       - Cronograma: Entrega_final/cronograma_e.md
       - Artefatos Criados: Entrega_final/artefatos_criados.md
-      - Ferramentas: Entrega_final/ferramentas.md
       - Apresentações: Entrega_final/apresentações.md
       - Técnicas Utilizadas: Entrega_final/tecnicas.md
-      
-=======
->>>>>>> Stashed changes
+      - Verificação e Validação: Entrega_final/veri_vali.md
+      - Ferramentas: Entrega_final/ferramentas.md
+
 markdown_extensions:
   - attr_list
   - md_in_html
