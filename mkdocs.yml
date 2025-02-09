@@ -131,9 +131,9 @@ nav:
           - Itens de desenvolvimento do projeto: planejamento/verificacao/itens_dev_proj5.md
           - Backward-from: planejamento/verificacao/veri_Backward-from.md
           - Matriz de Rastreabilidade: planejamento/verificacao/veri_matriz.md
-        - Etapa 6:
-          - Comprovação Informal: planejamento/verificacao/veri_informal.md
-          - Prototipação: planejamento/verificacao/veri_prototipos.md
+        # - Etapa 6:
+        #   - Comprovação Informal: planejamento/verificacao/veri_informal.md
+        #   - Prototipação: planejamento/verificacao/veri_prototipos.md
       - Grupo 04:
         - Etapa 1:
             - Aplicativo Selecionado: planejamento/verificacao_g4/aplicativo_escolhido.md

@@ -20,7 +20,7 @@
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/analise_documento/">Análise de Documentos</a>| [Letícia Resende ](https://github.com/LeticiaResende23)  |
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/">Introspecção</a>|[Natan Almeida](https://github.com/natanalmeida03) |
 
-Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 
 ### Priorização
 
@@ -34,7 +34,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_In/">In or Out</a>| [Letícia Resende ](https://github.com/LeticiaResende23) |
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_First/">First Thing First</a>|[Letícia Resende ](https://github.com/LeticiaResende23)|
 
-Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 
 ### Modelagem
 
@@ -49,7 +49,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/">Cenários</a>|[Matheus Barros](https://github.com/Ninja-Haiyai) <br> [Natan Almeida](https://github.com/natanalmeida03) <br> [Leandro de Almeida](https://github.com/leomitx10) <br> [Letícia Resende ](https://github.com/LeticiaResende23) <br> [Joao Victor Marques](https://github.com/jmarquees)  |
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/">Léxicos</a>|[Matheus Barros](https://github.com/Ninja-Haiyai) <br> [Natan Almeida](https://github.com/natanalmeida03) <br> [Leandro de Almeida](https://github.com/leomitx10) <br> [Letícia Resende ](https://github.com/LeticiaResende23) <br> [Joao Victor Marques](https://github.com/jmarquees)  |
 
-Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 
 ### Modelagem Ágil
 
@@ -63,7 +63,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/">História de Usuário</a>|[Matheus Barros](https://github.com/Ninja-Haiyai) <br> [Natan Almeida](https://github.com/natanalmeida03) <br> [Leandro de Almeida](https://github.com/leomitx10) <br> [Letícia Resende ](https://github.com/LeticiaResende23) <br> [Joao Victor Marques](https://github.com/jmarquees) |
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/">NFR Framework</a>|[Matheus Barros](https://github.com/Ninja-Haiyai) <br> [Natan Almeida](https://github.com/natanalmeida03) <br> [Leandro de Almeida](https://github.com/leomitx10) <br> [Letícia Resende ](https://github.com/LeticiaResende23) <br> [Joao Victor Marques](https://github.com/jmarquees)|
 
-Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 
 
 </center>
@@ -80,7 +80,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/">Backward-From</a>| [Matheus Barros](https://github.com/Ninja-Haiyai) <br> [Natan Almeida](https://github.com/natanalmeida03) <br> [Leandro de Almeida](https://github.com/leomitx10) <br> [Letícia Resende ](https://github.com/LeticiaResende23) <br> [Joao Victor Marques](https://github.com/jmarquees) |
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/matriz/">Matriz de Rastreabilidade</a>| [Matheus Barros](https://github.com/Ninja-Haiyai) <br> [Natan Almeida](https://github.com/natanalmeida03) <br> [Leandro de Almeida](https://github.com/leomitx10) <br> [Letícia Resende ](https://github.com/LeticiaResende23) <br> [Joao Victor Marques](https://github.com/jmarquees)   |
 
-Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
 
 </center>
 
