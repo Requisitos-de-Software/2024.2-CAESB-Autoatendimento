@@ -97,7 +97,7 @@ nav:
           - Entrega 1: verificacao_geral_g4/veri_entrega1.md
           - Entrega 2: verificacao_geral_g4/veri_entrega2.md
           - Entrega 3: verificacao_geral_g4/veri_entrega3.md
-          - Entrega 4: verificacao_geral_g4/
+          - Entrega 4: verificacao_geral_g4/veri_entrega4_g4.md
           - Entrega 5: verificacao_geral_g4/veri_entrega5.md
           - Entrega 6: verificacao_geral_g4/veri_entrega6_g4.md
          
@@ -131,6 +131,9 @@ nav:
           - Itens de desenvolvimento do projeto: planejamento/verificacao/itens_dev_proj5.md
           - Backward-from: planejamento/verificacao/veri_Backward-from.md
           - Matriz de Rastreabilidade: planejamento/verificacao/veri_matriz.md
+        - Etapa 6:
+          - Comprovação Informal: planejamento/verificacao/veri_informal.md
+          - Prototipação: planejamento/verificacao/veri_prototipos.md
       - Grupo 04:
         - Etapa 1:
             - Aplicativo Selecionado: planejamento/verificacao_g4/aplicativo_escolhido.md
@@ -161,6 +164,7 @@ nav:
           - Itens de desenvolvimento do projeto: planejamento/verificacao_g4/itens_dev_proj5.md
           - Backward-from: planejamento/verificacao_g4/veri_backwardfrom.md
           - Matriz de Rastreabilidade: planejamento/verificacao_g4/veri_matriz.md
+<<<<<<< Updated upstream
 
   - Entrega Final:
       - Aplicativo Selecionado: Entrega_final/ap_selecionado.md
@@ -170,6 +174,8 @@ nav:
       - Apresentações: Entrega_final/apresentações.md
       - Técnicas Utilizadas: Entrega_final/tecnicas.md
       
+=======
+>>>>>>> Stashed changes
 markdown_extensions:
   - attr_list
   - md_in_html

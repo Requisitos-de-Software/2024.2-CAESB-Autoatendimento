@@ -2,9 +2,8 @@
 
 ## Introdução
 
-<p align="justify">
-&emsp;&emsp; Este documento inclui as verificações utilizadas para inspecionar a Entrega 4 do projeto <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/" target = "_blank">Caesb Autoatendimento</a>. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.
-</p>
+<p align="justify">&emsp;&emsp;
+Este documento inclui as verificações utilizadas para inspecionar a entrega 4 do projeto <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/">Meu SUS Digital</a>. Ao final, são apresentados em detalhes os resultados alcançados por meio dessa inspeção.</p>
 
 ## Objetivo
 
@@ -15,68 +14,36 @@
 ## Metodologia
 
 <p align="justify">
-&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/" target = "_blank">Backlog</a>, <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/" target = "_blank">Histórias de Usuário</a> e <a href ="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/" target = "_blank"> NFR Framework</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo Caesb Autoatendimento.</p>
+&emsp;&emsp;A verificação foi realizada utilizando uma lista de critérios de avaliação, elaborada com base em uma lista com o conteúdo desenvolvido em sala de aula. Com essa lista, foi feito uma verificação para confirmar se cada critério de avaliação havia sido atendido ou não, contando ainda com uma coluna para observações, permitindo o registro de detalhes adicionais ou outras considerações. Neste documento, realizou-se a avaliação dos artefatos feitos com base nas <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/" target = "_blank">Backlog</a>, <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/" target = "_blank">Histórias de Usuário</a> e <a href ="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/" target = "_blank"> NFR Framework</a>, todos relacionados às atividades realizadas no desenvolvimento do aplicativo <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/">Meu SUS Digital</a>.</p>
 
-## Verificação do Backlog
+## Verificação do Backlog do Grupo 04
 
-A tabela 01 apresenta a lista de verificação do artefato de Backlog que foi elaborada com base no plano de ensino da disciplina e a tabela 02 apresenta a verificação.
+<p align="justify">
+&emsp;&emsp;A tabela 01 apresenta a lista de Verificação do Backlog do Grupo 04 que foram elaboradas com base nas listas de verificação entregue e 02 apresenta a verificação.
+</p>
 
+<center>Tabela 01: Lista do Backlog</center>
 
-<center>Tabela 01: Verificação do Backlog</center>
+| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
+| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |---------------|
+| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |          | Joao Victor Marques |  |![ref1](../../assets/nfrvvee.png) |
+| 02     | O backlog do produto foi constantemente revisado e atualizado para refletir mudanças nas necessidades do cliente ou no escopo do projeto?         |  | Joao Victor Marques | |![ref1](../../assets/nfrvvee.png) |
+| 03     | Todos os itens do backlog têm uma descrição clara e compreensível?                     |           | Joao Victor Marques |  |![ref1](../../assets/nfrvvee.png) |
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |          | Joao Victor Marques |  |
-| 02     | O backlog do produto foi constantemente revisado e atualizado para refletir mudanças nas necessidades do cliente ou no escopo do projeto?         |  | Joao Victor Marques | |
-| 03     | Todos os itens do backlog têm uma descrição clara e compreensível?                     |           | Joao Victor Marques |  |
-
-
-
-<center>
-</p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
-</center>
-<br>
-
-<center>Tabela 02: Verificação do Backlog </center>
-
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |   Sim       | Joao Victor Marques | 01/02 versão 1.2  |
-| 02     | O backlog do produto foi constantemente revisado e atualizado para refletir mudanças nas necessidades do cliente ou no escopo do projeto? | Sim | Joao Victor Marques |01/02 versão 1.2 |
-| 03     | Todos os itens do backlog têm uma descrição clara e compreensível?   |  Sim   | Joao Victor Marques | 01/02 versão 1.2 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
 
 <br>
+<center>Tabela 02: Verificação do Backlog</center>
 
-## Verificação das Histórias de Usuário
+| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
+| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |---------------|
+| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |   Não verificável      | Joao Victor Marques | 08/02 versão 1.2  |![ref1](../../assets/nfrvvee.png) |
+| 02     | O backlog do produto foi constantemente revisado e atualizado para refletir mudanças nas necessidades do cliente ou no escopo do projeto? | Não verificável  | Joao Victor Marques |08/02 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
+| 03     | Todos os itens do backlog têm uma descrição clara e compreensível?  |  Não verificável   | Joao Victor Marques | 08/02 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
 
-A tabela 03 apresenta a lista de verificação do artefato das Histórias de Usuário que foi elaborada com base no plano de ensino da disciplina e a tabela 04 apresenta a verificação.
-
-<center>Tabela 03: Histórias de Usuário</center>
-
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | As histórias de usuário são claras, concisas e escritas em linguagem que o usuário compreenda, facilitando a comunicação entre stakeholders e a equipe de desenvolvimento?? |          | Joao Victor Marques |  |
-| 02     | As histórias de usuário são pequenas o suficiente para serem concluídas em um único ciclo de desenvolvimento?        |  | Joao Victor Marques | |
-| 03     | Cada história de usuário possui critérios de aceitação claramente definidos?                     |           | Joao Victor Marques |  |
-
-
-
-<center>
-</p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
-</center>
-<br>
-
-<center>Tabela 04: Verificação das Histórias de Usuário </center>
-
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | As histórias de usuário são claras, concisas e escritas em linguagem que o usuário compreenda, facilitando a comunicação entre stakeholders e a equipe de desenvolvimento? |   Sim       | Joao Victor Marques | 01/02 versão 1.2  |
-| 02     | As histórias de usuário são pequenas o suficiente para serem concluídas em um único ciclo de desenvolvimento? | Sim | Joao Victor Marques |01/02 versão 1.2 |
-| 03     | Cada história de usuário possui critérios de aceitação claramente definidos?  |  Sim   | Joao Victor Marques | 01/02 versão 1.2 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
@@ -84,32 +51,20 @@ A tabela 03 apresenta a lista de verificação do artefato das Histórias de Usu
 
 <br>
 
-## Verificação do NFR Framework
+## Verificação das Histórias de Usuário do Grupo 04
 
-A tabela 05 apresenta a lista de verificação do artefato do NFR Framework que foi elaborada com base no plano de ensino da disciplina e a tabela 06 apresenta a verificação.
+<p align="justify">
+&emsp;&emsp;A tabela 03 apresenta a lista de Verificação das Histórias de Usuário do Grupo 04 que foram elaboradas com base nas listas de verificação entregue e 04 apresenta a verificação.
+</p>
 
-<center>Tabela 05: Verificação NFR Framework</center>
+<center>Tabela 03: Lista de verificação das Histórias de Usuário </center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? |          | Joao Victor Marques |  |
-| 02     | Os requisitos não funcionais documentados no NFR Framework foram rastreáveis para garantir que sejam implementados e testados adequadamente?         |  | Joao Victor Marques | |
-| 03     | Os NFR Framework foram usados para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade?                     |           | Joao Victor Marques |  |
+| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
+| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |---------------|
+| 01     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | | Joao Victor Marques ||![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 02     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  | Joao Victor Marques|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 03     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |    |Joao Victor Marques|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 
-
-
-<center>
-</p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
-</center>
-<br>
-
-<center>Tabela 06: Verificação do NFR Framework </center>
-
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? |   Sim       | Joao Victor Marques | 01/02 versão 1.2  |
-| 02     | Os requisitos não funcionais documentados no NFR Framework foram rastreáveis para garantir que sejam implementados e testados adequadamente? | Sim | Joao Victor Marques |01/02 versão 1.2 |
-| 03     | Os NFR Framework foram usados para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade?  |  Sim   | Joao Victor Marques | 01/02 versão 1.2 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
@@ -117,24 +72,90 @@ A tabela 05 apresenta a lista de verificação do artefato do NFR Framework que 
 
 <br>
 
+<center>Tabela 04: Verificação das Histórias de Usuário</center>
 
-## Problemas encontrados
+| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
+| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |--------------|
+| 01     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | Sim | Letícia Resende |31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 02     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  Sim   | Letícia Resende | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 03     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |  Não | Letícia Resende | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 04     | Os protótipos foram validados com usuários reais por meio de entrevistas?  | Sim   | Matheus Barros |31/01 versão 1.4  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 
-Não foram encontrados problemas.
 
-## Sugestões
+<center></p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></center>
 
-Como o artefato está de acordo com o esperado não há sugestões.
+<br>
+
+## Verificação das Histórias de Usuário do Grupo 04
+
+<p align="justify">
+&emsp;&emsp;A tabela 05 apresenta a lista de Verificação das Histórias de Usuário do Grupo 04 que foram elaboradas com base nas listas de verificação entregue e 06 apresenta a verificação.
+</p>
+
+<center>Tabela 05: Lista de verificação do NFR Framework </center>
+
+| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
+| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |---------------|
+| 01     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | | Joao Victor Marques ||![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 02     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  | Joao Victor Marques|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 03     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |    |Joao Victor Marques|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+
+
+<center>
+</p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
+</center>
+
+<br>
+
+<center>Tabela 06: Verificação do NFR Framework</center>
+
+| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
+| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |--------------|
+| 01     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | Sim | Letícia Resende |31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 02     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  Sim   | Letícia Resende | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 03     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |  Não | Letícia Resende | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 04     | Os protótipos foram validados com usuários reais por meio de entrevistas?  | Sim   | Matheus Barros |31/01 versão 1.4  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+
+
+<center></p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></center>
 
 ## Link da gravação
 
---
+Pode ser vista no [YouTube](https://www.youtube.com/embed/NsuIvPxNtl0?si=hbKehkJg6s7WeATf).</p>
+
+<center>
+    <p>Vídeo 01: Verificação dos artefatos</p>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/n3-hgT21gCc?si=0xpJlIsI-QDnBEX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
 
 <br>
 
-## Referências Bibliográficas
+<center>
 
-> <p id="1">SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 02 de Fev. de 2025.</p>
+Tabela 05: Tempo de início da verificação dos artefatos no vídeo
+
+| **Artefato** | **Inicio**   | 
+|:----------:|:----------:|
+| Comprovação Informal| <a href="https://www.youtube.com/watch?v=n3-hgT21gCc&t=18s" target="_blank">00:18</a>  | 
+| Protótipos | <a href="https://www.youtube.com/watch?v=n3-hgT21gCc&t=83s" target="_blank">01:23</a> |
+
+</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+
+</center>
+
+<br>
+
+## Problemas encontrados
+
+<p align="justify">&emsp;&emsp;Embora os requisitos não funcionais tenham sido detalhados na história de usuário, o artefato não possui o cartão de especificação.</p>
+
+## Sugestões
+
+<p align="justify">&emsp;&emsp;Como o artefato está de acordo com o esperado não há sugestões.</p>
+
+<br>
 
 
 ## Histórico de Versão

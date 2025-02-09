@@ -92,7 +92,7 @@
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/OD0mIe7rWIbILMcRUwoCi9/PagamentoRecorrente?node-id=2003-56&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
 
 <center>
- Autor(a): <a href="https://github.com/jmarquees" target="_blank">João Marques</a>
+ Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
 
 <br>
@@ -201,5 +201,6 @@
 |  1.5  |04/02/2025 | Correção pós apresentação|  [Letícia Resende](https://github.com/LeticiaResende23) | [Matheus Barros](https://github.com/Ninja-Haiyai)|
 |  1.6  |06/02/2025 | Adicionando fotos dos protótipos|  [Letícia Resende](https://github.com/LeticiaResende23) | [Matheus Barros](https://github.com/Ninja-Haiyai)|
 |  1.7  |08/02/2025 | Adição de título e autor nas tabelas  | [Leandro de Almeida](https://github.com/leomitx10)|  [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.8  |08/02/2025 | Adição de correções  | [Joao Victor Marques](https://github.com/jmarquees)|  [Letícia Resende](https://github.com/LeticiaResende23) |
 
 <center>
