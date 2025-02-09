@@ -28,9 +28,11 @@ A reunião do dia 18/11/2024, pode ser vista no [YouTube](https://youtu.be/cV1sJ
 
 <center>
     <p>Vídeo 01: Gravação da reunião 3</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/lVzGoZh1KrI?si=BwjQNuNqBBSvfZMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    Autor(a):<a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/lVzGoZh1KrI?si=BwjQNuNqBBSvfZMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
 </center>
+
+<center>Autor(a):<a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6></center>
 
 <br>
 

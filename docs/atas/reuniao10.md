@@ -29,12 +29,14 @@ A reunião do dia 02/02/2025, pode ser vista no [YouTube](https://youtu.be/ZWJeJ
 Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
+<br>
+
 ## Histórico de versão
 
 <center>
 
 | Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-|  1.0   | 03/01/2025 |   Adiciona a entrega 6   | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai)| 
+|  1.0   | 03/01/2025 |   Escrita da ata | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros ](https://github.com/Ninja-Haiyai)| 
 
 </center>

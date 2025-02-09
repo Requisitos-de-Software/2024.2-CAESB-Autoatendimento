@@ -23,8 +23,12 @@ A reunião do dia 24/11/2024, pode ser vista no [YouTube](https://youtu.be/kBuTd
 <center>
     <p>Vídeo 01: Gravação da reunião 4</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/kBuTdjq2_I8?si=mwanWK15pMatGraV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
+    
 </center>
+
+<center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6></center>
+
+<br>
 
 ## Histórico de versão
 

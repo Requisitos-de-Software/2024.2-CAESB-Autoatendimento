@@ -7,6 +7,7 @@
 ## Metodologia
 <p align="justify">&emsp;&emsp;Durante uma entrevista com o Product Owner (PO), enquanto ele descrevia as funcionalidades desejadas, os desenvolvedores/entrevistadores tomaram notas e fizeram perguntas para esclarecer suas ideias. Após a elicitação das histórias do usuário, os critérios de acessibilidade foram definidos, e as histórias foram definidas pelo PO em duas categorias: 'In', representando itens imprescindíveis para a conclusão do projeto, e 'Out', para itens desejados, mas não críticos para o sucesso do projeto (uma abordagem adaptada para priorização de requisitos Em). em seguida, temas, épicos e recursos foram organizados para categorizar as histórias do usuário. As Tabelas a seguir apresentam o backlog do produto, com o detalhamento de cada história do usuário incluída nos detalhes do documento, bem como o significado de cada um desses termos.</p>
 
+<br>
 
 <center>Tabela 1: Participantes entrevista 1
 
@@ -19,12 +20,17 @@
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
 </center>
 
+<br>
+
 <center>
     <p>Vídeo 01: Entrevista com o PO</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/PsvCjqgs0CE?si=Rbxeq2pxRmedpftY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> e <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
+    
 </center>
 
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> e <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6></center>
+
+<br>
 
 ## Épico 1 - Gestão de Contas e Pagamentos
 
@@ -129,6 +135,8 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 
 ## Features
 <p align="justify">&emsp;&emsp;Após a definição de um épico, são criadas as características, que consistem em especificamente sucintas das capacidades do produto para alcançar os objetivos dos usuários. Elas representam funcionalidades com um grau de abstração mais elevado do que as histórias do usuário. As features estão especificadas na tabela 8.</p>
+
+<br>
 
 <center>
 <font size="3"><p style="text-align: center">Tabela 9: Features </p></font>
@@ -295,6 +303,7 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 |  1.5   | 14/12/2024 | Adiciona as features 25 a 32 | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Natan Almeida](https://github.com/natanalmeida03) | 
 |  1.6   | 17/12/2024 | Adiciona as features 33 a 40 | [Joao Victor](https://github.com/jmarquees) | [Natan Almeida](https://github.com/natanalmeida03) | 
 |  1.5   | 05/02/2025 | correção pós apresentação | [Letícia Resende](https://github.com/LeticiaResende23)| [Leandro de Almeida](https://github.com/leomitx10) |
+
 </center>
 
 

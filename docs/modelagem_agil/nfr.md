@@ -292,6 +292,7 @@
 > <p id="3"> [3]NIELSEN, Jakob. Usability Engineering. San Francisco: Morgan Kaufmann, 1994.
 > <p id="4">[4] Sommerville, I. (2011). Engenharia de Software (9ª Edição). Acesso em 14 de Dezembro de 2024.
 </p>
+
 <br>
 
 ## Histórico de versão

@@ -23,8 +23,11 @@ A reunião do dia 28/11/2024, pode ser vista no [YouTube](https://www.youtube.co
 <center>
     <p>Vídeo 01: Gravação da reunião 5</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/wUAYOgZsYvA?si=S-_4LwqAGmU4A9xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6>
 </center>
+
+<center>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></h6></center>
+
+<br>
 
 ## Histórico de versão
 

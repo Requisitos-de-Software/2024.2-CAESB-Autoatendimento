@@ -23,8 +23,12 @@ A reunião do dia 10/12/2024, pode ser vista no [YouTube](https://youtu.be/SpG8w
 <center>
     <p>Vídeo 01: Gravação da reunião 6</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/SpG8wJ3lwyc?si=RsvRbrSLw68c4YGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
+
 </center>
+
+<center>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6></center>
+
+<br>
 
 ## Histórico de versão
 
@@ -33,6 +37,5 @@ A reunião do dia 10/12/2024, pode ser vista no [YouTube](https://youtu.be/SpG8w
 | Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 |  1.0   | 11/12/2024 | Escrita da ata | [Joao Victor Marques](https://github.com/jmarquees) | [Matheus Barros ](https://github.com/Ninja-Haiyai)  |
-
 
 </center>

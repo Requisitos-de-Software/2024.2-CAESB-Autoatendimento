@@ -27,8 +27,11 @@ A reunião do dia 28/10/2024, pode ser vista no [YouTube](https://youtu.be/cV1sJ
 <center>
     <p>Vídeo 01: Gravação da reunião 2</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/cV1sJmKthWA?si=PfasSesGkwP5jQVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
+
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+
+<br>
 
 ## Histórico de versão
 

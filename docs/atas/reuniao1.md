@@ -32,8 +32,12 @@ Local: Online via Teams
 <center>
     <p>Vídeo 01: Gravação da reunião 1</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/sKlWCrd8NJE?si=1NYoxfKk_63si-6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen></iframe>
-    Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
+    
 </center>
+
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+
+<br>
 
 ## Histórico de versão
 

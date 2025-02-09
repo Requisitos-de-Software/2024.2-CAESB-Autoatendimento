@@ -48,19 +48,23 @@
 
 <center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
 
+<br>
 
 ## Google Classroom
 <p align="justify">&emsp;&emsp;O Google Classroom é uma aplicação de educação remota que permite a comunicação entre educadores e alunos. A plataforma oferece aos professores a capacidade de criar, editar e gerenciar atividades e trabalhos educacionais, promovendo um ambiente de aprendizado colaborativo e organizado.&emsp;&emsp;</p>
 <center>
     <img src="https://github.com/Requisitos-de-Software/2024.2-BRB-Mobilidade/blob/Entrega_1/docs/assets/rich_picture_google_classroom.png?raw=true" width="500">
     <figcaption>Imagem 5: Rich Picture - Google Classroom (Fonte: BARROS, Matheus. 2024)</figcaption>
-    </br>
 </center>
+
+<br>
 
 <center>
 <img src="https://github.com/Requisitos-de-Software/2024.2-BRB-Mobilidade/blob/Entrega_1/docs/assets/legenda-rich-picture-google-classroom.png?raw=true" width="500">
 <figcaption>Imagem 6 : Legenda do Rich Picture - Google Classroom (Fonte: BARROS, Matheus. 2024)</figcaption>
 </center>
+
+<br>
 
 ## Moovit
 
@@ -74,12 +78,16 @@
 
 <center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
 
+<br>
+
 <center>
     <figcaption>Imagem 8: Legenda do Rich Picture - Moovit</figcaption>
     ![Legenda Rich picture moovit](../assets/legenda_rich_picture_moovit.png)
 </center>
 
 <center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></center>
+
+<br>
 
 ## Carteira de Trabalho Digital
 
@@ -92,12 +100,15 @@
 
 <center>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6></center>
 
+<br>
+
 <center>
     <figcaption>Imagem 10: Legenda do Rich Picture (Fonte: MARQUES, Joao. 2024)</figcaption>
     ![Legenda Rich picture Carteira de Trabalho Digital](../assets/legenda.richpicture(1).png)
 </center>
 
 <center>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6></center>
+
 <br>
 
 ## Referências Bibliográficas
