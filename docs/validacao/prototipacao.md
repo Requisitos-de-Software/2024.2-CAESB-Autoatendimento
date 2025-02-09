@@ -60,19 +60,64 @@
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/g4t2yX9pGDxetua6RahZfy/Untitled?node-id=1-131&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
 
-<img src="https://github.com/user-attachments/assets/34be2ebc-fc3a-4150-8fc3-fce0693addf4" style="height:400px;"> <img src="https://github.com/user-attachments/assets/75b123b0-657f-4bfe-931f-7fc680ebdf7c" style="height:400px;"> <img src="https://github.com/user-attachments/assets/1984f487-4e23-4126-ba3b-1c9dfe7ac255" style="height:400px;"> <img src="https://github.com/user-attachments/assets/4d870d84-481c-4805-9e1e-91cba6db01d2" style="height:400px;"> <img src="https://github.com/user-attachments/assets/b798793b-a6ef-4700-b87a-97e7d00c3780" style="height:400px;">
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</center>
 
- Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+<br>
+
+<center>
+Imagem 03: Screenshots do protótipo 1 parte 1
+
+<img src="https://github.com/user-attachments/assets/34be2ebc-fc3a-4150-8fc3-fce0693addf4" style="height:400px;"> <img src="https://github.com/user-attachments/assets/75b123b0-657f-4bfe-931f-7fc680ebdf7c" style="height:400px;"> <img src="https://github.com/user-attachments/assets/1984f487-4e23-4126-ba3b-1c9dfe7ac255" style="height:400px;"> <img src="https://github.com/user-attachments/assets/4d870d84-481c-4805-9e1e-91cba6db01d2" style="height:400px;">
+
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+
+</center>
+
+<br>
+
+<center>
+Imagem 04: Screenshots do protótipo 1 parte 2
+
+<img src="https://github.com/user-attachments/assets/b798793b-a6ef-4700-b87a-97e7d00c3780" style="height:400px;">
+
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+
 </center>
 
 <br>
 
 ### Protótipo 3
 
+<center>
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/ZAA28Awatff5bY69iIu2De/Prot%C3%B3tipo-3?node-id=1-131&starting-point-node-id=1%3A131&embed-host=share" allowfullscreen></iframe>
 
-<center>
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<br>
+
+<center>
+
+Imagem 05: Screenshots do protótipo 3 parte 1
+
+<img src="https://github.com/leomitx10/leomitx10/blob/main/parte1.png?raw=true" style="height:400px;">
+
+Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+
+</center>
+
+<br>
+
+<center>
+
+Imagem 06: Screenshots do protótipo 3 parte 2
+
+<img src="https://github.com/leomitx10/leomitx10/blob/main/parte2.png?raw=true" style="height:400px;">
+
+Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+
 </center>
 
 <br>
@@ -202,5 +247,6 @@
 |  1.6  |06/02/2025 | Adicionando fotos dos protótipos|  [Letícia Resende](https://github.com/LeticiaResende23) | [Matheus Barros](https://github.com/Ninja-Haiyai)|
 |  1.7  |08/02/2025 | Adição de título e autor nas tabelas  | [Leandro de Almeida](https://github.com/leomitx10)|  [Letícia Resende](https://github.com/LeticiaResende23) |
 |  1.8  |08/02/2025 | Adição de correções  | [Joao Victor Marques](https://github.com/jmarquees)|  [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.9  |09/02/2025 | Adição das imagens do protótipo 3 | [Leandro de Almeida](https://github.com/leomitx10) |  [Letícia Resende](https://github.com/LeticiaResende23) |
 
 <center>

@@ -54,6 +54,8 @@ Tabela 01: Abreviações das técnicas de elicitação
 
 ## Requisitos Funcionais
 
+<br>
+
 <center>Tabela 02: Requisitos Funcionais</center>
 
 |  ID  |        DESCRIÇÃO          | RASTREABILIDADE | CATEGORIA | IMPLEMENTADO |
@@ -96,6 +98,8 @@ Tabela 01: Abreviações das técnicas de elicitação
 <br>
 
 ## Requisitos Não Funcionais
+
+<br>
 
 <center>Tabela 03: Requisitos Não Funcionais</center>
 
