@@ -168,7 +168,8 @@ nav:
       - Artefatos Criados: Entrega_final/artefatos_criados.md
       - Ferramentas: Entrega_final/ferramentas.md
       - Apresentações: Entrega_final/apresentações.md
-
+      - Técnicas Utilizadas: Entrega_final/tecnicas.md
+      
 markdown_extensions:
   - attr_list
   - md_in_html
