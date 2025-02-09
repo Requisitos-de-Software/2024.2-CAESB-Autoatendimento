@@ -179,6 +179,8 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#lexico-l10-imovel-selecionado"> L10 - Imóvel Selecionado </a>|
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
+| NFR | -- |
+| Versionamento | Requisito não foi modificado |
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
@@ -197,7 +199,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
 | NFR | -- |
-| Especificação Suplementar | -- |
+| Versionamento | Requisito não foi modificado |
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
@@ -216,7 +218,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
 | NFR | -- |
-| Especificação Suplementar | -- |
+| Versionamento | Requisito não foi modificado |
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
