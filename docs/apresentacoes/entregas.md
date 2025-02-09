@@ -61,7 +61,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Leandr
 
 <center>
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 28/10/2024 | Criação do artefato | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
 |  1.1   | 05/11/2024 | Mudança do link do vídeo 1 | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |

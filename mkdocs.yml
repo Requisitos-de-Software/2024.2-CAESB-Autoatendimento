@@ -167,7 +167,7 @@ nav:
       - Cronograma: Entrega_final/cronograma_e.md
       - Artefatos Criados: Entrega_final/artefatos_criados.md
       - Ferramentas: Entrega_final/ferramentas.md
-
+      - Apresentações: Entrega_final/apresentações.md
 
 markdown_extensions:
   - attr_list
