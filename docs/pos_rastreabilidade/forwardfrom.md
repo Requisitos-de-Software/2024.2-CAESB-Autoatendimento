@@ -732,7 +732,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | NFR | -- |
 | Especificação Suplementar | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#suportabilidade">Especificação Suplementar - Suportabilidade</a> |
 | Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO36</a> |
-| Implementado | Sim <br> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/refs/heads/main/docs/assets/forwardprint.jpeg" style="height:200px;"> |
+| Implementado | Sim <br> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/refs/heads/main/docs/assets/compativelioseandroid.png" style="height:200px;"> |
 | Versionamento| Requisito não foi modificado|
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
