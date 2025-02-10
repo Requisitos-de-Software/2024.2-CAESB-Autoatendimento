@@ -1,3 +1,11 @@
+# Execução do Projeto
+
+## Introdução
+
+<p align="justify">
+&emsp;&emsp; Esse artefato tem o objetivo de mostrar as etapas do projeto e como elas foram divididas durante o andamento da disciplina.
+</p>
+
 | Etapas do Projeto      | Definição | Artefato(s) Produzido(s) |
 |------------------------|-----------|---------------------------|
 | **Planejamento**       | Trata-se do processo no qual a equipe analisou os possíveis aplicativos para a disciplina e escolheu um desses, além de planejar o cronograma, as ferramentas que seriam utilizadas e as reuniões semanais. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/cronograma/">Cronograma</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/metodologia/">Metodologia</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/aplicativo_escolhido/">Aplicativo Escolhido</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/ferramentas/">Ferramentas</a> |
@@ -27,3 +35,4 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Ba
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 09/02/2025 | Criação do documento | [Matheus Barros](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.1   | 10/02/2025 | Correção do documento | [Matheus Barros](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)  |
