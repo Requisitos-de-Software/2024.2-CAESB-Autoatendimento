@@ -22,8 +22,8 @@
 
 <center>Tabela 01: Lista Verificação dos Itens de desenvolvimento do projeto</center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor**      | **Observações** |
-|--------|---------------|---------------|----------------|-----------------|
+| **ID** | **Descrição**  |
+|--------|----------------|
 | 01     | O histórico de versão padronizado? |
 | 02     | O(s) autores e o(s) revisores para cada artefato? |
 | 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?  |
