@@ -6,8 +6,6 @@
 ## Entrega 1
 A apresentação da entrega 1, pode ser vista no [YouTube](https://youtu.be/xQJBbEvdkSg).
 
-<br>
-
 <center>
 <p>Vídeo 01: Gravação da apresentação 1</p>
 <iframe width="760" height="515" src="https://www.youtube.com/embed/xQJBbEvdkSg?si=ebsCxnX9SWl1QILY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -19,7 +17,6 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 ## Entrega 2
 A apresentação da entrega 2, pode ser vista no [YouTube](https://youtu.be/XRYAcI0sHk0).
 
-<br>
 
 <center>
 <p>Vídeo 02: Gravação da apresentação 2</p>
@@ -32,7 +29,7 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 ## Entrega 3
 A apresentação da entrega 3, pode ser vista no [YouTube](https://www.youtube.com/watch?v=wUAYOgZsYvA).
 
-<br>
+
 
 <center>
 <p>Vídeo 03: Gravação da apresentação 3</p>
@@ -45,7 +42,7 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Ba
 ## Entrega 4
 A apresentação da entrega 4, pode ser vista no [YouTube](https://www.youtube.com/watch?v=UMwL5C6WRXs).
 
-<br>
+
 
 <center>
 <p>Vídeo 04: Gravação da apresentação 4</p>
@@ -58,7 +55,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 ## Entrega 5
 A apresentação da entrega 5, pode ser vista no [YouTube](https://www.youtube.com/watch?v=N1alMrJa-WU).
 
-<br>
+
 
 <center>
 <p>Vídeo 05: Gravação da apresentação 5</p>
@@ -71,7 +68,7 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 ## Entrega 6
 A apresentação da entrega 6, pode ser vista no [YouTube](https://www.youtube.com/embed/ZWJeJOzOVDw?si=ggeoSMXbZL-jen17).
 
-<br>
+
 
 <center>
 <p>Vídeo 06: Gravação da apresentação 6</p>

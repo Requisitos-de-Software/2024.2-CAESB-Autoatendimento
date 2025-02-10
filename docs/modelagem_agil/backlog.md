@@ -142,111 +142,69 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 <font size="3"><p style="text-align: center">Tabela 9: Features </p></font>
 
 <table>
-<thead>
-<tr>
-<th>Épico</th>
-<th>Feature</th>
-</tr>
-</thead>
-<tbody>
-<!-- epico 1 -->
-<tr>
-<td rowspan="7" style="vertical-align: middle; font-weight: bold;">Épico 1 - Gestão de Contas e Pagamentos</td>
-<td>Feature 1 - Segunda Via de Conta </td>
-</tr>
-<tr>
-<td>Feature 2 - Formas de Pagamento</td>
-</tr>
-<tr>
-<td>Feature 3 - Atualizar Dados Cadastrais</td>
-</tr>
-<tr>
-<td>Feature 4 - Alteração do Vencimento da Conta</td>
-</tr>
-<tr>
-<td>Feature 5 - Acesso/Pagamento de Contas Passadas</td>
-</tr>
-<tr>
-<td>Feature 6 - Consulta de Consumo</td>
-</tr>
-<tr>
-<td>Feature 7 - Simulação de Tarifa</td>
-</tr>
-<!-- epico 2 -->
-<tr>
-<td rowspan="8" style="vertical-align: middle; font-weight: bold;">Épico 2 - Interatividade e Suporte ao Cliente</td>
-<td>Feature 8 - Barra de Funções</td>
-</tr>
-<tr>
-<td>Feature 9 - Envio de Documentos</td>
-</tr>
-<tr>
-<td>Feature 10 - Suporte por Chat</td>
-</tr>
-<tr>
-<td>Feature 11 - Notificação de Vencimento</td>
-</tr>
-<tr>
-<td>Feature 12 - Barra de Busca</td>
-</tr>
-<tr>
-<td>Feature 13 - Busca de Atendimento por Protocolo</td>
-</tr>
-<tr>
-<td>Feature 14 - Correção de Dados</td>
-</tr>
-<tr>
-<td>Feature 15 - Alertas de Manutenção</td>
-</tr>
-<!-- epico 3 -->
-<tr>
-<td rowspan="4" style="vertical-align: middle; font-weight: bold;">Épico 3 - Sustentabilidade e Consumo Consciente</td>
-<td>Feature 16 - Informar Vazamentos</td>
-</tr>
-<tr>
-<td>Feature 17 - Informações de Falta de Água</td>
-</tr>
-<tr>
-<td>Feature 18 - Informar Vazamentos</td>
-</tr>
-<tr>
-<td>Feature 19 - Dicas de Consumo Consciente</td>
-</tr>
-<tr>
-<td>Feature 20 - Consideração do número de pessoas no imóvel</td>
-</tr>
-<!-- epico 4 -->
-<tr>
-<td rowspan="6" style="vertical-align: middle; font-weight: bold;">Épico 4: Serviços de Atendimento</td>
-<td>Feature 21 - Agendar Atendimento Presencial</td>
-</tr>
-<tr>
-<td>Feature 22 - Registro e Acompanhamento de Ordens de Serviço</td>
-</tr>
-<tr>
-<td>Feature 23 - Adiantamento de Processos</td>
-</tr>
-<tr>
-<td>Feature 24 - Filtros para Consultar Atendimentos</td>
-</tr>
-<tr>
-<td>Feature 25 - Bloqueio e Reativação de Conta</td>
-</tr>
-<tr>
-<td>Feature 26 - Alteração de Titularidade</td>
-</tr>
-<!-- epico 5 -->
-<td rowspan="10" style="vertical-align: middle; font-weight: bold;">Épico 5: Interface e Usabilidade</td>
-<td>Feature 27 - Exibição de Estado Atual dos Serviços</td>
-</tr>
-<tr>
-<td>Feature 28 - Escolher Imóvel Desejado</td>
-</tr>
-<tr>
-<td>Feature 29 - Reconhecimento Automático de Imóveis</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Épico</th>
+      <th>Feature</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Épico 1 -->
+    <tr>
+      <td rowspan="7" style="vertical-align: middle; font-weight: bold;">Épico 1 - Gestão de Contas e Pagamentos</td>
+      <td>Feature 1 - Segunda Via de Conta</td>
+    </tr>
+    <tr><td>Feature 2 - Formas de Pagamento</td></tr>
+    <tr><td>Feature 3 - Atualizar Dados Cadastrais</td></tr>
+    <tr><td>Feature 4 - Alteração do Vencimento da Conta</td></tr>
+    <tr><td>Feature 5 - Acesso/Pagamento de Contas Passadas</td></tr>
+    <tr><td>Feature 6 - Consulta de Consumo</td></tr>
+    <tr><td>Feature 7 - Simulação de Tarifa</td></tr>
+
+    <!-- Épico 2 -->
+    <tr>
+      <td rowspan="8" style="vertical-align: middle; font-weight: bold;">Épico 2 - Interatividade e Suporte ao Cliente</td>
+      <td>Feature 8 - Barra de Funções</td>
+    </tr>
+    <tr><td>Feature 9 - Envio de Documentos</td></tr>
+    <tr><td>Feature 10 - Suporte por Chat</td></tr>
+    <tr><td>Feature 11 - Notificação de Vencimento</td></tr>
+    <tr><td>Feature 12 - Barra de Busca</td></tr>
+    <tr><td>Feature 13 - Busca de Atendimento por Protocolo</td></tr>
+    <tr><td>Feature 14 - Correção de Dados</td></tr>
+    <tr><td>Feature 15 - Alertas de Manutenção</td></tr>
+
+    <!-- Épico 3 -->
+    <tr>
+      <td rowspan="5" style="vertical-align: middle; font-weight: bold;">Épico 3 - Sustentabilidade e Consumo Consciente</td>
+      <td>Feature 16 - Informar Vazamentos</td>
+    </tr>
+    <tr><td>Feature 17 - Informações de Falta de Água</td></tr>
+    <tr><td>Feature 18 - Informar Vazamentos</td></tr>
+    <tr><td>Feature 19 - Dicas de Consumo Consciente</td></tr>
+    <tr><td>Feature 20 - Consideração do Número de Pessoas no Imóvel</td></tr>
+
+    <!-- Épico 4 -->
+    <tr>
+      <td rowspan="6" style="vertical-align: middle; font-weight: bold;">Épico 4 - Serviços de Atendimento</td>
+      <td>Feature 21 - Agendar Atendimento Presencial</td>
+    </tr>
+    <tr><td>Feature 22 - Registro e Acompanhamento de Ordens de Serviço</td></tr>
+    <tr><td>Feature 23 - Adiantamento de Processos</td></tr>
+    <tr><td>Feature 24 - Filtros para Consultar Atendimentos</td></tr>
+    <tr><td>Feature 25 - Bloqueio e Reativação de Conta</td></tr>
+    <tr><td>Feature 26 - Alteração de Titularidade</td></tr>
+
+    <!-- Épico 5 -->
+    <tr>
+      <td rowspan="3" style="vertical-align: middle; font-weight: bold;">Épico 5 - Interface e Usabilidade</td>
+      <td>Feature 27 - Exibição de Estado Atual dos Serviços</td>
+    </tr>
+    <tr><td>Feature 28 - Escolher Imóvel Desejado</td></tr>
+    <tr><td>Feature 29 - Reconhecimento Automático de Imóveis</td></tr>
+  </tbody>
 </table>
+
 
 </center>
 

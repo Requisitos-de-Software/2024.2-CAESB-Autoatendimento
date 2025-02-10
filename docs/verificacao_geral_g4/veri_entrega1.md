@@ -25,31 +25,33 @@
 
 <center>Tabela 01: Lista de verificação do Rich Picture </center>
 
-| **ID** | **Descrição**                                                                                     | **Avaliação** | **Autor**            | **Observações** |
-|--------|-------------------------------------------------------------------------------------------------|--------------|---------------------|-----------------|
-| 01     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema?                    |              | Leandro de Almeida |                |
-| 02     | O Rich Picture conta uma história?                                                              |              | Leandro de Almeida |                 |
-| 03     | O Rich Picture contém atores?                                                                   |              | Leandro de Almeida     |                 |
-| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema?   |              | Leandro de Almeida     |                 |
-| 05     | O Rich Picture possui legenda?                                                                  |              | Leandro de Almeida         |                 |
-| 06     | O artefato possui os 5 componentes essenciais de um "Rich Picture"? |              | Leandro de Almeida |                 |
+| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
+|--------|-------------|--------------|-----------|----------------|----------------|
+| 01     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema? | | Leandro de Almeida | | <center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center> |   
+| 02     | O Rich Picture conta uma história?  | | Letícia Resende | | <center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center> |   
+| 03     | O Rich Picture contém atores? | | Matheus Barros | | <center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center> |              
+| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema? | | Natan Almeida | | <center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center> |    
+| 05     | O Rich Picture possui legenda? | | Joao Victor | | <center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center> |              
+| 06     | O artefato possui os 5 componentes essenciais de um "Rich Picture"? | | Leandro de Almeida | | <center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center> |    
 
+</center>
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
 <br>
+
 <center>Tabela 02: Verificação do Rich Picture </center>
 
-| **ID** | **Descrição**                                                                                     | **Avaliação** | **Autor**            | **Observações** |
-|--------|-------------------------------------------------------------------------------------------------|--------------|---------------------|-----------------|
-| 01     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema? | Sim | Leandro de Almeida | Vesão 1.7 30/11 |
-| 02     | O Rich Picture conta uma história? | Sim | Leandro de Almeida | Vesão 1.3 30/11 |
-| 03     | O Rich Picture contém atores? | Sim | Leandro de Almeida|     Vesão 1.3 30/11            |
-| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema? | Sim | Leandro de Almeida| Vesão 1.3 30/11 |
-| 05     | O Rich Picture possui legenda? | Sim | Leandro de Almeida |  Vesão 1.3 30/11  |
-| 06     | O artefato possui os 5 componentes essenciais de um "Rich Picture"? |  Sim  | Leandro de Almeida | Vesão 1.3 30/11 |
+| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
+|--------|-------------|--------------|-----------|----------------|----------------|
+| 01     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema? | Sim | Leandro de Almeida  | Vesão 1.3 30/11 | <center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center> |
+| 02     | O Rich Picture conta uma história? | Sim | Letícia Resende | Vesão 1.3 30/11 | <center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center> |
+| 03     | O Rich Picture contém atores? | Sim | Matheus Barros | Vesão 1.3 30/11 | <center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center> |
+| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema? | Sim | Natan Almeida | Vesão 1.3 30/11 | <center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center> |
+| 05     | O Rich Picture possui legenda? | Sim | Joao Victor | Vesão 1.3 30/11 | <center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center> |
+| 06     | O artefato possui os 5 componentes essenciais de um "Rich Picture"? | Sim | Leandro de Almeida | Vesão 1.3 30/11 | <center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center> |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -64,13 +66,12 @@
 
 <center>Tabela 03: Lista de verificação do Cronograma </center>
 
-
-| **ID** | **Descrição**                                                                                                     | **Avaliação** | **Autor**       | **Observações** |
-|--------|-----------------------------------------------------------------------------------------------------------------|--------------|---------------|-----------------|
-| 01     | O cronograma possui todas as atividades de todas as etapas para cada integrante? |              | Leandro de Almeida   |                 |
-| 02     | O cronograma possui datas de início e fim das entrega dos artefatos e com o período da revisão deles?                     |              | Leandro de Almeida   |                 |
-| 03     | Possui o cronograma executado? |              | Leandro de Almeida   |                 |
-| 04     | O cronograma apresenta um período de gravação da apresentação de cada etapa?  |              | Leandro de Almeida   |                 |
+| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
+|--------|-------------|--------------|-----------|----------------|----------------|
+| 01     | O cronograma possui todas as atividades de todas as etapas para cada integrante? |  | Letícia Resende | | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
+| 02     | O cronograma possui datas de início e fim das entregas dos artefatos e com o período da revisão deles? |  |Leandro de Almeida | | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
+| 03     | Possui o cronograma executado? |  | Matheus Barros | | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
+| 04     | O cronograma apresenta um período de gravação da apresentação de cada etapa? |  | Joao Victor | | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -79,18 +80,16 @@
 <br>
 <center>Tabela 04: Verificação do Cronograma </center>
 
-
-| **ID** | **Descrição**                                                                                                     | **Avaliação** | **Autor**       | **Observações** |
-|--------|-----------------------------------------------------------------------------------------------------------------|--------------|---------------|-----------------|
-| 01     | O cronograma possui todas as atividades de todas as etapas para cada integrante? |    Sim          | Leandro de Almeida   |    Versão 1.3	29/10            |
-| 02     | O cronograma possui datas de início e fim das entrega dos artefatos e com o período da revisão deles?                     |     Sim         | Leandro de Almeida   |            Versão 1.3	29/10    |
-| 03     | Possui o cronograma executado? |         Sim       | Leandro de Almeida   |     Versão 1.3	29/10         |
-| 04     | O cronograma apresenta um período de gravação da apresentação de cada etapa?  |       Sim       | Leandro de Almeida   |        Versão 1.3	29/10        |
+| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
+|--------|-------------|--------------|-----------|----------------|----------------|
+| 01     | O cronograma possui todas as atividades de todas as etapas para cada integrante? |  Sim  | Letícia Resende | Versão 1.3 29/10  | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
+| 02     | O cronograma possui datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | Leandro de Almeida | Versão 1.3 29/10  | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
+| 03     | Possui o cronograma executado? | Sim | Matheus Barros | Versão 1.3 29/10  | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
+| 04     | O cronograma apresenta um período de gravação da apresentação de cada etapa?  | Sim | Joao Victor | Versão 1.3 29/10  | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
-
 
 <br>
 
@@ -102,11 +101,11 @@
 
 <center>Tabela 05: Lista de verificação de Equipe </center>
 
-| **ID** | **Descrição**                                                                                   | **Avaliação** | **Autor**       | **Observações** |
-|--------|-------------------------------------------------------------------------------------------------|--------------|-----------------|-----------------|
-| 01     | O artefato apresenta todos os integrantes da equipe com base na planilha disponibilizada no aprender?         |              | Leandro de Almeida    |                 |
-| 02     | Todos os integrantes possuem foto e nome?         |              | Leandro de Almeida    |                 |
-| 03     | O artefato possui o nome e o github dos integrantes?        |              | Leandro de Almeida    |                 |
+| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
+|--------|-------------|--------------|-----------|----------------|----------------|
+| 01     | O artefato apresenta todos os integrantes da equipe com base na planilha disponibilizada no aprender? | | Leandro de Almeida |  |![alt text](../assets/equipe.png)    
+| 02     | Todos os integrantes possuem foto e nome? | | Matheus Barros |  |![alt text](../assets/equipe.png)                 
+| 03     | O artefato possui o nome e o github dos integrantes? | | Letícia Resende |  |![alt text](../assets/equipe.png)      
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -115,11 +114,11 @@
 <br>
 <center>Tabela 06: Verificação de Equipe </center>
 
-| **ID** | **Descrição**                                                                                   | **Avaliação** | **Autor**       | **Observações** |
-|--------|-------------------------------------------------------------------------------------------------|--------------|-----------------|-----------------|
-| 01     | O artefato apresenta todos os integrantes da equipe com base na planilha disponibilizada no aprender?         |    Sim         | Leandro de Almeida   |      Versão 1.2 21/11           |
-| 02     | Todos os integrantes possuem foto e nome?         |  Sim            | Leandro de Almeida   |       Versão 1.2 21/11          |
-| 03     | O artefato possui o nome e o github dos integrantes?        |       Sim       | Leandro de Almeida   |        Versão 1.2 21/11         |
+| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
+|--------|-------------|--------------|-----------|----------------|----------------|
+| 01     | O artefato apresenta todos os integrantes da equipe com base na planilha disponibilizada no aprender? | Sim | Leandro de Almeida | Versão 1.2 21/11 | ![alt text](../assets/equipe.png)    |   
+| 02     | Todos os integrantes possuem foto e nome?  | Sim | Matheus Barros | Versão 1.2 21/11 | ![alt text](../assets/equipe.png)    |  
+| 03     | O artefato possui o nome e o github dos integrantes? | Sim | Letícia Resende | Versão 1.2 21/11 | ![alt text](../assets/equipe.png) |   
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -134,13 +133,12 @@
 
 <center>Tabela 07: Lista de verificação do Aplicativo Selecionado </center>
 
-
-| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
-|--------|----------------------------------------------------------------------------------------------|--------------|---------------|-----------------|
-| 01     | O artefato possui os critérios utilizados para escolher o aplicativo?                            |              | Leandro de Almeida |                 |
-| 02     | O artefato possui uma Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? |              | Leandro de Almeida |                 |
-| 03     | O aplicativo selecionado é gratuito? |              | Leandro de Almeida |                 |
-| 04     | O aplicativo selecionado pertence a uma instituição governamental pública ou é assegurado por uma licença de software livre? |              | Leandro de Almeida |                 |
+| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
+|--------|-------------|--------------|-----------|----------------|----------------|
+| 01     | O artefato possui os critérios utilizados para escolher o aplicativo?  | | Matheus Barros | | ![alt text](../assets/aplicativosel.png) |            
+| 02     | O artefato possui uma Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? | | Letícia Resende | | ![alt text](../assets/aplicativosel.png) |     
+| 03     | O aplicativo selecionado é gratuito? | | Leandro de Almeida | | ![alt text](../assets/aplicativosel.png) |
+| 04     | O aplicativo selecionado pertence a uma instituição governamental pública ou é assegurado por uma licença de software livre? | | Natan Almeida | | ![alt text](../assets/aplicativosel.png) |  
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -149,12 +147,12 @@
 <br>
 <center>Tabela 08: Verificação do Aplicativo Selecionado</center>
 
-| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
-|--------|----------------------------------------------------------------------------------------------|--------------|---------------|-----------------|
-| 01     | O artefato possui os critérios utilizados para escolher o aplicativo?                            |    Sim          | Leandro de Almeida |      Versão 1.0 05/11            |
-| 02     | O artefato possui uma Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? |      Sim        | Leandro de Almeida |       Versão 1.0 05/11           |
-| 03     | O aplicativo selecionado é gratuito? |   Sim           | Leandro de Almeida |    Versão 1.0 05/11              |
-| 04     | O aplicativo selecionado pertence a uma instituição governamental pública ou é assegurado por uma licença de software livre? |    Sim          | Leandro de Almeida |         Versão 1.0 05/11         |
+| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
+|--------|-------------|--------------|-----------|----------------|----------------|
+| 01     | O artefato possui os critérios utilizados para escolher o aplicativo? | Sim | Matheus Barros | Versão 1.0 05/11 | ![alt text](../assets/aplicativosel.png)|
+| 02     | O artefato possui uma cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? | Sim | Letícia Resende | Versão 1.0 05/11 |  ![alt text](../assets/aplicativosel.png)|
+| 03     | O aplicativo selecionado é gratuito? | Sim | Leandro de Almeida | Versão 1.0 05/11 | ![alt text](../assets/aplicativosel.png)|
+| 04     | O aplicativo selecionado pertence a uma instituição governamental pública ou é assegurado por uma licença de software livre? | Sim | Natan Almeida | Versão 1.0 05/11 | ![alt text](../assets/aplicativosel.png)|
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -170,11 +168,11 @@
 
 <center>Tabela 09: Lista de verificação de Ferramentas </center>
 
-| **ID** | **Descrição**     | **Avaliação** | **Autor**      | **Observações** |
-|--------|-------------------|---------------|----------------|-----------------|
-| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolvimento do projeto? |  | Leandro de Almeida |  |
-| 02     | O artefato possui o nome e a logo de todas as ferramentas? |  | Leandro de Almeida |  |
-| 03     | O artefato possui a finalidade de todas as ferramentas? |  | Leandro de Almeida |  |
+| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
+|--------|-------------|--------------|-----------|----------------|----------------|
+| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolviemnto do projeto? |  | Leandro de Almeida|  |![alt text](../assets/ferramenta.png)|
+| 02     | O artefato possui o nome e a logo de todas as ferramentas? |  | Matheus Barros| |![alt text](../assets/ferramenta.png)|
+| 03     | O artefato possui a finalidade de todas as ferramentas? |  | Natan Almeida| |![alt text](../assets/ferramenta.png)|
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -183,11 +181,11 @@
 <br>
 <center>Tabela 10: Verificação de Ferramentas</center>
 
-| **ID** | **Descrição**     | **Avaliação** | **Autor**      | **Observações** |
-|--------|-------------------|---------------|----------------|-----------------|
-| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolvimento do projeto? | Sim | Leandro de Almeida | Versão 1.0 03/11 |
-| 02     | O artefato possui o nome e a logo de todas as ferramentas? |Sim  | Leandro de Almeida | Versão 1.0 03/11 |
-| 03     | O artefato possui a finalidade de todas as ferramentas? |Sim  | Leandro de Almeida | Versão 1.0 03/11 |
+| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
+|--------|-------------|--------------|-----------|----------------|----------------|
+| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolviemnto do projeto? | Sim | Leandro de Almeida | Versão 1.0 03/11 |![alt text](../assets/ferramenta.png)|
+| 02     | O artefato possui o nome e a logo de todas as ferramentas? | Sim  | Matheus Barros | Versão 1.0 03/11 |![alt text](../assets/ferramenta.png)|
+| 03     | O artefato possui a finalidade de todas as ferramentas? | Sim | Natan Almeida | Versão 1.0 03/11 |![alt text](../assets/ferramenta.png)|
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -238,12 +236,10 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 
 > <p id="1">1. BENYON, D. Interação humano-computador. 2. ed. São Paulo: Pearson Universidades, 2011. ISBN 978-85-7936-109-8. 
 > <p id="1">2. APRENDER 3. Introducing Rich Pictures – Rich Picture Drawing Guidelines. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305239. Acesso em: 3 fev. 2025.</p>
-<center><figcaption>Imagem 1: Foto da Referência 1</figcaption>
-<center><img src="https://github.com/leomitx10/leomitx10/blob/main/Captura%20de%20tela%20de%202025-02-03%2019-13-38.png?raw=true"></center>
-<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
-<center><figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
-<center><img src="https://github.com/leomitx10/leomitx10/blob/main/Captura%20de%20tela%20de%202025-02-03%2019-15-12.png?raw=true"></center>
-<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+> <p id="1">3. ESPINHA, Roberto Gil. Cronograma: O que é e tudo sobre como gerenciar tarefas e projetos. Artia, 20 dez. 2023. Disponível em: https://artia.com/blog/cronograma/#o-que-e-um-cronograma. Acesso em: 9 fev. 2025.</p>
+> <p id="1">4. FM2S. Entendendo sobre equipes: o que é uma equipe? FM2S, 10 maio 2018. Disponível em: https://www.fm2s.com.br/blog/entendendo-sobre-equipes-o-que-uma-equipe. Acesso em: 9 fev. 2025.</p>
+> <p id="1">5. DATASAFER. 7 ferramentas de Tecnologia da Informação indispensáveis! Blog Datasafer, 29 dez. 2023. Disponível em: https://blog.datasafer.com.br/7-ferramentas-de-tecnologia-da-informacao-indispensaveis/. Acesso em: 9 fev. 2025.</p>
+> <p id="1">6. UNIVERSIDADE DE BRASÍLIA. Plano de Ensino. Aprender3, 2025. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 9 fev. 2025.</p>
 
 <br>
 
@@ -253,8 +249,8 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 
 | **Versão** | **Data**   | **Descrição**                                    | **Autor**                                             | **Revisor**                                          |
 |:----------:|:----------:|:------------------------------------------------:|:-----------------------------------------------------:|:----------------------------------------------------:|
-| 1.0        | 31/01/2025 | Criação do Documento e Lista de Verificação      | [Leandro de Almeida](https://github.com/leomitx10)    | [Letícia Resende](https://github.com/leomitx10)      |
-| 1.1        | 01/02/2025 | Adicionando a verificação | [Leandro de Almeida](https://github.com/leomitx10)    | [Letícia Resende](https://github.com/leomitx10)      |
-
+| 1.0        | 31/01/2025 | Criação do Documento e Lista de Verificação      | [Leandro de Almeida](https://github.com/leomitx10)    | [Letícia Resende](https://github.com/LeticiaResende23)      |
+| 1.1        | 01/02/2025 | Adicionando a verificação | [Leandro de Almeida](https://github.com/leomitx10)    | [Letícia Resende](https://github.com/LeticiaResende23)      |
+| 1.2        | 08/02/2025 | Correção pós apresentação | [Leandro de Almeida](https://github.com/leomitx10)    | [Letícia Resende](https://github.com/LeticiaResende23)      |
 
 </center>

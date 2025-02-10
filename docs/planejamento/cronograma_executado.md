@@ -4,8 +4,6 @@
 
 <p align="justify">&emsp;&emsp;O cronograma executado mostra as atividades feitas em cada entrega, com as revisões, os responsáveis e as datas de realização. Ele ajuda a acompanhar o progresso do projeto de forma clara e organizada.</p>
 
-<br>
-
 <center>Tabela 01: Cronograma executado para todas as atividades da primeira entrega</center>
 
 <center>

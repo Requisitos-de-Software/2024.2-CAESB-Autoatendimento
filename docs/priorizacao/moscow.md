@@ -31,6 +31,8 @@ A Tabela 1 a seguir contém a priorização dos Requisitos elicitados. Nem todos
  - ADD: Requisitos da Análise de Documento
  - OBS: Requisitos da Observação
 
+<br>
+
 <center>
 <figcaption>Tabela 01 - Priorização dos requisitos utilizando método Moscow</figcaption>
 

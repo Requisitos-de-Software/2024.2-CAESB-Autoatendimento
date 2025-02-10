@@ -31,7 +31,7 @@ Os requisitos levantados durante a análise de documentos, identificados com 'B'
 
 - RNF: Requisitos Não-Funcionais - Descrevem os atributos que o software deve ter, como desempenho, segurança e usabilidade, mas não descrevem o comportamento do software em si.
 
-<br>
+
 
 <center>
 <figcaption>Tabela 02 - Requisitos </figcaption>

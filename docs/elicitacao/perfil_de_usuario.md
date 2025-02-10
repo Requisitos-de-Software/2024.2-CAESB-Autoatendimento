@@ -40,7 +40,7 @@
 
 <p>Após analisar o Brainstorm e seus resultados obtidos podemos inferir,o perfil do usuário do CAESB Auto atendimento, segue na tabela abaixo:</p>
 
-<br>
+
 
 <center>
 <figcaption>Tabela 01 - Perfil do Usuário </figcaption>

@@ -14,7 +14,7 @@
 
 <p align="justify">&emsp;&emsp; A tabela 1 mostra os requisitos utilizados para a elaboração dos protótipos. </p>
 
-<br>
+
 
 <p>Tabela 01: Requisitos utilizados</p>
 
@@ -146,7 +146,7 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 
 ### Validação 1
 
-<br>
+
 
 <center>
 
@@ -173,7 +173,7 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 
 ### Validação 2
 
-<br>
+
 
 <center>
 
@@ -201,7 +201,7 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 
 ### Validação 3
 
-<br>
+
 <center>
 
 <p>Tabela 04: Cronograma da validação 3</p>
@@ -231,12 +231,11 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 
 <br>
 
-
 ## Histórico de versão
 
 <center>
 
-| Versão | Data       | Descrição                | Autor (es)                                      | Revisor(es)                                      |
+| Versão |    Data    |           Descrição            |                     Autor(es)                      |                      Revisor(es)                       |
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 |  1.0   |26/01/2025 | Criacao do artefato |[ Natan Almeida ](https://github.com/natanalmeida03)   | [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.1  |27/01/2025 | Adição do protótipo 2 |[Letícia Resende](https://github.com/LeticiaResende23)  | [ Natan Almeida ](https://github.com/natanalmeida03)|

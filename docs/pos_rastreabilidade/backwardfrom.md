@@ -54,7 +54,7 @@ Tabela 01: Abreviações das técnicas de elicitação
 
 ## Requisitos Funcionais
 
-<br>
+
 
 <center>Tabela 02: Requisitos Funcionais</center>
 
@@ -99,7 +99,7 @@ Tabela 01: Abreviações das técnicas de elicitação
 
 ## Requisitos Não Funcionais
 
-<br>
+
 
 <center>Tabela 03: Requisitos Não Funcionais</center>
 
@@ -126,7 +126,7 @@ Tabela 01: Abreviações das técnicas de elicitação
 
 <p align="justify">&emsp;&emsp;Nessa parte iremos abordar as conexões entre os requisitos que foram mostrados anteriormente nas tabelas 1 e 2, para tal iremos utilizar a metodologia anteriormente apresentada para que possamos classificar os requisitos em qual tipo de elo eles são:</p>
 
-<br>
+
 
 <center>Tabela 04: Requisitos Não Funcionais</center>
 
