@@ -61,9 +61,9 @@ Este documento inclui as verificações utilizadas para inspecionar a entrega 4 
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |---------------|
-| 01     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | | Joao Victor Marques ||![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 02     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  | Joao Victor Marques|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 03     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |    |Joao Victor Marques|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 01     | As histórias de usuário são claras, concisas e escritas em linguagem que o usuário compreenda, facilitando a comunicação entre stakeholders e a equipe de desenvolvimento? | | Joao Victor Marques ||![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 02     | As histórias de usuário são pequenas o suficiente para serem concluídas em um único ciclo de desenvolvimento?  |  | Joao Victor Marques|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 03     | Cada história de usuário possui critérios de aceitação claramente definidos? |    |Joao Victor Marques|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 
 
 <center>
@@ -76,29 +76,28 @@ Este documento inclui as verificações utilizadas para inspecionar a entrega 4 
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |--------------|
-| 01     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | Sim | Letícia Resende |31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 02     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  Sim   | Letícia Resende | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 03     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |  Não | Letícia Resende | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 04     | Os protótipos foram validados com usuários reais por meio de entrevistas?  | Sim   | Matheus Barros |31/01 versão 1.4  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 01     | As histórias de usuário são claras, concisas e escritas em linguagem que o usuário compreenda, facilitando a comunicação entre stakeholders e a equipe de desenvolvimento? | Sim | Joao Victor Marques |31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 02     | As histórias de usuário são pequenas o suficiente para serem concluídas em um único ciclo de desenvolvimento?  |  Sim   | Joao Victor Marques | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 03     | Cada história de usuário possui critérios de aceitação claramente definidos? |  Não | Joao Victor Marques | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 
 
 <center></p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></center>
 
 <br>
 
-## Verificação das Histórias de Usuário do Grupo 04
+## Verificação do NFR Framework do Grupo 04
 
 <p align="justify">
-&emsp;&emsp;A tabela 05 apresenta a lista de Verificação das Histórias de Usuário do Grupo 04 que foram elaboradas com base nas listas de verificação entregue e 06 apresenta a verificação.
+&emsp;&emsp;A tabela 05 apresenta a lista de Verificação do NFR Framework do Grupo 04 que foram elaboradas com base nas listas de verificação entregue e 06 apresenta a verificação.
 </p>
 
 <center>Tabela 05: Lista de verificação do NFR Framework </center>
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |---------------|
-| 01     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | | Joao Victor Marques ||![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 02     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  | Joao Victor Marques|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 03     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |    |Joao Victor Marques|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? | | Joao Victor Marques ||![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 02     | Os requisitos não funcionais documentados no NFR Framework foram rastreáveis para garantir que sejam implementados e testados adequadamente?  |  | Joao Victor Marques|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 03     | Os NFR Framework foram usados para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade? |    |Joao Victor Marques|  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 
 
 <center>
@@ -111,10 +110,10 @@ Este documento inclui as verificações utilizadas para inspecionar a entrega 4 
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |--------------|
-| 01     | Os protótipos foram desenvolvidos com uma ferramenta adequada para permitir simulação de navegação e interação? | Sim | Letícia Resende |31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 02     | Os protótipos contemplam os requisitos definidos para atender às necessidades especificadas?  |  Sim   | Letícia Resende | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 03     | A recomendação de visualização em tela cheia foi seguida para garantir a melhor experiência ao usuário? |  Não | Letícia Resende | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 04     | Os protótipos foram validados com usuários reais por meio de entrevistas?  | Sim   | Matheus Barros |31/01 versão 1.4  |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? | Sim | Joao Victor Marques |31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 02     | Os requisitos não funcionais documentados no NFR Framework foram rastreáveis para garantir que sejam implementados e testados adequadamente?  |  Sim   | Joao Victor Marques | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 03     | Os NFR Framework foram usados para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade? |  Não | Joao Victor Marques | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+
 
 
 <center></p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></center>
@@ -163,4 +162,3 @@ Tabela 05: Tempo de início da verificação dos artefatos no vídeo
 | **Versão** | **Data**   | **Descrição**                                    | **Autor**                                             | **Revisor**                                          |
 |:----------:|:----------:|:------------------------------------------------:|:-----------------------------------------------------:|:----------------------------------------------------:|
 | 1.0        | 02/02/2025 | Criação do Documento e Lista de Verificação      | [Joao Victor Marques](https://github.com/jmarquees)    | [Leandro de Almeida](https://github.com/leomitx10)      |
-| 1.1        | 03/02/2025 | Adição de vídeo de verificação      | [Joao Victor Marques](https://github.com/jmarquees)    | [Leandro de Almeida](https://github.com/leomitx10)      |
