@@ -24,15 +24,15 @@
 
 | **ID** | **Descrição** | **Avaliação** | **Autor**      | **Observações** |
 |--------|---------------|---------------|----------------|-----------------|
-| 01     | O histórico de versão padronizado? |   | André Barros   |  |
-| 02     | O(s) autores e o(s) revisores para cada artefato? |  | André Barros   |  |
-| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?  |  | André Barros   |  |
-| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos? |  | André Barros   |  |
-| 05     | Um texto fazendo uma introdução dos artefatos? |  | André Barros |  
-| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |  | André Barros |  |
-| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc). |  | André Barros | |
-| 08     | A gravação da reunião do grupo. |  | André Barros |  |
-| 09     | Vídeo de apresentação na categoria "não listado" no youtube? |  | André Barros   |  |  
+| 01     | O histórico de versão padronizado? |
+| 02     | O(s) autores e o(s) revisores para cada artefato? |
+| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?  |
+| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos? |
+| 05     | Um texto fazendo uma introdução dos artefatos? |  
+| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |
+| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc). |
+| 08     | A gravação da reunião do grupo? |
+| 09     | Vídeo de apresentação na categoria "não listado" no youtube? |  
 
 <center>
  Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Leandro de Almeida</a></h6>
