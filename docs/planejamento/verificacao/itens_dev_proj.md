@@ -20,21 +20,37 @@
 &emsp;&emsp;A tabela 01 apresenta a Lista de Verificação dos Itens de desenvolvimento do projeto, que foi elaborada com base no plano de ensino da disciplina
 </p>
 
-<center>Tabela 01: Verificação dos Itens de desenvolvimento do projeto</center>
+<center>Tabela 01: Lista Verificação dos Itens de desenvolvimento do projeto</center>
 
-| **ID** | **Descrição**                                                                                       | **Avaliação** | **Autor**      | **Observações**                                |
-|--------|-----------------------------------------------------------------------------------------------------|---------------|----------------|-----------------------------------------------|
-| 01     | O histórico de versão padronizado? | Sim           | André Barros   | Versão 1.0 - 24/11.                           |
-| 02     | O(s) autores e o(s) revisores para cada artefato?                                        | Sim           | André Barros   | Versão 1.0 - 24/11.                           |
-| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?                                  | Sim           | André Barros   | Versão 1.0 - 24/11.                           |
-| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos?                           | Sim           | André Barros   | Versão 1.0 - 24/11.                           |
-| 05     | Um texto fazendo uma introdução dos artefatos?                           | Sim           | André Barros   | Versão 1.0 - 24/11. 
-| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  | Sim           | André Barros   | Versão 1.0 - 24/11.                           |
-| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).                                        | Sim           | André Barros   | Versão 1.0 - 24/11.                           |
-| 08     | A gravação da reunião do grupo.                                 | Sim           | André Barros   | Versão 1.0 - 24/11.                           |
-| 09     | Vídeo de apresentação na categoria "não listado" no youtube?                           | Sim           | André Barros   | Versão 1.0 - 24/11.  
-| 10     | Os artefatos foram revisados antes da entrega?                           | Sim           | Joao Victor Marques   | Versão 1.0 - 24/11.  
+| **ID** | **Descrição**  |
+|--------|----------------|
+| 01     | O histórico de versão padronizado? |
+| 02     | O(s) autores e o(s) revisores para cada artefato? |
+| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?  |
+| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos? |
+| 05     | Um texto fazendo uma introdução dos artefatos? |  
+| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |
+| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc). |
+| 08     | A gravação da reunião do grupo? |
+| 09     | Vídeo de apresentação na categoria "não listado" no youtube? |  
 
+<center>
+ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
+</center>
+
+<center>Tabela 02: Verificação dos Itens de desenvolvimento do projeto</center>
+
+| **ID** | **Descrição** | **Avaliação** | **Autor**      | **Observações** |
+|--------|---------------|---------------|----------------|-----------------|
+| 01     | O histórico de versão padronizado? | Sim  | André Barros   | Versão 1.2 - 24/11 |
+| 02     | O(s) autores e o(s) revisores para cada artefato? | Sim | André Barros   | Versão 1.2 - 24/11 |
+| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?  | Sim | André Barros   | Versão 1.2 - 24/11 |
+| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos? | Sim | André Barros | Versão 1.2 - 24/11 |
+| 05     | Um texto fazendo uma introdução dos artefatos? | Sim | André Barros | Versão 1.2 - 24/11 |  
+| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  | Sim | André Barros | Versão 1.2 - 24/11 |
+| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc). | Sim | André Barros | Versão 1.2 - 24/11 |
+| 08     | A gravação da reunião do grupo. | Sim | André Barros | Versão 1.2 - 24/11 |
+| 09     | Vídeo de apresentação na categoria "não listado" no youtube? | Sim | André Barros   | Versão 1.2 - 24/11 |  
 
 <center>
  Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
@@ -80,3 +96,5 @@ Pode ser vista no [YouTube](https://youtu.be/wgZ2OCly4CU?si=t85IUPGAGaajwCja).</
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 04/11/2024 | Criação do Documento e Lista de Verificação | [Joao Vicor Marques](https://github.com/jmarquees) | [Letícia Resende](https://github.com/LeticiaResende23) |
+|  1.1   | 10/02/2025 | Adição de correções | [Joao Vicor Marques](https://github.com/jmarquees) | [Letícia Resende](https://github.com/LeticiaResende23) |
+
