@@ -555,7 +555,7 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 | Cenários | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-5-consultar-historico-de-consumo"> Cenário 5 -  Consultar histórico de consumo |
  Critérios de aceitação | O sistema deve deixar os usuários consultarem suas contas anteriores |
 | Elo | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1"> ELO2 |
-| Implementado| Sim <br> <img src="../assets/consumo.png" style="height:200px;">|
+| Implementado| Sim <br> ![cancelamento](../assets/consumo.png)|
 | Versionamento | Requisito não modificado |
 
 
@@ -578,7 +578,7 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 | Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-18-bloqueio-reativacao-solicitacao-de-reparo">Cenário 18: Bloqueio/Reativação/Solicitação de Reparo</a> |
 | Critérios de aceitação | O sistema deve deixar o usuário bloquear/reativar/solicitar reparo |
 | Elo | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1"> ELO3 |
-| Implementado| Sim <br> <img src="../assets/cancelamento.jpg" style="height:200px;">|
+| Implementado| Sim <br> ![cancelamento](../assets/cancelamento.jpg)|
 | Versionamento | Requisito não modificado |
 
 
@@ -682,7 +682,7 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 | Especificação Suplementar | -- |
 | Critérios de aceitação | O sistema deverá permitir a alteração de titularidade |
 | Elo | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1"> ELO8 |
-| Implementado| Sim|
+| Implementado| Sim <br> ![cancelamento](../assets/titularidade.jpg)|
 | Versionamento | Requisito não modificado |
 
 Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
