@@ -23,7 +23,14 @@
 ### Letícia Resende
 
 <p align="justify">
-&emsp;&emsp; Ao longo do projeto, a única dificuldade enfrentada foi a conciliação de prazos, já que provas e trabalhos de outras disciplinas acabaram se sobrepondo, tornando o cronograma um pouco corrido. No entanto, com organização, conseguir equilibrar as demandas e concluir as atividades propostas com qualidade.
+&emsp;&emsp; Ao longo do projeto, a única dificuldade enfrentada foi a conciliação de prazos, já que provas e trabalhos de outras disciplinas acabaram se sobrepondo, tornando o cronograma um pouco corrido. No entanto, com organização, consegui equilibrar as demandas e concluir as atividades propostas com qualidade.
+</p>
+
+### Joao Victor Marques
+
+<p align="justify">
+&emsp;&emsp; A maior dificuldade que tive foram com os prazos e a quantidade de detalhes que temos que nos atentar no projeto, isso alinhado com trabalho e outras matérias dificultaram bastante o meu desempenho, fazendo com que eu me ausentasse em reuniões do grupo e até apresentação em sala, tive alguns atritos com alguns colegas com relação à isso, deixei a desejar em alguns momentos, porém eu dei o meu máximo nas condições que eu tive. No mais, tive muita facilidade para aprender a matéria em si, tanto o conteúdo, quanto habilidades de documentação, tenho certeza que essa matéria vai agregar muito na minha formação como profissional.
+
 </p>
 
 <br>
@@ -34,3 +41,4 @@
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 09/02/2025 | Criação do documento | [Matheus Barros](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)  |
 |  1.1   | 09/02/2025 | Adicionando considerações individual | [Letícia Resende](https://github.com/LeticiaResende23) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.2   | 10/02/2025 | Adicionando considerações individual | [Joao Victor Marques](https://github.com/jmarquees) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
