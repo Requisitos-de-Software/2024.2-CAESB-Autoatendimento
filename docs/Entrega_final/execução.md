@@ -6,6 +6,9 @@
 &emsp;&emsp; Esse artefato tem o objetivo de mostrar as etapas do projeto e como elas foram divididas durante o andamento da disciplina.
 </p>
 
+<center>
+<figcaption>Tabela 1 - Etapas do projeto </figcaption>
+
 | Etapas do Projeto      | Definição | Artefato(s) Produzido(s) |
 |------------------------|-----------|---------------------------|
 | **Planejamento**       | Trata-se do processo no qual a equipe analisou os possíveis aplicativos para a disciplina e escolheu um desses, além de planejar o cronograma, as ferramentas que seriam utilizadas e as reuniões semanais. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/cronograma/">Cronograma</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/metodologia/">Metodologia</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/aplicativo_escolhido/">Aplicativo Escolhido</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/ferramentas/">Ferramentas</a> |
@@ -23,6 +26,8 @@
 |                        | **Grupo +1** | <a href="#">Entrega 1</a>, <a href="#">Entrega 2</a>, <a href="#">Entrega 3</a>, <a href="#">Entrega 4</a>, <a href="#">Entrega 5</a>, <a href="#">Entrega 6</a> |
 | **Validação**          | Processo de análise dos requisitos pela comprovação de se eles estão de acordo com o que os stakeholders requisitaram em um ambiente real de uso. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/validacao/compro_informal/">Comprovação Informal</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/validacao/prototipacao/">Prototipação</a> |
 | **Pós-rastreabilidade** | Ligação dos requisitos aos artefatos criados ao longo da execução do projeto. | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/matriz/">Matriz Geral</a>, <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/">Backward-from</a>,<a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/forwardfrom/"> Forward-from</a> |
+
+</center>
 
 <center>
 Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
