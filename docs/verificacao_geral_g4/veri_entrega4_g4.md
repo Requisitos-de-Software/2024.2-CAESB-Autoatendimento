@@ -137,9 +137,9 @@ Tabela 05: Tempo de início da verificação dos artefatos no vídeo
 
 | **Artefato** | **Inicio**   | 
 |:----------:|:----------:|
-| Backlog| <a href="https://youtube.com/clip/UgkxDSTaSNEI6h0VkpO_SovPADHI1wghXyUO?si=AhEng2fj1nXv3oIM" target="_blank">00:56</a>  | 
-| Histórias de Usuário | <a href="https://youtube.com/clip/UgkxTmpXneCNO_LcG8wH8ktvGYPF85n2VwSP?si=uLd6PD3MPmBKHuv5" target="_blank">02:28</a> |
-| NFR Framework | <a href="https://youtube.com/clip/UgkxLPEcv0oDFQwmKVF9MQf5AHp_gjc9XFYw?si=rRtIRd17FPaAkKnm" target="_blank">03:32</a> |
+| Backlog| <a href="https://www.youtube.com/watch?v=jGOQY3Gf5aU#t=0m56s" target="_blank">00:56</a>  | 
+| Histórias de Usuário | <a href="https://www.youtube.com/watch?v=jGOQY3Gf5aU#t=2m20s" target="_blank">02:28</a> |
+| NFR Framework | <a href="https://www.youtube.com/watch?v=jGOQY3Gf5aU#t=3m32s" target="_blank">03:32</a> |
 
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 
@@ -164,3 +164,4 @@ Tabela 05: Tempo de início da verificação dos artefatos no vídeo
 |:----------:|:----------:|:------------------------------------------------:|:-----------------------------------------------------:|:----------------------------------------------------:|
 | 1.0        | 02/02/2025 | Criação do Documento e Lista de Verificação      | [Joao Victor Marques](https://github.com/jmarquees)    | [Leandro de Almeida](https://github.com/leomitx10)      |
 | 1.1        | 10/02/2025 | Adição de correções      | [Joao Victor Marques](https://github.com/jmarquees)    | [Leandro de Almeida](https://github.com/leomitx10)      |
+| 1.2        | 10/02/2025 | Adição de Vídeo      | [Joao Victor Marques](https://github.com/jmarquees)    | [Leandro de Almeida](https://github.com/leomitx10)      |
