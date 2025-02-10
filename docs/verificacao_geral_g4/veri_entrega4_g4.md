@@ -40,9 +40,9 @@ Este documento inclui as verificações utilizadas para inspecionar a entrega 4 
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |---------------|
-| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |   Não verificável      | Joao Victor Marques | 08/02 versão 1.2  |![ref1](../../assets/nfrvvee.png) |
-| 02     | O backlog do produto foi constantemente revisado e atualizado para refletir mudanças nas necessidades do cliente ou no escopo do projeto? | Não verificável  | Joao Victor Marques |08/02 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
-| 03     | Todos os itens do backlog têm uma descrição clara e compreensível?  |  Não verificável   | Joao Victor Marques | 08/02 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
+| 01     | As histórias de usuário no backlog foram estimadas em termos de esforço ou complexidade para ajudar na priorização e planejamento das iterações? |   Sim      | Joao Victor Marques | 08/02 versão 1.2  |![ref1](../../assets/nfrvvee.png) |
+| 02     | O backlog do produto foi constantemente revisado e atualizado para refletir mudanças nas necessidades do cliente ou no escopo do projeto? | Não  | Joao Victor Marques |08/02 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
+| 03     | Todos os itens do backlog têm uma descrição clara e compreensível?  |  Sim   | Joao Victor Marques | 08/02 versão 1.2 |![ref1](../../assets/nfrvvee.png) |
 
 
 <center>
@@ -78,7 +78,7 @@ Este documento inclui as verificações utilizadas para inspecionar a entrega 4 
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |--------------|
 | 01     | As histórias de usuário são claras, concisas e escritas em linguagem que o usuário compreenda, facilitando a comunicação entre stakeholders e a equipe de desenvolvimento? | Sim | Joao Victor Marques |31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 | 02     | As histórias de usuário são pequenas o suficiente para serem concluídas em um único ciclo de desenvolvimento?  |  Sim   | Joao Victor Marques | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 03     | Cada história de usuário possui critérios de aceitação claramente definidos? |  Não | Joao Victor Marques | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 03     | Cada história de usuário possui critérios de aceitação claramente definidos? |  Sim | Joao Victor Marques | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 
 
 <center></p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></center>
@@ -110,8 +110,8 @@ Este documento inclui as verificações utilizadas para inspecionar a entrega 4 
 
 | **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |**Referências**|
 | ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |--------------|
-| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? | Sim | Joao Victor Marques |31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
-| 02     | Os requisitos não funcionais documentados no NFR Framework foram rastreáveis para garantir que sejam implementados e testados adequadamente?  |  Sim   | Joao Victor Marques | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 01     | O NFR Framework auxilia na identificação de conflitos entre requisitos não funcionais, permitindo que sejam resolvidos antes da implementação do sistema? | Não | Joao Victor Marques |31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
+| 02     | Os requisitos não funcionais documentados no NFR Framework foram rastreáveis para garantir que sejam implementados e testados adequadamente?  |  Não   | Joao Victor Marques | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 | 03     | Os NFR Framework foram usados para relacionar requisitos não funcionais a métricas específicas, como tempo de resposta ou taxa de disponibilidade? |  Não | Joao Victor Marques | 31/01 versão 1.4 |![ref1](../../assets/nfrvvee.png) ![ref2](https://github.com/user-attachments/assets/bfa0ae99-ae83-4093-9182-46edbbaf6640) ![ref3](https://github.com/user-attachments/assets/b1f8393e-88d4-4e44-9807-d78f82f86aa8) |
 
 
@@ -120,11 +120,11 @@ Este documento inclui as verificações utilizadas para inspecionar a entrega 4 
 
 ## Link da gravação
 
-Pode ser vista no [YouTube](https://www.youtube.com/embed/NsuIvPxNtl0?si=hbKehkJg6s7WeATf).</p>
+Pode ser vista no [YouTube](https://youtu.be/jGOQY3Gf5aU?si=PrT0p-LtQw0kBvmh).</p>
 
 <center>
     <p>Vídeo 01: Verificação dos artefatos</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/n3-hgT21gCc?si=0xpJlIsI-QDnBEX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/jGOQY3Gf5aU?si=WeABMQDng2k3_TtN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
@@ -137,8 +137,9 @@ Tabela 05: Tempo de início da verificação dos artefatos no vídeo
 
 | **Artefato** | **Inicio**   | 
 |:----------:|:----------:|
-| Comprovação Informal| <a href="https://www.youtube.com/watch?v=n3-hgT21gCc&t=18s" target="_blank">00:18</a>  | 
-| Protótipos | <a href="https://www.youtube.com/watch?v=n3-hgT21gCc&t=83s" target="_blank">01:23</a> |
+| Backlog| <a href="https://youtube.com/clip/UgkxDSTaSNEI6h0VkpO_SovPADHI1wghXyUO?si=AhEng2fj1nXv3oIM" target="_blank">00:56</a>  | 
+| Histórias de Usuário | <a href="https://youtube.com/clip/UgkxTmpXneCNO_LcG8wH8ktvGYPF85n2VwSP?si=uLd6PD3MPmBKHuv5" target="_blank">02:28</a> |
+| NFR Framework | <a href="https://youtube.com/clip/UgkxLPEcv0oDFQwmKVF9MQf5AHp_gjc9XFYw?si=rRtIRd17FPaAkKnm" target="_blank">03:32</a> |
 
 </p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 

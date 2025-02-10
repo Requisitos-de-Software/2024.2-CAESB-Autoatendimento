@@ -246,6 +246,32 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 </center>
 <br>
 
+### Validação 4
+
+
+<center>
+
+<p>Tabela 05: Cronograma da validação 4</p>
+
+| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |**Horário**| **Data** |
+|-------------------|------------------|-------------|-----------------------------|---|-----------|
+| Joao Victor Marques | Leticia Gabriela    |   2 min     |    Cidade Ocidental - GO     | 19:30 | 10/02/2025|
+
+<center>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6></center>
+
+</center>
+
+<br>
+
+<center>
+    <p>Vídeo 04: Validação protótipo 5 </p>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/zV1Sqs-zBSg?si=tlfMh9HzYs3xmQJt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<center>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
+</center>
+<br>
+
 ## Referências Bibliográficas
 
 ><p >Guide to prototyping in Figma. Disponível em: <a href="https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma">https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma</a>. Acesso em: 26 de Janeiro de 2025.</p>
@@ -268,5 +294,6 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 |  1.7  |08/02/2025 | Adição de título e autor nas tabelas  | [Leandro de Almeida](https://github.com/leomitx10)|  [Letícia Resende](https://github.com/LeticiaResende23) |
 |  1.8  |08/02/2025 | Adição de correções  | [Joao Victor Marques](https://github.com/jmarquees)|  [Letícia Resende](https://github.com/LeticiaResende23) |
 |  1.9  |09/02/2025 | Adição das imagens do protótipo 3 | [Leandro de Almeida](https://github.com/leomitx10) |  [Letícia Resende](https://github.com/LeticiaResende23) |
+|  2.0  |10/02/2025 | Adição da Validação do protótipo 5 | [Joao Victor Marques](https://github.com/jmarquees) |  [Letícia Resende](https://github.com/LeticiaResende23) |
 
 <center>

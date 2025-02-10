@@ -53,11 +53,11 @@ Neste documento, realizou-se a avaliação do artefato dos <a href="https://requ
 </center>
 
 ## Link da gravação
-Pode ser vista no [YouTube](https://youtu.be/UuDfx-dTYNE).</p>
+Pode ser vista no [YouTube](https://youtu.be/UHG_xyGDKsA?si=VE2xdDs0DrbR3Uvu).</p>
 
 <center>
     <p>Vídeo 01: Verificação dos Léxicos</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/UuDfx-dTYNE?si=zIt8NwQ4mTTLGUbn"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/UHG_xyGDKsA?si=VE2xdDs0DrbR3Uvu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
 </center>
 
@@ -114,3 +114,4 @@ Pode ser vista no [YouTube](https://youtu.be/UuDfx-dTYNE).</p>
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 09/12/2024 | Criação do Documento e Lista de Verificação | [Joao Victor Marques](https://github.com/jmarquees ) | [Leandro de Almeida](https://github.com/leomitx10) |
 |  1.1   | 10/02/2025 | Adiçaõ de correções | [Joao Victor Marques](https://github.com/jmarquees ) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.2   | 10/02/2025 | Adiçaõ do vídeo | [Joao Victor Marques](https://github.com/jmarquees ) | [Leandro de Almeida](https://github.com/leomitx10) |
