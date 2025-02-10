@@ -65,7 +65,9 @@
 | 02     | Os casos de uso estão bem descritos, incluindo seus fluxos principais e alternativos? | 
 | 03     | Os diagramas de caso de uso representam corretamente as interações entre os atores e o sistema? | 
 
-<center> **Autor:** [Matheus Barros](https://github.com/Ninja-Haiyai) </center>
+<center>
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
+</center>
 
 <br>
 
@@ -77,7 +79,10 @@
 | 02     | Os casos de uso estão bem descritos, incluindo seus fluxos principais e alternativos? | Sim | Versão 1.5  01/02/2025 |
 | 03     | Os diagramas de caso de uso representam corretamente as interações entre os atores e o sistema? | Sim | Versão 1.5  01/02/2025 |
 
-<center> **Autor:** [Matheus Barros](https://github.com/Ninja-Haiyai) </center>
+<center>
+</p>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a>
+</center>
+
 <br>
 
 ## Verificação dos Léxicos

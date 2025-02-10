@@ -69,12 +69,12 @@ Pode ser vista no <a href="https://www.youtube.com/watch?v=9oeguWDZlk4" target="
 
 <iframe width="560" height="415" src="https://www.youtube.com/embed/9oeguWDZlk4?si=UoPFkDoecFJyqKbj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h6>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
+Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></h6>
 </center>
 
 
 
-## Referência
+## Referências Bibliográficas 
 
 > <p>1. VASQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. São Paulo: Pearson, 2016. 328 p. ISBN 9788574527901. Disponível em: https://aprender3.unb.br/pluginfile.php/2972448/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf. Acesso em: 22 de Nov. 2024</p>
 
