@@ -177,8 +177,9 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 33 - Escolher imóvel desejado </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us33-permitir-pagamento-mensal-recorrente">US33 - Escolher imóvel desejado </a> |
 | Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#lexico-l10-imovel-selecionado"> L10 - Imóvel Selecionado </a>|
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
+| Casos de uso | -- |
+| Cenários | -- |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO33</a> |
 | Implementado | Sim <br> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/refs/heads/main/docs/assets/forwardprint.jpeg" style="height:200px;">|
 | Versionamento | Requisito não foi modificado |
 
@@ -195,9 +196,10 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5 - Interface e Usabilidade</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 34 - Reconhecimento Automático de Imóveis </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us34-reconhecimento-automatico-de-imoveis">US34 - Reconhecimento automático de imóveis </a> |
-| Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
+| Léxico  | -- |
+| Casos de uso | -- |
+| Cenários | -- |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO34</a> |
 | Implementado | Sim <br> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/refs/heads/main/docs/assets/forwardprint.jpeg" style="height:200px;"> |
 | Versionamento | Requisito não foi modificado |
 
@@ -214,11 +216,12 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-3-sustentabilidade-e-consumo-consciente">Épico 3 - Sustentabilidade e Consumo Consciente</a> |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 35 - Consideração do número de pessoas no imóvel </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us35-consideracao-do-numero-de-pessoas-no-imovel">US35 - Consideração do número de pessoas no imóvel </a> |
-| Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
-| Implementado | -- |
-| Versionamento | Requisito não foi modificado |
+| Léxico  | -- |
+| Casos de uso | -- |
+| Cenários | -- |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO35</a> |
+| Implementado | Não |
+| Versionamento| Requisito não foi modificado|
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
@@ -723,11 +726,14 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5 - Interface e Usabilidade</a>  |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 36 - Compatibilidade com Android e iOS </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us36-compatibilidade-com-android-e-ios">US36 - Compatibilidade com Android e iOS </a> |
-| Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
+| Léxico  | -- |
+| Casos de uso | -- |
+| Cenários | --|
 | NFR | -- |
 | Especificação Suplementar | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#suportabilidade">Especificação Suplementar - Suportabilidade</a> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO36</a> |
+| Implementado | Sim <br> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/refs/heads/main/docs/assets/forwardprint.jpeg" style="height:200px;"> |
+| Versionamento| Requisito não foi modificado|
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
@@ -740,11 +746,14 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-5-interface-e-usabilidade">Épico 5 - Interface e Usabilidade</a>  |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 37 - Interface Intuitiva e Organizada </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us37-interface-intuitiva-e-organizada">US37 - Interface intuitiva e organizada </a> |
-| Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
+| Léxico  | -- |
+| Casos de uso | -- |
+| Cenários | -- |
 | NFR | -- |
 | Especificação Suplementar | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#usabilidade">Especificação Suplementar - Usabilidade</a> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO37</a> |
+| Implementado | Sim <br> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.2-CAESB-Autoatendimento/refs/heads/main/docs/assets/forwardprint.jpeg" style="height:200px;"> |
+| Versionamento| Requisito não foi modificado|
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
@@ -758,10 +767,13 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 38 - Minimizar Número de Cliques </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us38-minimizacao-do-numero-de-cliques-necessarios-para-interacoes">US38 - Minimização do número de cliques necessários para interações </a> |
 | Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
+| Casos de uso | -- |
+| Cenários | -- |
 | NFR | -- |
 | Especificação Suplementar | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#usabilidade">Especificação Suplementar - Usabilidade</a> |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO38</a> |
+| Implementado | Sim |
+| Versionamento| Requisito não foi modificado|
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
@@ -774,11 +786,14 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-6-desempenho-e-funcionalidades-offline">Épico 6 - Desempenho e Funcionalidades Offline</a>  |
 | Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 39 - Suporte Offline </a> |
 | História de Usuário | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us39-suporte-offline">US39 - Suporte Offline </a> |
-| Léxico  | Léxico relacionado |
-| Casos de uso | Caso de uso relacionado |
-| Cenários | Cenário relacionado |
+| Léxico  | -- |
+| Casos de uso | -- |
+| Cenários | -- |
 | NFR | -- |
 | Especificação Suplementar | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#disponibilidade">Especificação Suplementar - Disponibilidade</a>  |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO39</a> |
+| Implementado | Não |
+| Versionamento| Requisito não foi modificado|
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
@@ -796,6 +811,9 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Cenários | Cenário relacionado |
 | NFR | -- |
 | Especificação Suplementar | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#desempenho">Especificação Suplementar - Desempenho</a>  |
+| Elo | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1">ELO40</a> |
+| Implementado | Não |
+| Versionamento| Requisito não foi modificado|
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
