@@ -21,6 +21,8 @@
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/tecnicas/introspeccao/">Introspecção</a>|[Natan Almeida](https://github.com/natanalmeida03) |
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
+
 
 ### Priorização
 
@@ -35,6 +37,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/priorizacao/tec_First/">First Thing First</a>|[Letícia Resende ](https://github.com/LeticiaResende23)|
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
 
 ### Modelagem
 
@@ -50,6 +53,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/">Léxicos</a>|[Matheus Barros](https://github.com/Ninja-Haiyai) <br> [Natan Almeida](https://github.com/natanalmeida03) <br> [Leandro de Almeida](https://github.com/leomitx10) <br> [Letícia Resende ](https://github.com/LeticiaResende23) <br> [Joao Victor Marques](https://github.com/jmarquees)  |
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
+</center>
 
 ### Modelagem Ágil
 
@@ -64,7 +68,6 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/">NFR Framework</a>|[Matheus Barros](https://github.com/Ninja-Haiyai) <br> [Natan Almeida](https://github.com/natanalmeida03) <br> [Leandro de Almeida](https://github.com/leomitx10) <br> [Letícia Resende ](https://github.com/LeticiaResende23) <br> [Joao Victor Marques](https://github.com/jmarquees)|
 
 Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a>
-
 
 </center>
 
@@ -84,13 +87,12 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 
 </center>
 
-## Histórico de Versão
+<br>
 
-<center>
+## Histórico de Versão
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 08/02/2024 | Criação do artefato |  [Natan Almeida](https://github.com/natanalmeida03) |[Leandro de Almeida](https://github.com/leomitx10)  | 
 
 
-</center>
