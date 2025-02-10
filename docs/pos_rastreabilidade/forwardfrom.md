@@ -179,7 +179,7 @@ Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Al
 | Léxico  | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#lexico-l10-imovel-selecionado"> L10 - Imóvel Selecionado </a>|
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
-| NFR | -- |
+| Implementado | Sim <br> <img src="../assets/forwardprint.jpeg" style="height:200px;">|
 | Versionamento | Requisito não foi modificado |
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
@@ -198,7 +198,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Léxico  | Léxico relacionado |
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
-| NFR | -- |
+| Implementado | Sim <br> <img src="../assets/forwardprint.jpeg" style="height:200px;"> |
 | Versionamento | Requisito não foi modificado |
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
@@ -217,7 +217,7 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Léxico  | Léxico relacionado |
 | Casos de uso | Caso de uso relacionado |
 | Cenários | Cenário relacionado |
-| NFR | -- |
+| Implementado | -- |
 | Versionamento | Requisito não foi modificado |
 
 Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
@@ -529,13 +529,8 @@ Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor M
 | Léxico  |  <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l01-emitir-a-segunda-via-de-conta"> L01: Emitir segunda via de conta|
 | Casos de uso | -- |
 | Cenários | -- |
-| Crietério de aceitação | O sistema deve permitir ver e pagar contas anteriores |
-| Elo | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1"> ELO1 |
-| Implementado| Não |
-| Versionamento | Requisito não modificado |
-
-
-
+| NFR | -- |
+| Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 </center>
@@ -553,12 +548,8 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 | Léxico  |  <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l05-consultar-historico-de-consumo"> L05: Consultar Histórico de Consumo |
 | Casos de uso | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso"> UC05 -  Consultar histórico de consumo|
 | Cenários | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-5-consultar-historico-de-consumo"> Cenário 5 -  Consultar histórico de consumo |
- Critérios de aceitação | O sistema deve deixar os usuários consultarem suas contas anteriores |
-| Elo | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1"> ELO2 |
-| Implementado| Sim <br> ![cancelamento](../assets/consumo.png)|
-| Versionamento | Requisito não modificado |
-
-
+| NFR | -- |
+| Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 </center>
@@ -576,11 +567,8 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 | Léxico  |  -- |
 | Casos de uso | --|
 | Cenários | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-18-bloqueio-reativacao-solicitacao-de-reparo">Cenário 18: Bloqueio/Reativação/Solicitação de Reparo</a> |
-| Critérios de aceitação | O sistema deve deixar o usuário bloquear/reativar/solicitar reparo |
-| Elo | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1"> ELO3 |
-| Implementado| Sim <br> ![cancelamento](../assets/cancelamento.jpg)|
-| Versionamento | Requisito não modificado |
-
+| NFR | -- |
+| Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 </center>
@@ -598,10 +586,8 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 | Léxico  |  <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#lexico-l16-simulacao-de-tarifas"> L16 - Simulação de Tarifas  |
 | Casos de uso | --|
 | Cenários |-- |
-| Critérios de aceitação | O sistema deve deixar o usuário bloquear/reativar/solicitar reparo |
-| Elo | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1"> ELO4 |
-| Implementado| Sim |
-| Versionamento | Requisito não modificado |
+| NFR | -- |
+| Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 </center>
@@ -619,10 +605,8 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 | Léxico  |  -- |
 | Casos de uso | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso"> US11 - Simulação de Tarifa|
 | Cenários |<a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-16-simulacao-de-tarifa"> Cenário 16: Simulação de Tarifa|
-| Critérios de aceitação | O sistema deve deixar o usuário simular sua tarifa como função nativa do aplicativo|
-| Elo | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1"> ELO5 |
-| Implementado| Não|
-| Versionamento | Requisito não modificado |
+| NFR | -- |
+| Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 </center>
@@ -640,10 +624,8 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 | Léxico  |  -- |
 | Casos de uso | -- |
 | Cenários |-- |
-| Critérios de aceitação | O sistema deverá exibir dicas de consumo consciente e economia de água |
-| Elo | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1"> ELO6 |
-| Implementado| Não|
-| Versionamento | Requisito não modificado |
+| NFR | -- |
+| Especificação Suplementar | -- |
 
 Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 </center>
@@ -661,10 +643,8 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 | Léxico  |  -- |
 | Casos de uso | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC12 - Alertas sobre Manutenção Programada|
 | Cenários |-- |
-| Critérios de aceitação | O sistema deverá exibir alertas de manutenção programada |
-| Elo | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1"> ELO7 |
-| Implementado| Não|
-| Versionamento | Requisito não modificado |
+| NFR | -- |
+| Especificação Suplementar | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/especSup/#suportabilidade"> Suportabilidade |
 
 Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 </center>
@@ -677,13 +657,13 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/requisitos_elicitados/#metodologia">RQ25</a> |O usuário pode solicitar alteração na titularidade da conta.|
 | :-: | :-: |
 | Épico | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#epico-4-servicos-de-atendimento">Épico 4: Serviços de Atendimento </a> |
-| Feature | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us32-alteracao-na-titularidade-da-conta">Feature 26: Alteração de titularidade|
+| Feature | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/backlog/#features">Feature 32 - Permitir ao usuário solicitar alteração na titularidade da conta </a> |
+| História de Usuário | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/historia_usuario/#us32-alteracao-na-titularidade-da-conta">US32 - Alteração na titularidade da Conta.|
+| Léxico  | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/lexicos/#l06-alterar-titularidade-e-vencimento">L06: Alterar Titularidade e Vencimento   |
+| Casos de uso | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/caso_uso/#especializacao-dos-casos-de-uso">UC06 - Alterar titularidade e vencimento|
+| Cenários |<a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem/cenarios/#cenario-6-alterar-titularidade-e-vencimento"> Cenário 6: Alterar Titularidade e Vencimento |
 | NFR | -- |
 | Especificação Suplementar | -- |
-| Critérios de aceitação | O sistema deverá permitir a alteração de titularidade |
-| Elo | <a href= "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/pos_rastreabilidade/backwardfrom/#elos_1"> ELO8 |
-| Implementado| Sim <br> ![cancelamento](../assets/titularidade.jpg)|
-| Versionamento | Requisito não modificado |
 
 Autor(a): <a href="https://github.com/Ninja-Haiyai">Matheus Barros</a>
 </center>

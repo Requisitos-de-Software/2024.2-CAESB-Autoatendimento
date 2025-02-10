@@ -126,7 +126,7 @@ Pode ser vista no [YouTube](https://www.youtube.com/embed/NsuIvPxNtl0?si=hbKehkJ
     <p>Vídeo 01: Verificação dos artefatos</p>
     <iframe width="760" height="515" src="https://www.youtube.com/embed/n3-hgT21gCc?si=0xpJlIsI-QDnBEX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 </center>
 
 <br>
@@ -140,7 +140,7 @@ Tabela 05: Tempo de início da verificação dos artefatos no vídeo
 | Comprovação Informal| <a href="https://www.youtube.com/watch?v=n3-hgT21gCc&t=18s" target="_blank">00:18</a>  | 
 | Protótipos | <a href="https://www.youtube.com/watch?v=n3-hgT21gCc&t=83s" target="_blank">01:23</a> |
 
-</p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>
+</p>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a>
 
 </center>
 
@@ -162,3 +162,4 @@ Tabela 05: Tempo de início da verificação dos artefatos no vídeo
 | **Versão** | **Data**   | **Descrição**                                    | **Autor**                                             | **Revisor**                                          |
 |:----------:|:----------:|:------------------------------------------------:|:-----------------------------------------------------:|:----------------------------------------------------:|
 | 1.0        | 02/02/2025 | Criação do Documento e Lista de Verificação      | [Joao Victor Marques](https://github.com/jmarquees)    | [Leandro de Almeida](https://github.com/leomitx10)      |
+| 1.1        | 10/02/2025 | Adição de correções      | [Joao Victor Marques](https://github.com/jmarquees)    | [Leandro de Almeida](https://github.com/leomitx10)      |
