@@ -25,12 +25,12 @@
 
 <center>Tabela 01: Lista de verificação das Técnicas de Elicitação</center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|---------------|---------------|-----------|-----------------|-----------------|
-| 01     | A análise de documentos foi realizada de forma detalhada para identificar requisitos implícitos e complementá-los com outras técnicas de elicitação? | | Leandro de Almeida | | ![alt text](../assets/analise de documentos.png)|
-| 02     | Na técnica de Observação, os desenvolvedores observam diretamente os usuários para identificar de maneira eficiente os requisitos funcionais e não funcionais do sistema? | | Letícia Resende| | ![alt text](../assets/observacao.png)|
-| 03     | O roteiro da entrevista incluiu perguntas abertas e fechadas para obter informações detalhadas e relevantes sobre a experiência do usuário? | | Matheus Barros| | ![alt text](../assets/entrevista.png)|
-| 04     | Todos os requisitos levantados foram devidamente documentados, categorizados (RF/RNF) e implementados conforme necessário? | | Natan Almeida| | ![alt text](../assets/Requisitos.png)|
+| **ID** | **Descrição** | 
+|--------|---------------|
+| 01     | A análise de documentos foi realizada de forma detalhada para identificar requisitos implícitos e complementá-los com outras técnicas de elicitação? |
+| 02     | Na técnica de Observação, os desenvolvedores observam diretamente os usuários para identificar de maneira eficiente os requisitos funcionais e não funcionais do sistema? | 
+| 03     | O roteiro da entrevista incluiu perguntas abertas e fechadas para obter informações detalhadas e relevantes sobre a experiência do usuário? | 
+| 04     | Todos os requisitos levantados foram devidamente documentados, categorizados (RF/RNF) e implementados conforme necessário? | 
 
 
 <center>
@@ -40,12 +40,12 @@
 
 <center>Tabela 02: Verificação das Técnicas de Elicitação</center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|---------------|---------------|-----------|-----------------|-----------------|
-| 01     | 	A análise de documentos foi realizada de forma detalhada para identificar requisitos implícitos e complementá-los com outras técnicas de elicitação? | Sim  | Leandro de Almeida  | Versão 1.1 16/11|  ![alt text](../assets/analise de documentos.png)|
-| 02     | Na técnica de Observação, os desenvolvedores observam diretamente os usuários para identificar de maneira eficiente os requisitos funcionais e não funcionais do sistema?  |   Sim    | Letícia Resende  | Versão 1.1 22/11 | ![alt text](../assets/observacao.png)
-| 03     | O roteiro da entrevista incluiu perguntas abertas e fechadas para obter informações detalhadas e relevantes sobre a experiência do usuário? | Sim  | Matheus Barros | Versão 1.0 22/11| ![alt text](../assets/entrevista.png)
-| 04     | Todos os requisitos levantados foram devidamente documentados, categorizados (RF/RNF) e implementados conforme necessário? | Sim | Natan Almeida | Versão 1.1 14/12 | ![alt text](../assets/Requisitos.png)|
+| **ID** | **Descrição** | **Avaliação** | **Observações** |
+|--------|---------------|---------------|----------------|
+| 01     | A análise de documentos foi realizada de forma detalhada para identificar requisitos implícitos e complementá-los com outras técnicas de elicitação? | Sim | Versão 1.1 16/11 |
+| 02     | Na técnica de Observação, os desenvolvedores observam diretamente os usuários para identificar de maneira eficiente os requisitos funcionais e não funcionais do sistema? | Sim | Versão 1.1 22/11 |
+| 03     | O roteiro da entrevista incluiu perguntas abertas e fechadas para obter informações detalhadas e relevantes sobre a experiência do usuário? | Sim | Versão 1.0 22/11 |
+| 04     | Todos os requisitos levantados foram devidamente documentados, categorizados (RF/RNF) e implementados conforme necessário? | Sim | Versão 1.1 14/12 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -60,14 +60,12 @@
 
 <center>Tabela 03: Lista de verificação das Técnicas de Priorização</center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|---------------|---------------|-----------|-----------------|-----------------|
-| 01     | Os requisitos foram corretamente classificados nas categorias "In" e "Out" da técnica "In or Out"? | | Leandro de Almeida | | ![alt text](../assets/in or out.png) |
-| 02     | Os requisitos foram corretamente classificados nas categorias "Must-Have", "Should-Have", "Could-Have" e "Won't Have" utilizando o método MoSCoW? | | Matheus Barros | | ![alt text](../assets/moscow 1.png) ![alt text](../assets/moscow 2.png)|
-| 03     | A técnica First Things First considera corretamente os benefícios, prejuízos, custos e riscos para determinar a prioridade dos requisitos? | | Letícia Resende | | ![alt text](../assets/first things first.png)|
-| 04     | A técnica "First Things First" foi corretamente aplicada para priorização dos requisitos, considerando os critérios de benefício, penalidade, custo e risco, e as pontuações atribuídas a cada requisito? | | Joao Victor | | ![alt text](../assets/first things first.png)|
-
-
+| **ID** | **Descrição** | 
+|--------|---------------|
+| 01     | Os requisitos foram corretamente classificados nas categorias "In" e "Out" da técnica "In or Out"? | 
+| 02     | Os requisitos foram corretamente classificados nas categorias "Must-Have", "Should-Have", "Could-Have" e "Won't Have" utilizando o método MoSCoW? | 
+| 03     | A técnica First Things First considera corretamente os benefícios, prejuízos, custos e riscos para determinar a prioridade dos requisitos? | 
+| 04     | A técnica "First Things First" foi corretamente aplicada para priorização dos requisitos, considerando os critérios de benefício, penalidade, custo e risco, e as pontuações atribuídas a cada requisito? | 
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -76,12 +74,12 @@
 
 <center>Tabela 04: Verificação das Técnicas de Priorização</center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|---------------|---------------|-----------|-----------------|-----------------|
-| 01     | Os requisitos foram corretamente classificados nas categorias "In" e "Out" da técnica "In or Out"? | Sim | Leandro de Almeida | Versão 1.3 26/11| ![alt text](../assets/in or out.png)
-| 02     | Os requisitos foram corretamente classificados nas categorias "Must-Have", "Should-Have", "Could-Have" e "Won't Have" utilizando o método MoSCoW? | Sim | Matheus Barros | Versão 1.1 24/11| ![alt text](../assets/moscow 1.png) ![alt text](../assets/moscow 2.png)|
-| 03     | A técnica First Things First considera corretamente os benefícios, prejuízos, custos e riscos para determinar a prioridade dos requisitos? | Sim | Letícia Resende | Versão 1.3 26/11| ![alt text](../assets/first things first.png)|
-| 04    | A técnica "First Things First" foi corretamente aplicada para priorização dos requisitos, considerando os critérios de benefício, penalidade, custo e risco, e as pontuações atribuídas a cada requisito? | Sim | Joao Victor | Versão 1.3 26/11| ![alt text](../assets/first things first.png)|
+| **ID** | **Descrição** | **Avaliação** | **Observações** |
+|--------|---------------|---------------|----------------|
+| 01     | Os requisitos foram corretamente classificados nas categorias "In" e "Out" da técnica "In or Out"? | Sim | Versão 1.3 26/11 |
+| 02     | Os requisitos foram corretamente classificados nas categorias "Must-Have", "Should-Have", "Could-Have" e "Won't Have" utilizando o método MoSCoW? | Sim | Versão 1.1 24/11 |
+| 03     | A técnica First Things First considera corretamente os benefícios, prejuízos, custos e riscos para determinar a prioridade dos requisitos? | Sim | Versão 1.3 26/11 |
+| 04     | A técnica "First Things First" foi corretamente aplicada para priorização dos requisitos, considerando os critérios de benefício, penalidade, custo e risco, e as pontuações atribuídas a cada requisito? | Sim | Versão 1.3 26/11 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -97,11 +95,11 @@
 
 <center>Tabela 05: Lista de verificação de Personas</center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|---------------|---------------|-----------|-----------------|-----------------|
-| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo CAESB Autoatendimento, incluindo personas primárias, secundárias e antipersonas? | | Letícia Resende | | ![alt text](../assets/personas 1.png)|
-| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? | | Leandro de Almeida | | ![alt text](../assets/personas 1.png)|
-| 03     | O elenco de personas e a razão da quantidade de personas é justificada? | | Natan Almeida | | ![alt text](../assets/personas 2.png)|
+| **ID** | **Descrição** | 
+|--------|---------------|
+| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo CAESB Autoatendimento, incluindo personas primárias, secundárias e antipersonas? | 
+| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? | 
+| 03     | O elenco de personas e a razão da quantidade de personas é justificada? |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -110,11 +108,11 @@
 
 <center>Tabela 06: Verificação de Personas</center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|---------------|---------------|-----------|-----------------|-----------------|
-| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo CAESB Autoatendimento, incluindo personas primárias, secundárias e antipersonas? | Sim | Letícia Resende | Versão 1.0 20/11 | ![alt text](../assets/personas 1.png)|
-| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? | Sim | Leandro de Almeida | Versão 1.0 20/11 | ![alt text](../assets/personas 1.png)|
-| 03     | O elenco de personas e a razão da quantidade de personas é justificada? | Sim | Natan Almeida | Versão 1.0 20/11 | ![alt text](../assets/personas 2.png)|
+| **ID** | **Descrição** | **Avaliação** | **Observações** |
+|--------|---------------|---------------|----------------|
+| 01     | As personas criadas representam de forma realista os diferentes tipos de usuários do aplicativo CAESB Autoatendimento, incluindo personas primárias, secundárias e antipersonas? | Sim | Versão 1.0 20/11 |
+| 02     | As personas definidas estão alinhadas com o perfil de usuário identificado, garantindo que refletem as necessidades, atitudes e dificuldades dos usuários reais? | Sim | Versão 1.0 20/11 |
+| 03     | O elenco de personas e a razão da quantidade de personas é justificada? | Sim | Versão 1.0 20/11 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -130,12 +128,11 @@
 
 <center>Tabela 07: Lista de verificação de Perfil de Usuário</center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|---------------|---------------|-----------|-----------------|-----------------|
-| 01     | O perfil de usuário foi elaborado com base em dados coletados por meio de Técnicas de Elicitação, considerando características como idade, experiência, motivações e barreiras? | | Natan Almeida | | ![alt text](../assets/perfil1.png) ![alt text](../assets/perfil2.png)|
-| 02     | Apresenta Educação? (grau de instrução, área de formação, cursos realizados, alfabetismo) | | Joao Victor | | ![alt text](../assets/perfil1.png) ![alt text](../assets/perfil2.png)|
-| 03     | Foi agrupado os usuários com características semelhantes, seja elas: faixa etária, experiência, atitude e tarefas primárias no sistema? | | Leandro de Almeida | | ![alt text](../assets/perfil1.png) ![alt text](../assets/perfil2.png)|
-
+| **ID** | **Descrição** |
+|--------|---------------|
+| 01     | O perfil de usuário foi elaborado com base em dados coletados por meio de Técnicas de Elicitação, considerando características como idade, experiência, motivações e barreiras? |
+| 02     | Apresenta Educação? (grau de instrução, área de formação, cursos realizados, alfabetismo) |
+| 03     | Foi agrupado os usuários com características semelhantes, seja elas: faixa etária, experiência, atitude e tarefas primárias no sistema? | 
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -144,12 +141,11 @@
 
 <center>Tabela 08: Verificação de Perfil de Usuário</center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|---------------|---------------|-----------|-----------------|-----------------|
-| 01     | O perfil de usuário foi elaborado com base em dados coletados por meio de técnicas de elicitação, considerando características como idade, experiência, motivações e barreiras? | Sim | Natan Almeida | Versão 1.2 - 20/11 | ![alt text](../assets/perfil1.png) ![alt text](../assets/perfil2.png) |
-| 02     | Apresenta educação? (grau de instrução, área de formação, cursos realizados, alfabetismo) | Não | Joao Victor | Versão 1.2 - 20/11 | ![alt text](../assets/perfil1.png) ![alt text](../assets/perfil2.png) |
-| 03     | Os usuários foram agrupados com características semelhantes, sejam elas: faixa etária, experiência, atitude e tarefas primárias no sistema? | Sim | Leandro de Almeida | Versão 1.2 - 20/11 | ![alt text](../assets/perfil1.png) ![alt text](../assets/perfil2.png) |
-
+| **ID** | **Descrição** | **Avaliação** | **Observações** |
+|--------|---------------|---------------|----------------|
+| 01     | O perfil de usuário foi elaborado com base em dados coletados por meio de técnicas de elicitação, considerando características como idade, experiência, motivações e barreiras? | Sim | Versão 1.2 - 20/11 |
+| 02     | Apresenta educação? (grau de instrução, área de formação, cursos realizados, alfabetismo) | Não | Versão 1.2 - 20/11 |
+| 03     | Os usuários foram agrupados com características semelhantes, sejam elas: faixa etária, experiência, atitude e tarefas primárias no sistema? | Sim | Versão 1.2 - 20/11 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -165,10 +161,10 @@
 
 <center>Tabela 09: Lista de verificação de Termo de Consentimento</center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|---------------|---------------|-----------|-----------------|-----------------|
-| 01     | O termo de consentimento deixa claro que a participação é voluntária, protege os dados dos participantes e especifica o objetivo da pesquisa de forma transparente? | | Leandro de Almeida | | ![alt text](../assets/termo1.png)|
-| 02     | O termo informa corretamente os participantes sobre como seus dados serão utilizados, garantindo sigilo, anonimato e a possibilidade de desistência a qualquer momento sem penalizações? | | Letícia Resende | | ![alt text](../assets/termo1.png)|
+| **ID** | **Descrição** | 
+|--------|---------------|
+| 01     | O termo de consentimento deixa claro que a participação é voluntária, protege os dados dos participantes e especifica o objetivo da pesquisa de forma transparente? |
+| 02     | O termo informa corretamente os participantes sobre como seus dados serão utilizados, garantindo sigilo, anonimato e a possibilidade de desistência a qualquer momento sem penalizações? |
 
 
 <center>
@@ -178,10 +174,10 @@
 
 <center>Tabela 10: Verificação de Termo de Consentimento</center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|---------------|---------------|-----------|-----------------|-----------------|
-| 01     | O termo de consentimento deixa claro que a participação é voluntária, protege os dados dos participantes e especifica o objetivo da pesquisa de forma transparente? | Sim | Leandro de Almeida | Versão 1.0 22/11 | ![alt text](../assets/termo1.png)|
-| 02     | O termo informa corretamente os participantes sobre como seus dados serão utilizados, garantindo sigilo, anonimato e a possibilidade de desistência a qualquer momento sem penalizações? | Sim | Letícia Resende | Versão 1.0 22/11 | ![alt text](../assets/termo1.png)|
+| **ID** | **Descrição** | **Avaliação** | **Observações** |
+|--------|---------------|---------------|----------------|
+| 01     | O termo de consentimento deixa claro que a participação é voluntária, protege os dados dos participantes e especifica o objetivo da pesquisa de forma transparente? | Sim | Versão 1.0 22/11 |
+| 02     | O termo informa corretamente os participantes sobre como seus dados serão utilizados, garantindo sigilo, anonimato e a possibilidade de desistência a qualquer momento sem penalizações? | Sim | Versão 1.0 22/11 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>

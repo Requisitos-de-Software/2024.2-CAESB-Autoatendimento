@@ -19,12 +19,12 @@
 |![Logo do Microsoft Teams](../assets/teams-logo.png){: style="height:64px;width:64px"}|<a id="e" href="https://www.microsoft.com/pt-br/microsoft-teams/log-in" target="_blank">Teams</a>|Realizações de reuniões e gravações de apresentações | <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/" Target = "_blank">Todas</a> |
 |![Logo do Filmora](../assets/filmora-logo.png){: style="height:64px;width:64px"}|<a id="f" href="https://filmora.wondershare.com.br/" target="_blank">Filmora</a>|Edição dos vídeos | <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/" Target = "_blank">Todas</a> |
 |![Logo do Mkdocs](../assets/mkdocs-logo.png){: style="height:64px"} | <a id="g" href="https://www.mkdocs.org/" target="_blank">Mkdocs</a> | Criação do gitPage | <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/" Target = "_blank">Todas</a>|
-|![Logo do Draw.io](https://github.com/user-attachments/assets/9072f119-620f-4f8b-822f-8397f35319fc){: style="height:64px"} | <a id="g" href="https://www.drawio.com//" target="_blank">Draw.io</a> | Utilizado para fazer o Rich Picture | <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/richpicture/" target = "_blank">Etapa 1</a> |
+|![Logo do Draw.io](https://github.com/user-attachments/assets/9072f119-620f-4f8b-822f-8397f35319fc){: style="height:64px"} | <a id="g" href="https://www.drawio.com//" target="_blank">Draw.io</a> | Utilizado para elaborar os Rich Pictures e os NFRs com o NFR Framework | <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/planejamento/richpicture/" target = "_blank">Etapa 1</a> e <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/modelagem_agil/nfr/#nfr-framework-nfr01-usabilidade" target = "_blank">Etapa 4</a>|
 |![Logo Figma](https://github.com/user-attachments/assets/ce11eb86-3562-44bc-8eb1-f23850293cc8){: style="height:64px"} | <a id="g" href="https://www.figma.com/files/team/1304654790500062596/recents-and-sharing?fuid=1237933267860372986" target="_blank">Figma</a> | Utilizado para fazer os protótipos| <a href = "https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/validacao/prototipacao/" target = "_blank">Etapa 6</a> |
 |![Logo This person does not exist](https://i.redd.it/9l5x3d2g21591.jpg){: style="height:64px"} | <a id="g" href="https://thispersondoesnotexist.com/" target="_blank">This person does not exist</a> | Utilizado para criar as personas | <a href="https://requisitos-de-software.github.io/2024.2-CAESB-Autoatendimento/elicitacao/personas/" target = "_blank">Etapa 2</a> |
 
 
-Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
+Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 
 <br>

@@ -59,11 +59,11 @@
 
 <center>Tabela 03: Lista de verificação das Técnicas de Priorização</center>
 
-| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
-|--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | Na técnica $100 mais dólares são gastos nos requisitos mais importantes ou urgentes? |  | Leandro de Almeida   |  |
-| 02     | Na matriz GUT o cálculo de prioridade é ultilizado para definir a prioridade dos requisitos? |  | Leandro de Almeida   |  |
-| 03     | Na matriz GUT é explicado como o cálculo é feito? |  | Leandro de Almeida   |  |
+| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
+|--------|---------------|---------------|-----------|-----------------|-----------------|
+| 01     | Na técnica $100 mais dólares são gastos nos requisitos mais importantes ou urgentes? |  | Letícia Resende  |  | ![alt text](../assets/dolar.png) ![alt text](../assets/dolar2.png)
+| 02     | Na matriz GUT o cálculo de prioridade é ultilizado para definir a prioridade dos requisitos? |  | Leandro de Almeida   |  | ![alt text](../assets/dolar.png) ![alt text](../assets/dolar2.png) 
+| 03     | Na matriz GUT é explicado como o cálculo é feito? |  | Natan Almeida   |  | ![alt text](../assets/GUT.png)
 
 
 <center>
@@ -73,12 +73,11 @@
 
 <center>Tabela 04: Verificação das Técnicas de Priorização</center>
 
-| **ID** | **Descrição**                                                                                  | **Avaliação** | **Autor**       | **Observações** |
-|--------|------------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
-| 01     | Na técnica $100 mais dólares são gastos nos requisitos mais importantes ou urgentes? | Sim | Leandro de Almeida   | Versão 1.0 24/11 |
-| 02     | Na matriz GUT o cálculo de prioridade é ultilizado para definir a prioridade dos requisitos? | Sim | Leandro de Almeida   | Versão 1.1 30/11 |
-| 03     | Na matriz GUT é explicado como o cálculo é feito? | Sim | Leandro de Almeida   | Versão 1.1 30/11 |
-
+| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |  
+|--------|---------------|---------------|-----------|-----------------|-----------------|  
+| 01     | Na técnica *$100*, mais dólares são gastos nos requisitos mais importantes ou urgentes? | Sim | Letícia Resende | Versão 1.0 - 24/11 |  ![alt text](../assets/dolar.png) ![alt text](../assets/dolar2.png)
+| 02     | Na matriz GUT, o cálculo de prioridade é utilizado para definir a prioridade dos requisitos? | Sim | Leandro de Almeida | Versão 1.1 - 30/11 |  ![alt text](../assets/dolar.png) ![alt text](../assets/dolar2.png)
+| 03     | Na matriz GUT, é explicado como o cálculo é feito? | Sim | Natan Almeida | Versão 1.1 - 30/11 |  ![alt text](../assets/GUT.png)
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -241,9 +240,9 @@ Tabela 11: Tempo de início da verificação dos artefatos no vídeo
 > <p id="1">4. WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013 p.315
    Acesso em: 23 nov. 2024.</p>
 > <p>5. INSTITUTO DE PSICOLOGIA. O que é o Termo de Consentimento Livre e Esclarecido (TCLE)? Universidade Federal da Bahia, Salvador, 2025. Disponível em: https://ips.ufba.br/o-que-e-o-termo-de-consentimento-livre-e-esclarecido-tcle. Acesso em: 10 fev. 2025.</p>
+> <p>6. SOTILLE, Mauro Afonso. A Ferramenta GUT – Gravidade, Urgência e Tendência. Porto Alegre: PM Tech Capacitação em Projetos, 2014. Disponível em: https://www.gov.br/transportes/pt-br/pt-br/centrais-de-conteudo/dicas-pmp-matriz-gut-pdf. Acesso em: 23 nov. 2024.</p>
 
 <br>
-
 
 ## Histórico de Versão
 

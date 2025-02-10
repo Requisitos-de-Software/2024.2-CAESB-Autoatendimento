@@ -4,8 +4,6 @@
 
 <p align="justify">&emsp;&emsp;No final de cada etapa de desenvolvimento do projeto, uma apresentação era realizada e gravada para mostrar os artefatos desenvolvidos. A tabela abaixo lista as gravações de todas as apresentações, assim como os participantes do grupo que estavam presentes.</p>
 
-<br>
-
 <center>
 Tabela 01: Apresentações
 </center>

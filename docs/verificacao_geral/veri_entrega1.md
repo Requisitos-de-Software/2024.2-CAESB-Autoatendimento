@@ -27,14 +27,14 @@
 
 <center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|-------------|--------------|-----------|----------------|----------------|
-| 01     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema? | | Leandro de Almeida | | <center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center> |   
-| 02     | O Rich Picture conta uma história?  | | Letícia Resende | | <center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center> |   
-| 03     | O Rich Picture contém atores? | | Matheus Barros | | <center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center> |              
-| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema? | | Natan Almeida | | <center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center> |    
-| 05     | O Rich Picture possui legenda? | | Joao Victor | | <center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center> |              
-| 06     | O artefato possui os 5 componentes essenciais de um "Rich Picture"? | | Leandro de Almeida | | <center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center> |    
+| **ID** | **Descrição** | 
+|--------|-------------|
+| 01     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema? | 
+| 02     | O Rich Picture conta uma história?  |    
+| 03     | O Rich Picture contém atores? |              
+| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema? |  
+| 05     | O Rich Picture possui legenda? |               
+| 06     | O artefato possui os 5 componentes essenciais de um "Rich Picture"? |    
 
 </center>
 
@@ -46,15 +46,14 @@
 
 <center>Tabela 02: Verificação do Rich Picture 
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|-------------|--------------|-----------|----------------|----------------|
-| 01     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema? | Sim | Leandro de Almeida  | Versão 1.7 22/11 | <center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center> |
-| 02     | O Rich Picture conta uma história? | Sim | Letícia Resende | Versão 1.7 22/11 | <center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center> |
-| 03     | O Rich Picture contém atores? | Sim | Matheus Barros | Versão 1.7 22/11 | <center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center> |
-| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema? | Sim | Natan Almeida | Versão 1.7 22/11 | <center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center> |
-| 05     | O Rich Picture possui legenda? | Sim | Joao Victor | Versão 1.7 22/11 | <center>![alt text](<Captura de tela de 2025-02-03 19-13-38.png>)</center> |
-| 06     | O artefato possui os 5 componentes essenciais de um "Rich Picture"? | Sim | Leandro de Almeida | Versão 1.7 22/11 | <center>![alt text](<Captura de tela de 2025-02-03 19-15-12.png>)</center> |
-
+| **ID** | **Descrição** | **Avaliação** | **Observações** |
+|--------|-------------|--------------|----------------|
+| 01     | O(s) ator(es) do Rich Picture estão do lado de fora da fronteira do sistema? | Sim | Versão 1.7 22/11 |
+| 02     | O Rich Picture conta uma história? | Sim | Versão 1.7 22/11 |
+| 03     | O Rich Picture contém atores? | Sim | Versão 1.7 22/11 |
+| 04     | O Rich Picture representa interações relevantes entre os atores e o sistema? | Sim | Versão 1.7 22/11 |
+| 05     | O Rich Picture possui legenda? | Sim | Versão 1.7 22/11 |
+| 06     | O artefato possui os 5 componentes essenciais de um "Rich Picture"? | Sim | Versão 1.7 22/11 |
 
 </center>
 
@@ -71,12 +70,12 @@
 
 <center>Tabela 03: Lista de verificação do Cronograma 
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|-------------|--------------|-----------|----------------|----------------|
-| 01     | O cronograma possui todas as atividades de todas as etapas para cada integrante? |  | Letícia Resende | | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
-| 02     | O cronograma possui datas de início e fim das entregas dos artefatos e com o período da revisão deles? |  |Leandro de Almeida | | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
-| 03     | Possui o cronograma executado? |  | Matheus Barros | | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
-| 04     | O cronograma apresenta um período de gravação da apresentação de cada etapa? |  | Joao Victor | | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
+| **ID** | **Descrição** | 
+|--------|-------------|
+| 01     | O cronograma possui todas as atividades de todas as etapas para cada integrante? |  
+| 02     | O cronograma possui datas de início e fim das entregas dos artefatos e com o período da revisão deles? | 
+| 03     | Possui o cronograma executado? | 
+| 04     | O cronograma apresenta um período de gravação da apresentação de cada etapa? | 
 
 </center>
 
@@ -88,12 +87,12 @@
 <center>Tabela 04: Verificação do Cronograma 
 
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|-------------|--------------|-----------|----------------|----------------|
-| 01     | O cronograma possui todas as atividades de todas as etapas para cada integrante? |  Sim  | Letícia Resende | Versão 1.3	01/02 | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
-| 02     | O cronograma possui datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | Leandro de Almeida | Versão 1.3	01/02 | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
-| 03     | Possui o cronograma executado? | Sim | Matheus Barros | Versão 1.3	01/02 | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
-| 04     | O cronograma apresenta um período de gravação da apresentação de cada etapa?  | Sim | Joao Victor | Versão 1.3 01/02 | ![alt text](../assets/b1.png) ![alt text](../assets/b2.png) |
+| **ID** | **Descrição** | **Avaliação** | **Observações** |
+|--------|-------------|--------------|----------------|
+| 01     | O cronograma possui todas as atividades de todas as etapas para cada integrante? | Sim | Versão 1.3 01/02 |
+| 02     | O cronograma possui datas de início e fim das entregas dos artefatos e o período da revisão deles? | Sim | Versão 1.3 01/02 |
+| 03     | Possui o cronograma executado? | Sim | Versão 1.3 01/02 |
+| 04     | O cronograma apresenta um período de gravação da apresentação de cada etapa? | Sim | Versão 1.3 01/02 |
 
 </center>
 
@@ -111,11 +110,11 @@
 
 <center>Tabela 05: Lista de verificação de Equipe 
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|-------------|--------------|-----------|----------------|----------------|
-| 01     | O artefato apresenta todos os integrantes da equipe com base na planilha disponibilizada no aprender? | | Leandro de Almeida |  |![alt text](../assets/equipe.png)    
-| 02     | Todos os integrantes possuem foto e nome? | | Matheus Barros |  |![alt text](../assets/equipe.png)                 
-| 03     | O artefato possui o nome e o github dos integrantes? | | Letícia Resende |  |![alt text](../assets/equipe.png)      
+| **ID** | **Descrição** | 
+|--------|-------------|
+| 01     | O artefato apresenta todos os integrantes da equipe com base na planilha disponibilizada no aprender? |
+| 02     | Todos os integrantes possuem foto e nome? | 
+| 03     | O artefato possui o nome e o github dos integrantes? | 
 
 </center>          
 
@@ -126,11 +125,11 @@
 <br>
 <center>Tabela 06: Verificação de Equipe 
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|-------------|--------------|-----------|----------------|----------------|
-| 01     | O artefato apresenta todos os integrantes da equipe com base na planilha disponibilizada no aprender? | Sim | Leandro de Almeida | Versão 1.3 16/11 | ![alt text](../assets/equipe.png)    |   
-| 02     | Todos os integrantes possuem foto e nome?  | Sim | Matheus Barros | Versão 1.3 16/11 | ![alt text](../assets/equipe.png)    |  
-| 03     | O artefato possui o nome e o github dos integrantes? | Sim | Letícia Resende | Versão 1.3 16/11 | ![alt text](../assets/equipe.png) |   
+| **ID** | **Descrição** | **Avaliação** | **Observações** |
+|--------|-------------|--------------|----------------|
+| 01     | O artefato apresenta todos os integrantes da equipe com base na planilha disponibilizada no Aprender? | Sim | Versão 1.3 16/11 |
+| 02     | Todos os integrantes possuem foto e nome? | Sim | Versão 1.3 16/11 |
+| 03     | O artefato possui o nome e o GitHub dos integrantes? | Sim | Versão 1.3 16/11 |
 
 </center>
 
@@ -147,12 +146,12 @@
 
 <center>Tabela 07: Lista de verificação do Aplicativo Selecionado 
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|-------------|--------------|-----------|----------------|----------------|
-| 01     | O artefato possui os critérios utilizados para escolher o aplicativo?  | | Matheus Barros | | ![alt text](../assets/aplicativosel.png) |            
-| 02     | O artefato possui uma Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? | | Letícia Resende | | ![alt text](../assets/aplicativosel.png) |     
-| 03     | O aplicativo selecionado é gratuito? | | Leandro de Almeida | | ![alt text](../assets/aplicativosel.png) |
-| 04     | O aplicativo selecionado pertence a uma instituição governamental pública ou é assegurado por uma licença de software livre? | | Natan Almeida | | ![alt text](../assets/aplicativosel.png) |  
+| **ID** | **Descrição** | 
+|--------|-------------|
+| 01     | O artefato possui os critérios utilizados para escolher o aplicativo?  |
+| 02     | O artefato possui uma Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? |
+| 03     | O aplicativo selecionado é gratuito? | 
+| 04     | O aplicativo selecionado pertence a uma instituição governamental pública ou é assegurado por uma licença de software livre? | 
 
 </center>
 
@@ -163,12 +162,12 @@
 <br>
 <center>Tabela 08: Verificação do Aplicativo Selecionado
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|-------------|--------------|-----------|----------------|----------------|
-| 01     | O artefato possui os critérios utilizados para escolher o aplicativo? | Sim | Matheus Barros | Versão 1.3 13/11 | ![alt text](../assets/aplicativosel.png)|
-| 02     | O artefato possui uma cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? | Sim | Letícia Resende | Versão 1.3 13/11 |  ![alt text](../assets/aplicativosel.png)|
-| 03     | O aplicativo selecionado é gratuito? | Sim | Leandro de Almeida | Versão 1.3 13/11 | ![alt text](../assets/aplicativosel.png)|
-| 04     | O aplicativo selecionado pertence a uma instituição governamental pública ou é assegurado por uma licença de software livre? | Sim | Natan Almeida | Versão 1.3 13/11 | ![alt text](../assets/aplicativosel.png)|
+| **ID** | **Descrição** | **Avaliação** | **Observações** |
+|--------|-------------|--------------|----------------|
+| 01     | O artefato possui os critérios utilizados para escolher o aplicativo? | Sim | Versão 1.3 13/11 |
+| 02     | O artefato possui uma cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? | Sim | Versão 1.3 13/11 |
+| 03     | O aplicativo selecionado é gratuito? | Sim | Versão 1.3 13/11 |
+| 04     | O aplicativo selecionado pertence a uma instituição governamental pública ou é assegurado por uma licença de software livre? | Sim | Versão 1.3 13/11 |
 
 </center>
 
@@ -186,11 +185,11 @@
 
 <center>Tabela 09: Lista de verificação de Ferramentas 
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|-------------|--------------|-----------|----------------|----------------|
-| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolviemnto do projeto? |  | Leandro de Almeida|  |![alt text](../assets/ferramenta.png)|
-| 02     | O artefato possui o nome e a logo de todas as ferramentas? |  | Matheus Barros| |![alt text](../assets/ferramenta.png)|
-| 03     | O artefato possui a finalidade de todas as ferramentas? |  | Natan Almeida| |![alt text](../assets/ferramenta.png)|
+| **ID** | **Descrição** | 
+|--------|-------------|
+| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolviemnto do projeto? |  
+| 02     | O artefato possui o nome e a logo de todas as ferramentas? | 
+| 03     | O artefato possui a finalidade de todas as ferramentas? |  
 
 </center>
 
@@ -201,11 +200,11 @@
 <br>
 <center>Tabela 10: Verificação de Ferramentas
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações** | **Referências** |
-|--------|-------------|--------------|-----------|----------------|----------------|
-| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolviemnto do projeto? | Sim | Leandro de Almeida | Versão 1.5 01/02 |![alt text](../assets/ferramenta.png)|
-| 02     | O artefato possui o nome e a logo de todas as ferramentas? | Sim  | Matheus Barros | Versão 1.5 01/02 |![alt text](../assets/ferramenta.png)|
-| 03     | O artefato possui a finalidade de todas as ferramentas? | Sim | Natan Almeida | Versão 1.5 01/02 |![alt text](../assets/ferramenta.png)|
+| **ID** | **Descrição** | **Avaliação** | **Observações** |
+|--------|-------------|--------------|----------------|
+| 01     | O artefato possui todas as ferramentas utilizadas durante o desenvolvimento do projeto? | Sim | Versão 1.5 01/02 |
+| 02     | O artefato possui o nome e a logo de todas as ferramentas? | Sim | Versão 1.5 01/02 |
+| 03     | O artefato possui a finalidade de todas as ferramentas? | Sim | Versão 1.5 01/02 |
 
 </center>
 
