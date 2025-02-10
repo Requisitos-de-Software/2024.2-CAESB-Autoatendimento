@@ -25,4 +25,4 @@
 
 | Versão |    Data    |                  Descrição                  |                       Autor(es)                        |                        Revisor(es)                         |
 | :----: | :--------: | :-----------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: |
-|  1.0   | 09/02/2025 | Criação do Documento | [Matheus Barros](https://github.com/Ninja-Haiyai) |[Leandro de Almeida](https://github.com/leomitx10)| 
+|  1.0   | 09/02/2025 | Criação do Documento | [Matheus Barros](https://github.com/Ninja-Haiyai) |[Joao Victor Marques](https://github.com/jmarquees)| 

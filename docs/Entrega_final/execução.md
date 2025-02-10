@@ -39,5 +39,5 @@ Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Ba
 
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 09/02/2025 | Criação do documento | [Matheus Barros](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)  |
-|  1.1   | 10/02/2025 | Correção do documento | [Matheus Barros](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)  |
+|  1.0   | 09/02/2025 | Criação do documento | [Matheus Barros](https://github.com/Ninja-Haiyai)| [Joao Victor Marques](https://github.com/jmarquees)  |
+|  1.1   | 10/02/2025 | Correção do documento | [Matheus Barros](https://github.com/Ninja-Haiyai)| [Joao Victor Marques](https://github.com/jmarquees)  |
