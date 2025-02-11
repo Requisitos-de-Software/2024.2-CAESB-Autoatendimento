@@ -66,13 +66,24 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letíc
 <br>
 
 ## Entrega 6
+
 A apresentação da entrega 6, pode ser vista no [YouTube](https://www.youtube.com/embed/ZWJeJOzOVDw?si=ggeoSMXbZL-jen17).
-
-
 
 <center>
 <p>Vídeo 06: Gravação da apresentação 6</p>
 <iframe width="760" height="515" src="https://www.youtube.com/embed/ZWJeJOzOVDw?si=ggeoSMXbZL-jen17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Leandro de Almeida</a></h6>
+</center>
+
+<br>
+
+## Entrega 7
+
+A apresentação da entrega 7, pode ser vista no [YouTube](https://www.youtube.com/watch?v=PNcVp2Rv35k).
+
+<center>
+<p>Vídeo 07: Gravação da apresentação 7</p>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/PNcVp2Rv35k?si=-htdVMdHz7Gy7Oj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Leandro de Almeida</a></h6>
 </center>
 
@@ -92,5 +103,6 @@ Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Leandr
 |  1.5   | 17/12/2024 | Arruma video entrega 4 |[Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai)|
 |  1.6   | 18/01/2025 | Adiciona a entrega 5 |[Matheus Barros ](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)|
 |  1.7   | 24/11/2024 | Adiciona a entrega 6 | [Leandro de Almeida](https://github.com/leomitx10)| [Matheus Barros ](https://github.com/Ninja-Haiyai) |
+|  1.8   | 10/02/2024 | Adiciona a entrega 7 | [Leandro de Almeida](https://github.com/leomitx10)| [Letícia Resende](https://github.com/LeticiaResende23) |
 
 </center>

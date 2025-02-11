@@ -139,16 +139,13 @@
 
 ## Histórico de versão
 
+<center>
+
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----: | :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 26/10/2024 | Criação do Aplicativo Avaliado | [Matheus Barros](https://github.com/Ninja-Haiyai)  | [Leandro de Almeida](https://github.com/leomitx10)  |
-|  1.1   | 26/10/2024 | Adicionando o Aplicativo Avaliado da Caesb | [Leandro de Almeida](https://github.com/leomitx10) |[Letícia Resende](https://github.com/LeticiaResende23)  |
-|  1.2   | 26/10/2024 | Criação do Aplicativo Avaliado Google Classroom | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Leandro de Almeida](https://github.com/leomitx10) |
-|  1.3   | 27/10/2024 | Adicionando o Aplicativo Avaliado do Moovit  | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
-|  1.4   | 28/10/2024 | Adicionando o Aplicativo Avaliado da Carteira de Trabalho Digital  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10) |
-|  1.5   | 13/11/2024 | Correção pós apresentação  | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)  |
-|  1.6   | 17/11/2024 | Correção pós apresentação  | [Natan Almeida](https://github.com/natanalmeida03) | [Leandro de Almeida](https://github.com/leomitx10)  |
-|  1.7   | 22/11/2024 | Correção pós apresentação  | [Joao Victor Marques](https://github.com/jmarquees) | [Leandro de Almeida](https://github.com/leomitx10)  |
+
+</center>
 
 
 
