@@ -19,17 +19,33 @@ Neste documento, realizou-se a avaliação do artefato de <a href="https://requi
 
 ## Verificação da Especificação Suplementar
 <p align="justify">
-&emsp;&emsp;A tabela 01 apresenta a Lista de Verificação da Especificação Suplementar que foi elaborada com base no plano de ensino da disciplina</p>
+&emsp;&emsp;A tabela 01 apresenta a lista de Verificação da Especificação Suplementar que foi elaborada com base no plano de ensino da disciplina e 02 apresenta a verificação.</p>
 
 <center>Tabela 01: Verificação da Especificação Suplementar</center>
 
-| **ID** | **Descrição**  | **Avaliação** | **Autor** |**Observações**    |
-|--------|----------------|---------------|--|------------------|
-| 01 |<p align="justify">O artefato segue o modelo FURPS+?</p>  | Sim | André Barros | Versão 1.0  06/12.  |  |
-| 02 |<p align="justify">O documento especifica o tempo de resposta, no Desempenho?</p> | Sim | André Barros | Versão 1.0  06/12.  |
-| 03 |<p align="justify">O documento especifica qual plataforma o aplicativo pode ser executado?</p> | Sim | André Barros | Versão 1.0  06/12.  |  
-| 04 |<p align="justify">Todos os requisitos podem ser testados (RF e RNF)?</p> | Sim | André Barros | Versão 1.0  06/12.  |  
-| 05 |<p align="justify">O documento especifica requisitos relacionados ao ambiente de uso ou sustentabilidade ambiental?</p> | Sim | Leandro de Almeida | Versão 1.0  06/12.  |  
+| **ID** | **Descrição**  | 
+|--------|----------------|
+| 01 |<p align="justify">O artefato segue o modelo FURPS+?</p>  | 
+| 02 |<p align="justify">O documento especifica o tempo de resposta, no Desempenho?</p> | 
+| 03 |<p align="justify">O documento especifica qual plataforma o aplicativo pode ser executado?</p> | 
+| 04 |<p align="justify">Todos os requisitos podem ser testados (RF e RNF)?</p> | 
+| 05 |<p align="justify">O documento especifica requisitos relacionados ao ambiente de uso ou sustentabilidade ambiental?</p> | 
+
+<center>
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
+</center>
+
+<br>
+
+<center>Tabela 02: Verificação da Especificação Suplementar</center>
+
+| **ID** | **Descrição**  | **Avaliação** | **Observações**    |
+|--------|----------------|---------------|------------------|
+| 01 |<p align="justify">O artefato segue o modelo FURPS+?</p>  | Sim | Versão 1.0  06/12.  |
+| 02 |<p align="justify">O documento especifica o tempo de resposta, no Desempenho?</p> | Sim | Versão 1.0  06/12.  |
+| 03 |<p align="justify">O documento especifica qual plataforma o aplicativo pode ser executado?</p> | Sim | Versão 1.0  06/12.  |  
+| 04 |<p align="justify">Todos os requisitos podem ser testados (RF e RNF)?</p> | Sim | Versão 1.0  06/12.  |  
+| 05 |<p align="justify">O documento especifica requisitos relacionados ao ambiente de uso ou sustentabilidade ambiental?</p> | Sim | Versão 1.0  06/12.  |  
 
 <center>
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
@@ -56,30 +72,18 @@ Pode ser vista no [YouTube](https://youtu.be/O9MRW3hXTO4).</p>
 ## Referências
 
 > <p id="1">1. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 07 de Dez. de 2024.
-
 <center> <figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
-
 <center>
-
 ![alt text](https://github.com/leomitx10/leomitx10/blob/main/Captura%20de%20tela%20de%202024-12-07%2015-11-59.png?raw=true)
-
 </center>
-
- </p><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
+</p><center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
 <br>
-
 > <p id="2">2. BRASIL. Ministério da Ciência, Tecnologia e Inovações. Especificação Suplementar. Disponível em: https://pdp.mcti.gov.br/MCTI-PDP/guidances/examples/resources/SiglaProjeto_EspecificacaoSuplementar.docx. Acesso em: 7 dez. 2024.
-
 <center> <figcaption>Imagem 2: Foto da Referência 2</figcaption></center>
-
 <center>
-
 ![alt text](https://github.com/leomitx10/leomitx10/blob/main/Captura%20de%20tela%20de%202024-12-07%2016-39-05.png?raw=true)
-
 </center>
-
  </p><center>Autor(a): <a href="https://github.com/Leomitx10" target = "_blank">Leandro de Almeida</a></h6></center>
-<br>
 
 <br>
 

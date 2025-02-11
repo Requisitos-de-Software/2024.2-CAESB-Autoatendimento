@@ -19,23 +19,24 @@ Neste documento, realizou-se a avaliação do projeto <a href="https://requisito
 
 
 ## Verificação dos Itens de Desenvolvimento do Projeto
+
 <p align="justify">
 &emsp;&emsp;A tabela 01 apresenta a lista de  Verificação do Desenvolvimento do projeto que foi elaborada com base no plano de ensino da disciplina e 02 apresenta a verificação.
 </p>
+
 <center>Tabela 01: Lista Verificação dos Itens de Desenvolvimento do Projeto</center>
 
-| **ID** | **Descrição**                                                                                       | **Avaliação** | **Autor**      | **Observações**                                |
-|--------|-----------------------------------------------------------------------------------------------------|---------------|----------------|-----------------------------------------------|
-| 01     | O histórico de versão padronizado? |  | André Barros |  |
-| 02     | O(s) autores e o(s) revisores para cada artefato? |  | André Barros |   |
-| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos? |  | André Barros   |  |
-| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos? |  | André Barros |  |
-| 05     | Um texto fazendo uma introdução dos artefatos?|  | André Barros | |
-| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |  | André Barros |  |
-| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).|  | André Barros |  |
-| 08     | A gravação da reunião do grupo. |  | André Barros |  |
-| 09     | Vídeo de apresentação na categoria "não listado" no youtube? |  | André Barros | 
-
+| **ID** | **Descrição** |
+|--------|----------------------------------------------|
+| 01     | O histórico de versão está padronizado? |
+| 02     | O(s) autor(es) e o(s) revisor(es) estão indicados para cada artefato? |
+| 03     | Todas as referências bibliográficas e/ou a bibliografia estão presentes nos artefatos? |
+| 04     | Todas as tabelas e imagens possuem legenda e fonte? Elas são referenciadas no texto? |
+| 05     | Há um texto de introdução para os artefatos? |
+| 06     | O cronograma inclui quem realizou cada artefato/atividade, bem como as datas de início e fim? |
+| 07     | Há atas das reuniões contendo data, horário de início e fim, participantes, objetivo e atividades definidas? |
+| 08     | A gravação da reunião do grupo está disponível? |
+| 09     | O vídeo de apresentação está na categoria "não listado" no YouTube? |
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -45,17 +46,17 @@ Neste documento, realizou-se a avaliação do projeto <a href="https://requisito
 
 <center>Tabela 02: Verificação dos Itens de Desenvolvimento do Projeto</center>
 
-| **ID** | **Descrição** | **Avaliação** | **Autor** | **Observações**|
-|--------|---------------|---------------|-----------|----------------|
-| 01     | O histórico de versão padronizado? |      Sim      | André Barros   |     versão 1.5 18/01                        |
-| 02     | O(s) autores e o(s) revisores para cada artefato?                                        |    Sim        | André Barros   | versão 1.5 18/01                                |
-| 03     | Referências bibliograficas e/ou bibliografia em todos os artefatos?                                  |     Sim       | André Barros   |  versão 1.5 18/01                              |
-| 04     | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos textos?                           |    Sim        | André Barros   | versão 1.5 18/01                               |
-| 05     | Um texto fazendo uma introdução dos artefatos?                           |  Sim          | André Barros   |  versão 1.5 18/01    
-| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de íncio e fim da construção e realização do artefato/atividade  |     Sim       | André Barros   |         versão 1.5 18/01                       |
-| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc).                                        |    Sim        | André Barros   |        versão 1.5 18/01                        |
-| 08     | A gravação da reunião do grupo.                                 |      Sim      | André Barros   |      versão 1.5 18/01                          |
-| 09     | Vídeo de apresentação na categoria "não listado" no youtube?                           |      Sim      | André Barros   |   versão 1.5 18/01    
+| **ID** | **Descrição** | **Avaliação** | **Observações** |
+|--------|---------------|---------------|-----------------|
+| 01     | O histórico de versão padronizado? | Sim | Versão 1.5 - 18/01 |
+| 02     | O(s) autores e o(s) revisores para cada artefato? | Sim | Versão 1.5 - 18/01 |
+| 03     | Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim | Versão 1.5 - 18/01 |
+| 04     | As tabelas e imagens possuem legenda e fonte e elas são chamadas dentro dos textos? | Sim | Versão 1.5 - 18/01 |
+| 05     | Um texto fazendo uma introdução dos artefatos? | Sim | Versão 1.5 - 18/01 |
+| 06     | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção e realização do artefato/atividade? | Sim | Versão 1.5 - 18/01 |
+| 07     | Ata(s) das reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas, etc.). | Sim | Versão 1.5 - 18/01 |
+| 08     | A gravação da reunião do grupo. | Sim | Versão 1.5 - 18/01 |
+| 09     | Vídeo de apresentação na categoria "não listado" no YouTube? | Sim | Versão 1.5 - 18/01 |
 
 <center>
 </p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -66,7 +67,7 @@ Pode ser vista no [YouTube](https://youtu.be/yQlkcHdGZus?si=4pYU6_Y13PRAQI5b).</
 
 <center>
     <p>Vídeo 01: Verificação de Itens de Desenvolvimento do Projeto</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/yQlkcHdGZus?si=4pYU6_Y13PRAQI5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/yQlkcHdGZus?si=4pYU6_Y13PRAQI5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  </p>Autor(a): <a href="https://github.com/jmarquees" target="_blank">Joao Victor Marques</a>
 </center>
 
@@ -82,18 +83,12 @@ Pode ser vista no [YouTube](https://youtu.be/yQlkcHdGZus?si=4pYU6_Y13PRAQI5b).</
 ## Referências
 
 > <p id="1">1. SALES, André Barros de. Plano de Ensino - Requisitos de Software. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1305187. Acesso em: 24 de Nov. de 2024.
-
 <center> <figcaption>Imagem 1: Foto da Referência 1</figcaption></center>
-
 <center>
-
 ![alt text](../../assets/refimg.jpeg)
-
 </center>
-
- <center></p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>
+<center></p>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a> e <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>
 <br>
-
 
 ## Histórico de Versão
 

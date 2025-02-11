@@ -21,7 +21,30 @@
 
 ## Verificação dos Termos de Uso
 
-| Número | Descrição                                                                                                     | Avaliação | Observações |
+<center>Tabela 01: Lista Verificação do Termo de Uso</center>
+
+| **ID** | **Descrição** |
+| :----: | :------------------------------------------------------------------------------------------------------------ |
+| 1  | O artefato possui introdução? |
+| 2  | O artefato define a metodologia que será utilizada? |
+| 3  | O artefato possui bibliografia ou referência bibliográfica (citando no texto as referências utilizadas)? |
+| 4  | O artefato possui histórico de versões, apresentando a versão, a data e os responsáveis? |
+| 5  | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação? |
+| 6  | Todas as tabelas e imagens são mencionadas no texto, possuem legendas e fontes? |
+| 7  | O artefato possui os termos de uso do aplicativo completo? |
+| 8  | É mencionada a qual aplicativo pertence o termo de uso? |
+| 9  | Os termos de uso permitem avaliar o aplicativo? |
+| 10 | O artefato deixa claro se houve alguma limitação ou ressalva quanto ao uso do aplicativo para fins de estudo? |
+
+<center>
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
+
+<br>
+
+<center>Tabela 02: Verificação do Termo de Uso</center>
+
+| **ID** | **Descrição**                                                                                                     | **Avaliação** | **Observações** |
 | :----: | :------------------------------------------------------------------------------------------------------------ | :-------: | :---------: |
 |   1    | O artefato possui introdução?                                                                                 |     Sim      |  versão 1.0 02/11           |
 |   2    | O artefato define a metodologia que será utilizada?                                                           |           |   Não se aplica. versão 1.0 02/11          |
@@ -34,24 +57,22 @@
 |   9    | Os termos de uso permitem avaliar o aplicativo?                                                               |     Sim       |  versão 1.0 02/11           |
 |   10   |O artefato deixa claro se houve alguma limitação ou ressalva quanto ao uso do aplicativo para fins de estudo?|   Não       |   versão 1.0 02/11          |
 
+<center>
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
+</center>
 
-<p align="justify">
-<h6 align = "center"> Tabela 01: Lista de Verificação dos Termos de Uso
-<br> Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro Almeida</a></h6>
-</p>
+<br>
 
 ## Link da gravação - Verificação dos Termos de Uso
 Pode ser vista no <a href="https://www.youtube.com/watch?v=Th56W9k-VXw" target="_blank">YouTube</a>.
 
 <center>
+ <p>Vídeo 01: Verificação dos Itens de desenvolvimento do projeto</p>
 <iframe width="760" height="515" src="https://www.youtube.com/embed/Th56W9k-VXw?si=39vf7-L_iLzc-Rhx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<p align="justify">
-<h6 align = "center"> Vídeo 01: Lista de Verificação dos Termos de Uso
-<br> Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro Almeida</a></h6>
-</p>
-
+Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
+
+<br>
 
 ## Problemas encontrados
 <p align="justify">10. O artefato não deixa claro se houve alguma limitação ou ressalva quanto ao uso do aplicativo para fins de estudo. </p>

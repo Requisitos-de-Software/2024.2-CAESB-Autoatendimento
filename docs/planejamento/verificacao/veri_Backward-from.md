@@ -29,13 +29,13 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 <center>Tabela 02: Verificação do Backward-from</center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-|   01   | Cada requisito está claramente ligado à sua fonte de origem? |           | Leandro de Almeida |  |  
-|   02   | As fontes dos requisitos estão disponíveis e bem documentadas?|           | Leandro de Almeida | |  
-|   03   | As mudanças nos requisitos são justificadas com base em suas fontes?|           | Leandro de Almeida | |  
-|   04   | Há uma justificativa clara para incluir cada requisito no projeto? |           | Leandro de Almeida | |  
-|   05   | Os elos de rastreabilidade backward-from incluem as dependências entre os requisitos e suas fontes? |           | Leandro de Almeida |  |  
+| **ID** | **Descrição**                                              | 
+| ------ | ---------------------------------------------------------- | 
+|   01   | Cada requisito está claramente ligado à sua fonte de origem? |          
+|   02   | As fontes dos requisitos estão disponíveis e bem documentadas?|           
+|   03   | As mudanças nos requisitos são justificadas com base em suas fontes?|          
+|   04   | Há uma justificativa clara para incluir cada requisito no projeto? |          
+|   05   | Os elos de rastreabilidade backward-from incluem as dependências entre os requisitos e suas fontes? |  
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -45,13 +45,13 @@ Neste documento, realizou-se a avaliação do artefato do <a href="https://requi
 
 <center>Tabela 02: Verificação do Backward-from</center>
 
-| **ID** | **Descrição**                                              | **Avaliação** | **Autor**    | **Observações**   |
-| ------ | ---------------------------------------------------------- | ------------- | ------------ | ----------------- |
-|   01   | Cada requisito está claramente ligado à sua fonte de origem? |   Sim  | Leandro de Almeida | versão 1.4 17/01 |  
-|   02   | As fontes dos requisitos estão disponíveis e bem documentadas?|   Sim  | Leandro de Almeida | versão 1.4 17/01 |  
-|   03   | As mudanças nos requisitos são justificadas com base em suas fontes?|  Não  | Leandro de Almeida | versão 1.4 17/01 |  
-|   04   | Há uma justificativa clara para incluir cada requisito no projeto? | Sim | Leandro de Almeida | versão 1.4 17/01 |  
-|   05   | Os elos de rastreabilidade backward-from incluem as dependências entre os requisitos e suas fontes? | Não | Leandro de Almeida | versão 1.4 17/01  |  
+| **ID** | **Descrição**                                              | **Avaliação** | **Observações**   |
+| ------ | ---------------------------------------------------------- | ------------- | ----------------- |
+|   01   | Cada requisito está claramente ligado à sua fonte de origem? |   Sim  | versão 1.4 17/01 |  
+|   02   | As fontes dos requisitos estão disponíveis e bem documentadas? |   Sim  | versão 1.4 17/01 |  
+|   03   | As mudanças nos requisitos são justificadas com base em suas fontes? |  Não  | versão 1.4 17/01 |  
+|   04   | Há uma justificativa clara para incluir cada requisito no projeto? | Sim | versão 1.4 17/01 |  
+|   05   | Os elos de rastreabilidade backward-from incluem as dependências entre os requisitos e suas fontes? | Não | versão 1.4 17/01  |  
 
 <center>
 </p>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
@@ -94,9 +94,6 @@ Pode ser vista no [YouTube]().</p>
 
 <br>
  
-
-
-
 ## Histórico de Versão
 
 | Versão |    Data    |                  Descrição                  |                       Autor                        |                        Revisor                         |

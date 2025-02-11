@@ -21,9 +21,33 @@
 
 ## Verificação de Aplicativos Avaliados
 
-<center>Tabela 01: Verificação Aplicativos Avaliados</center>
+<center>Tabela 01: Lista de verificação Aplicativos Avaliados
 
-| Número | Descrição                                                                                                                           | Avaliação | Observações |
+| **ID** | **Descrição** |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | O artefato possui introdução? |
+| 2  | O artefato define a metodologia que será utilizada? |
+| 3  | O artefato possui bibliografia ou referência bibliográfica (citando no texto as referências utilizadas)? |
+| 4  | O artefato possui histórico de versões, apresentando a versão, a data e os responsáveis? |
+| 5  | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação? |
+| 6  | Todas as tabelas e imagens são mencionadas no texto, possuem legendas e fontes? |
+| 7  | Cada um dos integrantes avaliou um aplicativo? |
+| 8  | Cada aplicativo possui uma descrição? |
+| 9  | Os problemas encontrados a partir da avaliação dos aplicativos foram apresentados? |
+| 10 | É mencionada a complexidade de cada aplicativo? |
+| 11 | Os aplicativos nunca foram trabalhados anteriormente na disciplina? |
+| 12 | Os aplicativos escolhidos são gratuitos? |
+| 13 | Há indicação de quem avaliou cada aplicativo? |
+
+
+ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
+</center>
+
+<br>
+
+<center>Tabela 02: Verificação Aplicativos Avaliados
+
+| **ID** | **Descrição**                                                                                                                           | **Avaliação** | **Observações** |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------|
 |   1    | O artefato possui introdução?                                                                                                       |    sim       |    versão 1.3 05/11          |
 |   2    | O artefato define a metodologia que será utilizada?                                                                                 |    não       |       versão 1.3 05/11      |
@@ -38,9 +62,12 @@
 |  11    | Os aplicativos nunca foram trabalhados anteriormente na disciplina?                                                                 |    sim       |   versão 1.3 05/11          |
 |  12    | Os aplicativos escolhidos são gratuitos?                                                                                            |    sim       |    versão 1.3 05/11         |
 |  13    | Há indicação de quem avaliou cada aplicativo?                                                                                       |    sim       |   versão 1.3 05/11         |
-<center>
+
+
  Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></h6>
 </center>
+
+<br>
 
 ## Link da gravação - Verificação dos Aplicativos Avaliados 
 Pode ser vista no <a href="https://www.youtube.com/watch?v=lQjq0o2LYCE" target="_blank">YouTube</a>.
@@ -53,6 +80,8 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 
 </center>
 
+<br>
+
 ## Problemas encontrados
 <p align="justify">2. O artefato não possui a metodologia utilizada. </p>
 <p align="justify">9. Não foram descritos os problemas encontrados a partir da avaliação dos aplicativos.</p>
@@ -60,6 +89,8 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 ## Sugestões
 <p align="justify">2. Acrescentar um paragráfo explicando a metodologia utilizada nas avaliações. </p>
 <p align="justify">9. Escrever em cada avaliação os problemas encontrados durante a avaliação dos aplicativos.</p>
+
+<br>
 
 ## Referências
 
