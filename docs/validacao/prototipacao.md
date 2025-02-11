@@ -244,6 +244,7 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 
 <center>Autor(a): <a href="https://github.com/natanalmeida03" target = "_blank">Natan Almeida</a></h6>
 </center>
+
 <br>
 
 ### Validação 4
@@ -269,6 +270,34 @@ Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Al
 </center>
 
 <center>Autor(a): <a href="https://github.com/jmarquees" target = "_blank">Joao Victor Marques</a></h6>
+</center>
+<br>
+
+<br>
+
+### Validação 5
+
+
+<center>
+
+<p>Tabela 05: Cronograma da validação 5</p>
+
+| **Entrevistador** | **Entrevistado** | **Duração** | **Local**                   |**Horário**| **Data** |
+|-------------------|------------------|-------------|-----------------------------|---|-----------|
+| Leandro de Almeida | Gabriel Félix  |   2 min     |    Luziânia - GO     | 20:30 | 09/02/2025|
+
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>
+
+</center>
+
+<br>
+
+<center>
+    <p>Vídeo 05: Validação protótipo 3 </p>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/0-dBZqKYsKU?si=xUA-eXr9yAw1sA_f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a>
 </center>
 <br>
 

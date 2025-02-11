@@ -29,16 +29,26 @@
 ### Joao Victor Marques
 
 <p align="justify">
-&emsp;&emsp; A maior dificuldade que tive foram com os prazos e a quantidade de detalhes que temos que nos atentar no projeto, isso alinhado com trabalho e outras matérias dificultaram bastante o meu desempenho, fazendo com que eu me ausentasse em reuniões do grupo e até apresentação em sala, tive alguns atritos com alguns colegas com relação à isso, deixei a desejar em alguns momentos, porém eu dei o meu máximo nas condições que eu tive. No mais, tive muita facilidade para aprender a matéria em si, tanto o conteúdo, quanto habilidades de documentação, tenho certeza que essa matéria vai agregar muito na minha formação como profissional.
+&emsp;&emsp; A maior dificuldade que tive foram com os prazos e a quantidade de detalhes que temos que nos atentar no projeto, isso alinhado com trabalho e outras matérias dificultaram bastante o meu desempenho, fazendo com que eu me ausentasse em reuniões do grupo e até apresentação em sala, tive alguns atritos com alguns colegas com relação à isso, deixei a desejar em alguns momentos, porém eu dei o meu máximo nas condições que eu tive. No mais, tive muita facilidade para aprender a matéria em si, tanto o conteúdo, quanto habilidades de documentação, tenho certeza que essa matéria vai agregar muito na minha formação como profissional.</p>
 
+### Leandro de Almeida Oliveira
+
+<p align="justify">
+&emsp;&emsp; Minha maior dificuldade no desenvolvimento do projeto foi a quantidade de listas de exercícios e os prazos de entrega, que, ao final, pareceram curtos. Acredito que as entregas exigiam muito, o que acabou me atrapalhando em algumas delas. Além disso, tive bastante dificuldade em realizar validações presenciais devido à falta de tempo e de um local adequado para gravação. No entanto, ao final do projeto, consegui me acostumar e me adaptar à disciplina.
 </p>
 
 <br>
 
 ## Histórico de versão
 
-| Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
-| :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 09/02/2025 | Criação do documento | [Matheus Barros](https://github.com/Ninja-Haiyai)| [Leandro de Almeida](https://github.com/leomitx10)  |
-|  1.1   | 09/02/2025 | Adicionando considerações individual | [Letícia Resende](https://github.com/LeticiaResende23) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
-|  1.2   | 10/02/2025 | Adicionando considerações individual | [Joao Victor Marques](https://github.com/jmarquees) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
+<center>
+
+| Versão |    Data    |            Descrição             |                     Autor(es)                     |          Revisor(es)          |
+|:------:|:---------:|:--------------------------------:|:-----------------------------------------------:|:-----------------------------:|
+|  1.0   | 09/02/2025 |      Criação do documento       | [Matheus Barros](https://github.com/Ninja-Haiyai) | [Leandro de Almeida](https://github.com/leomitx10) |
+|  1.1   | 09/02/2025 | Adicionando considerações individuais | [Letícia Resende](https://github.com/LeticiaResende23) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.2   | 10/02/2025 | Adicionando considerações individuais | [João Victor Marques](https://github.com/jmarquees) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
+|  1.3   | 10/02/2025 | Adicionando considerações individuais | [Leandro de Almeida](https://github.com/leomitx10) | [Matheus Barros](https://github.com/Ninja-Haiyai) |
+
+
+</center>
