@@ -39,6 +39,14 @@
 
 <br>
 
+### Natan Almeida
+
+<p align="justify">
+&emsp;&emsp; Em relação a dificuldades, acho que posso colocar as reuniões como a principal dificuldade. Já em relação a disciplina, minhas considerações finais são que, embora não acho que tenha sido um tempo perdido, acredito que comparando com outros professores, que se baseiam em ensinar a disciplina na prática, com um projeto de software real, esse modelo me deixou entediado e desmotivado. Além disso, não gostei de reuniões em grupo com tanta frequência, com um grupo com 5 pessoas, alguns que trabalham, muitos horários diferentes, ocasionaram reuniões em dias e horários ruins. E mais, a cada nova semana era cheia de novas listas de exercícios com muitas questões, isso somado ao trabalho consumia muito tempo, quando chegava as semanas que tinha prova, essa quantidade de listas atrapalhavam muito. No mais, essas são minha considerações finais em relação a disciplina.
+</p>
+
+<br>
+
 ## Histórico de versão
 
 <center>
